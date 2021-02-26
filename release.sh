@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.1
+# Current Version: 1.0.2
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && bash ./AdFilter/release.sh
@@ -10,6 +10,8 @@
 function GetData() {
     dead_domain=(
         "https://raw.githubusercontent.com/hezhijie0327/DHDb/main/dhdb_dead.txt"
+        "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/domains.dead.txt"
+        "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt"
     )
     filter_adblock=(
         "https://easylist-downloads.adblockplus.org/easylist.txt"
