@@ -1,11 +1,11 @@
-# Checksum: MTYxNDU1OTgwMQo=
+# Checksum: MTYxNDY0NTU3NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210301-0
-# TimeUpdated: 2021-03-01T00:50:01+00:00
+# Version: -20210302-0
+# TimeUpdated: 2021-03-02T00:39:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 19378
+# Total: 19325
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -530,8 +530,6 @@ ff02::3 ip6-allhosts
 :: 801.tianya.cn
 0.0.0.0 801.tianyaui.com
 :: 801.tianyaui.com
-0.0.0.0 8020home.com.cn
-:: 8020home.com.cn
 0.0.0.0 803.tianya.cn
 :: 803.tianya.cn
 0.0.0.0 806.tianya.cn
@@ -594,8 +592,6 @@ ff02::3 ip6-allhosts
 :: 95520saturday.hqnpwzu.cn
 0.0.0.0 9990.spqsd.com
 :: 9990.spqsd.com
-0.0.0.0 99tuan.com.cn
-:: 99tuan.com.cn
 0.0.0.0 9lks.piratebayproxies.cc
 :: 9lks.piratebayproxies.cc
 0.0.0.0 9uh94c.cn0.r.msn.com
@@ -786,8 +782,6 @@ ff02::3 ip6-allhosts
 :: a.livesportmedia.eu
 0.0.0.0 a.lz13.cn
 :: a.lz13.cn
-0.0.0.0 a.m.gxwztv.com
-:: a.m.gxwztv.com
 0.0.0.0 a.mayakinfo.ru
 :: a.mayakinfo.ru
 0.0.0.0 a.mct01.com
@@ -948,24 +942,16 @@ ff02::3 ip6-allhosts
 :: a01.uadexchange.com
 0.0.0.0 a02.uadexchange.com
 :: a02.uadexchange.com
-0.0.0.0 a02342.andoveradvertiser.co.uk
-:: a02342.andoveradvertiser.co.uk
 0.0.0.0 a02342.asianimage.co.uk
 :: a02342.asianimage.co.uk
 0.0.0.0 a02342.banburycake.co.uk
 :: a02342.banburycake.co.uk
-0.0.0.0 a02342.barryanddistrictnews.co.uk
-:: a02342.barryanddistrictnews.co.uk
 0.0.0.0 a02342.basildonstandard.co.uk
 :: a02342.basildonstandard.co.uk
 0.0.0.0 a02342.bicesteradvertiser.net
 :: a02342.bicesteradvertiser.net
-0.0.0.0 a02342.borehamwoodtimes.co.uk
-:: a02342.borehamwoodtimes.co.uk
 0.0.0.0 a02342.bournemouthecho.co.uk
 :: a02342.bournemouthecho.co.uk
-0.0.0.0 a02342.braintreeandwithamtimes.co.uk
-:: a02342.braintreeandwithamtimes.co.uk
 0.0.0.0 a02342.brentwoodlive.co.uk
 :: a02342.brentwoodlive.co.uk
 0.0.0.0 a02342.bridgwatermercury.co.uk
@@ -978,8 +964,6 @@ ff02::3 ip6-allhosts
 :: a02342.bucksfreepress.co.uk
 0.0.0.0 a02342.burnhamandhighbridgeweeklynews.co.uk
 :: a02342.burnhamandhighbridgeweeklynews.co.uk
-0.0.0.0 a02342.burytimes.co.uk
-:: a02342.burytimes.co.uk
 0.0.0.0 a02342.campaignseries.co.uk
 :: a02342.campaignseries.co.uk
 0.0.0.0 a02342.chardandilminsternews.co.uk
@@ -996,8 +980,6 @@ ff02::3 ip6-allhosts
 :: a02342.droitwichadvertiser.co.uk
 0.0.0.0 a02342.dudleynews.co.uk
 :: a02342.dudleynews.co.uk
-0.0.0.0 a02342.ealingtimes.co.uk
-:: a02342.ealingtimes.co.uk
 0.0.0.0 a02342.echo-news.co.uk
 :: a02342.echo-news.co.uk
 0.0.0.0 a02342.enfieldindependent.co.uk
@@ -1020,44 +1002,20 @@ ff02::3 ip6-allhosts
 :: a02342.greenocktelegraph.co.uk
 0.0.0.0 a02342.guardian-series.co.uk
 :: a02342.guardian-series.co.uk
-0.0.0.0 a02342.halesowennews.co.uk
-:: a02342.halesowennews.co.uk
 0.0.0.0 a02342.harwichandmanningtreestandard.co.uk
 :: a02342.harwichandmanningtreestandard.co.uk
 0.0.0.0 a02342.heraldscotland.com
 :: a02342.heraldscotland.com
-0.0.0.0 a02342.heraldseries.co.uk
-:: a02342.heraldseries.co.uk
-0.0.0.0 a02342.herefordtimes.com
-:: a02342.herefordtimes.com
-0.0.0.0 a02342.hillingdontimes.co.uk
-:: a02342.hillingdontimes.co.uk
-0.0.0.0 a02342.ilkleygazette.co.uk
-:: a02342.ilkleygazette.co.uk
-0.0.0.0 a02342.keighleynews.co.uk
-:: a02342.keighleynews.co.uk
-0.0.0.0 a02342.knutsfordguardian.co.uk
-:: a02342.knutsfordguardian.co.uk
-0.0.0.0 a02342.lancashiretelegraph.co.uk
-:: a02342.lancashiretelegraph.co.uk
 0.0.0.0 a02342.ledburyreporter.co.uk
 :: a02342.ledburyreporter.co.uk
 0.0.0.0 a02342.maldonandburnhamstandard.co.uk
 :: a02342.maldonandburnhamstandard.co.uk
-0.0.0.0 a02342.malverngazette.co.uk
-:: a02342.malverngazette.co.uk
-0.0.0.0 a02342.messengernewspapers.co.uk
-:: a02342.messengernewspapers.co.uk
 0.0.0.0 a02342.milfordmercury.co.uk
 :: a02342.milfordmercury.co.uk
 0.0.0.0 a02342.northwichguardian.co.uk
 :: a02342.northwichguardian.co.uk
-0.0.0.0 a02342.oxfordmail.co.uk
-:: a02342.oxfordmail.co.uk
 0.0.0.0 a02342.penarthtimes.co.uk
 :: a02342.penarthtimes.co.uk
-0.0.0.0 a02342.prestwichandwhitefieldguide.co.uk
-:: a02342.prestwichandwhitefieldguide.co.uk
 0.0.0.0 a02342.redditchadvertiser.co.uk
 :: a02342.redditchadvertiser.co.uk
 0.0.0.0 a02342.redhillandreigatelife.co.uk
@@ -1068,22 +1026,14 @@ ff02::3 ip6-allhosts
 :: a02342.romseyadvertiser.co.uk
 0.0.0.0 a02342.salisburyjournal.co.uk
 :: a02342.salisburyjournal.co.uk
-0.0.0.0 a02342.somersetcountygazette.co.uk
-:: a02342.somersetcountygazette.co.uk
 0.0.0.0 a02342.southendstandard.co.uk
 :: a02342.southendstandard.co.uk
 0.0.0.0 a02342.southwalesargus.co.uk
 :: a02342.southwalesargus.co.uk
-0.0.0.0 a02342.southwalesguardian.co.uk
-:: a02342.southwalesguardian.co.uk
 0.0.0.0 a02342.stalbansreview.co.uk
 :: a02342.stalbansreview.co.uk
-0.0.0.0 a02342.sthelensstar.co.uk
-:: a02342.sthelensstar.co.uk
 0.0.0.0 a02342.stourbridgenews.co.uk
 :: a02342.stourbridgenews.co.uk
-0.0.0.0 a02342.surreycomet.co.uk
-:: a02342.surreycomet.co.uk
 0.0.0.0 a02342.theargus.co.uk
 :: a02342.theargus.co.uk
 0.0.0.0 a02342.theboltonnews.co.uk
@@ -1094,12 +1044,8 @@ ff02::3 ip6-allhosts
 :: a02342.thescottishfarmer.co.uk
 0.0.0.0 a02342.thetelegraphandargus.co.uk
 :: a02342.thetelegraphandargus.co.uk
-0.0.0.0 a02342.thetottenhamindependent.co.uk
-:: a02342.thetottenhamindependent.co.uk
 0.0.0.0 a02342.thewestmorlandgazette.co.uk
 :: a02342.thewestmorlandgazette.co.uk
-0.0.0.0 a02342.thisisthewestcountry.co.uk
-:: a02342.thisisthewestcountry.co.uk
 0.0.0.0 a02342.thurrockgazette.co.uk
 :: a02342.thurrockgazette.co.uk
 0.0.0.0 a02342.times-series.co.uk
@@ -1564,8 +1510,6 @@ ff02::3 ip6-allhosts
 :: ad-x.co.uk
 0.0.0.0 ad.100.tbn.ru
 :: ad.100.tbn.ru
-0.0.0.0 ad.1111cpc.com
-:: ad.1111cpc.com
 0.0.0.0 ad.12306.cn
 :: ad.12306.cn
 0.0.0.0 ad.1k3.com
@@ -1934,8 +1878,6 @@ ff02::3 ip6-allhosts
 :: ad.khan.co.kr
 0.0.0.0 ad.kinozal.website
 :: ad.kinozal.website
-0.0.0.0 ad.kissanime.ac
-:: ad.kissanime.ac
 0.0.0.0 ad.kissanime.io
 :: ad.kissanime.io
 0.0.0.0 ad.kisscartoon.ac
@@ -2668,8 +2610,6 @@ ff02::3 ip6-allhosts
 :: adimages.sina.com.hk
 0.0.0.0 adimg.activeadv.net
 :: adimg.activeadv.net
-0.0.0.0 adimg.ce.cn
-:: adimg.ce.cn
 0.0.0.0 adimg.com.com
 :: adimg.com.com
 0.0.0.0 adimg.cqnews.net
@@ -2730,8 +2670,6 @@ ff02::3 ip6-allhosts
 :: adlaunch.qingting.fm
 0.0.0.0 adlink.shopsafe.co.nz
 :: adlink.shopsafe.co.nz
-0.0.0.0 adlog.cbsi.com
-:: adlog.cbsi.com
 0.0.0.0 adlog.com.com
 :: adlog.com.com
 0.0.0.0 adlog.flurry.com
@@ -3488,8 +3426,6 @@ ff02::3 ip6-allhosts
 :: ads.freshmeat.net
 0.0.0.0 ads.friendfinder.com
 :: ads.friendfinder.com
-0.0.0.0 ads.fu8.life
-:: ads.fu8.life
 0.0.0.0 ads.fuckingmachines.com
 :: ads.fuckingmachines.com
 0.0.0.0 ads.game.net
@@ -3746,8 +3682,6 @@ ff02::3 ip6-allhosts
 :: ads.metropolis.co.jp
 0.0.0.0 ads.miarroba.com
 :: ads.miarroba.com
-0.0.0.0 ads.miidi.net
-:: ads.miidi.net
 0.0.0.0 ads.mindsetnetwork.com
 :: ads.mindsetnetwork.com
 0.0.0.0 ads.mmania.com
@@ -5454,8 +5388,6 @@ ff02::3 ip6-allhosts
 :: aecpm.alicdn.com
 0.0.0.0 aegis.qq.com
 :: aegis.qq.com
-0.0.0.0 aem-collector.daumkakao.io
-:: aem-collector.daumkakao.io
 0.0.0.0 aeon.crypto-webminer.com
 :: aeon.crypto-webminer.com
 0.0.0.0 aeon.hashvault.pro
@@ -5580,8 +5512,6 @@ ff02::3 ip6-allhosts
 :: affiliates.londonmarketing.com
 0.0.0.0 affiliates.lynda.com
 :: affiliates.lynda.com
-0.0.0.0 affiliates.mgmmirage.com
-:: affiliates.mgmmirage.com
 0.0.0.0 affiliates.minglematch.com
 :: affiliates.minglematch.com
 0.0.0.0 affiliates.mozy.com
@@ -5730,8 +5660,6 @@ ff02::3 ip6-allhosts
 :: ait240.analysys.cn
 0.0.0.0 aizhigu.com.cn
 :: aizhigu.com.cn
-0.0.0.0 ajdivotdelbloab24.jio.com
-:: ajdivotdelbloab24.jio.com
 0.0.0.0 ak.5.p2l.info
 :: ak.5.p2l.info
 0.0.0.0 ak.buyservices.com
@@ -5870,8 +5798,6 @@ ff02::3 ip6-allhosts
 :: amdc.alipay.com
 0.0.0.0 amdcopen.m.taobao.com
 :: amdcopen.m.taobao.com
-0.0.0.0 america.monerise.com
-:: america.monerise.com
 0.0.0.0 amfi.gou.sogou.com
 :: amfi.gou.sogou.com
 0.0.0.0 amob.acs86.com
@@ -5910,8 +5836,6 @@ ff02::3 ip6-allhosts
 :: an.motphim.net
 0.0.0.0 an.reflektion.com
 :: an.reflektion.com
-0.0.0.0 an.webvisor.org
-:: an.webvisor.org
 0.0.0.0 an.wikigifth.com
 :: an.wikigifth.com
 0.0.0.0 an.xemvtv.net
@@ -6778,8 +6702,6 @@ ff02::3 ip6-allhosts
 :: api.bd-gl.com
 0.0.0.0 api.bitp.it
 :: api.bitp.it
-0.0.0.0 api.bonusberry.ru
-:: api.bonusberry.ru
 0.0.0.0 api.browsermine.com
 :: api.browsermine.com
 0.0.0.0 api.bs.zui.com
@@ -6906,8 +6828,6 @@ ff02::3 ip6-allhosts
 :: api.mobula.ds.duapps.com
 0.0.0.0 api.mobula.sdk.duapps.com
 :: api.mobula.sdk.duapps.com
-0.0.0.0 api.monerise.com
-:: api.monerise.com
 0.0.0.0 api.moneroocean.stream
 :: api.moneroocean.stream
 0.0.0.0 api.moogos.com
@@ -7050,8 +6970,6 @@ ff02::3 ip6-allhosts
 :: apia.headlines.pw
 0.0.0.0 apiads.gg.pl
 :: apiads.gg.pl
-0.0.0.0 apib.monerise.com
-:: apib.monerise.com
 0.0.0.0 apiconfig.adwo.com
 :: apiconfig.adwo.com
 0.0.0.0 apihk.growingio.com
@@ -7060,8 +6978,6 @@ ff02::3 ip6-allhosts
 :: apilog-web.acfun.cn
 0.0.0.0 apilog.app.acfun.cn
 :: apilog.app.acfun.cn
-0.0.0.0 apin.monerise.com
-:: apin.monerise.com
 0.0.0.0 apinas.nct.vn
 :: apinas.nct.vn
 0.0.0.0 apipub.oumma.com
@@ -7144,8 +7060,6 @@ ff02::3 ip6-allhosts
 :: app.aplus.pptv.com
 0.0.0.0 app.bidhead.net
 :: app.bidhead.net
-0.0.0.0 app.codefund.io
-:: app.codefund.io
 0.0.0.0 app.crossengage.io
 :: app.crossengage.io
 0.0.0.0 app.datafastguru.info
@@ -7454,8 +7368,6 @@ ff02::3 ip6-allhosts
 :: ashow.pcpop.com
 0.0.0.0 asia.marketo.com
 :: asia.marketo.com
-0.0.0.0 asia.monerise.com
-:: asia.monerise.com
 0.0.0.0 asianimage-gb.asianimage.co.uk
 :: asianimage-gb.asianimage.co.uk
 0.0.0.0 asimgs.pplive.cn
@@ -7610,8 +7522,6 @@ ff02::3 ip6-allhosts
 :: author.bloggerads.net
 0.0.0.0 auto.allewagen.de
 :: auto.allewagen.de
-0.0.0.0 auto.monerise.com
-:: auto.monerise.com
 0.0.0.0 autobild.adsame.com
 :: autobild.adsame.com
 0.0.0.0 autoconfig.nimiq.com
@@ -8342,8 +8252,6 @@ ff02::3 ip6-allhosts
 :: bd1.click.com.cn
 0.0.0.0 bd1.dopa.com
 :: bd1.dopa.com
-0.0.0.0 bd1.fengdu100.com
-:: bd1.fengdu100.com
 0.0.0.0 bd1.flfgw.cn
 :: bd1.flfgw.cn
 0.0.0.0 bd1.guancha.cn
@@ -8564,8 +8472,6 @@ ff02::3 ip6-allhosts
 :: beacon.qq.com
 0.0.0.0 beacon.riskified.com
 :: beacon.riskified.com
-0.0.0.0 beacon.rum.dynapis.com
-:: beacon.rum.dynapis.com
 0.0.0.0 beacon.searchspring.io
 :: beacon.searchspring.io
 0.0.0.0 beacon.securestudies.com
@@ -8672,8 +8578,6 @@ ff02::3 ip6-allhosts
 :: beta.down2crazy.com
 0.0.0.0 beta.mediafort.ru
 :: beta.mediafort.ru
-0.0.0.0 beta.monerise.com
-:: beta.monerise.com
 0.0.0.0 beta.tidint.pro
 :: beta.tidint.pro
 0.0.0.0 beta.vpon.com
@@ -9012,8 +8916,6 @@ ff02::3 ip6-allhosts
 :: breeze.olclient.baofeng.com
 0.0.0.0 brentwoodlive-gb.brentwoodlive.co.uk
 :: brentwoodlive-gb.brentwoodlive.co.uk
-0.0.0.0 bridportnews-gb.bridportnews.co.uk
-:: bridportnews-gb.bridportnews.co.uk
 0.0.0.0 bro.flyme.cn
 :: bro.flyme.cn
 0.0.0.0 broadcast.piximedia.fr
@@ -9404,8 +9306,6 @@ ff02::3 ip6-allhosts
 :: c.jinliaoyang.com
 0.0.0.0 c.jjkk.org
 :: c.jjkk.org
-0.0.0.0 c.jntxst.cn
-:: c.jntxst.cn
 0.0.0.0 c.jp.msn.com
 :: c.jp.msn.com
 0.0.0.0 c.jsbgh.cn
@@ -9658,8 +9558,6 @@ ff02::3 ip6-allhosts
 :: c8.top267.com
 0.0.0.0 c8.wangdq.com
 :: c8.wangdq.com
-0.0.0.0 c8b.jcdb88.com
-:: c8b.jcdb88.com
 0.0.0.0 ca.5.p2l.info
 :: ca.5.p2l.info
 0.0.0.0 ca.banmamedia.com
@@ -9736,8 +9634,6 @@ ff02::3 ip6-allhosts
 :: campaign.nmobs.com
 0.0.0.0 campaigns.f2.com.au
 :: campaigns.f2.com.au
-0.0.0.0 campaignseries-gb.campaignseries.co.uk
-:: campaignseries-gb.campaignseries.co.uk
 0.0.0.0 cams.enjoy.be
 :: cams.enjoy.be
 0.0.0.0 cams.spacash.com
@@ -10006,8 +9902,6 @@ ff02::3 ip6-allhosts
 :: cdn.adservingsolutionsinc.com
 0.0.0.0 cdn.adsfactor.net
 :: cdn.adsfactor.net
-0.0.0.0 cdn.adsk2.co
-:: cdn.adsk2.co
 0.0.0.0 cdn.adstract.com
 :: cdn.adstract.com
 0.0.0.0 cdn.advertserve.com
@@ -10656,6 +10550,8 @@ ff02::3 ip6-allhosts
 :: ckg.vipyl.com
 0.0.0.0 ckjyck.qxs.la
 :: ckjyck.qxs.la
+0.0.0.0 ckl.unetall.com
+:: ckl.unetall.com
 0.0.0.0 ckmap.mediav.com
 :: ckmap.mediav.com
 0.0.0.0 cl-ad.x-flow.app
@@ -11250,8 +11146,6 @@ ff02::3 ip6-allhosts
 :: cmstool.youku.com
 0.0.0.0 cmstrendslog.indiatimes.com
 :: cmstrendslog.indiatimes.com
-0.0.0.0 cmstrendslog.timesnow.tv
-:: cmstrendslog.timesnow.tv
 0.0.0.0 cmta.yangkeduo.com
 :: cmta.yangkeduo.com
 0.0.0.0 cmx.autohome.com.cn
@@ -11542,8 +11436,6 @@ ff02::3 ip6-allhosts
 :: commsvc.stern.de
 0.0.0.0 community.cms.gclick.cn
 :: community.cms.gclick.cn
-0.0.0.0 community.monerise.com
-:: community.monerise.com
 0.0.0.0 compass.adop.cc
 :: compass.adop.cc
 0.0.0.0 compasscdn.adop.cc
@@ -11634,8 +11526,6 @@ ff02::3 ip6-allhosts
 :: consent.mz-web.de
 0.0.0.0 consent.prismamedia.com
 :: consent.prismamedia.com
-0.0.0.0 consent.theneweuropean.co.uk
-:: consent.theneweuropean.co.uk
 0.0.0.0 consentmanager.mgr.consensu.org
 :: consentmanager.mgr.consensu.org
 0.0.0.0 contadores.bolsamania.com
@@ -11772,8 +11662,6 @@ ff02::3 ip6-allhosts
 :: corp.youdao.com
 0.0.0.0 cosmeticscentre.uk.com
 :: cosmeticscentre.uk.com
-0.0.0.0 cotswoldjournal-gb.cotswoldjournal.co.uk
-:: cotswoldjournal-gb.cotswoldjournal.co.uk
 0.0.0.0 count.1133.cc
 :: count.1133.cc
 0.0.0.0 count.51yes.com
@@ -12376,8 +12264,6 @@ ff02::3 ip6-allhosts
 :: crashes.mo.wps.cn
 0.0.0.0 crashlytics.163.com
 :: crashlytics.163.com
-0.0.0.0 cravenherald-gb.cravenherald.co.uk
-:: cravenherald-gb.cravenherald.co.uk
 0.0.0.0 crayon.meishichina.com
 :: crayon.meishichina.com
 0.0.0.0 cre-dp.sina.cn
@@ -12386,8 +12272,6 @@ ff02::3 ip6-allhosts
 :: cre.dp.sina.cn
 0.0.0.0 cre.mix.sina.com.cn
 :: cre.mix.sina.com.cn
-0.0.0.0 creative.1111cpc.com
-:: creative.1111cpc.com
 0.0.0.0 creative.jdkic.com
 :: creative.jdkic.com
 0.0.0.0 creative.stripchat.com
@@ -12606,8 +12490,6 @@ ff02::3 ip6-allhosts
 :: d.1391.com
 0.0.0.0 d.13mobi.com
 :: d.13mobi.com
-0.0.0.0 d.2uha.net
-:: d.2uha.net
 0.0.0.0 d.39.net
 :: d.39.net
 0.0.0.0 d.721sjv.xyz
@@ -12854,8 +12736,6 @@ ff02::3 ip6-allhosts
 :: d1byvlfiet2h9q.cloudfront.net
 0.0.0.0 d1cdnlzf6usiff.cloudfront.net
 :: d1cdnlzf6usiff.cloudfront.net
-0.0.0.0 d1cerpgff739r9.cloudfront.net
-:: d1cerpgff739r9.cloudfront.net
 0.0.0.0 d1ckj42q07f9s3.cloudfront.net
 :: d1ckj42q07f9s3.cloudfront.net
 0.0.0.0 d1clfvuu2240eh.cloudfront.net
@@ -12866,8 +12746,6 @@ ff02::3 ip6-allhosts
 :: d1crt12zco2cvf.cloudfront.net
 0.0.0.0 d1czd1q73kbu32.cloudfront.net
 :: d1czd1q73kbu32.cloudfront.net
-0.0.0.0 d1daeonbqcq0oh.cloudfront.net
-:: d1daeonbqcq0oh.cloudfront.net
 0.0.0.0 d1diqetif5itzx.cloudfront.net
 :: d1diqetif5itzx.cloudfront.net
 0.0.0.0 d1dli2tyorled9.cloudfront.net
@@ -13066,8 +12944,6 @@ ff02::3 ip6-allhosts
 :: d20kffh39acpue.cloudfront.net
 0.0.0.0 d21f25e9uvddd7.cloudfront.net
 :: d21f25e9uvddd7.cloudfront.net
-0.0.0.0 d21j20wsoewvjq.cloudfront.net
-:: d21j20wsoewvjq.cloudfront.net
 0.0.0.0 d21o24qxwf7uku.cloudfront.net
 :: d21o24qxwf7uku.cloudfront.net
 0.0.0.0 d21rudljp9n1rr.cloudfront.net
@@ -13480,8 +13356,6 @@ ff02::3 ip6-allhosts
 :: d3elm8wezzwg42.cloudfront.net
 0.0.0.0 d3em0905j9y6sm.cloudfront.net
 :: d3em0905j9y6sm.cloudfront.net
-0.0.0.0 d3eyd961wi10bl.cloudfront.net
-:: d3eyd961wi10bl.cloudfront.net
 0.0.0.0 d3f.houyi.baofeng.net
 :: d3f.houyi.baofeng.net
 0.0.0.0 d3f4u3khr0ycep.cloudfront.net
@@ -13826,8 +13700,6 @@ ff02::3 ip6-allhosts
 :: dasfdasfasdf.no-ip.info
 0.0.0.0 dashboard.adcalls.nl
 :: dashboard.adcalls.nl
-0.0.0.0 dashboard.monerise.com
-:: dashboard.monerise.com
 0.0.0.0 dashboardnew.adcalls.nl
 :: dashboardnew.adcalls.nl
 0.0.0.0 dat.gtags.net
@@ -13878,6 +13750,8 @@ ff02::3 ip6-allhosts
 :: data.gosquared.com
 0.0.0.0 data.haoma.sogou.com
 :: data.haoma.sogou.com
+0.0.0.0 data.hhhhbf.com
+:: data.hhhhbf.com
 0.0.0.0 data.imakenews.com
 :: data.imakenews.com
 0.0.0.0 data.mic.com
@@ -14586,6 +14460,8 @@ ff02::3 ip6-allhosts
 :: dmkdtkad2jyb9.cloudfront.net
 0.0.0.0 dmm.aizhan.com
 :: dmm.aizhan.com
+0.0.0.0 dmmzkfd82wayn.cloudfront.net
+:: dmmzkfd82wayn.cloudfront.net
 0.0.0.0 dmp.kejet.net
 :: dmp.kejet.net
 0.0.0.0 dmp.mall.tv
@@ -15516,6 +15392,8 @@ ff02::3 ip6-allhosts
 :: ecmb.bdimg.com
 0.0.0.0 ecmc.bdimg.com
 :: ecmc.bdimg.com
+0.0.0.0 eco.4hs345.xyz
+:: eco.4hs345.xyz
 0.0.0.0 eco.taobao.com
 :: eco.taobao.com
 0.0.0.0 ecomgxh.kuwo.cn
@@ -15770,6 +15648,8 @@ ff02::3 ip6-allhosts
 :: entry.baidu.com
 0.0.0.0 entryhit.wp.pl
 :: entryhit.wp.pl
+0.0.0.0 enw.nwpuis.top
+:: enw.nwpuis.top
 0.0.0.0 eo.aaaw.xyz
 :: eo.aaaw.xyz
 0.0.0.0 eo.apmnqut.cn
@@ -16154,6 +16034,8 @@ ff02::3 ip6-allhosts
 :: exd4.destinia.com.au
 0.0.0.0 execution-ci360.rai.it
 :: execution-ci360.rai.it
+0.0.0.0 exh.xuhuihui.top
+:: exh.xuhuihui.top
 0.0.0.0 exit.macandbumble.com
 :: exit.macandbumble.com
 0.0.0.0 exo.kiev.ua
@@ -17528,6 +17410,8 @@ ff02::3 ip6-allhosts
 :: gmota.g188.net
 0.0.0.0 gmtdmp.mookie1.com
 :: gmtdmp.mookie1.com
+0.0.0.0 gn-flagpoles.api.bbci.co.uk
+:: gn-flagpoles.api.bbci.co.uk
 0.0.0.0 gn.lalaqky.cn
 :: gn.lalaqky.cn
 0.0.0.0 go.10086.cn
@@ -19452,6 +19336,8 @@ ff02::3 ip6-allhosts
 :: intimznaki.tomsk.ru
 0.0.0.0 intucoin.crypto-webminer.com
 :: intucoin.crypto-webminer.com
+0.0.0.0 intuitvisitorid.api.intuit.com
+:: intuitvisitorid.api.intuit.com
 0.0.0.0 inuxu.co.in
 :: inuxu.co.in
 0.0.0.0 invite.baomoi.com
@@ -23924,8 +23810,6 @@ ff02::3 ip6-allhosts
 :: ms.computerbild.de
 0.0.0.0 ms.continuedsys.cn
 :: ms.continuedsys.cn
-0.0.0.0 ms.ienkdaccessory.cn
-:: ms.ienkdaccessory.cn
 0.0.0.0 ms.vipstatic.com
 :: ms.vipstatic.com
 0.0.0.0 msclick2.kuwo.cn
@@ -25862,6 +25746,8 @@ ff02::3 ip6-allhosts
 :: pets.finaltips.com
 0.0.0.0 pf-2.pchome.net
 :: pf-2.pchome.net
+0.0.0.0 pf.intuit.com
+:: pf.intuit.com
 0.0.0.0 pf.newegg.com
 :: pf.newegg.com
 0.0.0.0 pf.pchome.net
@@ -29170,6 +29056,8 @@ ff02::3 ip6-allhosts
 :: schumacher.adtech.fr
 0.0.0.0 schumacher.adtech.us
 :: schumacher.adtech.us
+0.0.0.0 sci.intuit.com
+:: sci.intuit.com
 0.0.0.0 scimg.27admin.com
 :: scimg.27admin.com
 0.0.0.0 scis.tbs.co.jp
@@ -33676,6 +33564,8 @@ ff02::3 ip6-allhosts
 :: tongji.xinmin.cn
 0.0.0.0 tongji.yicha.cn
 :: tongji.yicha.cn
+0.0.0.0 tontent.povwideo.me
+:: tontent.povwideo.me
 0.0.0.0 tontent.powv1deo.cc
 :: tontent.powv1deo.cc
 0.0.0.0 tontent.powvideo.net
@@ -33984,6 +33874,8 @@ ff02::3 ip6-allhosts
 :: track.cinestar.de
 0.0.0.0 track.clearsender.com
 :: track.clearsender.com
+0.0.0.0 track.clkfly.com
+:: track.clkfly.com
 0.0.0.0 track.contently.com
 :: track.contently.com
 0.0.0.0 track.cordial.io
@@ -38314,6 +38206,8 @@ ff02::3 ip6-allhosts
 :: yaolu.mh.163.com
 0.0.0.0 yaolu.yuedu.163.com
 :: yaolu.yuedu.163.com
+0.0.0.0 yar7faf2a8cadf.zjlanbikm.xinray.net
+:: yar7faf2a8cadf.zjlanbikm.xinray.net
 0.0.0.0 yasmin.1.p2l.info
 :: yasmin.1.p2l.info
 0.0.0.0 yasmin.3.p2l.info
