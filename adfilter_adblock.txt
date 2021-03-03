@@ -1,11 +1,11 @@
-! Checksum: MTYxNDY0NTU3NQo=
+! Checksum: MTYxNDczMjQ1OAo=
 ! Title: Zhijie's Ad Filter for Adblock (WEB-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: -20210302-0
-! TimeUpdated: 2021-03-02T00:39:35+00:00
+! Version: -20210303-0
+! TimeUpdated: 2021-03-03T00:47:38+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 19325
+! Total: 19290
 ||0.r.msn.com^
 ||0.up.qingdaonews.com^
 ||000.0x1f4b0.com^
@@ -906,7 +906,6 @@
 ||ad.hutor.ru^
 ||ad.hyena.cz^
 ||ad.hzyoka.com^
-||ad.ibookstar.com^
 ||ad.icheck.com.vn^
 ||ad.iinfo.cz^
 ||ad.ikonke.com^
@@ -2831,6 +2830,7 @@
 ||ak.5.p2l.info^
 ||ak.buyservices.com^
 ||ak.imgaft.com^
+||ak.impact-ad.jp^
 ||ak.sascdn.com^
 ||ak1.imgaft.com^
 ||ak47.cooguo.com^
@@ -6239,6 +6239,7 @@
 ||czf.cchfjz.com^
 ||czk.gemeiyun.com^
 ||d-cache.microad-cn.com^
+||d-collector.jennifersoft.com^
 ||d-test.39.net^
 ||d-track.send.microad-cn.com^
 ||d.1391.com^
@@ -7019,7 +7020,6 @@
 ||demr.mspaceads.com^
 ||derangedadage91wis.files.wordpress.com^
 ||dero.crypto-webminer.com^
-||dero.monerise.com^
 ||desa.fkapi.net^
 ||desb.fkapi.net^
 ||desb.mspaceads.com^
@@ -7105,7 +7105,6 @@
 ||dildo.tnaflix.com^
 ||dinastycoin.crypto-webminer.com^
 ||ding.cxzudwk.com^
-||dinuojixie.com.cn^
 ||dip.zgydjr.com^
 ||diqdel92t4na6.cloudfront.net^
 ||dir.minigame.qq.com^
@@ -7280,7 +7279,6 @@
 ||domob.com.cn^
 ||donate.crypto-webminer.com^
 ||doo6pwib3qngu.cloudfront.net^
-||doors.co.kr^
 ||dopa.com.cn^
 ||doppler.logger.baofeng.com^
 ||dorangesource.alicdn.com^
@@ -7358,9 +7356,9 @@
 ||dr8pk6ovub897.cloudfront.net^
 ||drd.hauchi.com.tw^
 ||drda5yf9kgz5p.cloudfront.net^
-||drdj.m.gxwztv.com^
 ||dressimage.img-cn-beijing.aliyuncs.com^
 ||drf8e429z5jzt.cloudfront.net^
+||drlimmode9ddd.cloudfront.net^
 ||drm.cmgame.com^
 ||drrcckbju3nd0.cloudfront.net^
 ||drug-testing.shengen.ru^
@@ -7532,21 +7530,18 @@
 ||e.domob.com.cn^
 ||e.dsjre.com^
 ||e.dukangjiu.net.cn^
-||e.dxmci.com^
 ||e.e7001.com^
 ||e.e70123.com^
 ||e.e708.net^
 ||e.ediun.com^
 ||e.ejiakm.net^
 ||e.enjuk.com^
-||e.epanr.com^
 ||e.focuscat.com^
 ||e.funnymel.com^
 ||e.future888.net^
 ||e.g71i1.cn^
 ||e.gcaog.com^
 ||e.gomev.cn^
-||e.goodgz.cn^
 ||e.gsycdb.com^
 ||e.gxjfh.com^
 ||e.gxkyl.com^
@@ -7559,8 +7554,6 @@
 ||e.ihais.com^
 ||e.iruad.com^
 ||e.j9wd6.cn^
-||e.jlkja.com^
-||e.jvvyc.cn^
 ||e.k2wx5.cn^
 ||e.k9wz7.cn^
 ||e.kde.cz^
@@ -7583,12 +7576,10 @@
 ||e.poonscn.com^
 ||e.puooi.com^
 ||e.q671e.cn^
-||e.qdiut.com^
 ||e.qiaoyuwang.com^
 ||e.qj10b.cn^
 ||e.qq.com^
 ||e.qxfly.com^
-||e.rcaiu.com^
 ||e.ricpt.com^
 ||e.s7ww2.cn^
 ||e.s9wp1.cn^
@@ -7658,13 +7649,10 @@
 ||eacash.streamplay.to^
 ||eaes.2track.info^
 ||eagleasp.adsame.com^
-||ealingtimes-gb.ealingtimes.co.uk^
 ||eap.big5.enorth.com.cn^
 ||eap.enorth.com.cn^
-||eas.almamedia.fi^
 ||eastday.acs86.com^
 ||eastmoney.allyes.com^
-||easy.au.ru^
 ||easynews.adsame.com^
 ||eatp.evztib.xyz^
 ||eaus2watcab01.blob.core.windows.net^
@@ -7694,7 +7682,6 @@
 ||ecma.bdimg.com^
 ||ecmb.bdimg.com^
 ||ecmc.bdimg.com^
-||eco.4hs345.xyz^
 ||eco.taobao.com^
 ||ecomgxh.kuwo.cn^
 ||ecommstats.s3.amazonaws.com^
@@ -7753,13 +7740,11 @@
 ||eiv.baidu.com^
 ||ejzr.golden1.sogou.com^
 ||ek8.voyage-prive.com^
-||ekfe.tmmjgcp.cn^
 ||ekmpinpoint.co.uk^
 ||eladies.zhmyq.cn^
 ||eland.doublemax.net^
 ||electroneum.crypto-webminer.com^
 ||electroneum.hashvault.pro^
-||electroneum.monerise.com^
 ||elephant.fotostrana.ru^
 ||elle.alljournal.ru^
 ||elogs.vnexpress.net^
@@ -7839,7 +7824,6 @@
 ||epowernetworktrackerimages.s3.amazonaws.com^
 ||epp.2polj.top^
 ||epp.bih.net.ba^
-||eppingforestguardian-gb.eppingforestguardian.co.uk^
 ||epro.sogou.com^
 ||eproof.drudgereport.com^
 ||epu.1024txt.xyz^
@@ -7888,7 +7872,6 @@
 ||eu-gmtdmp.gd1.mookie1.com^
 ||eu.groupondata.com^
 ||eu.market-place.su^
-||eu.monerise.com^
 ||eu.nimpool.io^
 ||eu.sushipool.com^
 ||eu.track.digitaladsystems.com^
@@ -7898,7 +7881,6 @@
 ||eu1l.speedrun.com^
 ||eu1l.trackdota.com^
 ||eu1l.valorbuff.com^
-||eu2.monerise.com^
 ||euadsapi.manhuaren.com^
 ||eue.d-teknoloji.com.tr^
 ||eule1.pmu.fr^
@@ -7912,7 +7894,6 @@
 ||eulerian.splendia.com^
 ||eultech.fnac.com^
 ||eurogamer-uk.eurogamer.net^
-||europe.monerise.com^
 ||eus.rubiconproject.com^
 ||euwidget.imshopping.com^
 ||ev.kck.st^
@@ -7937,6 +7918,7 @@
 ||event.syndigo.cloud^
 ||event.webcollage.net^
 ||event.zhihu.com^
+||eventapi.afreecatv.com^
 ||eventapi.libring.com^
 ||eventlog.beacon.qq.com^
 ||eventlog.hd.baofeng.com^
@@ -8030,7 +8012,6 @@
 ||ext.week.news^
 ||exter.weilanshan.com^
 ||external-promo-metrics.yandex.net^
-||external.monerise.com^
 ||extlog.snssdk.com^
 ||extralog.olclient.baofeng.com^
 ||eye.swfchan.com^
@@ -8119,7 +8100,6 @@
 ||fcstats.altervista.org^
 ||fd.anzhi.com^
 ||fd.qchannel03.cn^
-||fd2.m.630book.la^
 ||fdc.my0511.com^
 ||fdimages.fairfax.com.au^
 ||fds.api.moji.com^
@@ -8155,7 +8135,6 @@
 ||ff.yiqima.xyz^
 ||ff123.hao0202.com^
 ||ffb.feihuo.com^
-||ffg34fg.877zw.com^
 ||ffre.ffrepair.com^
 ||ffxcam.fairfax.com.au^
 ||fg.softguy.com^
@@ -8260,7 +8239,6 @@
 ||fptest.fraudmetrix.cn^
 ||fr-go.kelkoogroup.net^
 ||fr.cookiescript.info^
-||fr1.monerise.com^
 ||fra-gra-c1-s1.inf.nimiq.network^
 ||fra-gra-c1-s2.inf.nimiq.network^
 ||frame.enet.com.cn^
@@ -8457,7 +8435,6 @@
 ||gateway.ttpsdk.info^
 ||gateways.s3.amazonaws.com^
 ||gatorleads.co.uk^
-||gazette-news-gb.gazette-news.co.uk^
 ||gazetteherald-gb.gazetteherald.co.uk^
 ||gb.corp.163.com^
 ||gbr-eri-c1-s1.inf.nimiq.network^
@@ -8530,7 +8507,6 @@
 ||gecko-hl.snssdk.com^
 ||gecko-lq.snssdk.com^
 ||geek-nerd-server.firebaseapp.com^
-||gekko.coinnebula.com^
 ||gemini.yahoo.com^
 ||gemius.mgr.consensu.org^
 ||gen.alicdn.com^
@@ -8672,7 +8648,6 @@
 ||ggx.cmvideo.cn^
 ||ghavcb.520jr.com^
 ||gho.ysbjgjwh.com^
-||giantsavings-a.akamaihd.net^
 ||gif.lu.sogoucdn.com^
 ||gift.douyucdn.cn^
 ||giftcardsurveys.us.com^
@@ -8727,7 +8702,6 @@
 ||go.mobtrks.com^
 ||go.mudoudou.net^
 ||go.onclasrv.com^
-||go.optifuze.com^
 ||go.padsdel.com^
 ||go.padstm.com^
 ||go.pardot.com^
@@ -8797,9 +8771,7 @@
 ||gstat.bitauto.com^
 ||gstat.myzaker.com^
 ||gt.duowan.com^
-||gt.lazyengines.com^
 ||gt.yy.com^
-||gtg02.bestsecurepractice.com^
 ||gtlp.net.cn^
 ||gtrk.s3.amazonaws.com^
 ||gts-ads.twistbox.com^
@@ -8828,7 +8800,6 @@
 ||gxe.husky.sogou.com^
 ||gxfc.bfacai.top^
 ||gyca9f.dahuangcheng.cn^
-||gz.hxdaka.com^
 ||gzm.xzbu.com^
 ||gzs20.cnzz.com^
 ||h-adashx.ut.taobao.com^
@@ -8838,7 +8809,6 @@
 ||h.cliphunter.com^
 ||h.holder.com.ua^
 ||h.imedia.cz^
-||h.laojiayoufang.com^
 ||h.msn.com^
 ||h.pcd.autohome.com.cn^
 ||h.seznam.cz^
@@ -8866,7 +8836,6 @@
 ||h5.mse.360.cn^
 ||h5.pk1179.com^
 ||h5.showapp.xunlei.com^
-||h5.super-dreamers.com^
 ||h5.taihao.cc^
 ||h5.wannaplay.cn^
 ||h7fy4ur0in94g016.in.net^
@@ -8918,13 +8887,11 @@
 ||hd1280.lvkuaizi.com^
 ||hd2.3g.qq.com^
 ||hda.maxli.cn^
-||hdapp1003-a.akamaihd.net^
 ||hdapp1008-a.akamaihd.net^
 ||hdb.maxli.cn^
 ||hdggcdn.bayimob.com^
 ||hdj.baidu.com^
 ||hdjhsudhe.kuaizhan.com^
-||hdsrc-a.akamaihd.net^
 ||headlines.sharethrough.com^
 ||heals.msgfocus.com^
 ||health1.12584.cn^
@@ -9175,7 +9142,6 @@
 ||i.ipinyou.com^
 ||i.j2j.ru^
 ||i.jiathis.com^
-||i.l.cnn.net^
 ||i.l.inmobicdn.net^
 ||i.liadm.com^
 ||i.libertystmedia.com^
@@ -9223,8 +9189,6 @@
 ||iad.g.163.com^
 ||iad0ssl.pcauto.com.cn^
 ||iad0ssl.pconline.com.cn^
-||iadc.qwapi.com^
-||iadctest.qwapi.com^
 ||iadmat.nosdn.127.net^
 ||iadmatvideo.nosdn.127.net^
 ||iadmusicmat.music.126.net^
@@ -9266,7 +9230,6 @@
 ||idm.bce.baidu.com^
 ||ids1.deliver.ifeng.com^
 ||idx.m.hub.sandai.net^
-||ie.5500w.com^
 ||iedc.fitbit.com^
 ||ieonlinews.microsoft.com^
 ||ieonlinews.trafficmanager.net^
@@ -9286,7 +9249,6 @@
 ||iflyad.bj.openstorage.cn^
 ||iflyad.bjb.openstorage.cn^
 ||iframe.adultfriendfinder.com^
-||iframe.lachainemeteo.com^
 ||iframe.mediaplazza.com^
 ||iframes.awempire.com^
 ||iframes.hustler.com^
@@ -10679,6 +10641,7 @@
 ||logger.tv.telstra.com.au^
 ||logger.uol.com.br^
 ||logger.virgul.com^
+||logger.vsmarty.vn^
 ||logging.api.intuit.com^
 ||logging.carambo.la^
 ||logging.galaxypub.vn^
@@ -11723,6 +11686,7 @@
 ||mlib.browsermine.com^
 ||mlog.hiido.com^
 ||mlog.m1905.cn^
+||mlre.com.cn^
 ||mlweb.dmlab.hu^
 ||mm.365dmp.com^
 ||mm.analytics.blue^
@@ -13881,7 +13845,6 @@
 ||rdi.criteo.com^
 ||rdr.wargaming.net^
 ||rdstat.tanx.com^
-||rdstation.com.br^
 ||rdtdlv.laredoute.fr^
 ||rdx.autohome.com.cn^
 ||re.m.taobao.com^
@@ -13974,7 +13937,6 @@
 ||release.baidu.com^
 ||rem-track.bild.de^
 ||remain.appcpi.net^
-||remotead.cnet.com^
 ||renova.1.p2l.info^
 ||renren2.maoyun.tv^
 ||repdata.usatoday.com^
@@ -15552,6 +15514,7 @@
 ||stat.moji.com^
 ||stat.moliplayer.com^
 ||stat.mtv3.fi^
+||stat.nate.com^
 ||stat.novinky.cz^
 ||stat.nyheter24.se^
 ||stat.ouedkniss.com^
@@ -16290,6 +16253,7 @@
 ||t.etraveli.com^
 ||t.fatcatstar.com^
 ||t.felmat.net^
+||t.fhfgjhgf.top^
 ||t.fileplaneta.com^
 ||t.firstpromoter.com^
 ||t.flix360.com^
@@ -17422,6 +17386,7 @@
 ||tracking.yes24.vn^
 ||tracking.yohoads.com^
 ||tracking01.walmart.com^
+||tracking02.adweb.co.kr^
 ||tracking1.brandmentions.com^
 ||tracking2.channeladvisor.com^
 ||trackingapi.cloudapp.net^
