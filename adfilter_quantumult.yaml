@@ -1,11 +1,11 @@
-# Checksum: MTYxNDk5MTY1MAo=
+# Checksum: MTYxNTA3ODI3Ngo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210306-0
-# TimeUpdated: 2021-03-06T00:47:30+00:00
+# Version: -20210307-0
+# TimeUpdated: 2021-03-07T00:51:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22873
+# Total: 22869
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,000.0x1f4b0.com,REJECT
@@ -391,7 +391,6 @@ DOMAIN,a.hsbianma.com,REJECT
 DOMAIN,a.hstrck.com,REJECT
 DOMAIN,a.hyperoi.com,REJECT
 DOMAIN,a.imgso.cn,REJECT
-DOMAIN,a.itiexue.net,REJECT
 DOMAIN,a.jjqyk.com,REJECT
 DOMAIN,a.jyeoo.com,REJECT
 DOMAIN,a.kidstaff.net,REJECT
@@ -1982,7 +1981,6 @@ DOMAIN,ads.pennet.com,REJECT
 DOMAIN,ads.people.com.cn,REJECT
 DOMAIN,ads.periodistadigital.com,REJECT
 DOMAIN,ads.persgroep.net,REJECT
-DOMAIN,ads.peteava.ro,REJECT
 DOMAIN,ads.pfl.ua,REJECT
 DOMAIN,ads.phpclasses.org,REJECT
 DOMAIN,ads.phunuonline.com.vn,REJECT
@@ -2357,7 +2355,6 @@ DOMAIN,adserve.gossipgirls.com,REJECT
 DOMAIN,adserve.jbs.org,REJECT
 DOMAIN,adserve.mizzenmedia.com,REJECT
 DOMAIN,adserve.podaddies.com,REJECT
-DOMAIN,adserve.profit-smart.com,REJECT
 DOMAIN,adserve.shopzilla.com,REJECT
 DOMAIN,adserve.viaarena.com,REJECT
 DOMAIN,adserve2.tom.com,REJECT
@@ -3528,7 +3525,6 @@ DOMAIN,api.instabug.com,REJECT
 DOMAIN,api.intentiq.com,REJECT
 DOMAIN,api.itaoxiaoshuo.com,REJECT
 DOMAIN,api.jcswhg.com,REJECT
-DOMAIN,api.jetlore.com,REJECT
 DOMAIN,api.kiip.me,REJECT
 DOMAIN,api.ktplay.com,REJECT
 DOMAIN,api.kwaizt.com,REJECT
@@ -9202,6 +9198,7 @@ DOMAIN,gg.huangye88.com,REJECT
 DOMAIN,gg.jkmeishi.com,REJECT
 DOMAIN,gg.kkcaicai.com,REJECT
 DOMAIN,gg.meitu.com,REJECT
+DOMAIN,gg.miued.com,REJECT
 DOMAIN,gg.qucaigg.com,REJECT
 DOMAIN,gg.sonhoo.com,REJECT
 DOMAIN,gg.stargame.com,REJECT
@@ -15936,6 +15933,7 @@ DOMAIN,sadbmetrics.lavozdigital.es,REJECT
 DOMAIN,sadbmetrics.leonoticias.com,REJECT
 DOMAIN,sadbmetrics.malagaenlamesa.com,REJECT
 DOMAIN,sadbmetrics.muevetebasket.es,REJECT
+DOMAIN,sadbmetrics.muevetebasketsmetrics.insight.com,REJECT
 DOMAIN,sadbmetrics.mujerhoy.com,REJECT
 DOMAIN,sadbmetrics.nuevosvecinos.com,REJECT
 DOMAIN,sadbmetrics.pisocompartido.com,REJECT
@@ -22288,7 +22286,6 @@ DOMAIN,www-banner.chat.ru,REJECT
 DOMAIN,www-google-analytics.l.google.com,REJECT
 DOMAIN,www-smt.daiichisankyo-hc.co.jp,REJECT
 DOMAIN,www-stats-so.f-secure.com,REJECT
-DOMAIN,www1.boshipai.com,REJECT
 DOMAIN,www1.wxnmh.com,REJECT
 DOMAIN,www1.xmediaserve.com,REJECT
 DOMAIN,www10.glam.com,REJECT
@@ -22388,6 +22385,7 @@ DOMAIN,wyzq.rehuwang.com,REJECT
 DOMAIN,wyzqiy.pnet.co.za,REJECT
 DOMAIN,wz.37wan.com,REJECT
 DOMAIN,wzjs.cdn.bcebos.com,REJECT
+DOMAIN,wzjs1.oss-accelerate.aliyuncs.com,REJECT
 DOMAIN,wzpwxe.4lapy.ru,REJECT
 DOMAIN,wzxcvb.m.23txt.com,REJECT
 DOMAIN,wzyjup.patch.com,REJECT
@@ -22589,7 +22587,6 @@ DOMAIN,yam.adsbro.com,REJECT
 DOMAIN,yaolan.adsame.com,REJECT
 DOMAIN,yaolu.mh.163.com,REJECT
 DOMAIN,yaolu.yuedu.163.com,REJECT
-DOMAIN,yar7faf2a8cadf.zjlanbikm.xinray.net,REJECT
 DOMAIN,yasmin.1.p2l.info,REJECT
 DOMAIN,yasmin.3.p2l.info,REJECT
 DOMAIN,yasmin.4.p2l.info,REJECT
@@ -22635,7 +22632,6 @@ DOMAIN,yijiuningyia.gushiwen.org,REJECT
 DOMAIN,yikrmn.ciceksepeti.com,REJECT
 DOMAIN,yikuaiqian.com.cn,REJECT
 DOMAIN,yiliao.hupan.com,REJECT
-DOMAIN,yimingxiang.com.cn,REJECT
 DOMAIN,yin1.zgpingshu.com,REJECT
 DOMAIN,yingxiao.baidu.com,REJECT
 DOMAIN,yiqitiao.chushoushijian.cn,REJECT
