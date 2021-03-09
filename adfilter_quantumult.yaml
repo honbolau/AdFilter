@@ -1,11 +1,11 @@
-# Checksum: MTYxNTE2NDU3OQo=
+# Checksum: MTYxNTI1MDg5MQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210308-0
-# TimeUpdated: 2021-03-08T00:49:39+00:00
+# Version: -20210309-0
+# TimeUpdated: 2021-03-09T00:48:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22859
+# Total: 22853
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,000.0x1f4b0.com,REJECT
@@ -435,7 +435,7 @@ DOMAIN,a.rohde-schwarz.com,REJECT
 DOMAIN,a.sakh.com,REJECT
 DOMAIN,a.sayloving.com,REJECT
 DOMAIN,a.shenchuang.com,REJECT
-DOMAIN,a.slsbc.cn,REJECT
+DOMAIN,a.speedostream.com,REJECT
 DOMAIN,a.steigenberger.com,REJECT
 DOMAIN,a.stka8.com,REJECT
 DOMAIN,a.tanx.com,REJECT
@@ -496,7 +496,6 @@ DOMAIN,a02342.bridportnews.co.uk,REJECT
 DOMAIN,a02342.bromsgroveadvertiser.co.uk,REJECT
 DOMAIN,a02342.bucksfreepress.co.uk,REJECT
 DOMAIN,a02342.burnhamandhighbridgeweeklynews.co.uk,REJECT
-DOMAIN,a02342.campaignseries.co.uk,REJECT
 DOMAIN,a02342.chardandilminsternews.co.uk,REJECT
 DOMAIN,a02342.clactonandfrintongazette.co.uk,REJECT
 DOMAIN,a02342.dailyecho.co.uk,REJECT
@@ -877,6 +876,7 @@ DOMAIN,ad.cctv.com,REJECT
 DOMAIN,ad.cdnjm.cn,REJECT
 DOMAIN,ad.centrum.cz,REJECT
 DOMAIN,ad.cgi.cz,REJECT
+DOMAIN,ad.chandrabindu.net,REJECT
 DOMAIN,ad.chieuhoa.com,REJECT
 DOMAIN,ad.clickdistrict.com,REJECT
 DOMAIN,ad.clickotmedia.com,REJECT
@@ -2832,7 +2832,6 @@ DOMAIN,affiliates.homestead.com,REJECT
 DOMAIN,affiliates.londonmarketing.com,REJECT
 DOMAIN,affiliates.lynda.com,REJECT
 DOMAIN,affiliates.minglematch.com,REJECT
-DOMAIN,affiliates.mozy.com,REJECT
 DOMAIN,affiliates.purevpn.com,REJECT
 DOMAIN,affiliates.rozetka.com.ua,REJECT
 DOMAIN,affiliates.streamray.com,REJECT
@@ -4742,7 +4741,6 @@ DOMAIN,buy-fioricet.hut1.ru,REJECT
 DOMAIN,buy-hydrocodone.scromble.com,REJECT
 DOMAIN,buy-lortab-online.iscool.nl,REJECT
 DOMAIN,buy-lortab.hut1.ru,REJECT
-DOMAIN,buy-phentermine-online.135.it,REJECT
 DOMAIN,buy-phentermine.thepizza.net,REJECT
 DOMAIN,buy-ultram-online.iscool.nl,REJECT
 DOMAIN,buy-valium.hut1.ru,REJECT
@@ -4770,7 +4768,6 @@ DOMAIN,bwp.download.com,REJECT
 DOMAIN,bwp.lastfm.com.com,REJECT
 DOMAIN,bwp.theinsider.com.com,REJECT
 DOMAIN,bxs.bilandgo.com,REJECT
-DOMAIN,by.mbai.cn,REJECT
 DOMAIN,by.tel.cdndm.com,REJECT
 DOMAIN,bysfnu.bodeboca.com,REJECT
 DOMAIN,bytecoin.crypto-webminer.com,REJECT
@@ -6035,7 +6032,6 @@ DOMAIN,content.secondspace.com,REJECT
 DOMAIN,content.streamplay.to,REJECT
 DOMAIN,content.yieldmanager.edgesuite.net,REJECT
 DOMAIN,content22.online.citi.com,REJECT
-DOMAIN,contentclick.co.uk,REJECT
 DOMAIN,contentrecommend-out.mobile.sina.cn,REJECT
 DOMAIN,contents-tracking.beop.io,REJECT
 DOMAIN,context.hotline.ua,REJECT
@@ -7930,7 +7926,6 @@ DOMAIN,e.cn.miaozhen.com,REJECT
 DOMAIN,e.coenr.com,REJECT
 DOMAIN,e.cuomm.com,REJECT
 DOMAIN,e.cz9k8b.top,REJECT
-DOMAIN,e.d1wn3.cn,REJECT
 DOMAIN,e.deimm.com,REJECT
 DOMAIN,e.domob.cn,REJECT
 DOMAIN,e.domob.com.cn,REJECT
@@ -8168,7 +8163,6 @@ DOMAIN,ef-dongfeng.tanx.com,REJECT
 DOMAIN,ef.futuroscope.com,REJECT
 DOMAIN,ef.futuroscope.mobi,REJECT
 DOMAIN,ef.opendsp.tanx.com,REJECT
-DOMAIN,efe25.t7wl8.cn,REJECT
 DOMAIN,eff.inte.sogou.com,REJECT
 DOMAIN,eff.lu.sogou.com,REJECT
 DOMAIN,effexor-xr.1.p2l.info,REJECT
@@ -13828,7 +13822,6 @@ DOMAIN,otcdn2.auditude.com,REJECT
 DOMAIN,oth.eve.mdt.qq.com,REJECT
 DOMAIN,oth.str.mdt.qq.com,REJECT
 DOMAIN,other.appcpi.net,REJECT
-DOMAIN,other.v.duowan.com,REJECT
 DOMAIN,otheve.beacon.qq.com,REJECT
 DOMAIN,otheve.play.aiseet.atianqi.com,REJECT
 DOMAIN,othstr.play.aiseet.atianqi.com,REJECT
@@ -20509,6 +20502,7 @@ DOMAIN,tracking.healthitanalytics.com,REJECT
 DOMAIN,tracking.healthpayerintelligence.com,REJECT
 DOMAIN,tracking.hello.global.ntt,REJECT
 DOMAIN,tracking.hi-pi.com,REJECT
+DOMAIN,tracking.hivecloud.net,REJECT
 DOMAIN,tracking.hongtinnhanh.com,REJECT
 DOMAIN,tracking.hotel.check24.de,REJECT
 DOMAIN,tracking.houzz.com,REJECT

@@ -1,11 +1,11 @@
-# Checksum: MTYxNTE2NDU3OQo=
+# Checksum: MTYxNTI1MDg5MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210308-0
-# TimeUpdated: 2021-03-08T00:49:39+00:00
+# Version: -20210309-0
+# TimeUpdated: 2021-03-09T00:48:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22859
+# Total: 22853
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -874,8 +874,8 @@ ff02::3 ip6-allhosts
 :: a.sayloving.com
 0.0.0.0 a.shenchuang.com
 :: a.shenchuang.com
-0.0.0.0 a.slsbc.cn
-:: a.slsbc.cn
+0.0.0.0 a.speedostream.com
+:: a.speedostream.com
 0.0.0.0 a.steigenberger.com
 :: a.steigenberger.com
 0.0.0.0 a.stka8.com
@@ -996,8 +996,6 @@ ff02::3 ip6-allhosts
 :: a02342.bucksfreepress.co.uk
 0.0.0.0 a02342.burnhamandhighbridgeweeklynews.co.uk
 :: a02342.burnhamandhighbridgeweeklynews.co.uk
-0.0.0.0 a02342.campaignseries.co.uk
-:: a02342.campaignseries.co.uk
 0.0.0.0 a02342.chardandilminsternews.co.uk
 :: a02342.chardandilminsternews.co.uk
 0.0.0.0 a02342.clactonandfrintongazette.co.uk
@@ -1758,6 +1756,8 @@ ff02::3 ip6-allhosts
 :: ad.centrum.cz
 0.0.0.0 ad.cgi.cz
 :: ad.cgi.cz
+0.0.0.0 ad.chandrabindu.net
+:: ad.chandrabindu.net
 0.0.0.0 ad.chieuhoa.com
 :: ad.chieuhoa.com
 0.0.0.0 ad.clickdistrict.com
@@ -5668,8 +5668,6 @@ ff02::3 ip6-allhosts
 :: affiliates.lynda.com
 0.0.0.0 affiliates.minglematch.com
 :: affiliates.minglematch.com
-0.0.0.0 affiliates.mozy.com
-:: affiliates.mozy.com
 0.0.0.0 affiliates.purevpn.com
 :: affiliates.purevpn.com
 0.0.0.0 affiliates.rozetka.com.ua
@@ -9488,8 +9486,6 @@ ff02::3 ip6-allhosts
 :: buy-lortab-online.iscool.nl
 0.0.0.0 buy-lortab.hut1.ru
 :: buy-lortab.hut1.ru
-0.0.0.0 buy-phentermine-online.135.it
-:: buy-phentermine-online.135.it
 0.0.0.0 buy-phentermine.thepizza.net
 :: buy-phentermine.thepizza.net
 0.0.0.0 buy-ultram-online.iscool.nl
@@ -9544,8 +9540,6 @@ ff02::3 ip6-allhosts
 :: bwp.theinsider.com.com
 0.0.0.0 bxs.bilandgo.com
 :: bxs.bilandgo.com
-0.0.0.0 by.mbai.cn
-:: by.mbai.cn
 0.0.0.0 by.tel.cdndm.com
 :: by.tel.cdndm.com
 0.0.0.0 bysfnu.bodeboca.com
@@ -12074,8 +12068,6 @@ ff02::3 ip6-allhosts
 :: content.yieldmanager.edgesuite.net
 0.0.0.0 content22.online.citi.com
 :: content22.online.citi.com
-0.0.0.0 contentclick.co.uk
-:: contentclick.co.uk
 0.0.0.0 contentrecommend-out.mobile.sina.cn
 :: contentrecommend-out.mobile.sina.cn
 0.0.0.0 contents-tracking.beop.io
@@ -15864,8 +15856,6 @@ ff02::3 ip6-allhosts
 :: e.cuomm.com
 0.0.0.0 e.cz9k8b.top
 :: e.cz9k8b.top
-0.0.0.0 e.d1wn3.cn
-:: e.d1wn3.cn
 0.0.0.0 e.deimm.com
 :: e.deimm.com
 0.0.0.0 e.domob.cn
@@ -16340,8 +16330,6 @@ ff02::3 ip6-allhosts
 :: ef.futuroscope.mobi
 0.0.0.0 ef.opendsp.tanx.com
 :: ef.opendsp.tanx.com
-0.0.0.0 efe25.t7wl8.cn
-:: efe25.t7wl8.cn
 0.0.0.0 eff.inte.sogou.com
 :: eff.inte.sogou.com
 0.0.0.0 eff.lu.sogou.com
@@ -27660,8 +27648,6 @@ ff02::3 ip6-allhosts
 :: oth.str.mdt.qq.com
 0.0.0.0 other.appcpi.net
 :: other.appcpi.net
-0.0.0.0 other.v.duowan.com
-:: other.v.duowan.com
 0.0.0.0 otheve.beacon.qq.com
 :: otheve.beacon.qq.com
 0.0.0.0 otheve.play.aiseet.atianqi.com
@@ -41022,6 +41008,8 @@ ff02::3 ip6-allhosts
 :: tracking.hello.global.ntt
 0.0.0.0 tracking.hi-pi.com
 :: tracking.hi-pi.com
+0.0.0.0 tracking.hivecloud.net
+:: tracking.hivecloud.net
 0.0.0.0 tracking.hongtinnhanh.com
 :: tracking.hongtinnhanh.com
 0.0.0.0 tracking.hotel.check24.de
