@@ -1,11 +1,11 @@
-# Checksum: MTYxNTI1MDg5MQo=
+# Checksum: MTYxNTMzNzMwMAo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210309-0
-# TimeUpdated: 2021-03-09T00:48:11+00:00
+# Version: -20210310-0
+# TimeUpdated: 2021-03-10T00:48:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22853
+# Total: 22845
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,000.0x1f4b0.com,REJECT
@@ -470,7 +470,6 @@ DOMAIN,a.wkanx.com,REJECT
 DOMAIN,a.wlfng.com,REJECT
 DOMAIN,a.xanga.com,REJECT
 DOMAIN,a.xhnlf.com,REJECT
-DOMAIN,a.xixiyishu.com,REJECT
 DOMAIN,a.xizi.com,REJECT
 DOMAIN,a.xlpu.cc,REJECT
 DOMAIN,a.xuezizhai.com,REJECT
@@ -507,12 +506,10 @@ DOMAIN,a02342.echo-news.co.uk,REJECT
 DOMAIN,a02342.eppingforestguardian.co.uk,REJECT
 DOMAIN,a02342.eveshamjournal.co.uk,REJECT
 DOMAIN,a02342.falmouthpacket.co.uk,REJECT
-DOMAIN,a02342.freepressseries.co.uk,REJECT
 DOMAIN,a02342.gazette-news.co.uk,REJECT
 DOMAIN,a02342.gazetteherald.co.uk,REJECT
 DOMAIN,a02342.glasgowtimes.co.uk,REJECT
 DOMAIN,a02342.greenocktelegraph.co.uk,REJECT
-DOMAIN,a02342.guardian-series.co.uk,REJECT
 DOMAIN,a02342.harwichandmanningtreestandard.co.uk,REJECT
 DOMAIN,a02342.heraldscotland.com,REJECT
 DOMAIN,a02342.ledburyreporter.co.uk,REJECT
@@ -866,6 +863,7 @@ DOMAIN,ad.bn.netease.com,REJECT
 DOMAIN,ad.bobi.tw,REJECT
 DOMAIN,ad.bondage.com,REJECT
 DOMAIN,ad.bwise.ch,REJECT
+DOMAIN,ad.byfuh.com,REJECT
 DOMAIN,ad.cacafly.com,REJECT
 DOMAIN,ad.caiyunapp.com,REJECT
 DOMAIN,ad.caradisiac.com,REJECT
@@ -1809,7 +1807,6 @@ DOMAIN,ads.greenbaypressgazette.com,REJECT
 DOMAIN,ads.greenvilleonline.com,REJECT
 DOMAIN,ads.grindinggears.com,REJECT
 DOMAIN,ads.groupewin.fr,REJECT
-DOMAIN,ads.grupozeta.es,REJECT
 DOMAIN,ads.gsm-exchange.com,REJECT
 DOMAIN,ads.gsmexchange.com,REJECT
 DOMAIN,ads.guardian.co.uk,REJECT
@@ -2853,7 +2850,6 @@ DOMAIN,afftracking.justanswer.com,REJECT
 DOMAIN,afhjxb.flaconi.de,REJECT
 DOMAIN,afi.ssl.gmobb.jp,REJECT
 DOMAIN,afilio.com.br,REJECT
-DOMAIN,afj.xasjpf.com,REJECT
 DOMAIN,afm.pipi.cn,REJECT
 DOMAIN,afp.adchina.com,REJECT
 DOMAIN,afp.alicdn.com,REJECT
@@ -5476,11 +5472,9 @@ DOMAIN,cheer.cjoy.com.cn,REJECT
 DOMAIN,cheezwhiz.z9.web.core.windows.net,REJECT
 DOMAIN,chengjie168.com.cn,REJECT
 DOMAIN,cherryhi.app.ur.gcion.com,REJECT
-DOMAIN,chesterstandard-gb.chesterstandard.co.uk,REJECT
 DOMAIN,chihiro.nostalgie.fr,REJECT
 DOMAIN,china-cdn3.unityads.unity3d.com,REJECT
 DOMAIN,china-waters.com.cn,REJECT
-DOMAIN,china.gzxxty168.com,REJECT
 DOMAIN,china.inmobi.com,REJECT
 DOMAIN,chiuhua.com.cn,REJECT
 DOMAIN,choice.microsoft.com.nsatc.net,REJECT
@@ -7937,7 +7931,6 @@ DOMAIN,e.e708.net,REJECT
 DOMAIN,e.ediun.com,REJECT
 DOMAIN,e.ejiakm.net,REJECT
 DOMAIN,e.enjuk.com,REJECT
-DOMAIN,e.focuscat.com,REJECT
 DOMAIN,e.funnymel.com,REJECT
 DOMAIN,e.future888.net,REJECT
 DOMAIN,e.g71i1.cn,REJECT
@@ -11330,6 +11323,7 @@ DOMAIN,log.tapchimattran.vn,REJECT
 DOMAIN,log.tapchitaichinh.vn,REJECT
 DOMAIN,log.targetpush.co.kr,REJECT
 DOMAIN,log.tbs.qq.com,REJECT
+DOMAIN,log.tf.co.kr,REJECT
 DOMAIN,log.thanhnien.vn,REJECT
 DOMAIN,log.theleader.vn,REJECT
 DOMAIN,log.tienphong.vn,REJECT
@@ -11362,6 +11356,7 @@ DOMAIN,log.worldsoft-cms.info,REJECT
 DOMAIN,log.ycapp.yiche.com,REJECT
 DOMAIN,log.yex.youdao.com,REJECT
 DOMAIN,log.zamba.vn,REJECT
+DOMAIN,log.zdnet.co.kr,REJECT
 DOMAIN,log.zepeto.io,REJECT
 DOMAIN,log.zingmp3.vn,REJECT
 DOMAIN,log.zingnews.vn,REJECT
@@ -11397,6 +11392,7 @@ DOMAIN,logger.rm.uol.com.br,REJECT
 DOMAIN,logger.snackly.co,REJECT
 DOMAIN,logger.treexml.baofeng.com,REJECT
 DOMAIN,logger.tv.telstra.com.au,REJECT
+DOMAIN,logger.tvchosun.com,REJECT
 DOMAIN,logger.uol.com.br,REJECT
 DOMAIN,logger.virgul.com,REJECT
 DOMAIN,logger.yp.ca,REJECT
@@ -11681,7 +11677,6 @@ DOMAIN,m.gzrljx.cn,REJECT
 DOMAIN,m.h0x.cn,REJECT
 DOMAIN,m.hdboping.com,REJECT
 DOMAIN,m.hehongmei.top,REJECT
-DOMAIN,m.hellomingpian.com,REJECT
 DOMAIN,m.heshanwan.cn,REJECT
 DOMAIN,m.heygugu.com,REJECT
 DOMAIN,m.hhllyt.com,REJECT
@@ -12823,7 +12818,6 @@ DOMAIN,mktg.actonsoftware.com,REJECT
 DOMAIN,mlb.did.ijinshan.com,REJECT
 DOMAIN,mldy.rsgbt.cn,REJECT
 DOMAIN,mldy.wttpgq.cn,REJECT
-DOMAIN,mldy.xdaay.cn,REJECT
 DOMAIN,mldy.yxxgab.cn,REJECT
 DOMAIN,mlib.browsermine.com,REJECT
 DOMAIN,mlmswk.janpara.co.jp,REJECT
@@ -14797,7 +14791,6 @@ DOMAIN,protection.stpolice.com,REJECT
 DOMAIN,protection.tnpolice.com,REJECT
 DOMAIN,protection.topolice.com,REJECT
 DOMAIN,protection.vapolice.com,REJECT
-DOMAIN,protection.vipolice.com,REJECT
 DOMAIN,protonix.shengen.ru,REJECT
 DOMAIN,providence.voxmedia.com,REJECT
 DOMAIN,proxy-can-1.inf.nimiq.network,REJECT
@@ -15000,7 +14993,6 @@ DOMAIN,pxc.otto.de,REJECT
 DOMAIN,pxkwgt.kupivip.ru,REJECT
 DOMAIN,pxl.bidvertiser.com,REJECT
 DOMAIN,pxl.connexity.net,REJECT
-DOMAIN,pxl.idx.admaster.com.cn,REJECT
 DOMAIN,pxl.iqm.com,REJECT
 DOMAIN,pxlctl.elpais.com,REJECT
 DOMAIN,pxlgnpgecom-a.akamaihd.net,REJECT
@@ -15092,7 +15084,6 @@ DOMAIN,qs.lindanmiaoxiang.cn,REJECT
 DOMAIN,qs.qsmdeyz.cn,REJECT
 DOMAIN,qstore.inner.api.sj.360.cn,REJECT
 DOMAIN,qt002x.corp.youdao.com,REJECT
-DOMAIN,qtip.kuaibo.com,REJECT
 DOMAIN,qto.reprintingstakeholder.com,REJECT
 DOMAIN,quangcao.24h.com.vn,REJECT
 DOMAIN,quangcao.baovannghe.com.vn,REJECT
@@ -21753,6 +21744,7 @@ DOMAIN,weblog.com.ua,REJECT
 DOMAIN,weblog.eseoul.go.kr,REJECT
 DOMAIN,weblog.flyasiana.com,REJECT
 DOMAIN,weblog.strawberrynet.com,REJECT
+DOMAIN,weblog.zdnet.co.kr,REJECT
 DOMAIN,weblog2.eseoul.go.kr,REJECT
 DOMAIN,weblogger-dynamic-lb.playdom.com,REJECT
 DOMAIN,webmaster.erotik.com,REJECT

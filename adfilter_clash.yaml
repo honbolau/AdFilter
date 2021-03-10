@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYxNTI1MDg5MQo=
+# Checksum: MTYxNTMzNzMwMAo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210309-0
-# TimeUpdated: 2021-03-09T00:48:11+00:00
+# Version: -20210310-0
+# TimeUpdated: 2021-03-10T00:48:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22853
+# Total: 22845
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,000.0x1f4b0.com
@@ -471,7 +471,6 @@ payload:
   - DOMAIN,a.wlfng.com
   - DOMAIN,a.xanga.com
   - DOMAIN,a.xhnlf.com
-  - DOMAIN,a.xixiyishu.com
   - DOMAIN,a.xizi.com
   - DOMAIN,a.xlpu.cc
   - DOMAIN,a.xuezizhai.com
@@ -508,12 +507,10 @@ payload:
   - DOMAIN,a02342.eppingforestguardian.co.uk
   - DOMAIN,a02342.eveshamjournal.co.uk
   - DOMAIN,a02342.falmouthpacket.co.uk
-  - DOMAIN,a02342.freepressseries.co.uk
   - DOMAIN,a02342.gazette-news.co.uk
   - DOMAIN,a02342.gazetteherald.co.uk
   - DOMAIN,a02342.glasgowtimes.co.uk
   - DOMAIN,a02342.greenocktelegraph.co.uk
-  - DOMAIN,a02342.guardian-series.co.uk
   - DOMAIN,a02342.harwichandmanningtreestandard.co.uk
   - DOMAIN,a02342.heraldscotland.com
   - DOMAIN,a02342.ledburyreporter.co.uk
@@ -867,6 +864,7 @@ payload:
   - DOMAIN,ad.bobi.tw
   - DOMAIN,ad.bondage.com
   - DOMAIN,ad.bwise.ch
+  - DOMAIN,ad.byfuh.com
   - DOMAIN,ad.cacafly.com
   - DOMAIN,ad.caiyunapp.com
   - DOMAIN,ad.caradisiac.com
@@ -1810,7 +1808,6 @@ payload:
   - DOMAIN,ads.greenvilleonline.com
   - DOMAIN,ads.grindinggears.com
   - DOMAIN,ads.groupewin.fr
-  - DOMAIN,ads.grupozeta.es
   - DOMAIN,ads.gsm-exchange.com
   - DOMAIN,ads.gsmexchange.com
   - DOMAIN,ads.guardian.co.uk
@@ -2854,7 +2851,6 @@ payload:
   - DOMAIN,afhjxb.flaconi.de
   - DOMAIN,afi.ssl.gmobb.jp
   - DOMAIN,afilio.com.br
-  - DOMAIN,afj.xasjpf.com
   - DOMAIN,afm.pipi.cn
   - DOMAIN,afp.adchina.com
   - DOMAIN,afp.alicdn.com
@@ -5477,11 +5473,9 @@ payload:
   - DOMAIN,cheezwhiz.z9.web.core.windows.net
   - DOMAIN,chengjie168.com.cn
   - DOMAIN,cherryhi.app.ur.gcion.com
-  - DOMAIN,chesterstandard-gb.chesterstandard.co.uk
   - DOMAIN,chihiro.nostalgie.fr
   - DOMAIN,china-cdn3.unityads.unity3d.com
   - DOMAIN,china-waters.com.cn
-  - DOMAIN,china.gzxxty168.com
   - DOMAIN,china.inmobi.com
   - DOMAIN,chiuhua.com.cn
   - DOMAIN,choice.microsoft.com.nsatc.net
@@ -7938,7 +7932,6 @@ payload:
   - DOMAIN,e.ediun.com
   - DOMAIN,e.ejiakm.net
   - DOMAIN,e.enjuk.com
-  - DOMAIN,e.focuscat.com
   - DOMAIN,e.funnymel.com
   - DOMAIN,e.future888.net
   - DOMAIN,e.g71i1.cn
@@ -11331,6 +11324,7 @@ payload:
   - DOMAIN,log.tapchitaichinh.vn
   - DOMAIN,log.targetpush.co.kr
   - DOMAIN,log.tbs.qq.com
+  - DOMAIN,log.tf.co.kr
   - DOMAIN,log.thanhnien.vn
   - DOMAIN,log.theleader.vn
   - DOMAIN,log.tienphong.vn
@@ -11363,6 +11357,7 @@ payload:
   - DOMAIN,log.ycapp.yiche.com
   - DOMAIN,log.yex.youdao.com
   - DOMAIN,log.zamba.vn
+  - DOMAIN,log.zdnet.co.kr
   - DOMAIN,log.zepeto.io
   - DOMAIN,log.zingmp3.vn
   - DOMAIN,log.zingnews.vn
@@ -11398,6 +11393,7 @@ payload:
   - DOMAIN,logger.snackly.co
   - DOMAIN,logger.treexml.baofeng.com
   - DOMAIN,logger.tv.telstra.com.au
+  - DOMAIN,logger.tvchosun.com
   - DOMAIN,logger.uol.com.br
   - DOMAIN,logger.virgul.com
   - DOMAIN,logger.yp.ca
@@ -11682,7 +11678,6 @@ payload:
   - DOMAIN,m.h0x.cn
   - DOMAIN,m.hdboping.com
   - DOMAIN,m.hehongmei.top
-  - DOMAIN,m.hellomingpian.com
   - DOMAIN,m.heshanwan.cn
   - DOMAIN,m.heygugu.com
   - DOMAIN,m.hhllyt.com
@@ -12824,7 +12819,6 @@ payload:
   - DOMAIN,mlb.did.ijinshan.com
   - DOMAIN,mldy.rsgbt.cn
   - DOMAIN,mldy.wttpgq.cn
-  - DOMAIN,mldy.xdaay.cn
   - DOMAIN,mldy.yxxgab.cn
   - DOMAIN,mlib.browsermine.com
   - DOMAIN,mlmswk.janpara.co.jp
@@ -14798,7 +14792,6 @@ payload:
   - DOMAIN,protection.tnpolice.com
   - DOMAIN,protection.topolice.com
   - DOMAIN,protection.vapolice.com
-  - DOMAIN,protection.vipolice.com
   - DOMAIN,protonix.shengen.ru
   - DOMAIN,providence.voxmedia.com
   - DOMAIN,proxy-can-1.inf.nimiq.network
@@ -15001,7 +14994,6 @@ payload:
   - DOMAIN,pxkwgt.kupivip.ru
   - DOMAIN,pxl.bidvertiser.com
   - DOMAIN,pxl.connexity.net
-  - DOMAIN,pxl.idx.admaster.com.cn
   - DOMAIN,pxl.iqm.com
   - DOMAIN,pxlctl.elpais.com
   - DOMAIN,pxlgnpgecom-a.akamaihd.net
@@ -15093,7 +15085,6 @@ payload:
   - DOMAIN,qs.qsmdeyz.cn
   - DOMAIN,qstore.inner.api.sj.360.cn
   - DOMAIN,qt002x.corp.youdao.com
-  - DOMAIN,qtip.kuaibo.com
   - DOMAIN,qto.reprintingstakeholder.com
   - DOMAIN,quangcao.24h.com.vn
   - DOMAIN,quangcao.baovannghe.com.vn
@@ -21754,6 +21745,7 @@ payload:
   - DOMAIN,weblog.eseoul.go.kr
   - DOMAIN,weblog.flyasiana.com
   - DOMAIN,weblog.strawberrynet.com
+  - DOMAIN,weblog.zdnet.co.kr
   - DOMAIN,weblog2.eseoul.go.kr
   - DOMAIN,weblogger-dynamic-lb.playdom.com
   - DOMAIN,webmaster.erotik.com

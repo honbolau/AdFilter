@@ -1,11 +1,11 @@
-# Checksum: MTYxNTI1MDg5MQo=
+# Checksum: MTYxNTMzNzMwMAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210309-0
-# TimeUpdated: 2021-03-09T00:48:11+00:00
+# Version: -20210310-0
+# TimeUpdated: 2021-03-10T00:48:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 22853
+# Total: 22845
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -944,8 +944,6 @@ ff02::3 ip6-allhosts
 :: a.xanga.com
 0.0.0.0 a.xhnlf.com
 :: a.xhnlf.com
-0.0.0.0 a.xixiyishu.com
-:: a.xixiyishu.com
 0.0.0.0 a.xizi.com
 :: a.xizi.com
 0.0.0.0 a.xlpu.cc
@@ -1018,8 +1016,6 @@ ff02::3 ip6-allhosts
 :: a02342.eveshamjournal.co.uk
 0.0.0.0 a02342.falmouthpacket.co.uk
 :: a02342.falmouthpacket.co.uk
-0.0.0.0 a02342.freepressseries.co.uk
-:: a02342.freepressseries.co.uk
 0.0.0.0 a02342.gazette-news.co.uk
 :: a02342.gazette-news.co.uk
 0.0.0.0 a02342.gazetteherald.co.uk
@@ -1028,8 +1024,6 @@ ff02::3 ip6-allhosts
 :: a02342.glasgowtimes.co.uk
 0.0.0.0 a02342.greenocktelegraph.co.uk
 :: a02342.greenocktelegraph.co.uk
-0.0.0.0 a02342.guardian-series.co.uk
-:: a02342.guardian-series.co.uk
 0.0.0.0 a02342.harwichandmanningtreestandard.co.uk
 :: a02342.harwichandmanningtreestandard.co.uk
 0.0.0.0 a02342.heraldscotland.com
@@ -1736,6 +1730,8 @@ ff02::3 ip6-allhosts
 :: ad.bondage.com
 0.0.0.0 ad.bwise.ch
 :: ad.bwise.ch
+0.0.0.0 ad.byfuh.com
+:: ad.byfuh.com
 0.0.0.0 ad.cacafly.com
 :: ad.cacafly.com
 0.0.0.0 ad.caiyunapp.com
@@ -3622,8 +3618,6 @@ ff02::3 ip6-allhosts
 :: ads.grindinggears.com
 0.0.0.0 ads.groupewin.fr
 :: ads.groupewin.fr
-0.0.0.0 ads.grupozeta.es
-:: ads.grupozeta.es
 0.0.0.0 ads.gsm-exchange.com
 :: ads.gsm-exchange.com
 0.0.0.0 ads.gsmexchange.com
@@ -5710,8 +5704,6 @@ ff02::3 ip6-allhosts
 :: afi.ssl.gmobb.jp
 0.0.0.0 afilio.com.br
 :: afilio.com.br
-0.0.0.0 afj.xasjpf.com
-:: afj.xasjpf.com
 0.0.0.0 afm.pipi.cn
 :: afm.pipi.cn
 0.0.0.0 afp.adchina.com
@@ -10956,16 +10948,12 @@ ff02::3 ip6-allhosts
 :: chengjie168.com.cn
 0.0.0.0 cherryhi.app.ur.gcion.com
 :: cherryhi.app.ur.gcion.com
-0.0.0.0 chesterstandard-gb.chesterstandard.co.uk
-:: chesterstandard-gb.chesterstandard.co.uk
 0.0.0.0 chihiro.nostalgie.fr
 :: chihiro.nostalgie.fr
 0.0.0.0 china-cdn3.unityads.unity3d.com
 :: china-cdn3.unityads.unity3d.com
 0.0.0.0 china-waters.com.cn
 :: china-waters.com.cn
-0.0.0.0 china.gzxxty168.com
-:: china.gzxxty168.com
 0.0.0.0 china.inmobi.com
 :: china.inmobi.com
 0.0.0.0 chiuhua.com.cn
@@ -15878,8 +15866,6 @@ ff02::3 ip6-allhosts
 :: e.ejiakm.net
 0.0.0.0 e.enjuk.com
 :: e.enjuk.com
-0.0.0.0 e.focuscat.com
-:: e.focuscat.com
 0.0.0.0 e.funnymel.com
 :: e.funnymel.com
 0.0.0.0 e.future888.net
@@ -22664,6 +22650,8 @@ ff02::3 ip6-allhosts
 :: log.targetpush.co.kr
 0.0.0.0 log.tbs.qq.com
 :: log.tbs.qq.com
+0.0.0.0 log.tf.co.kr
+:: log.tf.co.kr
 0.0.0.0 log.thanhnien.vn
 :: log.thanhnien.vn
 0.0.0.0 log.theleader.vn
@@ -22728,6 +22716,8 @@ ff02::3 ip6-allhosts
 :: log.yex.youdao.com
 0.0.0.0 log.zamba.vn
 :: log.zamba.vn
+0.0.0.0 log.zdnet.co.kr
+:: log.zdnet.co.kr
 0.0.0.0 log.zepeto.io
 :: log.zepeto.io
 0.0.0.0 log.zingmp3.vn
@@ -22798,6 +22788,8 @@ ff02::3 ip6-allhosts
 :: logger.treexml.baofeng.com
 0.0.0.0 logger.tv.telstra.com.au
 :: logger.tv.telstra.com.au
+0.0.0.0 logger.tvchosun.com
+:: logger.tvchosun.com
 0.0.0.0 logger.uol.com.br
 :: logger.uol.com.br
 0.0.0.0 logger.virgul.com
@@ -23366,8 +23358,6 @@ ff02::3 ip6-allhosts
 :: m.hdboping.com
 0.0.0.0 m.hehongmei.top
 :: m.hehongmei.top
-0.0.0.0 m.hellomingpian.com
-:: m.hellomingpian.com
 0.0.0.0 m.heshanwan.cn
 :: m.heshanwan.cn
 0.0.0.0 m.heygugu.com
@@ -25650,8 +25640,6 @@ ff02::3 ip6-allhosts
 :: mldy.rsgbt.cn
 0.0.0.0 mldy.wttpgq.cn
 :: mldy.wttpgq.cn
-0.0.0.0 mldy.xdaay.cn
-:: mldy.xdaay.cn
 0.0.0.0 mldy.yxxgab.cn
 :: mldy.yxxgab.cn
 0.0.0.0 mlib.browsermine.com
@@ -29598,8 +29586,6 @@ ff02::3 ip6-allhosts
 :: protection.topolice.com
 0.0.0.0 protection.vapolice.com
 :: protection.vapolice.com
-0.0.0.0 protection.vipolice.com
-:: protection.vipolice.com
 0.0.0.0 protonix.shengen.ru
 :: protonix.shengen.ru
 0.0.0.0 providence.voxmedia.com
@@ -30004,8 +29990,6 @@ ff02::3 ip6-allhosts
 :: pxl.bidvertiser.com
 0.0.0.0 pxl.connexity.net
 :: pxl.connexity.net
-0.0.0.0 pxl.idx.admaster.com.cn
-:: pxl.idx.admaster.com.cn
 0.0.0.0 pxl.iqm.com
 :: pxl.iqm.com
 0.0.0.0 pxlctl.elpais.com
@@ -30188,8 +30172,6 @@ ff02::3 ip6-allhosts
 :: qstore.inner.api.sj.360.cn
 0.0.0.0 qt002x.corp.youdao.com
 :: qt002x.corp.youdao.com
-0.0.0.0 qtip.kuaibo.com
-:: qtip.kuaibo.com
 0.0.0.0 qto.reprintingstakeholder.com
 :: qto.reprintingstakeholder.com
 0.0.0.0 quangcao.24h.com.vn
@@ -43510,6 +43492,8 @@ ff02::3 ip6-allhosts
 :: weblog.flyasiana.com
 0.0.0.0 weblog.strawberrynet.com
 :: weblog.strawberrynet.com
+0.0.0.0 weblog.zdnet.co.kr
+:: weblog.zdnet.co.kr
 0.0.0.0 weblog2.eseoul.go.kr
 :: weblog2.eseoul.go.kr
 0.0.0.0 weblogger-dynamic-lb.playdom.com
