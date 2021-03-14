@@ -1,11 +1,11 @@
-# Checksum: MTYxNTU5NjQ2Ngo=
+# Checksum: MTYxNTY4MzA4OAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210313-0
-# TimeUpdated: 2021-03-13T00:47:46+00:00
+# Version: -20210314-0
+# TimeUpdated: 2021-03-14T00:51:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 23217
+# Total: 23206
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -742,8 +742,6 @@ ff02::3 ip6-allhosts
 :: a.dxzy163.com
 0.0.0.0 a.dyjqd.com
 :: a.dyjqd.com
-0.0.0.0 a.e7009.com
-:: a.e7009.com
 0.0.0.0 a.ecook.cn
 :: a.ecook.cn
 0.0.0.0 a.epinv.com
@@ -846,8 +844,6 @@ ff02::3 ip6-allhosts
 :: a.qchannel03.cn
 0.0.0.0 a.qinghua5.com
 :: a.qinghua5.com
-0.0.0.0 a.qncye.net
-:: a.qncye.net
 0.0.0.0 a.qsjiajiao.com
 :: a.qsjiajiao.com
 0.0.0.0 a.quangushi.com
@@ -1050,8 +1046,6 @@ ff02::3 ip6-allhosts
 :: a02342.thenorthernecho.co.uk
 0.0.0.0 a02342.thescottishfarmer.co.uk
 :: a02342.thescottishfarmer.co.uk
-0.0.0.0 a02342.thetelegraphandargus.co.uk
-:: a02342.thetelegraphandargus.co.uk
 0.0.0.0 a02342.thewestmorlandgazette.co.uk
 :: a02342.thewestmorlandgazette.co.uk
 0.0.0.0 a02342.thurrockgazette.co.uk
@@ -1994,8 +1988,6 @@ ff02::3 ip6-allhosts
 :: ad.keenspace.com
 0.0.0.0 ad.khan.co.kr
 :: ad.khan.co.kr
-0.0.0.0 ad.kinozal.website
-:: ad.kinozal.website
 0.0.0.0 ad.kissanime.io
 :: ad.kissanime.io
 0.0.0.0 ad.kisscartoon.ac
@@ -3166,8 +3158,6 @@ ff02::3 ip6-allhosts
 :: ads.adinall.com
 0.0.0.0 ads.admarvel.com
 :: ads.admarvel.com
-0.0.0.0 ads.admaximize.com
-:: ads.admaximize.com
 0.0.0.0 ads.administrator.de
 :: ads.administrator.de
 0.0.0.0 ads.adred.de
@@ -3966,6 +3956,8 @@ ff02::3 ip6-allhosts
 :: ads.passiontimes.hk
 0.0.0.0 ads.paxnet.co.kr
 :: ads.paxnet.co.kr
+0.0.0.0 ads.pcccdongduong.vn
+:: ads.pcccdongduong.vn
 0.0.0.0 ads.peel.com
 :: ads.peel.com
 0.0.0.0 ads.pennet.com
@@ -6720,8 +6712,6 @@ ff02::3 ip6-allhosts
 :: analytics00.meride.tv
 0.0.0.0 analytics2.tvreport.co.kr
 :: analytics2.tvreport.co.kr
-0.0.0.0 analytics3.dopool.com
-:: analytics3.dopool.com
 0.0.0.0 analytics3.starschina.com
 :: analytics3.starschina.com
 0.0.0.0 analyticsapi.happypancake.net
@@ -7940,6 +7930,8 @@ ff02::3 ip6-allhosts
 :: azlyta.immowelt.de
 0.0.0.0 aztwwe.satom.ru
 :: aztwwe.satom.ru
+0.0.0.0 azwancan.trafficmanager.net
+:: azwancan.trafficmanager.net
 0.0.0.0 azz.badazz.org
 :: azz.badazz.org
 0.0.0.0 b-gi.getui.com
@@ -8010,8 +8002,6 @@ ff02::3 ip6-allhosts
 :: b.imwx.com
 0.0.0.0 b.jinxiutengzhou.cn
 :: b.jinxiutengzhou.cn
-0.0.0.0 b.kakoysegodnyaprazdnik.ru
-:: b.kakoysegodnyaprazdnik.ru
 0.0.0.0 b.koodomobile.com
 :: b.koodomobile.com
 0.0.0.0 b.law.com
@@ -8264,6 +8254,8 @@ ff02::3 ip6-allhosts
 :: banner.easyspace.com
 0.0.0.0 banner.elisa.net
 :: banner.elisa.net
+0.0.0.0 banner.etargeting.mobifone.vn
+:: banner.etargeting.mobifone.vn
 0.0.0.0 banner.eurogrand.com
 :: banner.eurogrand.com
 0.0.0.0 banner.europacasino.com
@@ -13030,6 +13022,8 @@ ff02::3 ip6-allhosts
 :: curated.fieldtest.cc
 0.0.0.0 custom.crypto-webminer.com
 :: custom.crypto-webminer.com
+0.0.0.0 custom.plausible.io
+:: custom.plausible.io
 0.0.0.0 customad.cnn.com
 :: customad.cnn.com
 0.0.0.0 customer.heartinternet.co.uk
@@ -14438,6 +14432,8 @@ ff02::3 ip6-allhosts
 :: data.ubi.com
 0.0.0.0 data.vod.itc.cn
 :: data.vod.itc.cn
+0.0.0.0 data.waptime.cn
+:: data.waptime.cn
 0.0.0.0 data.woosmap.com
 :: data.woosmap.com
 0.0.0.0 data.wptag.net
@@ -15986,10 +15982,6 @@ ff02::3 ip6-allhosts
 :: e.iruad.com
 0.0.0.0 e.j9wd6.cn
 :: e.j9wd6.cn
-0.0.0.0 e.k2wx5.cn
-:: e.k2wx5.cn
-0.0.0.0 e.k9wz7.cn
-:: e.k9wz7.cn
 0.0.0.0 e.kde.cz
 :: e.kde.cz
 0.0.0.0 e.khuoy.com
@@ -16040,8 +16032,6 @@ ff02::3 ip6-allhosts
 :: e.qxfly.com
 0.0.0.0 e.ricpt.com
 :: e.ricpt.com
-0.0.0.0 e.s9wp1.cn
-:: e.s9wp1.cn
 0.0.0.0 e.sanitwealth.com
 :: e.sanitwealth.com
 0.0.0.0 e.sogou.com
@@ -16056,8 +16046,6 @@ ff02::3 ip6-allhosts
 :: e.tbenc.com
 0.0.0.0 e.tf.360.cn
 :: e.tf.360.cn
-0.0.0.0 e.tiantianedu.net
-:: e.tiantianedu.net
 0.0.0.0 e.tiojk.com
 :: e.tiojk.com
 0.0.0.0 e.tw.cx
@@ -16378,8 +16366,6 @@ ff02::3 ip6-allhosts
 :: ee.wh723.cn
 0.0.0.0 ee.xfya3.cn
 :: ee.xfya3.cn
-0.0.0.0 ee.xlhm88.cn
-:: ee.xlhm88.cn
 0.0.0.0 ee.yg10x.cn
 :: ee.yg10x.cn
 0.0.0.0 ee.zowmgxpz.cn
@@ -20288,8 +20274,6 @@ ff02::3 ip6-allhosts
 :: img2.hrccb.com
 0.0.0.0 img2.km.com
 :: img2.km.com
-0.0.0.0 img2.qekun.com
-:: img2.qekun.com
 0.0.0.0 img2.tanv.com
 :: img2.tanv.com
 0.0.0.0 img2.titan007.com
@@ -20644,6 +20628,8 @@ ff02::3 ip6-allhosts
 :: info.regis.edu
 0.0.0.0 info.schoevers.nl
 :: info.schoevers.nl
+0.0.0.0 info.shavve.co.il
+:: info.shavve.co.il
 0.0.0.0 info.static.startappservice.com
 :: info.static.startappservice.com
 0.0.0.0 info.stockstar.com
@@ -20976,8 +20962,6 @@ ff02::3 ip6-allhosts
 :: itadapi.ithome.com.tw
 0.0.0.0 item.mediav.com
 :: item.mediav.com
-0.0.0.0 items.bingdiantao.com
-:: items.bingdiantao.com
 0.0.0.0 itpuk-mms.itpro.co.uk
 :: itpuk-mms.itpro.co.uk
 0.0.0.0 itracking.fccinteractive.com
@@ -21550,8 +21534,6 @@ ff02::3 ip6-allhosts
 :: js.union-wifi.com
 0.0.0.0 js.users.51.la
 :: js.users.51.la
-0.0.0.0 js.wo-x.cn
-:: js.wo-x.cn
 0.0.0.0 js.xiansuper.com
 :: js.xiansuper.com
 0.0.0.0 js.xiao7cdn.com
@@ -23694,8 +23676,6 @@ ff02::3 ip6-allhosts
 :: m.mcnnic.com
 0.0.0.0 m.meinianguoji.com
 :: m.meinianguoji.com
-0.0.0.0 m.mffcf.cn
-:: m.mffcf.cn
 0.0.0.0 m.mfufanj.cn
 :: m.mfufanj.cn
 0.0.0.0 m.mgogo.com
@@ -23846,8 +23826,6 @@ ff02::3 ip6-allhosts
 :: m.themee.cn
 0.0.0.0 m.tianhaichen.top
 :: m.tianhaichen.top
-0.0.0.0 m.tiantianedu.net
-:: m.tiantianedu.net
 0.0.0.0 m.tiojk.com
 :: m.tiojk.com
 0.0.0.0 m.track.ad.xiaomi.com
@@ -23928,8 +23906,6 @@ ff02::3 ip6-allhosts
 :: m.xingxd.com
 0.0.0.0 m.xkqpco.com.com
 :: m.xkqpco.com.com
-0.0.0.0 m.xlhm88.cn
-:: m.xlhm88.cn
 0.0.0.0 m.xs222.com
 :: m.xs222.com
 0.0.0.0 m.xsjjjc.cn
@@ -24378,6 +24354,8 @@ ff02::3 ip6-allhosts
 :: marketing.latourism.org
 0.0.0.0 marketing.lcmchealth.org
 :: marketing.lcmchealth.org
+0.0.0.0 marketing.linguamatics.com
+:: marketing.linguamatics.com
 0.0.0.0 marketing.lord.com
 :: marketing.lord.com
 0.0.0.0 marketing.luxurylink.com
@@ -25902,8 +25880,6 @@ ff02::3 ip6-allhosts
 :: mibook-10006092.cos.myqcloud.com
 0.0.0.0 mic.bahu.xyz
 :: mic.bahu.xyz
-0.0.0.0 mic.tlwl2.cn
-:: mic.tlwl2.cn
 0.0.0.0 mic.ububyiw6655.xyz
 :: mic.ububyiw6655.xyz
 0.0.0.0 mic.xiangyuym.cn
@@ -26022,8 +25998,6 @@ ff02::3 ip6-allhosts
 :: misc.pandora.xiaomi.com
 0.0.0.0 misc.wcd.qq.com
 :: misc.wcd.qq.com
-0.0.0.0 mit.db.com
-:: mit.db.com
 0.0.0.0 mit.dws.com
 :: mit.dws.com
 0.0.0.0 mit.dws.de
@@ -26474,6 +26448,8 @@ ff02::3 ip6-allhosts
 :: ms.continuedsys.cn
 0.0.0.0 ms.informaengage.com
 :: ms.informaengage.com
+0.0.0.0 ms.markosaric.com
+:: ms.markosaric.com
 0.0.0.0 ms.vipstatic.com
 :: ms.vipstatic.com
 0.0.0.0 msclick2.kuwo.cn
@@ -28412,8 +28388,6 @@ ff02::3 ip6-allhosts
 :: page.0ffer.eu
 0.0.0.0 page.acm.dzwww.com
 :: page.acm.dzwww.com
-0.0.0.0 page.santc.cn
-:: page.santc.cn
 0.0.0.0 page.xywy.com
 :: page.xywy.com
 0.0.0.0 pagead-tpc.l.google.com
@@ -33762,6 +33736,8 @@ ff02::3 ip6-allhosts
 :: service.frankwatching.com
 0.0.0.0 service.jiagu.360.cn
 :: service.jiagu.360.cn
+0.0.0.0 service.just.nl
+:: service.just.nl
 0.0.0.0 service.urchin.com
 :: service.urchin.com
 0.0.0.0 service001.adtech.fr
@@ -36914,8 +36890,6 @@ ff02::3 ip6-allhosts
 :: ssh.lifu11.com
 0.0.0.0 ssh.njcyfpv.cn
 :: ssh.njcyfpv.cn
-0.0.0.0 ssh.wbdcrmn.cn
-:: ssh.wbdcrmn.cn
 0.0.0.0 ssh.xnmcmnt.cn
 :: ssh.xnmcmnt.cn
 0.0.0.0 ssh.yezijizhang.com
@@ -38384,8 +38358,6 @@ ff02::3 ip6-allhosts
 :: stats.resellerratings.com
 0.0.0.0 stats.rs-online.com
 :: stats.rs-online.com
-0.0.0.0 stats.rutracker.ga
-:: stats.rutracker.ga
 0.0.0.0 stats.sa-as.com
 :: stats.sa-as.com
 0.0.0.0 stats.sawlive.tv
@@ -38456,6 +38428,8 @@ ff02::3 ip6-allhosts
 :: stats.travelask.ru
 0.0.0.0 stats.tunt.lv
 :: stats.tunt.lv
+0.0.0.0 stats.twhl.xyz
+:: stats.twhl.xyz
 0.0.0.0 stats.twistage.com
 :: stats.twistage.com
 0.0.0.0 stats.ulixes.pl
@@ -41252,6 +41226,8 @@ ff02::3 ip6-allhosts
 :: track.veedio.it
 0.0.0.0 track.viewdeos.com
 :: track.viewdeos.com
+0.0.0.0 track.vio.edu.vn
+:: track.vio.edu.vn
 0.0.0.0 track.vivid.com
 :: track.vivid.com
 0.0.0.0 track.vscash.com
@@ -41560,6 +41536,8 @@ ff02::3 ip6-allhosts
 :: tracking.babytree.com
 0.0.0.0 tracking.badgeville.com
 :: tracking.badgeville.com
+0.0.0.0 tracking.banner.g6.zing.vn
+:: tracking.banner.g6.zing.vn
 0.0.0.0 tracking.base.de
 :: tracking.base.de
 0.0.0.0 tracking.batanga.com
