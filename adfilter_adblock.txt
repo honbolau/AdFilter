@@ -1,11 +1,11 @@
-! Checksum: MTYxNTY4MzA4OAo=
+! Checksum: MTYxNTc2OTM4Nwo=
 ! Title: Zhijie's Ad Filter for Adblock (WEB-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: -20210314-0
-! TimeUpdated: 2021-03-14T00:51:28+00:00
+! Version: -20210315-0
+! TimeUpdated: 2021-03-15T00:49:47+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 23206
+! Total: 23209
 ||0.r.msn.com^
 ||0.up.qingdaonews.com^
 ||000.0x1f4b0.com^
@@ -33,6 +33,7 @@
 ||1.07swz.com^
 ||1.1010pic.com^
 ||1.11467.com^
+||1.32xp.com^
 ||1.5000yan.com^
 ||1.51sxue.cn^
 ||1.5646.cn^
@@ -484,7 +485,6 @@
 ||a02342.bicesteradvertiser.net^
 ||a02342.bournemouthecho.co.uk^
 ||a02342.brentwoodlive.co.uk^
-||a02342.bridgwatermercury.co.uk^
 ||a02342.bridportnews.co.uk^
 ||a02342.bromsgroveadvertiser.co.uk^
 ||a02342.bucksfreepress.co.uk^
@@ -503,7 +503,6 @@
 ||a02342.greenocktelegraph.co.uk^
 ||a02342.harwichandmanningtreestandard.co.uk^
 ||a02342.heraldscotland.com^
-||a02342.ledburyreporter.co.uk^
 ||a02342.maldonandburnhamstandard.co.uk^
 ||a02342.milfordmercury.co.uk^
 ||a02342.northwichguardian.co.uk^
@@ -1144,6 +1143,7 @@
 ||ad.wavu.hu^
 ||ad.way.cz^
 ||ad.webservis.gen.tr^
+||ad.weixin.qq.com^
 ||ad.weplayer.cc^
 ||ad.where.com^
 ||ad.winrar.com.cn^
@@ -1883,7 +1883,6 @@
 ||ads.liberte.pl^
 ||ads.lifethink.net^
 ||ads.linkedin.com^
-||ads.linksponsor.com^
 ||ads.linktracking.net^
 ||ads.linuxjournal.com^
 ||ads.live365.com^
@@ -2010,6 +2009,7 @@
 ||ads.primissima.it^
 ||ads.printscr.com^
 ||ads.prisacom.com^
+||ads.privacy.qq.com^
 ||ads.privatemedia.co^
 ||ads.pro-market.net^
 ||ads.pro-market.net.edgesuite.net^
@@ -3420,6 +3420,7 @@
 ||apas.aipai.com^
 ||ape-tagit.timeinc.net^
 ||api-a.op-mobile.opera.com^
+||api-access.pangolin-sdk-toutiao-b.com^
 ||api-access.pangolin-sdk-toutiao.com^
 ||api-ad.kajicam.com^
 ||api-ads.tiantianqutao.com^
@@ -3506,6 +3507,8 @@
 ||api.e.mi.com^
 ||api.ettoday.net^
 ||api.exc.mob.com^
+||api.fc.mob.com^
+||api.fd.mob.com^
 ||api.flocktory.com^
 ||api.flygame.io^
 ||api.freewebfonts.org^
@@ -3831,7 +3834,6 @@
 ||asd.nl.bauhaus^
 ||asd.projectfreetv.so^
 ||asd.sincetrade.com^
-||asd2.projectfreetv.so^
 ||asearch.alicdn.com^
 ||aserv.motorsgate.com^
 ||asgdfasad.mm-cgnews.com^
@@ -3963,7 +3965,6 @@
 ||azg1.emalu-store.com^
 ||azlyta.immowelt.de^
 ||aztwwe.satom.ru^
-||azwancan.trafficmanager.net^
 ||azz.badazz.org^
 ||b-gi.getui.com^
 ||b-gtc.getui.com^
@@ -4280,7 +4281,6 @@
 ||bbn.gzblogger.cn^
 ||bbn.img.com.ua^
 ||bbnn.999xs.com^
-||bbs.search.nkwwnx.com^
 ||bbsimages.zkxf119.com^
 ||bc.5.p2l.info^
 ||bc.coupons.com^
@@ -4689,6 +4689,7 @@
 ||bsmtsl.gesundheits-praemien.de^
 ||bsnj.eyeblaster.akadns.net^
 ||bsrv.qq.com^
+||bssdl.kugou.com^
 ||bsv.atm.youku.com^
 ||bsxmuny.wp.pl^
 ||bt.mediaimpact.de^
@@ -5962,6 +5963,7 @@
 ||comet.yahoo.com^
 ||comm.app.autohome.com.cn^
 ||commdata.v.qq.com^
+||commdata6.v.qq.com^
 ||commerce.www.ibm.com^
 ||commercial.davey.com^
 ||commercial.shouji.360.cn^
@@ -7141,6 +7143,7 @@
 ||daima.miercn.com^
 ||daima.youbian.com^
 ||daima.ysdui.com^
+||daima.yutou123.cn^
 ||daima.yuzhulin.com^
 ||daima1.18tzx.com^
 ||dake.net.cn^
@@ -7214,7 +7217,6 @@
 ||data.studybreakmedia.com^
 ||data.ubi.com^
 ||data.vod.itc.cn^
-||data.waptime.cn^
 ||data.woosmap.com^
 ||data.wptag.net^
 ||data.yd126.com^
@@ -7837,6 +7839,7 @@
 ||dspmy.ge95.com^
 ||dspserver.ad.cmvideo.cn^
 ||dsptrack.mobshark.net^
+||dspwin.adsame.com^
 ||dt.adsafeprotected.com^
 ||dt.nrjmobile.fr^
 ||dt.vnecdn.com^
@@ -8392,6 +8395,7 @@
 ||err.da.hunantv.com^
 ||err.ifengcloud.ifeng.com^
 ||err.taobao.com^
+||errlog.umeng.com^
 ||error.videonow.ru^
 ||errorcode.logger.baofeng.com^
 ||errors.snackly.co^
@@ -8877,9 +8881,9 @@
 ||fudezz.kontan.co.id^
 ||fugger.ipage.com^
 ||fun.adx.admaster.com.cn^
-||fun.content.ninjakiwi.com^
 ||fun.wormania.io^
 ||fun1.arcadeprehacks.com^
+||fund.10jqka.com.cn^
 ||furnishings.bellacor.com^
 ||fus.lenovomm.com^
 ||fuse.forbes.com^
@@ -9816,6 +9820,7 @@
 ||i.adwise.bg^
 ||i.bestcontentfare.top^
 ||i.bigmir.net^
+||i.btg360.com.br^
 ||i.clean.gg^
 ||i.clkservice.youdao.com^
 ||i.compendium.com^
@@ -10098,7 +10103,6 @@
 ||img.scupio.com^
 ||img.servint.net^
 ||img.taotaosou.cn^
-||img.users.51.la^
 ||img.uu1001.cn^
 ||img.uyangyong.cn^
 ||img.wan.sogou.com^
@@ -10156,7 +10160,6 @@
 ||imgc.cymzc.com^
 ||imgcdn.mazaibang.com^
 ||imgcdn.wapx.cn^
-||imgcdn.ynwqls.com^
 ||imgf.gade.suimeng.la^
 ||imgg.dt00.net^
 ||imgg.marketgid.com^
@@ -10624,7 +10627,6 @@
 ||jing.58.com^
 ||jipinapi.panqis.cn^
 ||jira.vpon.com^
-||jj.198dh.cn^
 ||jjj.amghais.cn^
 ||jjjj.getui.vip^
 ||jke1.jianke.com^
@@ -11908,7 +11910,6 @@
 ||m.szyuke.cn^
 ||m.tansuotv.com^
 ||m.tbenc.com^
-||m.tdiea.com^
 ||m.themee.cn^
 ||m.tianhaichen.top^
 ||m.tiojk.com^
@@ -12940,7 +12941,6 @@
 ||mic.bahu.xyz^
 ||mic.ububyiw6655.xyz^
 ||mic.xiangyuym.cn^
-||mic.xiaogouzhuanqian.cn^
 ||mic.yun-pdm5000.cn^
 ||microad.co.jp^
 ||mid.houyi.baofeng.net^
@@ -13000,15 +13000,14 @@
 ||mit.dws.com^
 ||mit.dws.de^
 ||miui.hftaili.com^
-||miv.mohaijishu.cn^
 ||miv.ububyiw6655.xyz^
-||miv.xiangyuym.cn^
 ||mivideo.g.mi.com^
 ||mix.adsame.com^
 ||mix.kinostuff.com^
 ||mixer.cupid.ptqy.gitv.tv^
 ||mixer.sina.cn^
 ||mixers.sina.cn^
+||mj.weimob.net^
 ||mj23.eulerian.com^
 ||mjnpya.marktplaats.nl^
 ||mjoyvn.oldi.ru^
@@ -13161,6 +13160,7 @@
 ||monitor-uu.play.aiseet.atianqi.com^
 ||monitor.adcaffe.com^
 ||monitor.ebay.com^
+||monitor.ssp.admobile.top^
 ||monitor.teko.vn^
 ||monitor.uu.qq.com^
 ||monitor.yigao.com^
@@ -13315,7 +13315,6 @@
 ||mwh.zhangranfilm.com^
 ||mwnodes.viaxmr.com^
 ||mws.adsage.com^
-||mx.7cbwus.cn^
 ||mx.browsermine.com^
 ||mx.nimiq.com^
 ||mx.technolutions.net^
@@ -14925,7 +14924,6 @@
 ||prohost.com.tw^
 ||projop.dnsalias.com^
 ||prom.gome.com.cn^
-||prom.qbho.kuaibo.com^
 ||promo-images.ttpsdk.info^
 ||promo.adult-torrent.com^
 ||promo.asiatique.org^
@@ -15956,6 +15954,7 @@
 ||s03.optimix.asia^
 ||s04.hostcontent.live^
 ||s05.hostcontent.live^
+||s06aa680.irs03.com^
 ||s07.hostcontent.live^
 ||s1.2mdn.net^
 ||s1.adform.net^
@@ -16047,6 +16046,7 @@
 ||s4is.histats.com^
 ||s4r.tut.by^
 ||s7.addthis.com^
+||s72f5a8e.irs03.com^
 ||s9.irs03.com^
 ||sa.entireweb.com^
 ||sa.foodnetwork.com^
@@ -16472,6 +16472,7 @@
 ||sdk.open.talk.getui.net^
 ||sdk.open.talk.igexin.com^
 ||sdk.s.360.cn^
+||sdk.ssp.admobile.top^
 ||sdk.starbolt.io^
 ||sdk.stats-locations.com^
 ||sdk.streamrail.com^
@@ -16496,6 +16497,7 @@
 ||sdkrec.tf.360.cn^
 ||sdks.stats-locations.com^
 ||sdksp.video.qq.com^
+||sdksp6.video.qq.com^
 ||sdktm.w.inmobi.cn^
 ||sdlmaf.bestsecret.at^
 ||sdn.kugou.com^
@@ -20300,6 +20302,7 @@
 ||tr.actu.bricodepot.com^
 ||tr.actualites.01net.com^
 ||tr.actualites.bfmtv.com^
+||tr.adsame.com^
 ||tr.animations.bfmtv.com^
 ||tr.asp002q.espmp-aufr.net^
 ||tr.asp1.espmp-agfr.net^
@@ -21252,6 +21255,7 @@
 ||u.meizu.com^
 ||u.oppomobile.com^
 ||u.raidmedia.com.cn^
+||u.ssp.admobile.top^
 ||u.talkingdata.net^
 ||u.uc123.com^
 ||u.ucfly.com^
@@ -21382,6 +21386,7 @@
 ||union.china.com.cn^
 ||union.dangdang.com^
 ||union.duizhuang.com^
+||union.gdtimg.com^
 ||union.ijinshan.com^
 ||union.maccms.com^
 ||union.mop.com^
@@ -21564,7 +21569,6 @@
 ||v.m06nev.com^
 ||v.mir-18.ru^
 ||v.movad.de^
-||v.nanjinglongyu.com^
 ||v.nkzker.cn^
 ||v.oq68.com^
 ||v.oui.sncf^
@@ -23176,7 +23180,6 @@
 ||zsdexun.com.cn^
 ||zsi7.destinia.do^
 ||ztd.dds.microsoft.com^
-||ztd.szkdst.com^
 ||ztevents.zaloapp.com^
 ||ztrpm.lu.sogou.com^
 ||ztyumn.ifeng.com^

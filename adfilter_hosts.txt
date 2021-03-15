@@ -1,11 +1,11 @@
-# Checksum: MTYxNTY4MzA4OAo=
+# Checksum: MTYxNTc2OTM4Nwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210314-0
-# TimeUpdated: 2021-03-14T00:51:28+00:00
+# Version: -20210315-0
+# TimeUpdated: 2021-03-15T00:49:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 23206
+# Total: 23209
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -70,6 +70,8 @@ ff02::3 ip6-allhosts
 :: 1.1010pic.com
 0.0.0.0 1.11467.com
 :: 1.11467.com
+0.0.0.0 1.32xp.com
+:: 1.32xp.com
 0.0.0.0 1.5000yan.com
 :: 1.5000yan.com
 0.0.0.0 1.51sxue.cn
@@ -972,8 +974,6 @@ ff02::3 ip6-allhosts
 :: a02342.bournemouthecho.co.uk
 0.0.0.0 a02342.brentwoodlive.co.uk
 :: a02342.brentwoodlive.co.uk
-0.0.0.0 a02342.bridgwatermercury.co.uk
-:: a02342.bridgwatermercury.co.uk
 0.0.0.0 a02342.bridportnews.co.uk
 :: a02342.bridportnews.co.uk
 0.0.0.0 a02342.bromsgroveadvertiser.co.uk
@@ -1010,8 +1010,6 @@ ff02::3 ip6-allhosts
 :: a02342.harwichandmanningtreestandard.co.uk
 0.0.0.0 a02342.heraldscotland.com
 :: a02342.heraldscotland.com
-0.0.0.0 a02342.ledburyreporter.co.uk
-:: a02342.ledburyreporter.co.uk
 0.0.0.0 a02342.maldonandburnhamstandard.co.uk
 :: a02342.maldonandburnhamstandard.co.uk
 0.0.0.0 a02342.milfordmercury.co.uk
@@ -2292,6 +2290,8 @@ ff02::3 ip6-allhosts
 :: ad.way.cz
 0.0.0.0 ad.webservis.gen.tr
 :: ad.webservis.gen.tr
+0.0.0.0 ad.weixin.qq.com
+:: ad.weixin.qq.com
 0.0.0.0 ad.weplayer.cc
 :: ad.weplayer.cc
 0.0.0.0 ad.where.com
@@ -3770,8 +3770,6 @@ ff02::3 ip6-allhosts
 :: ads.lifethink.net
 0.0.0.0 ads.linkedin.com
 :: ads.linkedin.com
-0.0.0.0 ads.linksponsor.com
-:: ads.linksponsor.com
 0.0.0.0 ads.linktracking.net
 :: ads.linktracking.net
 0.0.0.0 ads.linuxjournal.com
@@ -4024,6 +4022,8 @@ ff02::3 ip6-allhosts
 :: ads.printscr.com
 0.0.0.0 ads.prisacom.com
 :: ads.prisacom.com
+0.0.0.0 ads.privacy.qq.com
+:: ads.privacy.qq.com
 0.0.0.0 ads.privatemedia.co
 :: ads.privatemedia.co
 0.0.0.0 ads.pro-market.net
@@ -6844,6 +6844,8 @@ ff02::3 ip6-allhosts
 :: ape-tagit.timeinc.net
 0.0.0.0 api-a.op-mobile.opera.com
 :: api-a.op-mobile.opera.com
+0.0.0.0 api-access.pangolin-sdk-toutiao-b.com
+:: api-access.pangolin-sdk-toutiao-b.com
 0.0.0.0 api-access.pangolin-sdk-toutiao.com
 :: api-access.pangolin-sdk-toutiao.com
 0.0.0.0 api-ad.kajicam.com
@@ -7016,6 +7018,10 @@ ff02::3 ip6-allhosts
 :: api.ettoday.net
 0.0.0.0 api.exc.mob.com
 :: api.exc.mob.com
+0.0.0.0 api.fc.mob.com
+:: api.fc.mob.com
+0.0.0.0 api.fd.mob.com
+:: api.fd.mob.com
 0.0.0.0 api.flocktory.com
 :: api.flocktory.com
 0.0.0.0 api.flygame.io
@@ -7666,8 +7672,6 @@ ff02::3 ip6-allhosts
 :: asd.projectfreetv.so
 0.0.0.0 asd.sincetrade.com
 :: asd.sincetrade.com
-0.0.0.0 asd2.projectfreetv.so
-:: asd2.projectfreetv.so
 0.0.0.0 asearch.alicdn.com
 :: asearch.alicdn.com
 0.0.0.0 aserv.motorsgate.com
@@ -7930,8 +7934,6 @@ ff02::3 ip6-allhosts
 :: azlyta.immowelt.de
 0.0.0.0 aztwwe.satom.ru
 :: aztwwe.satom.ru
-0.0.0.0 azwancan.trafficmanager.net
-:: azwancan.trafficmanager.net
 0.0.0.0 azz.badazz.org
 :: azz.badazz.org
 0.0.0.0 b-gi.getui.com
@@ -8564,8 +8566,6 @@ ff02::3 ip6-allhosts
 :: bbn.img.com.ua
 0.0.0.0 bbnn.999xs.com
 :: bbnn.999xs.com
-0.0.0.0 bbs.search.nkwwnx.com
-:: bbs.search.nkwwnx.com
 0.0.0.0 bbsimages.zkxf119.com
 :: bbsimages.zkxf119.com
 0.0.0.0 bc.5.p2l.info
@@ -9382,6 +9382,8 @@ ff02::3 ip6-allhosts
 :: bsnj.eyeblaster.akadns.net
 0.0.0.0 bsrv.qq.com
 :: bsrv.qq.com
+0.0.0.0 bssdl.kugou.com
+:: bssdl.kugou.com
 0.0.0.0 bsv.atm.youku.com
 :: bsv.atm.youku.com
 0.0.0.0 bsxmuny.wp.pl
@@ -11928,6 +11930,8 @@ ff02::3 ip6-allhosts
 :: comm.app.autohome.com.cn
 0.0.0.0 commdata.v.qq.com
 :: commdata.v.qq.com
+0.0.0.0 commdata6.v.qq.com
+:: commdata6.v.qq.com
 0.0.0.0 commerce.www.ibm.com
 :: commerce.www.ibm.com
 0.0.0.0 commercial.davey.com
@@ -14286,6 +14290,8 @@ ff02::3 ip6-allhosts
 :: daima.youbian.com
 0.0.0.0 daima.ysdui.com
 :: daima.ysdui.com
+0.0.0.0 daima.yutou123.cn
+:: daima.yutou123.cn
 0.0.0.0 daima.yuzhulin.com
 :: daima.yuzhulin.com
 0.0.0.0 daima1.18tzx.com
@@ -14432,8 +14438,6 @@ ff02::3 ip6-allhosts
 :: data.ubi.com
 0.0.0.0 data.vod.itc.cn
 :: data.vod.itc.cn
-0.0.0.0 data.waptime.cn
-:: data.waptime.cn
 0.0.0.0 data.woosmap.com
 :: data.woosmap.com
 0.0.0.0 data.wptag.net
@@ -15678,6 +15682,8 @@ ff02::3 ip6-allhosts
 :: dspserver.ad.cmvideo.cn
 0.0.0.0 dsptrack.mobshark.net
 :: dsptrack.mobshark.net
+0.0.0.0 dspwin.adsame.com
+:: dspwin.adsame.com
 0.0.0.0 dt.adsafeprotected.com
 :: dt.adsafeprotected.com
 0.0.0.0 dt.nrjmobile.fr
@@ -16788,6 +16794,8 @@ ff02::3 ip6-allhosts
 :: err.ifengcloud.ifeng.com
 0.0.0.0 err.taobao.com
 :: err.taobao.com
+0.0.0.0 errlog.umeng.com
+:: errlog.umeng.com
 0.0.0.0 error.videonow.ru
 :: error.videonow.ru
 0.0.0.0 errorcode.logger.baofeng.com
@@ -17758,12 +17766,12 @@ ff02::3 ip6-allhosts
 :: fugger.ipage.com
 0.0.0.0 fun.adx.admaster.com.cn
 :: fun.adx.admaster.com.cn
-0.0.0.0 fun.content.ninjakiwi.com
-:: fun.content.ninjakiwi.com
 0.0.0.0 fun.wormania.io
 :: fun.wormania.io
 0.0.0.0 fun1.arcadeprehacks.com
 :: fun1.arcadeprehacks.com
+0.0.0.0 fund.10jqka.com.cn
+:: fund.10jqka.com.cn
 0.0.0.0 furnishings.bellacor.com
 :: furnishings.bellacor.com
 0.0.0.0 fus.lenovomm.com
@@ -19636,6 +19644,8 @@ ff02::3 ip6-allhosts
 :: i.bestcontentfare.top
 0.0.0.0 i.bigmir.net
 :: i.bigmir.net
+0.0.0.0 i.btg360.com.br
+:: i.btg360.com.br
 0.0.0.0 i.clean.gg
 :: i.clean.gg
 0.0.0.0 i.clkservice.youdao.com
@@ -20200,8 +20210,6 @@ ff02::3 ip6-allhosts
 :: img.servint.net
 0.0.0.0 img.taotaosou.cn
 :: img.taotaosou.cn
-0.0.0.0 img.users.51.la
-:: img.users.51.la
 0.0.0.0 img.uu1001.cn
 :: img.uu1001.cn
 0.0.0.0 img.uyangyong.cn
@@ -20316,8 +20324,6 @@ ff02::3 ip6-allhosts
 :: imgcdn.mazaibang.com
 0.0.0.0 imgcdn.wapx.cn
 :: imgcdn.wapx.cn
-0.0.0.0 imgcdn.ynwqls.com
-:: imgcdn.ynwqls.com
 0.0.0.0 imgf.gade.suimeng.la
 :: imgf.gade.suimeng.la
 0.0.0.0 imgg.dt00.net
@@ -21252,8 +21258,6 @@ ff02::3 ip6-allhosts
 :: jipinapi.panqis.cn
 0.0.0.0 jira.vpon.com
 :: jira.vpon.com
-0.0.0.0 jj.198dh.cn
-:: jj.198dh.cn
 0.0.0.0 jjj.amghais.cn
 :: jjj.amghais.cn
 0.0.0.0 jjjj.getui.vip
@@ -23820,8 +23824,6 @@ ff02::3 ip6-allhosts
 :: m.tansuotv.com
 0.0.0.0 m.tbenc.com
 :: m.tbenc.com
-0.0.0.0 m.tdiea.com
-:: m.tdiea.com
 0.0.0.0 m.themee.cn
 :: m.themee.cn
 0.0.0.0 m.tianhaichen.top
@@ -25884,8 +25886,6 @@ ff02::3 ip6-allhosts
 :: mic.ububyiw6655.xyz
 0.0.0.0 mic.xiangyuym.cn
 :: mic.xiangyuym.cn
-0.0.0.0 mic.xiaogouzhuanqian.cn
-:: mic.xiaogouzhuanqian.cn
 0.0.0.0 mic.yun-pdm5000.cn
 :: mic.yun-pdm5000.cn
 0.0.0.0 microad.co.jp
@@ -26004,12 +26004,8 @@ ff02::3 ip6-allhosts
 :: mit.dws.de
 0.0.0.0 miui.hftaili.com
 :: miui.hftaili.com
-0.0.0.0 miv.mohaijishu.cn
-:: miv.mohaijishu.cn
 0.0.0.0 miv.ububyiw6655.xyz
 :: miv.ububyiw6655.xyz
-0.0.0.0 miv.xiangyuym.cn
-:: miv.xiangyuym.cn
 0.0.0.0 mivideo.g.mi.com
 :: mivideo.g.mi.com
 0.0.0.0 mix.adsame.com
@@ -26022,6 +26018,8 @@ ff02::3 ip6-allhosts
 :: mixer.sina.cn
 0.0.0.0 mixers.sina.cn
 :: mixers.sina.cn
+0.0.0.0 mj.weimob.net
+:: mj.weimob.net
 0.0.0.0 mj23.eulerian.com
 :: mj23.eulerian.com
 0.0.0.0 mjnpya.marktplaats.nl
@@ -26326,6 +26324,8 @@ ff02::3 ip6-allhosts
 :: monitor.adcaffe.com
 0.0.0.0 monitor.ebay.com
 :: monitor.ebay.com
+0.0.0.0 monitor.ssp.admobile.top
+:: monitor.ssp.admobile.top
 0.0.0.0 monitor.teko.vn
 :: monitor.teko.vn
 0.0.0.0 monitor.uu.qq.com
@@ -26634,8 +26634,6 @@ ff02::3 ip6-allhosts
 :: mwnodes.viaxmr.com
 0.0.0.0 mws.adsage.com
 :: mws.adsage.com
-0.0.0.0 mx.7cbwus.cn
-:: mx.7cbwus.cn
 0.0.0.0 mx.browsermine.com
 :: mx.browsermine.com
 0.0.0.0 mx.nimiq.com
@@ -29854,8 +29852,6 @@ ff02::3 ip6-allhosts
 :: projop.dnsalias.com
 0.0.0.0 prom.gome.com.cn
 :: prom.gome.com.cn
-0.0.0.0 prom.qbho.kuaibo.com
-:: prom.qbho.kuaibo.com
 0.0.0.0 promo-images.ttpsdk.info
 :: promo-images.ttpsdk.info
 0.0.0.0 promo.adult-torrent.com
@@ -31916,6 +31912,8 @@ ff02::3 ip6-allhosts
 :: s04.hostcontent.live
 0.0.0.0 s05.hostcontent.live
 :: s05.hostcontent.live
+0.0.0.0 s06aa680.irs03.com
+:: s06aa680.irs03.com
 0.0.0.0 s07.hostcontent.live
 :: s07.hostcontent.live
 0.0.0.0 s1.2mdn.net
@@ -32098,6 +32096,8 @@ ff02::3 ip6-allhosts
 :: s4r.tut.by
 0.0.0.0 s7.addthis.com
 :: s7.addthis.com
+0.0.0.0 s72f5a8e.irs03.com
+:: s72f5a8e.irs03.com
 0.0.0.0 s9.irs03.com
 :: s9.irs03.com
 0.0.0.0 sa.entireweb.com
@@ -32948,6 +32948,8 @@ ff02::3 ip6-allhosts
 :: sdk.open.talk.igexin.com
 0.0.0.0 sdk.s.360.cn
 :: sdk.s.360.cn
+0.0.0.0 sdk.ssp.admobile.top
+:: sdk.ssp.admobile.top
 0.0.0.0 sdk.starbolt.io
 :: sdk.starbolt.io
 0.0.0.0 sdk.stats-locations.com
@@ -32996,6 +32998,8 @@ ff02::3 ip6-allhosts
 :: sdks.stats-locations.com
 0.0.0.0 sdksp.video.qq.com
 :: sdksp.video.qq.com
+0.0.0.0 sdksp6.video.qq.com
+:: sdksp6.video.qq.com
 0.0.0.0 sdktm.w.inmobi.cn
 :: sdktm.w.inmobi.cn
 0.0.0.0 sdlmaf.bestsecret.at
@@ -40604,6 +40608,8 @@ ff02::3 ip6-allhosts
 :: tr.actualites.01net.com
 0.0.0.0 tr.actualites.bfmtv.com
 :: tr.actualites.bfmtv.com
+0.0.0.0 tr.adsame.com
+:: tr.adsame.com
 0.0.0.0 tr.animations.bfmtv.com
 :: tr.animations.bfmtv.com
 0.0.0.0 tr.asp002q.espmp-aufr.net
@@ -42508,6 +42514,8 @@ ff02::3 ip6-allhosts
 :: u.oppomobile.com
 0.0.0.0 u.raidmedia.com.cn
 :: u.raidmedia.com.cn
+0.0.0.0 u.ssp.admobile.top
+:: u.ssp.admobile.top
 0.0.0.0 u.talkingdata.net
 :: u.talkingdata.net
 0.0.0.0 u.uc123.com
@@ -42768,6 +42776,8 @@ ff02::3 ip6-allhosts
 :: union.dangdang.com
 0.0.0.0 union.duizhuang.com
 :: union.duizhuang.com
+0.0.0.0 union.gdtimg.com
+:: union.gdtimg.com
 0.0.0.0 union.ijinshan.com
 :: union.ijinshan.com
 0.0.0.0 union.maccms.com
@@ -43132,8 +43142,6 @@ ff02::3 ip6-allhosts
 :: v.mir-18.ru
 0.0.0.0 v.movad.de
 :: v.movad.de
-0.0.0.0 v.nanjinglongyu.com
-:: v.nanjinglongyu.com
 0.0.0.0 v.nkzker.cn
 :: v.nkzker.cn
 0.0.0.0 v.oq68.com
@@ -46356,8 +46364,6 @@ ff02::3 ip6-allhosts
 :: zsi7.destinia.do
 0.0.0.0 ztd.dds.microsoft.com
 :: ztd.dds.microsoft.com
-0.0.0.0 ztd.szkdst.com
-:: ztd.szkdst.com
 0.0.0.0 ztevents.zaloapp.com
 :: ztevents.zaloapp.com
 0.0.0.0 ztrpm.lu.sogou.com
