@@ -1,11 +1,11 @@
-# Checksum: MTYxNTc2OTM4Nwo=
+# Checksum: MTYxNTg1NTY5Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210315-0
-# TimeUpdated: 2021-03-15T00:49:47+00:00
+# Version: -20210316-0
+# TimeUpdated: 2021-03-16T00:48:13+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 23209
+# Total: 23205
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -70,8 +70,6 @@ ff02::3 ip6-allhosts
 :: 1.1010pic.com
 0.0.0.0 1.11467.com
 :: 1.11467.com
-0.0.0.0 1.32xp.com
-:: 1.32xp.com
 0.0.0.0 1.5000yan.com
 :: 1.5000yan.com
 0.0.0.0 1.51sxue.cn
@@ -1012,8 +1010,6 @@ ff02::3 ip6-allhosts
 :: a02342.heraldscotland.com
 0.0.0.0 a02342.maldonandburnhamstandard.co.uk
 :: a02342.maldonandburnhamstandard.co.uk
-0.0.0.0 a02342.milfordmercury.co.uk
-:: a02342.milfordmercury.co.uk
 0.0.0.0 a02342.northwichguardian.co.uk
 :: a02342.northwichguardian.co.uk
 0.0.0.0 a02342.penarthtimes.co.uk
@@ -1134,8 +1130,6 @@ ff02::3 ip6-allhosts
 :: a1.sumiaowang.com
 0.0.0.0 a1.twtym.com
 :: a1.twtym.com
-0.0.0.0 a1.yuuedu.com
-:: a1.yuuedu.com
 0.0.0.0 a1.zhanzhang.net
 :: a1.zhanzhang.net
 0.0.0.0 a11058.actonservice.com
@@ -3488,6 +3482,8 @@ ff02::3 ip6-allhosts
 :: ads.emdee.ca
 0.0.0.0 ads.emirates.net.ae
 :: ads.emirates.net.ae
+0.0.0.0 ads.enrt.eu
+:: ads.enrt.eu
 0.0.0.0 ads.eorezo.com
 :: ads.eorezo.com
 0.0.0.0 ads.epi.sk
@@ -7672,6 +7668,8 @@ ff02::3 ip6-allhosts
 :: asd.projectfreetv.so
 0.0.0.0 asd.sincetrade.com
 :: asd.sincetrade.com
+0.0.0.0 asd2.projectfreetv.so
+:: asd2.projectfreetv.so
 0.0.0.0 asearch.alicdn.com
 :: asearch.alicdn.com
 0.0.0.0 aserv.motorsgate.com
@@ -16764,8 +16762,6 @@ ff02::3 ip6-allhosts
 :: eq.10jqka.com.cn
 0.0.0.0 eqnan.megaseries.biz
 :: eqnan.megaseries.biz
-0.0.0.0 eqq.damumu.xyz
-:: eqq.damumu.xyz
 0.0.0.0 eqx.smartadserver.com
 :: eqx.smartadserver.com
 0.0.0.0 er.5ykj.com
@@ -17036,10 +17032,6 @@ ff02::3 ip6-allhosts
 :: events.jora.com
 0.0.0.0 events.jotform.com
 :: events.jotform.com
-0.0.0.0 events.kaloo.ga
-:: events.kaloo.ga
-0.0.0.0 events.kalooga.com
-:: events.kalooga.com
 0.0.0.0 events.launchdarkly.com
 :: events.launchdarkly.com
 0.0.0.0 events.lbesecapi.com
@@ -17070,6 +17062,8 @@ ff02::3 ip6-allhosts
 :: events.sk.ht
 0.0.0.0 events.splash-screen.net
 :: events.splash-screen.net
+0.0.0.0 events.split.io
+:: events.split.io
 0.0.0.0 events.streamrail.net
 :: events.streamrail.net
 0.0.0.0 events.tubecup.org
@@ -18026,8 +18020,6 @@ ff02::3 ip6-allhosts
 :: game.funshion.com
 0.0.0.0 game.html5.qq.com
 :: game.html5.qq.com
-0.0.0.0 game.ifeng.com
-:: game.ifeng.com
 0.0.0.0 game.pps.tv
 :: game.pps.tv
 0.0.0.0 game.qidian.com
@@ -20228,8 +20220,6 @@ ff02::3 ip6-allhosts
 :: img.yingshidiguo.cn
 0.0.0.0 img.yjegf.com
 :: img.yjegf.com
-0.0.0.0 img.ynwqls.com
-:: img.ynwqls.com
 0.0.0.0 img.ytlm.cn
 :: img.ytlm.cn
 0.0.0.0 img.zeruinong.com
@@ -22976,6 +22966,8 @@ ff02::3 ip6-allhosts
 :: logapi.misa.com.vn
 0.0.0.0 logapi.tv.naver.com
 :: logapi.tv.naver.com
+0.0.0.0 logcol.kyobobook.co.kr
+:: logcol.kyobobook.co.kr
 0.0.0.0 logconf.iflytek.com
 :: logconf.iflytek.com
 0.0.0.0 logconfig.polarisoffice.com
@@ -22994,6 +22986,8 @@ ff02::3 ip6-allhosts
 :: logger.cloudmobi.net
 0.0.0.0 logger.co.kr
 :: logger.co.kr
+0.0.0.0 logger.eigene.io
+:: logger.eigene.io
 0.0.0.0 logger.ivi.ru
 :: logger.ivi.ru
 0.0.0.0 logger.kataweb.it
@@ -23424,8 +23418,6 @@ ff02::3 ip6-allhosts
 :: m.bjaoyou.cn
 0.0.0.0 m.bndbddt.top
 :: m.bndbddt.top
-0.0.0.0 m.bs641.cn
-:: m.bs641.cn
 0.0.0.0 m.bsnnk.com
 :: m.bsnnk.com
 0.0.0.0 m.cdfzcz.com
@@ -23526,8 +23518,6 @@ ff02::3 ip6-allhosts
 :: m.fenrs.com
 0.0.0.0 m.fhxiaoshuo.com
 :: m.fhxiaoshuo.com
-0.0.0.0 m.focuscat.com
-:: m.focuscat.com
 0.0.0.0 m.fouas.com
 :: m.fouas.com
 0.0.0.0 m.frjxdv.cn
@@ -23858,8 +23848,6 @@ ff02::3 ip6-allhosts
 :: m.uw45o.cn
 0.0.0.0 m.vaxyz.com
 :: m.vaxyz.com
-0.0.0.0 m.vbinr.com
-:: m.vbinr.com
 0.0.0.0 m.vchiy.com
 :: m.vchiy.com
 0.0.0.0 m.verpt.com
@@ -29734,6 +29722,8 @@ ff02::3 ip6-allhosts
 :: prd-collector-anon.playbuzz.com
 0.0.0.0 prd-collector-auth.playbuzz.com
 :: prd-collector-auth.playbuzz.com
+0.0.0.0 prd-collector-platform.ex.co
+:: prd-collector-platform.ex.co
 0.0.0.0 pre.footprintpredict.com
 :: pre.footprintpredict.com
 0.0.0.0 pre.glotgrx.com
@@ -30526,8 +30516,6 @@ ff02::3 ip6-allhosts
 :: qd.dhzw.org
 0.0.0.0 qd.easylive.net
 :: qd.easylive.net
-0.0.0.0 qd.js.sanjiangge.com
-:: qd.js.sanjiangge.com
 0.0.0.0 qd.snwx.com
 :: qd.snwx.com
 0.0.0.0 qd.wanjuanba.com
@@ -30672,6 +30660,8 @@ ff02::3 ip6-allhosts
 :: qzwktr.world-fusigi.net
 0.0.0.0 qzxcvb.m.zwdu.com
 :: qzxcvb.m.zwdu.com
+0.0.0.0 r-ad.linkshare.jp
+:: r-ad.linkshare.jp
 0.0.0.0 r-ad.ne.jp
 :: r-ad.ne.jp
 0.0.0.0 r-ln-2.net.daraz.com
@@ -30864,8 +30854,6 @@ ff02::3 ip6-allhosts
 :: rcgi.video.qq.com
 0.0.0.0 rchs.1mb034.cn
 :: rchs.1mb034.cn
-0.0.0.0 rcm-cn.amazon.cn
-:: rcm-cn.amazon.cn
 0.0.0.0 rcm-images.amazon.com
 :: rcm-images.amazon.com
 0.0.0.0 rcm-it.amazon.it
@@ -30966,6 +30954,8 @@ ff02::3 ip6-allhosts
 :: rec.udn.com
 0.0.0.0 rec2000.at.ua
 :: rec2000.at.ua
+0.0.0.0 receiver.eigene.io
+:: receiver.eigene.io
 0.0.0.0 receiver.pravoved.org
 :: receiver.pravoved.org
 0.0.0.0 reclame.lequipement.fr
@@ -31926,6 +31916,8 @@ ff02::3 ip6-allhosts
 :: s1.dugoogle.com
 0.0.0.0 s1.hiapk.com
 :: s1.hiapk.com
+0.0.0.0 s1.hualaoye.com
+:: s1.hualaoye.com
 0.0.0.0 s1.intimshop.ru
 :: s1.intimshop.ru
 0.0.0.0 s1.irs03.com
