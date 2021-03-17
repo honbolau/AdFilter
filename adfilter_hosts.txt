@@ -1,11 +1,11 @@
-# Checksum: MTYxNTg1NTY5Mwo=
+# Checksum: MTYxNTk0MjE4NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210316-0
-# TimeUpdated: 2021-03-16T00:48:13+00:00
+# Version: -20210317-0
+# TimeUpdated: 2021-03-17T00:49:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 23205
+# Total: 23191
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1336,8 +1336,6 @@ ff02::3 ip6-allhosts
 :: aax-eu-dub.amazon.com
 0.0.0.0 aax-eu.amazon-adsystem.com
 :: aax-eu.amazon-adsystem.com
-0.0.0.0 aax-fe-pek.amazon-adsystem.com
-:: aax-fe-pek.amazon-adsystem.com
 0.0.0.0 aax-fe-sin.amazon-adsystem.com
 :: aax-fe-sin.amazon-adsystem.com
 0.0.0.0 aax-fe.amazon-adsystem.com
@@ -8552,8 +8550,6 @@ ff02::3 ip6-allhosts
 :: bbbihe.vertbaudet.es
 0.0.0.0 bbcc.yxlady.com
 :: bbcc.yxlady.com
-0.0.0.0 bbcdn.go.arbopl.bbelements.com
-:: bbcdn.go.arbopl.bbelements.com
 0.0.0.0 bbdm.051661.com
 :: bbdm.051661.com
 0.0.0.0 bbgzao.glamira.co.nz
@@ -9380,8 +9376,6 @@ ff02::3 ip6-allhosts
 :: bsnj.eyeblaster.akadns.net
 0.0.0.0 bsrv.qq.com
 :: bsrv.qq.com
-0.0.0.0 bssdl.kugou.com
-:: bssdl.kugou.com
 0.0.0.0 bsv.atm.youku.com
 :: bsv.atm.youku.com
 0.0.0.0 bsxmuny.wp.pl
@@ -9734,8 +9728,6 @@ ff02::3 ip6-allhosts
 :: c.jjkk.org
 0.0.0.0 c.jp.msn.com
 :: c.jp.msn.com
-0.0.0.0 c.jsbgh.cn
-:: c.jsbgh.cn
 0.0.0.0 c.kbf365.cn
 :: c.kbf365.cn
 0.0.0.0 c.kuaiduizuoye.com
@@ -15252,6 +15244,8 @@ ff02::3 ip6-allhosts
 :: dm.sanwen8.com
 0.0.0.0 dm.sb580.com
 :: dm.sb580.com
+0.0.0.0 dm.sg92.com
+:: dm.sg92.com
 0.0.0.0 dm.taobaojuhuasuan.cn
 :: dm.taobaojuhuasuan.cn
 0.0.0.0 dm.toutiao.com
@@ -15664,8 +15658,6 @@ ff02::3 ip6-allhosts
 :: dsp.toutiao.com
 0.0.0.0 dsp.youdao.com
 :: dsp.youdao.com
-0.0.0.0 dspack.com.cn
-:: dspack.com.cn
 0.0.0.0 dspcm.brand.sogou.com
 :: dspcm.brand.sogou.com
 0.0.0.0 dspimg.adsame.com
@@ -16130,8 +16122,6 @@ ff02::3 ip6-allhosts
 :: ea.lespagnedunordausud.fr
 0.0.0.0 ea.lexpress.fr
 :: ea.lexpress.fr
-0.0.0.0 ea.megustaleer.com
-:: ea.megustaleer.com
 0.0.0.0 ea.megustaleer.com.pe
 :: ea.megustaleer.com.pe
 0.0.0.0 ea.melijoe.com
@@ -18260,8 +18250,6 @@ ff02::3 ip6-allhosts
 :: geo.hltv.org
 0.0.0.0 geo.homepage-web.com
 :: geo.homepage-web.com
-0.0.0.0 geo.kaloo.ga
-:: geo.kaloo.ga
 0.0.0.0 geo.kontagent.net
 :: geo.kontagent.net
 0.0.0.0 geo.mattel163.com
@@ -18984,8 +18972,6 @@ ff02::3 ip6-allhosts
 :: hakuba.janis.or.jp
 0.0.0.0 hal.courrierinternational.com
 :: hal.courrierinternational.com
-0.0.0.0 hampshirechronicle-gb.hampshirechronicle.co.uk
-:: hampshirechronicle-gb.hampshirechronicle.co.uk
 0.0.0.0 handycam.alicdn.com
 :: handycam.alicdn.com
 0.0.0.0 hao.315hyw.com
@@ -19430,8 +19416,6 @@ ff02::3 ip6-allhosts
 :: html.keran.hl.cn
 0.0.0.0 html.shibeiou.com
 :: html.shibeiou.com
-0.0.0.0 html.sunday8.com
-:: html.sunday8.com
 0.0.0.0 html5adkit.plusmo.s3.amazonaws.com
 :: html5adkit.plusmo.s3.amazonaws.com
 0.0.0.0 htnblk.kansascitysteaks.com
@@ -21544,8 +21528,6 @@ ff02::3 ip6-allhosts
 :: js.yalongrope.cn
 0.0.0.0 js.yanyue.cn
 :: js.yanyue.cn
-0.0.0.0 js.ydeprint.com
-:: js.ydeprint.com
 0.0.0.0 js.yixui.com
 :: js.yixui.com
 0.0.0.0 js.yoyi.tv
@@ -23552,8 +23534,6 @@ ff02::3 ip6-allhosts
 :: m.guanren6.com
 0.0.0.0 m.guanren9.com
 :: m.guanren9.com
-0.0.0.0 m.gvez.top
-:: m.gvez.top
 0.0.0.0 m.gxkyl.com
 :: m.gxkyl.com
 0.0.0.0 m.gxwztv.com
@@ -23590,8 +23570,6 @@ ff02::3 ip6-allhosts
 :: m.hx623.cn
 0.0.0.0 m.hy10010.com.cn
 :: m.hy10010.com.cn
-0.0.0.0 m.hzuok.com
-:: m.hzuok.com
 0.0.0.0 m.i05h.cn
 :: m.i05h.cn
 0.0.0.0 m.icyrd.com
@@ -23790,8 +23768,6 @@ ff02::3 ip6-allhosts
 :: m.shanbara.jp
 0.0.0.0 m.shilian168.cn
 :: m.shilian168.cn
-0.0.0.0 m.shwedar.com.cn
-:: m.shwedar.com.cn
 0.0.0.0 m.simba.taobao.com
 :: m.simba.taobao.com
 0.0.0.0 m.sjzhushou.com
@@ -29496,8 +29472,6 @@ ff02::3 ip6-allhosts
 :: plugin.mediavoice.com
 0.0.0.0 plugin.mobopay.baidu.com
 :: plugin.mobopay.baidu.com
-0.0.0.0 plumbus.minutemediaservices.com
-:: plumbus.minutemediaservices.com
 0.0.0.0 plusone.google.com
 :: plusone.google.com
 0.0.0.0 pluto.r.powuta.com
@@ -46180,8 +46154,6 @@ ff02::3 ip6-allhosts
 :: z888.izhufu.net
 0.0.0.0 za.zalo.me
 :: za.zalo.me
-0.0.0.0 zadrb.zadrottv.ru
-:: zadrb.zadrottv.ru
 0.0.0.0 zae.gzzena.com
 :: zae.gzzena.com
 0.0.0.0 zafrc.5780.site

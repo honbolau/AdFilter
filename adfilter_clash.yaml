@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYxNTg1NTY5Mwo=
+# Checksum: MTYxNTk0MjE4NQo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210316-0
-# TimeUpdated: 2021-03-16T00:48:13+00:00
+# Version: -20210317-0
+# TimeUpdated: 2021-03-17T00:49:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 23205
+# Total: 23191
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,000.0x1f4b0.com
@@ -667,7 +667,6 @@ payload:
   - DOMAIN,aax-cpm.amazon-adsystem.com
   - DOMAIN,aax-eu-dub.amazon.com
   - DOMAIN,aax-eu.amazon-adsystem.com
-  - DOMAIN,aax-fe-pek.amazon-adsystem.com
   - DOMAIN,aax-fe-sin.amazon-adsystem.com
   - DOMAIN,aax-fe.amazon-adsystem.com
   - DOMAIN,aax-us-west.amazon-adsystem.com
@@ -4275,7 +4274,6 @@ payload:
   - DOMAIN,bb2.ifeng.com
   - DOMAIN,bbbihe.vertbaudet.es
   - DOMAIN,bbcc.yxlady.com
-  - DOMAIN,bbcdn.go.arbopl.bbelements.com
   - DOMAIN,bbdm.051661.com
   - DOMAIN,bbgzao.glamira.co.nz
   - DOMAIN,bbn.gzblogger.cn
@@ -4689,7 +4687,6 @@ payload:
   - DOMAIN,bsmtsl.gesundheits-praemien.de
   - DOMAIN,bsnj.eyeblaster.akadns.net
   - DOMAIN,bsrv.qq.com
-  - DOMAIN,bssdl.kugou.com
   - DOMAIN,bsv.atm.youku.com
   - DOMAIN,bsxmuny.wp.pl
   - DOMAIN,bt.mediaimpact.de
@@ -4866,7 +4863,6 @@ payload:
   - DOMAIN,c.jinliaoyang.com
   - DOMAIN,c.jjkk.org
   - DOMAIN,c.jp.msn.com
-  - DOMAIN,c.jsbgh.cn
   - DOMAIN,c.kbf365.cn
   - DOMAIN,c.kuaiduizuoye.com
   - DOMAIN,c.kuwo.cn
@@ -7625,6 +7621,7 @@ payload:
   - DOMAIN,dm.sanwen.net
   - DOMAIN,dm.sanwen8.com
   - DOMAIN,dm.sb580.com
+  - DOMAIN,dm.sg92.com
   - DOMAIN,dm.taobaojuhuasuan.cn
   - DOMAIN,dm.toutiao.com
   - DOMAIN,dm.xiazaibao.xunlei.com
@@ -7831,7 +7828,6 @@ payload:
   - DOMAIN,dsp.simba.taobao.com
   - DOMAIN,dsp.toutiao.com
   - DOMAIN,dsp.youdao.com
-  - DOMAIN,dspack.com.cn
   - DOMAIN,dspcm.brand.sogou.com
   - DOMAIN,dspimg.adsame.com
   - DOMAIN,dspimg.dftoutiao.com
@@ -8064,7 +8060,6 @@ payload:
   - DOMAIN,ea.leskidunordausud.fr
   - DOMAIN,ea.lespagnedunordausud.fr
   - DOMAIN,ea.lexpress.fr
-  - DOMAIN,ea.megustaleer.com
   - DOMAIN,ea.megustaleer.com.pe
   - DOMAIN,ea.melijoe.com
   - DOMAIN,ea.millet-mountain.com
@@ -9129,7 +9124,6 @@ payload:
   - DOMAIN,geo.gridsumdissector.com
   - DOMAIN,geo.hltv.org
   - DOMAIN,geo.homepage-web.com
-  - DOMAIN,geo.kaloo.ga
   - DOMAIN,geo.kontagent.net
   - DOMAIN,geo.mattel163.com
   - DOMAIN,geo.metronews.ca
@@ -9491,7 +9485,6 @@ payload:
   - DOMAIN,haitaoad.nosdn.127.net
   - DOMAIN,hakuba.janis.or.jp
   - DOMAIN,hal.courrierinternational.com
-  - DOMAIN,hampshirechronicle-gb.hampshirechronicle.co.uk
   - DOMAIN,handycam.alicdn.com
   - DOMAIN,hao.315hyw.com
   - DOMAIN,hao.7654.com
@@ -9714,7 +9707,6 @@ payload:
   - DOMAIN,html.atm.youku.com
   - DOMAIN,html.keran.hl.cn
   - DOMAIN,html.shibeiou.com
-  - DOMAIN,html.sunday8.com
   - DOMAIN,html5adkit.plusmo.s3.amazonaws.com
   - DOMAIN,htnblk.kansascitysteaks.com
   - DOMAIN,htracker1.zmzfile.com
@@ -10771,7 +10763,6 @@ payload:
   - DOMAIN,js.xz6d.com
   - DOMAIN,js.yalongrope.cn
   - DOMAIN,js.yanyue.cn
-  - DOMAIN,js.ydeprint.com
   - DOMAIN,js.yixui.com
   - DOMAIN,js.yoyi.tv
   - DOMAIN,js.zhuoyaju.com
@@ -11775,7 +11766,6 @@ payload:
   - DOMAIN,m.guanren5.com
   - DOMAIN,m.guanren6.com
   - DOMAIN,m.guanren9.com
-  - DOMAIN,m.gvez.top
   - DOMAIN,m.gxkyl.com
   - DOMAIN,m.gxwztv.com
   - DOMAIN,m.gzrljx.cn
@@ -11794,7 +11784,6 @@ payload:
   - DOMAIN,m.hpfjy.com
   - DOMAIN,m.hx623.cn
   - DOMAIN,m.hy10010.com.cn
-  - DOMAIN,m.hzuok.com
   - DOMAIN,m.i05h.cn
   - DOMAIN,m.icyrd.com
   - DOMAIN,m.ihais.com
@@ -11894,7 +11883,6 @@ payload:
   - DOMAIN,m.sfscooter.cn
   - DOMAIN,m.shanbara.jp
   - DOMAIN,m.shilian168.cn
-  - DOMAIN,m.shwedar.com.cn
   - DOMAIN,m.simba.taobao.com
   - DOMAIN,m.sjzhushou.com
   - DOMAIN,m.sogo.sogov587.top
@@ -14747,7 +14735,6 @@ payload:
   - DOMAIN,plugin.me2day.net
   - DOMAIN,plugin.mediavoice.com
   - DOMAIN,plugin.mobopay.baidu.com
-  - DOMAIN,plumbus.minutemediaservices.com
   - DOMAIN,plusone.google.com
   - DOMAIN,pluto.r.powuta.com
   - DOMAIN,plx.gameblog.fr
@@ -23089,7 +23076,6 @@ payload:
   - DOMAIN,z2.zhishidu.com
   - DOMAIN,z888.izhufu.net
   - DOMAIN,za.zalo.me
-  - DOMAIN,zadrb.zadrottv.ru
   - DOMAIN,zae.gzzena.com
   - DOMAIN,zafrc.5780.site
   - DOMAIN,zahir2.aeiou.pt
