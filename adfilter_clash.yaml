@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYxNTk0MjE4NQo=
+# Checksum: MTYxNjAyODU4MQo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210317-0
-# TimeUpdated: 2021-03-17T00:49:45+00:00
+# Version: -20210318-0
+# TimeUpdated: 2021-03-18T00:49:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 23191
+# Total: 23186
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,000.0x1f4b0.com
@@ -279,6 +279,7 @@ payload:
   - DOMAIN,818.dopa.com
   - DOMAIN,822.dlads.cn
   - DOMAIN,87d.xv5b.com
+  - DOMAIN,88.yunqishi.net
   - DOMAIN,888.tv.sohu.com
   - DOMAIN,8av.mm-cg.co
   - DOMAIN,8b4pea.c.admaster.com.cn
@@ -367,6 +368,7 @@ payload:
   - DOMAIN,a.dangdang.com
   - DOMAIN,a.diaoyu.cn
   - DOMAIN,a.doko.moe
+  - DOMAIN,a.dphunters.com
   - DOMAIN,a.dtprofit.com
   - DOMAIN,a.dxzy163.com
   - DOMAIN,a.dyjqd.com
@@ -434,6 +436,7 @@ payload:
   - DOMAIN,a.speedostream.com
   - DOMAIN,a.steigenberger.com
   - DOMAIN,a.stka8.com
+  - DOMAIN,a.streamoupload.com
   - DOMAIN,a.tanx.com
   - DOMAIN,a.telus.com
   - DOMAIN,a.thefreedictionary.com
@@ -7535,6 +7538,7 @@ payload:
   - DOMAIN,dis.criteo.com
   - DOMAIN,dis.hogei.info
   - DOMAIN,dis.us.criteo.com
+  - DOMAIN,discover-metrics.cloud.seek.com.au
   - DOMAIN,discover.interlochen.org
   - DOMAIN,discovery.api.zaloapp.com
   - DOMAIN,disp.titan.mgtv.com
@@ -7979,7 +7983,6 @@ payload:
   - DOMAIN,e.gsycdb.com
   - DOMAIN,e.gxjfh.com
   - DOMAIN,e.gxkyl.com
-  - DOMAIN,e.h2ww6.cn
   - DOMAIN,e.hissq.com
   - DOMAIN,e.hogyp.com
   - DOMAIN,e.huaas.com
@@ -8991,7 +8994,6 @@ payload:
   - DOMAIN,gak.webtoons.com
   - DOMAIN,galaxy.bjcathay.com
   - DOMAIN,galaxy.sogoucdn.com
-  - DOMAIN,galeriaseroticas.xpg.com.br
   - DOMAIN,gam.adnxs.com
   - DOMAIN,gambero3.cs.tin.it
   - DOMAIN,game-motivatead.aiclk.com
@@ -9961,7 +9963,6 @@ payload:
   - DOMAIN,il.5.p2l.info
   - DOMAIN,ilce.alicdn.com
   - DOMAIN,ili.pp.ua
-  - DOMAIN,ilkleygazette-gb.ilkleygazette.co.uk
   - DOMAIN,illicium.web.money
   - DOMAIN,illicium.wmtransfer.com
   - DOMAIN,iltcaf.immobilienscout24.de
@@ -10781,7 +10782,6 @@ payload:
   - DOMAIN,js1315.cnbole.net
   - DOMAIN,js2.hdzog.com
   - DOMAIN,js2294.cnbole.net
-  - DOMAIN,js3.users.51.la
   - DOMAIN,js3492.yongkang6.com
   - DOMAIN,js3555.championmachinery-cn.com
   - DOMAIN,js3555.hongtaidichan.net
@@ -10967,7 +10967,6 @@ payload:
   - DOMAIN,kn.awyys.com
   - DOMAIN,kn.qhdfxkj.com
   - DOMAIN,kn.qqqmdq.com
-  - DOMAIN,kn.tzsmab.cn
   - DOMAIN,kn.zhipinbook.cn
   - DOMAIN,knfjhy.echo.msk.ru
   - DOMAIN,knicks.jd.com
@@ -11771,7 +11770,6 @@ payload:
   - DOMAIN,m.gzrljx.cn
   - DOMAIN,m.h0x.cn
   - DOMAIN,m.hdboping.com
-  - DOMAIN,m.heshanwan.cn
   - DOMAIN,m.heygugu.com
   - DOMAIN,m.hhllyt.com
   - DOMAIN,m.hissq.com
@@ -11845,7 +11843,6 @@ payload:
   - DOMAIN,m.nuoqingck.cn
   - DOMAIN,m.nydjsm.cn
   - DOMAIN,m.obeip.com
-  - DOMAIN,m.ocenp.com
   - DOMAIN,m.oikqfwv.cn
   - DOMAIN,m.oipeirates.online
   - DOMAIN,m.openv.tv
@@ -11929,7 +11926,6 @@ payload:
   - DOMAIN,m.x81zw.com
   - DOMAIN,m.xfya3.cn
   - DOMAIN,m.xhera.cn
-  - DOMAIN,m.xiangchim0.com
   - DOMAIN,m.xiaoshuodaquan.com
   - DOMAIN,m.xieyanmin.com.cn
   - DOMAIN,m.xikedianzi.com.cn
@@ -13842,7 +13838,6 @@ payload:
   - DOMAIN,omniture-ssl.walmart.ca
   - DOMAIN,omniture-ssl.walmart.com
   - DOMAIN,omniture.artinstitutes.edu
-  - DOMAIN,omniture.chip.de
   - DOMAIN,omniture.groceries.asda.com
   - DOMAIN,omniture.kennametal.com
   - DOMAIN,omniture.lg.com
@@ -14062,7 +14057,6 @@ payload:
   - DOMAIN,p.99mssj.com
   - DOMAIN,p.abcache.com
   - DOMAIN,p.adsymptotic.com
-  - DOMAIN,p.ahzsjzgc.com
   - DOMAIN,p.alimama.com
   - DOMAIN,p.appjiagu.com
   - DOMAIN,p.aty.sohu.com
@@ -15781,7 +15775,6 @@ payload:
   - DOMAIN,rum.vhwrz.net
   - DOMAIN,rumstat.cdnvideo.ru
   - DOMAIN,run.haireig.com
-  - DOMAIN,runcornandwidnesworld-gb.runcornandwidnesworld.co.uk
   - DOMAIN,runtime.lemonpi.io
   - DOMAIN,rv.modanisa.com
   - DOMAIN,rva.outbrain.com
@@ -15843,7 +15836,6 @@ payload:
   - DOMAIN,s.dbojetp.cn
   - DOMAIN,s.ddgjjj.com
   - DOMAIN,s.ddstu.com
-  - DOMAIN,s.de123.net
   - DOMAIN,s.di.com.pl
   - DOMAIN,s.domob.cn
   - DOMAIN,s.doyo.cn
@@ -17050,6 +17042,7 @@ payload:
   - DOMAIN,sjarvis.taobao.com
   - DOMAIN,sjbaiduadv1.redou.com
   - DOMAIN,sjbtn.appfh.com
+  - DOMAIN,sjh.baidu.com
   - DOMAIN,sjremetrics.java.com
   - DOMAIN,sjy-stone.com.cn
   - DOMAIN,sjyskm.litres.ru
@@ -18686,6 +18679,7 @@ payload:
   - DOMAIN,stat.16lao.com
   - DOMAIN,stat.360safe.com
   - DOMAIN,stat.4u.pl
+  - DOMAIN,stat.5-tv.ru
   - DOMAIN,stat.56.com
   - DOMAIN,stat.58.xgo.com.cn
   - DOMAIN,stat.acca.it
@@ -20799,6 +20793,7 @@ payload:
   - DOMAIN,tracking.emoneyadvisor.com
   - DOMAIN,tracking.emsmobile.de
   - DOMAIN,tracking.engagedigitalmedia.com
+  - DOMAIN,tracking.engineering.cloud.seek.com.au
   - DOMAIN,tracking.eurosport.com
   - DOMAIN,tracking.evergy.com
   - DOMAIN,tracking.everydayhealth.com

@@ -1,11 +1,11 @@
-# Checksum: MTYxNTk0MjE4NQo=
+# Checksum: MTYxNjAyODU4MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210317-0
-# TimeUpdated: 2021-03-17T00:49:45+00:00
+# Version: -20210318-0
+# TimeUpdated: 2021-03-18T00:49:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 23191
+# Total: 23186
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -560,6 +560,8 @@ ff02::3 ip6-allhosts
 :: 822.dlads.cn
 0.0.0.0 87d.xv5b.com
 :: 87d.xv5b.com
+0.0.0.0 88.yunqishi.net
+:: 88.yunqishi.net
 0.0.0.0 888.tv.sohu.com
 :: 888.tv.sohu.com
 0.0.0.0 8av.mm-cg.co
@@ -736,6 +738,8 @@ ff02::3 ip6-allhosts
 :: a.diaoyu.cn
 0.0.0.0 a.doko.moe
 :: a.doko.moe
+0.0.0.0 a.dphunters.com
+:: a.dphunters.com
 0.0.0.0 a.dtprofit.com
 :: a.dtprofit.com
 0.0.0.0 a.dxzy163.com
@@ -870,6 +874,8 @@ ff02::3 ip6-allhosts
 :: a.steigenberger.com
 0.0.0.0 a.stka8.com
 :: a.stka8.com
+0.0.0.0 a.streamoupload.com
+:: a.streamoupload.com
 0.0.0.0 a.tanx.com
 :: a.tanx.com
 0.0.0.0 a.telus.com
@@ -15072,6 +15078,8 @@ ff02::3 ip6-allhosts
 :: dis.hogei.info
 0.0.0.0 dis.us.criteo.com
 :: dis.us.criteo.com
+0.0.0.0 discover-metrics.cloud.seek.com.au
+:: discover-metrics.cloud.seek.com.au
 0.0.0.0 discover.interlochen.org
 :: discover.interlochen.org
 0.0.0.0 discovery.api.zaloapp.com
@@ -15960,8 +15968,6 @@ ff02::3 ip6-allhosts
 :: e.gxjfh.com
 0.0.0.0 e.gxkyl.com
 :: e.gxkyl.com
-0.0.0.0 e.h2ww6.cn
-:: e.h2ww6.cn
 0.0.0.0 e.hissq.com
 :: e.hissq.com
 0.0.0.0 e.hogyp.com
@@ -17984,8 +17990,6 @@ ff02::3 ip6-allhosts
 :: galaxy.bjcathay.com
 0.0.0.0 galaxy.sogoucdn.com
 :: galaxy.sogoucdn.com
-0.0.0.0 galeriaseroticas.xpg.com.br
-:: galeriaseroticas.xpg.com.br
 0.0.0.0 gam.adnxs.com
 :: gam.adnxs.com
 0.0.0.0 gambero3.cs.tin.it
@@ -19924,8 +19928,6 @@ ff02::3 ip6-allhosts
 :: ilce.alicdn.com
 0.0.0.0 ili.pp.ua
 :: ili.pp.ua
-0.0.0.0 ilkleygazette-gb.ilkleygazette.co.uk
-:: ilkleygazette-gb.ilkleygazette.co.uk
 0.0.0.0 illicium.web.money
 :: illicium.web.money
 0.0.0.0 illicium.wmtransfer.com
@@ -21564,8 +21566,6 @@ ff02::3 ip6-allhosts
 :: js2.hdzog.com
 0.0.0.0 js2294.cnbole.net
 :: js2294.cnbole.net
-0.0.0.0 js3.users.51.la
-:: js3.users.51.la
 0.0.0.0 js3492.yongkang6.com
 :: js3492.yongkang6.com
 0.0.0.0 js3555.championmachinery-cn.com
@@ -21936,8 +21936,6 @@ ff02::3 ip6-allhosts
 :: kn.qhdfxkj.com
 0.0.0.0 kn.qqqmdq.com
 :: kn.qqqmdq.com
-0.0.0.0 kn.tzsmab.cn
-:: kn.tzsmab.cn
 0.0.0.0 kn.zhipinbook.cn
 :: kn.zhipinbook.cn
 0.0.0.0 knfjhy.echo.msk.ru
@@ -23544,8 +23542,6 @@ ff02::3 ip6-allhosts
 :: m.h0x.cn
 0.0.0.0 m.hdboping.com
 :: m.hdboping.com
-0.0.0.0 m.heshanwan.cn
-:: m.heshanwan.cn
 0.0.0.0 m.heygugu.com
 :: m.heygugu.com
 0.0.0.0 m.hhllyt.com
@@ -23692,8 +23688,6 @@ ff02::3 ip6-allhosts
 :: m.nydjsm.cn
 0.0.0.0 m.obeip.com
 :: m.obeip.com
-0.0.0.0 m.ocenp.com
-:: m.ocenp.com
 0.0.0.0 m.oikqfwv.cn
 :: m.oikqfwv.cn
 0.0.0.0 m.oipeirates.online
@@ -23860,8 +23854,6 @@ ff02::3 ip6-allhosts
 :: m.xfya3.cn
 0.0.0.0 m.xhera.cn
 :: m.xhera.cn
-0.0.0.0 m.xiangchim0.com
-:: m.xiangchim0.com
 0.0.0.0 m.xiaoshuodaquan.com
 :: m.xiaoshuodaquan.com
 0.0.0.0 m.xieyanmin.com.cn
@@ -27686,8 +27678,6 @@ ff02::3 ip6-allhosts
 :: omniture-ssl.walmart.com
 0.0.0.0 omniture.artinstitutes.edu
 :: omniture.artinstitutes.edu
-0.0.0.0 omniture.chip.de
-:: omniture.chip.de
 0.0.0.0 omniture.groceries.asda.com
 :: omniture.groceries.asda.com
 0.0.0.0 omniture.kennametal.com
@@ -28126,8 +28116,6 @@ ff02::3 ip6-allhosts
 :: p.abcache.com
 0.0.0.0 p.adsymptotic.com
 :: p.adsymptotic.com
-0.0.0.0 p.ahzsjzgc.com
-:: p.ahzsjzgc.com
 0.0.0.0 p.alimama.com
 :: p.alimama.com
 0.0.0.0 p.appjiagu.com
@@ -31564,8 +31552,6 @@ ff02::3 ip6-allhosts
 :: rumstat.cdnvideo.ru
 0.0.0.0 run.haireig.com
 :: run.haireig.com
-0.0.0.0 runcornandwidnesworld-gb.runcornandwidnesworld.co.uk
-:: runcornandwidnesworld-gb.runcornandwidnesworld.co.uk
 0.0.0.0 runtime.lemonpi.io
 :: runtime.lemonpi.io
 0.0.0.0 rv.modanisa.com
@@ -31688,8 +31674,6 @@ ff02::3 ip6-allhosts
 :: s.ddgjjj.com
 0.0.0.0 s.ddstu.com
 :: s.ddstu.com
-0.0.0.0 s.de123.net
-:: s.de123.net
 0.0.0.0 s.di.com.pl
 :: s.di.com.pl
 0.0.0.0 s.domob.cn
@@ -34102,6 +34086,8 @@ ff02::3 ip6-allhosts
 :: sjbaiduadv1.redou.com
 0.0.0.0 sjbtn.appfh.com
 :: sjbtn.appfh.com
+0.0.0.0 sjh.baidu.com
+:: sjh.baidu.com
 0.0.0.0 sjremetrics.java.com
 :: sjremetrics.java.com
 0.0.0.0 sjy-stone.com.cn
@@ -37374,6 +37360,8 @@ ff02::3 ip6-allhosts
 :: stat.360safe.com
 0.0.0.0 stat.4u.pl
 :: stat.4u.pl
+0.0.0.0 stat.5-tv.ru
+:: stat.5-tv.ru
 0.0.0.0 stat.56.com
 :: stat.56.com
 0.0.0.0 stat.58.xgo.com.cn
@@ -41600,6 +41588,8 @@ ff02::3 ip6-allhosts
 :: tracking.emsmobile.de
 0.0.0.0 tracking.engagedigitalmedia.com
 :: tracking.engagedigitalmedia.com
+0.0.0.0 tracking.engineering.cloud.seek.com.au
+:: tracking.engineering.cloud.seek.com.au
 0.0.0.0 tracking.eurosport.com
 :: tracking.eurosport.com
 0.0.0.0 tracking.evergy.com
