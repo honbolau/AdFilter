@@ -1,11 +1,11 @@
-# Checksum: MTYxNjIwMTM2Nwo=
+# Checksum: MTYxNjI4Nzk2Ngo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210320-0
-# TimeUpdated: 2021-03-20T00:49:27+00:00
+# Version: -20210321-0
+# TimeUpdated: 2021-03-21T00:52:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 23174
+# Total: 23165
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,000.0x1f4b0.com,REJECT
@@ -496,7 +496,6 @@ DOMAIN,a02342.darlingtonandstocktontimes.co.uk,REJECT
 DOMAIN,a02342.dorsetecho.co.uk,REJECT
 DOMAIN,a02342.dudleynews.co.uk,REJECT
 DOMAIN,a02342.echo-news.co.uk,REJECT
-DOMAIN,a02342.eppingforestguardian.co.uk,REJECT
 DOMAIN,a02342.eveshamjournal.co.uk,REJECT
 DOMAIN,a02342.falmouthpacket.co.uk,REJECT
 DOMAIN,a02342.gazette-news.co.uk,REJECT
@@ -595,7 +594,6 @@ DOMAIN,a32a.com.cn,REJECT
 DOMAIN,a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com,REJECT
 DOMAIN,a36117.actonservice.com,REJECT
 DOMAIN,a37518.actonservice.com,REJECT
-DOMAIN,a3xo-eng.spankbang.com,REJECT
 DOMAIN,a4.b2b168.com,REJECT
 DOMAIN,a4.ikafan.com,REJECT
 DOMAIN,a41550.actonservice.com,REJECT
@@ -4560,7 +4558,6 @@ DOMAIN,bjuser.jpush.cn,REJECT
 DOMAIN,bk9gun.vpser.net,REJECT
 DOMAIN,bkcommdata.v.qq.com,REJECT
 DOMAIN,bksoup.v.qq.com,REJECT
-DOMAIN,bl.impresa.pt,REJECT
 DOMAIN,bl.wavecdn.de,REJECT
 DOMAIN,bla.gtimg.com,REJECT
 DOMAIN,blaaaa12.googlecode.com,REJECT
@@ -5679,7 +5676,6 @@ DOMAIN,clientservices.googleapis.com,REJECT
 DOMAIN,clk.about.com,REJECT
 DOMAIN,clk.atdmt.com,REJECT
 DOMAIN,clk.boulanger.com,REJECT
-DOMAIN,clk.dm.kuaibo.com,REJECT
 DOMAIN,clk.dxpmedia.com,REJECT
 DOMAIN,clk.gentags.net,REJECT
 DOMAIN,clk.madserving.com,REJECT
@@ -6217,6 +6213,7 @@ DOMAIN,counter.hitslink.com,REJECT
 DOMAIN,counter.hyipexplorer.com,REJECT
 DOMAIN,counter.inetusa.com,REJECT
 DOMAIN,counter.insales.ru,REJECT
+DOMAIN,counter.jdi5.com,REJECT
 DOMAIN,counter.kaspersky.com,REJECT
 DOMAIN,counter.kingsoft.com,REJECT
 DOMAIN,counter.ksosoft.com,REJECT
@@ -7829,7 +7826,6 @@ DOMAIN,dspimg.adsame.com,REJECT
 DOMAIN,dspimg.dftoutiao.com,REJECT
 DOMAIN,dspmnt.autohome.com.cn,REJECT
 DOMAIN,dspmy.ge95.com,REJECT
-DOMAIN,dspserver.ad.cmvideo.cn,REJECT
 DOMAIN,dsptrack.mobshark.net,REJECT
 DOMAIN,dspwin.adsame.com,REJECT
 DOMAIN,dt.adsafeprotected.com,REJECT
@@ -8353,7 +8349,6 @@ DOMAIN,eo.apmnqut.cn,REJECT
 DOMAIN,eo.ccch.xyz,REJECT
 DOMAIN,eo.graintown.cn,REJECT
 DOMAIN,eo.hdschw.cn,REJECT
-DOMAIN,eo.rtgvghi.cn,REJECT
 DOMAIN,eol1.egyptonline.com,REJECT
 DOMAIN,eolvci.olx.ro,REJECT
 DOMAIN,ep.xone.com,REJECT
@@ -9491,7 +9486,6 @@ DOMAIN,hapic1.zhuangxiu22.com,REJECT
 DOMAIN,happen.spkt.io,REJECT
 DOMAIN,happy-davinci-53144f.netlify.com,REJECT
 DOMAIN,happybao.com.cn,REJECT
-DOMAIN,harrowtimes-gb.harrowtimes.co.uk,REJECT
 DOMAIN,harvest.surge.sh,REJECT
 DOMAIN,harvester.hbpl.co.uk,REJECT
 DOMAIN,harvester.hnonline.sk,REJECT
@@ -10456,6 +10450,7 @@ DOMAIN,iseuaa.olx.pl,REJECT
 DOMAIN,ish.tumedia.no,REJECT
 DOMAIN,isi-tracking.eventim.com,REJECT
 DOMAIN,isite.baidu.com,REJECT
+DOMAIN,isu.weidianyuedu.com,REJECT
 DOMAIN,it.cookiescript.info,REJECT
 DOMAIN,itad.linetv.tw,REJECT
 DOMAIN,itadapi.ithome.com.tw,REJECT
@@ -11631,7 +11626,6 @@ DOMAIN,m.4vvvv.cn,REJECT
 DOMAIN,m.51xmgys.com,REJECT
 DOMAIN,m.52tushuo.com,REJECT
 DOMAIN,m.53trya.cn,REJECT
-DOMAIN,m.56fba.cn,REJECT
 DOMAIN,m.58xs.tw,REJECT
 DOMAIN,m.5d63b.cn,REJECT
 DOMAIN,m.5s7uo.cn,REJECT
@@ -14638,7 +14632,6 @@ DOMAIN,pl4790.puhtml.com,REJECT
 DOMAIN,plan.seek.intel.com,REJECT
 DOMAIN,planitinfo.crsspxl.com,REJECT
 DOMAIN,plat.videojj.com,REJECT
-DOMAIN,platform.amedia.network,REJECT
 DOMAIN,platform.bidgear.com,REJECT
 DOMAIN,platform.communicatorcorp.com,REJECT
 DOMAIN,platform.foursquare.com,REJECT
@@ -14692,7 +14685,6 @@ DOMAIN,play1.videos.videos.vidto.me,REJECT
 DOMAIN,play1.videos.vidto.me,REJECT
 DOMAIN,play2.flashx.pw,REJECT
 DOMAIN,play4.flashx.pw,REJECT
-DOMAIN,play5.flashx.pw,REJECT
 DOMAIN,player-feedback-v1.glomex.com,REJECT
 DOMAIN,player-telemetry.vimeo.com,REJECT
 DOMAIN,player.accoona.com,REJECT
@@ -14906,7 +14898,6 @@ DOMAIN,promo.mes-meilleurs-films.fr,REJECT
 DOMAIN,promo.mobile.de,REJECT
 DOMAIN,promo.nimiq.com,REJECT
 DOMAIN,promo.partner.alawar.ru,REJECT
-DOMAIN,promo.porc.com,REJECT
 DOMAIN,promo.profxbrokers.com,REJECT
 DOMAIN,promo.rzonline.ru,REJECT
 DOMAIN,promo.skf.com,REJECT
@@ -15937,7 +15928,6 @@ DOMAIN,s1.tansuotv.com,REJECT
 DOMAIN,s1.tuzhaozhao.com,REJECT
 DOMAIN,s1.vidtod.me,REJECT
 DOMAIN,s1.wesiedu.com,REJECT
-DOMAIN,s1.xtyzljs.cn,REJECT
 DOMAIN,s10.histats.com,REJECT
 DOMAIN,s100.hostcontent.live,REJECT
 DOMAIN,s11.histats.com,REJECT
@@ -19037,6 +19027,7 @@ DOMAIN,stats.discotel.de,REJECT
 DOMAIN,stats.dmp.ghac.cn,REJECT
 DOMAIN,stats.dnaindia.com,REJECT
 DOMAIN,stats.dongphim.net,REJECT
+DOMAIN,stats.dreamsub.cc,REJECT
 DOMAIN,stats.drugstore.com,REJECT
 DOMAIN,stats.dziennik.pl,REJECT
 DOMAIN,stats.economist.com,REJECT
