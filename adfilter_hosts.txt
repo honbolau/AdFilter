@@ -1,11 +1,11 @@
-# Checksum: MTYxNjM3NDI0Mwo=
+# Checksum: MTYxNjQ2MDYyMAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210322-0
-# TimeUpdated: 2021-03-22T00:50:43+00:00
+# Version: -20210323-0
+# TimeUpdated: 2021-03-23T00:50:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 23154
+# Total: 23144
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -844,8 +844,6 @@ ff02::3 ip6-allhosts
 :: a.qchannel03.cn
 0.0.0.0 a.qinghua5.com
 :: a.qinghua5.com
-0.0.0.0 a.qsjiajiao.com
-:: a.qsjiajiao.com
 0.0.0.0 a.quangushi.com
 :: a.quangushi.com
 0.0.0.0 a.quora.com
@@ -1008,8 +1006,6 @@ ff02::3 ip6-allhosts
 :: a02342.harwichandmanningtreestandard.co.uk
 0.0.0.0 a02342.heraldscotland.com
 :: a02342.heraldscotland.com
-0.0.0.0 a02342.maldonandburnhamstandard.co.uk
-:: a02342.maldonandburnhamstandard.co.uk
 0.0.0.0 a02342.northwichguardian.co.uk
 :: a02342.northwichguardian.co.uk
 0.0.0.0 a02342.penarthtimes.co.uk
@@ -6904,6 +6900,8 @@ ff02::3 ip6-allhosts
 :: api.adintext.net
 0.0.0.0 api.adnet.mob.com
 :: api.adnet.mob.com
+0.0.0.0 api.adnsafe.org
+:: api.adnsafe.org
 0.0.0.0 api.ads.watchabc.go.com
 :: api.ads.watchabc.go.com
 0.0.0.0 api.adsymptotic.com
@@ -7670,8 +7668,6 @@ ff02::3 ip6-allhosts
 :: ashow.pcpop.com
 0.0.0.0 asia.marketo.com
 :: asia.marketo.com
-0.0.0.0 asianimage-gb.asianimage.co.uk
-:: asianimage-gb.asianimage.co.uk
 0.0.0.0 asimgs.pplive.cn
 :: asimgs.pplive.cn
 0.0.0.0 ask.webatall.com
@@ -8184,6 +8180,8 @@ ff02::3 ip6-allhosts
 :: baikebcs.bdimg.com
 0.0.0.0 baimuyuan.com.cn
 :: baimuyuan.com.cn
+0.0.0.0 baj.fanwenzhan.com
+:: baj.fanwenzhan.com
 0.0.0.0 balabass.peerserver.com
 :: balabass.peerserver.com
 0.0.0.0 bamulat.blogspot.hu
@@ -8732,6 +8730,8 @@ ff02::3 ip6-allhosts
 :: bdjs.999d.com
 0.0.0.0 bdjs.guangyuanol.cn
 :: bdjs.guangyuanol.cn
+0.0.0.0 bdjs.gushiju.net
+:: bdjs.gushiju.net
 0.0.0.0 bdjs.ixiumei.com
 :: bdjs.ixiumei.com
 0.0.0.0 bdjs.jb51.net
@@ -11006,8 +11006,6 @@ ff02::3 ip6-allhosts
 :: ck.ncclick.co.kr
 0.0.0.0 ckg.vipyl.com
 :: ckg.vipyl.com
-0.0.0.0 ckjyck.qxs.la
-:: ckjyck.qxs.la
 0.0.0.0 ckl.unetall.com
 :: ckl.unetall.com
 0.0.0.0 ckmap.mediav.com
@@ -15834,8 +15832,6 @@ ff02::3 ip6-allhosts
 :: e-p4p.163.com
 0.0.0.0 e-ssl.apsalar.com
 :: e-ssl.apsalar.com
-0.0.0.0 e-stat.huya.com
-:: e-stat.huya.com
 0.0.0.0 e-vcdn.anthill.vn
 :: e-vcdn.anthill.vn
 0.0.0.0 e-wei.com.cn
@@ -20122,8 +20118,6 @@ ff02::3 ip6-allhosts
 :: img.net.daraz.com
 0.0.0.0 img.netaffiliation.com
 :: img.netaffiliation.com
-0.0.0.0 img.nktcw.cn
-:: img.nktcw.cn
 0.0.0.0 img.opentracker.net
 :: img.opentracker.net
 0.0.0.0 img.prohardver.hu
@@ -21468,6 +21462,8 @@ ff02::3 ip6-allhosts
 :: js.union-wifi.com
 0.0.0.0 js.users.51.la
 :: js.users.51.la
+0.0.0.0 js.wo-x.cn
+:: js.wo-x.cn
 0.0.0.0 js.xiansuper.com
 :: js.xiansuper.com
 0.0.0.0 js.xiao7cdn.com
@@ -23264,8 +23260,6 @@ ff02::3 ip6-allhosts
 :: m.97tuk.cn
 0.0.0.0 m.9r48f.cn
 :: m.9r48f.cn
-0.0.0.0 m.acaox.com
-:: m.acaox.com
 0.0.0.0 m.achuc.com
 :: m.achuc.com
 0.0.0.0 m.ad.zhangyue.com
@@ -23360,8 +23354,6 @@ ff02::3 ip6-allhosts
 :: m.chinachooses.com
 0.0.0.0 m.cjjcby.cn
 :: m.cjjcby.cn
-0.0.0.0 m.ckaim.com
-:: m.ckaim.com
 0.0.0.0 m.clkservice.youdao.com
 :: m.clkservice.youdao.com
 0.0.0.0 m.clxxkz.com.cn
@@ -26072,8 +26064,6 @@ ff02::3 ip6-allhosts
 :: mo.bigcooc.xyz
 0.0.0.0 mo.bsxr.com.cn
 :: mo.bsxr.com.cn
-0.0.0.0 mo.byjr899.top
-:: mo.byjr899.top
 0.0.0.0 mo.ccch.xyz
 :: mo.ccch.xyz
 0.0.0.0 mo.cifree.xyz
@@ -26084,8 +26074,6 @@ ff02::3 ip6-allhosts
 :: mo.cyfp298.top
 0.0.0.0 mo.cymn296.top
 :: mo.cymn296.top
-0.0.0.0 mo.cyrc793.top
-:: mo.cyrc793.top
 0.0.0.0 mo.dybx992.top
 :: mo.dybx992.top
 0.0.0.0 mo.dymr697.top
@@ -26114,8 +26102,6 @@ ff02::3 ip6-allhosts
 :: mo.zdceaa.cn
 0.0.0.0 mo.zvygzatj.cn
 :: mo.zvygzatj.cn
-0.0.0.0 mob10.cqjktj.com
-:: mob10.cqjktj.com
 0.0.0.0 mob26.jnjszl.com
 :: mob26.jnjszl.com
 0.0.0.0 mobaders.oss-cn-beijing.aliyuncs.com
@@ -31650,8 +31636,6 @@ ff02::3 ip6-allhosts
 :: s.hystq.com
 0.0.0.0 s.hyz86.com
 :: s.hyz86.com
-0.0.0.0 s.hzht666.com
-:: s.hzht666.com
 0.0.0.0 s.img.mix.sina.com.cn
 :: s.img.mix.sina.com.cn
 0.0.0.0 s.infogram.com
@@ -31720,8 +31704,6 @@ ff02::3 ip6-allhosts
 :: s.share.baidu.com
 0.0.0.0 s.sick.com
 :: s.sick.com
-0.0.0.0 s.sniphub.com
-:: s.sniphub.com
 0.0.0.0 s.soha.vn
 :: s.soha.vn
 0.0.0.0 s.srvsynd.com
@@ -36844,8 +36826,6 @@ ff02::3 ip6-allhosts
 :: ssl.trace.zhiziyun.com
 0.0.0.0 ssl.woshishuish.top
 :: ssl.woshishuish.top
-0.0.0.0 ssl.youkag.com
-:: ssl.youkag.com
 0.0.0.0 ssl2.gdqifang.com
 :: ssl2.gdqifang.com
 0.0.0.0 sslanalytics.sixt.ch
@@ -37712,8 +37692,6 @@ ff02::3 ip6-allhosts
 :: static.m.sjzhushou.com
 0.0.0.0 static.mackeeper.com
 :: static.mackeeper.com
-0.0.0.0 static.mct01.com
-:: static.mct01.com
 0.0.0.0 static.mediav.com
 :: static.mediav.com
 0.0.0.0 static.mntzm.com
@@ -39604,8 +39582,6 @@ ff02::3 ip6-allhosts
 :: tanzanite.infomine.com
 0.0.0.0 tao.37wan.com
 :: tao.37wan.com
-0.0.0.0 taobaoafp.allyes.cn
-:: taobaoafp.allyes.cn
 0.0.0.0 tap-nexus.appspot.com
 :: tap-nexus.appspot.com
 0.0.0.0 tap.more-results.net
@@ -40306,6 +40282,8 @@ ff02::3 ip6-allhosts
 :: tongji.xinmin.cn
 0.0.0.0 tongji.yicha.cn
 :: tongji.yicha.cn
+0.0.0.0 tontent.pouvideo.cc
+:: tontent.pouvideo.cc
 0.0.0.0 tontent.povwideo.me
 :: tontent.povwideo.me
 0.0.0.0 tontent.powv1deo.cc
@@ -41176,6 +41154,8 @@ ff02::3 ip6-allhosts
 :: tracker-id.cdiscount.com
 0.0.0.0 tracker.520call.me
 :: tracker.520call.me
+0.0.0.0 tracker.adbinead.com
+:: tracker.adbinead.com
 0.0.0.0 tracker.adotmob.com
 :: tracker.adotmob.com
 0.0.0.0 tracker.affiliate.iqoption.com
@@ -41224,6 +41204,8 @@ ff02::3 ip6-allhosts
 :: tracker.data-vp.com
 0.0.0.0 tracker.departapp.com
 :: tracker.departapp.com
+0.0.0.0 tracker.digitalcamp.co.kr
+:: tracker.digitalcamp.co.kr
 0.0.0.0 tracker.downdetector.com
 :: tracker.downdetector.com
 0.0.0.0 tracker.durasite.net
@@ -45520,8 +45502,6 @@ ff02::3 ip6-allhosts
 :: xj.zjhim.com
 0.0.0.0 xji.qwxcs.com
 :: xji.qwxcs.com
-0.0.0.0 xjq.jxmqkj.com
-:: xjq.jxmqkj.com
 0.0.0.0 xknhwv.mobile01.com
 :: xknhwv.mobile01.com
 0.0.0.0 xl.2dl1w.cn

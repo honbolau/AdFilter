@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYxNjM3NDI0Mwo=
+# Checksum: MTYxNjQ2MDYyMAo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210322-0
-# TimeUpdated: 2021-03-22T00:50:43+00:00
+# Version: -20210323-0
+# TimeUpdated: 2021-03-23T00:50:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 23154
+# Total: 23144
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,000.0x1f4b0.com
@@ -421,7 +421,6 @@ payload:
   - DOMAIN,a.pub.network
   - DOMAIN,a.qchannel03.cn
   - DOMAIN,a.qinghua5.com
-  - DOMAIN,a.qsjiajiao.com
   - DOMAIN,a.quangushi.com
   - DOMAIN,a.quora.com
   - DOMAIN,a.raasnet.com
@@ -503,7 +502,6 @@ payload:
   - DOMAIN,a02342.greenocktelegraph.co.uk
   - DOMAIN,a02342.harwichandmanningtreestandard.co.uk
   - DOMAIN,a02342.heraldscotland.com
-  - DOMAIN,a02342.maldonandburnhamstandard.co.uk
   - DOMAIN,a02342.northwichguardian.co.uk
   - DOMAIN,a02342.penarthtimes.co.uk
   - DOMAIN,a02342.redditchadvertiser.co.uk
@@ -3451,6 +3449,7 @@ payload:
   - DOMAIN,api.adfurikun.jp
   - DOMAIN,api.adintext.net
   - DOMAIN,api.adnet.mob.com
+  - DOMAIN,api.adnsafe.org
   - DOMAIN,api.ads.watchabc.go.com
   - DOMAIN,api.adsymptotic.com
   - DOMAIN,api.adtimaserver.vn
@@ -3834,7 +3833,6 @@ payload:
   - DOMAIN,ashot.txxx.com
   - DOMAIN,ashow.pcpop.com
   - DOMAIN,asia.marketo.com
-  - DOMAIN,asianimage-gb.asianimage.co.uk
   - DOMAIN,asimgs.pplive.cn
   - DOMAIN,ask.webatall.com
   - DOMAIN,asotrack1.fluentmobile.com
@@ -4091,6 +4089,7 @@ payload:
   - DOMAIN,baifen.music.baidu.com
   - DOMAIN,baikebcs.bdimg.com
   - DOMAIN,baimuyuan.com.cn
+  - DOMAIN,baj.fanwenzhan.com
   - DOMAIN,balabass.peerserver.com
   - DOMAIN,bamulat.blogspot.hu
   - DOMAIN,ban.mirorgazma.ru
@@ -4365,6 +4364,7 @@ payload:
   - DOMAIN,bdjs.99.com.cn
   - DOMAIN,bdjs.999d.com
   - DOMAIN,bdjs.guangyuanol.cn
+  - DOMAIN,bdjs.gushiju.net
   - DOMAIN,bdjs.ixiumei.com
   - DOMAIN,bdjs.jb51.net
   - DOMAIN,bdjs.kaixin100.com
@@ -5502,7 +5502,6 @@ payload:
   - DOMAIN,ck.kejet.net
   - DOMAIN,ck.ncclick.co.kr
   - DOMAIN,ckg.vipyl.com
-  - DOMAIN,ckjyck.qxs.la
   - DOMAIN,ckl.unetall.com
   - DOMAIN,ckmap.mediav.com
   - DOMAIN,cl-ad.x-flow.app
@@ -7916,7 +7915,6 @@ payload:
   - DOMAIN,e-hosting.hut1.ru
   - DOMAIN,e-p4p.163.com
   - DOMAIN,e-ssl.apsalar.com
-  - DOMAIN,e-stat.huya.com
   - DOMAIN,e-vcdn.anthill.vn
   - DOMAIN,e-wei.com.cn
   - DOMAIN,e.01w47q.cn
@@ -10060,7 +10058,6 @@ payload:
   - DOMAIN,img.nahnoji.cz
   - DOMAIN,img.net.daraz.com
   - DOMAIN,img.netaffiliation.com
-  - DOMAIN,img.nktcw.cn
   - DOMAIN,img.opentracker.net
   - DOMAIN,img.prohardver.hu
   - DOMAIN,img.promoddl.com
@@ -10733,6 +10730,7 @@ payload:
   - DOMAIN,js.ubaike.cn
   - DOMAIN,js.union-wifi.com
   - DOMAIN,js.users.51.la
+  - DOMAIN,js.wo-x.cn
   - DOMAIN,js.xiansuper.com
   - DOMAIN,js.xiao7cdn.com
   - DOMAIN,js.xihuangdushu.com
@@ -11631,7 +11629,6 @@ payload:
   - DOMAIN,m.96mob.com
   - DOMAIN,m.97tuk.cn
   - DOMAIN,m.9r48f.cn
-  - DOMAIN,m.acaox.com
   - DOMAIN,m.achuc.com
   - DOMAIN,m.ad.zhangyue.com
   - DOMAIN,m.adaog.com
@@ -11679,7 +11676,6 @@ payload:
   - DOMAIN,m.chaoliangyun.cn
   - DOMAIN,m.chinachooses.com
   - DOMAIN,m.cjjcby.cn
-  - DOMAIN,m.ckaim.com
   - DOMAIN,m.clkservice.youdao.com
   - DOMAIN,m.clxxkz.com.cn
   - DOMAIN,m.cocounion.com
@@ -13035,13 +13031,11 @@ payload:
   - DOMAIN,mo.baidu.com
   - DOMAIN,mo.bigcooc.xyz
   - DOMAIN,mo.bsxr.com.cn
-  - DOMAIN,mo.byjr899.top
   - DOMAIN,mo.ccch.xyz
   - DOMAIN,mo.cifree.xyz
   - DOMAIN,mo.cyfk896.top
   - DOMAIN,mo.cyfp298.top
   - DOMAIN,mo.cymn296.top
-  - DOMAIN,mo.cyrc793.top
   - DOMAIN,mo.dybx992.top
   - DOMAIN,mo.dymr697.top
   - DOMAIN,mo.haloapps.cn
@@ -13056,7 +13050,6 @@ payload:
   - DOMAIN,mo.wamcjfg.cn
   - DOMAIN,mo.zdceaa.cn
   - DOMAIN,mo.zvygzatj.cn
-  - DOMAIN,mob10.cqjktj.com
   - DOMAIN,mob26.jnjszl.com
   - DOMAIN,mobaders.oss-cn-beijing.aliyuncs.com
   - DOMAIN,mobads-logs.baidu.com
@@ -15824,7 +15817,6 @@ payload:
   - DOMAIN,s.homedy.com
   - DOMAIN,s.hystq.com
   - DOMAIN,s.hyz86.com
-  - DOMAIN,s.hzht666.com
   - DOMAIN,s.img.mix.sina.com.cn
   - DOMAIN,s.infogram.com
   - DOMAIN,s.ipinyou.com
@@ -15859,7 +15851,6 @@ payload:
   - DOMAIN,s.search.naver.com
   - DOMAIN,s.share.baidu.com
   - DOMAIN,s.sick.com
-  - DOMAIN,s.sniphub.com
   - DOMAIN,s.soha.vn
   - DOMAIN,s.srvsynd.com
   - DOMAIN,s.staqnet.com
@@ -18421,7 +18412,6 @@ payload:
   - DOMAIN,ssl.sitemaji.com
   - DOMAIN,ssl.trace.zhiziyun.com
   - DOMAIN,ssl.woshishuish.top
-  - DOMAIN,ssl.youkag.com
   - DOMAIN,ssl2.gdqifang.com
   - DOMAIN,sslanalytics.sixt.ch
   - DOMAIN,sslanalytics.sixt.com
@@ -18855,7 +18845,6 @@ payload:
   - DOMAIN,static.live.nagezan.net
   - DOMAIN,static.m.sjzhushou.com
   - DOMAIN,static.mackeeper.com
-  - DOMAIN,static.mct01.com
   - DOMAIN,static.mediav.com
   - DOMAIN,static.mntzm.com
   - DOMAIN,static.mvot.vn
@@ -19801,7 +19790,6 @@ payload:
   - DOMAIN,tangram.e.qq.com
   - DOMAIN,tanzanite.infomine.com
   - DOMAIN,tao.37wan.com
-  - DOMAIN,taobaoafp.allyes.cn
   - DOMAIN,tap-nexus.appspot.com
   - DOMAIN,tap.more-results.net
   - DOMAIN,tapdaq-adverts.global.ssl.fastly.net
@@ -20152,6 +20140,7 @@ payload:
   - DOMAIN,tongji.wrating.com
   - DOMAIN,tongji.xinmin.cn
   - DOMAIN,tongji.yicha.cn
+  - DOMAIN,tontent.pouvideo.cc
   - DOMAIN,tontent.povwideo.me
   - DOMAIN,tontent.powv1deo.cc
   - DOMAIN,tontent.powvideo.net
@@ -20587,6 +20576,7 @@ payload:
   - DOMAIN,tracker-api.my.com
   - DOMAIN,tracker-id.cdiscount.com
   - DOMAIN,tracker.520call.me
+  - DOMAIN,tracker.adbinead.com
   - DOMAIN,tracker.adotmob.com
   - DOMAIN,tracker.affiliate.iqoption.com
   - DOMAIN,tracker.affirm.com
@@ -20611,6 +20601,7 @@ payload:
   - DOMAIN,tracker.coopt.com
   - DOMAIN,tracker.data-vp.com
   - DOMAIN,tracker.departapp.com
+  - DOMAIN,tracker.digitalcamp.co.kr
   - DOMAIN,tracker.downdetector.com
   - DOMAIN,tracker.durasite.net
   - DOMAIN,tracker.euroweb.net
@@ -22759,7 +22750,6 @@ payload:
   - DOMAIN,xj-n-tax.gov.cn
   - DOMAIN,xj.zjhim.com
   - DOMAIN,xji.qwxcs.com
-  - DOMAIN,xjq.jxmqkj.com
   - DOMAIN,xknhwv.mobile01.com
   - DOMAIN,xl.2dl1w.cn
   - DOMAIN,xl.msspgw.cn
