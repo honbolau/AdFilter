@@ -1,11 +1,11 @@
-# Checksum: MTYxNjQ2MDYyMAo=
+# Checksum: MTYxNjU0NzAzNAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210323-0
-# TimeUpdated: 2021-03-23T00:50:20+00:00
+# Version: -20210324-0
+# TimeUpdated: 2021-03-24T00:50:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 23144
+# Total: 23137
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -734,6 +734,8 @@ ff02::3 ip6-allhosts
 :: a.dangdang.com
 0.0.0.0 a.diaoyu.cn
 :: a.diaoyu.cn
+0.0.0.0 a.dlads.cn
+:: a.dlads.cn
 0.0.0.0 a.doko.moe
 :: a.doko.moe
 0.0.0.0 a.dphunters.com
@@ -862,6 +864,8 @@ ff02::3 ip6-allhosts
 :: a.sayloving.com
 0.0.0.0 a.shenchuang.com
 :: a.shenchuang.com
+0.0.0.0 a.slsbc.cn
+:: a.slsbc.cn
 0.0.0.0 a.speedostream.com
 :: a.speedostream.com
 0.0.0.0 a.steigenberger.com
@@ -990,8 +994,6 @@ ff02::3 ip6-allhosts
 :: a02342.dudleynews.co.uk
 0.0.0.0 a02342.echo-news.co.uk
 :: a02342.echo-news.co.uk
-0.0.0.0 a02342.eppingforestguardian.co.uk
-:: a02342.eppingforestguardian.co.uk
 0.0.0.0 a02342.eveshamjournal.co.uk
 :: a02342.eveshamjournal.co.uk
 0.0.0.0 a02342.falmouthpacket.co.uk
@@ -1028,8 +1030,6 @@ ff02::3 ip6-allhosts
 :: a02342.stalbansreview.co.uk
 0.0.0.0 a02342.stourbridgenews.co.uk
 :: a02342.stourbridgenews.co.uk
-0.0.0.0 a02342.theargus.co.uk
-:: a02342.theargus.co.uk
 0.0.0.0 a02342.theboltonnews.co.uk
 :: a02342.theboltonnews.co.uk
 0.0.0.0 a02342.thenorthernecho.co.uk
@@ -8336,8 +8336,6 @@ ff02::3 ip6-allhosts
 :: banner10.zetasystem.dk
 0.0.0.0 banner2.casino.com
 :: banner2.casino.com
-0.0.0.0 bannerexchange.com.au
-:: bannerexchange.com.au
 0.0.0.0 bannerfarm.aolp.jp
 :: bannerfarm.aolp.jp
 0.0.0.0 bannergrabber.internet.gr
@@ -9640,8 +9638,6 @@ ff02::3 ip6-allhosts
 :: c.cpl1.ru
 0.0.0.0 c.cpl2.ru
 :: c.cpl2.ru
-0.0.0.0 c.cqpsf.cn
-:: c.cqpsf.cn
 0.0.0.0 c.ctags.cn
 :: c.ctags.cn
 0.0.0.0 c.cyhx98.com
@@ -10268,6 +10264,8 @@ ff02::3 ip6-allhosts
 :: cdn-partners-references.lesoir.be
 0.0.0.0 cdn-qc.coccoc.com
 :: cdn-qc.coccoc.com
+0.0.0.0 cdn-ra.rockcontent.com
+:: cdn-ra.rockcontent.com
 0.0.0.0 cdn-rtb.sape.ru
 :: cdn-rtb.sape.ru
 0.0.0.0 cdn-settings.segment.com
@@ -11682,8 +11680,6 @@ ff02::3 ip6-allhosts
 :: cny.yoyo.org
 0.0.0.0 cnzz.172internet.com
 :: cnzz.172internet.com
-0.0.0.0 cnzz.cdbsoi.com
-:: cnzz.cdbsoi.com
 0.0.0.0 cnzz.mmstat.com
 :: cnzz.mmstat.com
 0.0.0.0 cnzz.oo5548q.top
@@ -13022,6 +13018,8 @@ ff02::3 ip6-allhosts
 :: cx.atdmt.com
 0.0.0.0 cx.v5cam.com
 :: cx.v5cam.com
+0.0.0.0 cxgfq.pinlue.com
+:: cxgfq.pinlue.com
 0.0.0.0 cxlm.net.cn
 :: cxlm.net.cn
 0.0.0.0 cy2.vortex.data.microsoft.com.akadns.net
@@ -14856,6 +14854,8 @@ ff02::3 ip6-allhosts
 :: dfvdkx.gismeteo.ua
 0.0.0.0 dg.haizirv.cn
 :: dg.haizirv.cn
+0.0.0.0 dggaenaawxe8z.cloudfront.net
+:: dggaenaawxe8z.cloudfront.net
 0.0.0.0 dgpp7fq3iorb.cloudfront.net
 :: dgpp7fq3iorb.cloudfront.net
 0.0.0.0 dgstatic.jd.com
@@ -16304,8 +16304,6 @@ ff02::3 ip6-allhosts
 :: edwlifes.vo.llnwd.net
 0.0.0.0 ee.2l7ha.cn
 :: ee.2l7ha.cn
-0.0.0.0 ee.eiiteho.cn
-:: ee.eiiteho.cn
 0.0.0.0 ee.hdboping.com
 :: ee.hdboping.com
 0.0.0.0 ee.hx623.cn
@@ -18678,8 +18676,6 @@ ff02::3 ip6-allhosts
 :: go.zdos.ru
 0.0.0.0 go.zendesk.com
 :: go.zendesk.com
-0.0.0.0 go2.mercy.ga
-:: go2.mercy.ga
 0.0.0.0 goazlf.mytoys.de
 :: goazlf.mytoys.de
 0.0.0.0 goblin.hupu.com
@@ -20094,8 +20090,6 @@ ff02::3 ip6-allhosts
 :: img.gaore.com
 0.0.0.0 img.gxhxmy88.com
 :: img.gxhxmy88.com
-0.0.0.0 img.hai61.com
-:: img.hai61.com
 0.0.0.0 img.i8xz.com
 :: img.i8xz.com
 0.0.0.0 img.img18.com
@@ -24746,8 +24740,6 @@ ff02::3 ip6-allhosts
 :: media.dabong247.com
 0.0.0.0 media.easyads.bg
 :: media.easyads.bg
-0.0.0.0 media.espace-plus.net
-:: media.espace-plus.net
 0.0.0.0 media.eurolive.com
 :: media.eurolive.com
 0.0.0.0 media.fastclick.net
@@ -26076,8 +26068,6 @@ ff02::3 ip6-allhosts
 :: mo.cymn296.top
 0.0.0.0 mo.dybx992.top
 :: mo.dybx992.top
-0.0.0.0 mo.dymr697.top
-:: mo.dymr697.top
 0.0.0.0 mo.haloapps.cn
 :: mo.haloapps.cn
 0.0.0.0 mo.hdschw.cn
@@ -26096,8 +26086,6 @@ ff02::3 ip6-allhosts
 :: mo.rtgvghi.cn
 0.0.0.0 mo.test.haloapps.com
 :: mo.test.haloapps.com
-0.0.0.0 mo.wamcjfg.cn
-:: mo.wamcjfg.cn
 0.0.0.0 mo.zdceaa.cn
 :: mo.zdceaa.cn
 0.0.0.0 mo.zvygzatj.cn
@@ -26680,6 +26668,8 @@ ff02::3 ip6-allhosts
 :: natqs.bealge.sogou.com
 0.0.0.0 nats.xing.com
 :: nats.xing.com
+0.0.0.0 nave.foone.com.br
+:: nave.foone.com.br
 0.0.0.0 nb.5.p2l.info
 :: nb.5.p2l.info
 0.0.0.0 nb.myspace.com
@@ -26890,8 +26880,6 @@ ff02::3 ip6-allhosts
 :: newspage.xilu.com
 0.0.0.0 newspush.sinajs.cn
 :: newspush.sinajs.cn
-0.0.0.0 newsshopper-gb.newsshopper.co.uk
-:: newsshopper-gb.newsshopper.co.uk
 0.0.0.0 newswifiapi.dfshurufa.com
 :: newswifiapi.dfshurufa.com
 0.0.0.0 newswifiapi.dftoutiao.com
@@ -28044,6 +28032,8 @@ ff02::3 ip6-allhosts
 :: p.alimama.com
 0.0.0.0 p.appjiagu.com
 :: p.appjiagu.com
+0.0.0.0 p.asdfix.com
+:: p.asdfix.com
 0.0.0.0 p.aty.sohu.com
 :: p.aty.sohu.com
 0.0.0.0 p.biasdo.com
@@ -28886,8 +28876,6 @@ ff02::3 ip6-allhosts
 :: pi.piensoymascotas.com
 0.0.0.0 pi.technik3d.com
 :: pi.technik3d.com
-0.0.0.0 pibaba.com.cn
-:: pibaba.com.cn
 0.0.0.0 pic.0597kk.com
 :: pic.0597kk.com
 0.0.0.0 pic.51yes.com
@@ -28922,8 +28910,6 @@ ff02::3 ip6-allhosts
 :: pic.new400.cn
 0.0.0.0 pic.punchbox.org
 :: pic.punchbox.org
-0.0.0.0 pic.rliolmx.cn
-:: pic.rliolmx.cn
 0.0.0.0 pic.zol-img.com.cn
 :: pic.zol-img.com.cn
 0.0.0.0 pic1.59wd.com
@@ -29334,8 +29320,6 @@ ff02::3 ip6-allhosts
 :: play1.videos.videos.vidto.me
 0.0.0.0 play1.videos.vidto.me
 :: play1.videos.vidto.me
-0.0.0.0 play2.flashx.pw
-:: play2.flashx.pw
 0.0.0.0 play4.flashx.pw
 :: play4.flashx.pw
 0.0.0.0 player-feedback-v1.glomex.com
@@ -30270,6 +30254,8 @@ ff02::3 ip6-allhosts
 :: px.ads.linkedin.com
 0.0.0.0 px.cdn.creative.medialytics.com
 :: px.cdn.creative.medialytics.com
+0.0.0.0 px.derstandard.at
+:: px.derstandard.at
 0.0.0.0 px.dynamicyield.com
 :: px.dynamicyield.com
 0.0.0.0 px.effirst.com
@@ -30642,6 +30628,8 @@ ff02::3 ip6-allhosts
 :: r6.mo.baidu.com
 0.0.0.0 ra.poringa.net
 :: ra.poringa.net
+0.0.0.0 ra.rockcontent.com
+:: ra.rockcontent.com
 0.0.0.0 rabbit.meitustat.com
 :: rabbit.meitustat.com
 0.0.0.0 rabbit.tg.meitu.com
@@ -30862,8 +30850,6 @@ ff02::3 ip6-allhosts
 :: recv-vd.gridsumdissector.com
 0.0.0.0 recv-wd.gridsumdissector.com
 :: recv-wd.gridsumdissector.com
-0.0.0.0 redditchadvertiser-gb.redditchadvertiser.co.uk
-:: redditchadvertiser-gb.redditchadvertiser.co.uk
 0.0.0.0 reddot-api.gclick.cn
 :: reddot-api.gclick.cn
 0.0.0.0 redeye.williamhill.com
@@ -31168,8 +31154,6 @@ ff02::3 ip6-allhosts
 :: rich.kuwo.cn
 0.0.0.0 richmedia.yimg.com
 :: richmedia.yimg.com
-0.0.0.0 richmondandtwickenhamtimes-gb.richmondandtwickenhamtimes.co.uk
-:: richmondandtwickenhamtimes-gb.richmondandtwickenhamtimes.co.uk
 0.0.0.0 rigel.baidustatic.com
 :: rigel.baidustatic.com
 0.0.0.0 rightmoveanalytics.co.uk
@@ -40006,6 +39990,8 @@ ff02::3 ip6-allhosts
 :: ticket20.tripod.com
 0.0.0.0 tickles.co.uk
 :: tickles.co.uk
+0.0.0.0 tilanalytics.timesinternet.in
+:: tilanalytics.timesinternet.in
 0.0.0.0 tim.nextinpact.com
 :: tim.nextinpact.com
 0.0.0.0 timelog.moviebox.baofeng.com
