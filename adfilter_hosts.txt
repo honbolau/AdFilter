@@ -1,11 +1,11 @@
-# Checksum: MTYxNjcxNzk1Mgo=
+# Checksum: MTYxNjgwNDMzMgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210326-0
-# TimeUpdated: 2021-03-26T00:19:12+00:00
+# Version: -20210327-0
+# TimeUpdated: 2021-03-27T00:18:52+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 23114
+# Total: 23104
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -990,8 +990,6 @@ ff02::3 ip6-allhosts
 :: a02342.darlingtonandstocktontimes.co.uk
 0.0.0.0 a02342.dudleynews.co.uk
 :: a02342.dudleynews.co.uk
-0.0.0.0 a02342.echo-news.co.uk
-:: a02342.echo-news.co.uk
 0.0.0.0 a02342.eveshamjournal.co.uk
 :: a02342.eveshamjournal.co.uk
 0.0.0.0 a02342.gazette-news.co.uk
@@ -1560,6 +1558,8 @@ ff02::3 ip6-allhosts
 :: ad-bg.adwo.com
 0.0.0.0 ad-cdn.qingting.fm
 :: ad-cdn.qingting.fm
+0.0.0.0 ad-channel.wikawika.xyz
+:: ad-channel.wikawika.xyz
 0.0.0.0 ad-cn.jovcloud.com
 :: ad-cn.jovcloud.com
 0.0.0.0 ad-count.adwo.com
@@ -2420,8 +2420,6 @@ ff02::3 ip6-allhosts
 :: ad2.zophar.net
 0.0.0.0 ad2017.meo4.info
 :: ad2017.meo4.info
-0.0.0.0 ad2play.ftv-publicite.fr
-:: ad2play.ftv-publicite.fr
 0.0.0.0 ad3.bb.ru
 :: ad3.bb.ru
 0.0.0.0 ad3.iinfo.cz
@@ -5670,8 +5668,6 @@ ff02::3 ip6-allhosts
 :: affiliates.treasureisland.com
 0.0.0.0 affiliates.ultrahosting.com
 :: affiliates.ultrahosting.com
-0.0.0.0 affiliates.vpn.ht
-:: affiliates.vpn.ht
 0.0.0.0 affiliatesmedia.sbobet.com
 :: affiliatesmedia.sbobet.com
 0.0.0.0 affiliation.filestube.com
@@ -6184,8 +6180,6 @@ ff02::3 ip6-allhosts
 :: analytics.cocolog-nifty.com
 0.0.0.0 analytics.codigo.se
 :: analytics.codigo.se
-0.0.0.0 analytics.cohesionapps.com
-:: analytics.cohesionapps.com
 0.0.0.0 analytics.competitoor.com
 :: analytics.competitoor.com
 0.0.0.0 analytics.contents.by-fw.jp
@@ -11868,8 +11862,6 @@ ff02::3 ip6-allhosts
 :: com.econa.com
 0.0.0.0 com.hunlaife.cn
 :: com.hunlaife.cn
-0.0.0.0 com5.com.cn
-:: com5.com.cn
 0.0.0.0 combine.urbanairship.com
 :: combine.urbanairship.com
 0.0.0.0 comet.yahoo.com
@@ -13512,6 +13504,8 @@ ff02::3 ip6-allhosts
 :: d20je219bs8hnq.cloudfront.net
 0.0.0.0 d20kffh39acpue.cloudfront.net
 :: d20kffh39acpue.cloudfront.net
+0.0.0.0 d213cc9tw38vai.cloudfront.net
+:: d213cc9tw38vai.cloudfront.net
 0.0.0.0 d21f25e9uvddd7.cloudfront.net
 :: d21f25e9uvddd7.cloudfront.net
 0.0.0.0 d21o24qxwf7uku.cloudfront.net
@@ -15522,8 +15516,6 @@ ff02::3 ip6-allhosts
 :: dqs001.adtech.fr
 0.0.0.0 dqs3.darjeeling.fr
 :: dqs3.darjeeling.fr
-0.0.0.0 dr.atwoodubre.com
-:: dr.atwoodubre.com
 0.0.0.0 dr.soso.com
 :: dr.soso.com
 0.0.0.0 dr3k6qonw2kee.cloudfront.net
@@ -15676,8 +15668,6 @@ ff02::3 ip6-allhosts
 :: du4rq1xqh3i1k.cloudfront.net
 0.0.0.0 du8783wkf05yr.cloudfront.net
 :: du8783wkf05yr.cloudfront.net
-0.0.0.0 dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
-:: dualstack.adsame-1421766300.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 duclick.baidu.com
 :: duclick.baidu.com
 0.0.0.0 dudm.qingsj.cn
@@ -16186,8 +16176,6 @@ ff02::3 ip6-allhosts
 :: ecestats.theglobeandmail.com
 0.0.0.0 ecflae.tophatter.com
 :: ecflae.tophatter.com
-0.0.0.0 echo-news-gb.echo-news.co.uk
-:: echo-news-gb.echo-news.co.uk
 0.0.0.0 echo.andumb.com
 :: echo.andumb.com
 0.0.0.0 echo.biasdo.com
@@ -17516,8 +17504,6 @@ ff02::3 ip6-allhosts
 :: follow.vnay.vn
 0.0.0.0 foo.cosmocode.de
 :: foo.cosmocode.de
-0.0.0.0 footprint.anetwork.ir
-:: footprint.anetwork.ir
 0.0.0.0 footprints-pa.googleapis.com
 :: footprints-pa.googleapis.com
 0.0.0.0 forad1.weimeicun.com
@@ -19724,10 +19710,6 @@ ff02::3 ip6-allhosts
 :: ibnads.xl.co.id
 0.0.0.0 ibs.indiatimes.com
 :: ibs.indiatimes.com
-0.0.0.0 ic.aliyune.xyz
-:: ic.aliyune.xyz
-0.0.0.0 ic.aliyunh.xyz
-:: ic.aliyunh.xyz
 0.0.0.0 ic.aliyuni.xyz
 :: ic.aliyuni.xyz
 0.0.0.0 ic.snssdk.com
@@ -20770,6 +20752,8 @@ ff02::3 ip6-allhosts
 :: iovation.co.uk
 0.0.0.0 ip.120ask.com
 :: ip.120ask.com
+0.0.0.0 ip.cliphunter.com
+:: ip.cliphunter.com
 0.0.0.0 ip.goguardian.com
 :: ip.goguardian.com
 0.0.0.0 ip.pichunter.com
@@ -21026,6 +21010,8 @@ ff02::3 ip6-allhosts
 :: japan.inmobi.com
 0.0.0.0 japheth.com.cn
 :: japheth.com.cn
+0.0.0.0 jas.indeednps.com
+:: jas.indeednps.com
 0.0.0.0 jasmine.directprimal.com
 :: jasmine.directprimal.com
 0.0.0.0 jasmine.noblock.pro
@@ -22454,6 +22440,8 @@ ff02::3 ip6-allhosts
 :: lm1.tuliu.com
 0.0.0.0 lm1.wzpcw.com
 :: lm1.wzpcw.com
+0.0.0.0 lmbsy.qq.com
+:: lmbsy.qq.com
 0.0.0.0 lmdknj.xsbiquge.com
 :: lmdknj.xsbiquge.com
 0.0.0.0 lmwap.awtks.com
@@ -23556,8 +23544,6 @@ ff02::3 ip6-allhosts
 :: m.man66966.top
 0.0.0.0 m.maopuzw.com
 :: m.maopuzw.com
-0.0.0.0 m.mcnnic.com
-:: m.mcnnic.com
 0.0.0.0 m.meinianguoji.com
 :: m.meinianguoji.com
 0.0.0.0 m.mfufanj.cn
@@ -23606,8 +23592,6 @@ ff02::3 ip6-allhosts
 :: m.obeip.com
 0.0.0.0 m.ocenp.com
 :: m.ocenp.com
-0.0.0.0 m.oikqfwv.cn
-:: m.oikqfwv.cn
 0.0.0.0 m.oipeirates.online
 :: m.oipeirates.online
 0.0.0.0 m.openv.tv
@@ -23744,8 +23728,6 @@ ff02::3 ip6-allhosts
 :: m.vpon.com
 0.0.0.0 m.wbiev.com
 :: m.wbiev.com
-0.0.0.0 m.wcail.com
-:: m.wcail.com
 0.0.0.0 m.wenzhougy.cn
 :: m.wenzhougy.cn
 0.0.0.0 m.wervp.com
@@ -23778,8 +23760,6 @@ ff02::3 ip6-allhosts
 :: m.xingxd.com
 0.0.0.0 m.xkqpco.com.com
 :: m.xkqpco.com.com
-0.0.0.0 m.xs222.com
-:: m.xs222.com
 0.0.0.0 m.xsjjjc.cn
 :: m.xsjjjc.cn
 0.0.0.0 m.xt2d.cn
@@ -26040,10 +26020,6 @@ ff02::3 ip6-allhosts
 :: mo.ccch.xyz
 0.0.0.0 mo.cifree.xyz
 :: mo.cifree.xyz
-0.0.0.0 mo.cyfk896.top
-:: mo.cyfk896.top
-0.0.0.0 mo.cyfp298.top
-:: mo.cyfp298.top
 0.0.0.0 mo.haloapps.cn
 :: mo.haloapps.cn
 0.0.0.0 mo.kugou.com
@@ -27742,8 +27718,6 @@ ff02::3 ip6-allhosts
 :: open.delivery.net
 0.0.0.0 open.e.kuaishou.com
 :: open.e.kuaishou.com
-0.0.0.0 open.lalanuz.cn
-:: open.lalanuz.cn
 0.0.0.0 open.mkt1397.com
 :: open.mkt1397.com
 0.0.0.0 open.play.cn
@@ -28616,6 +28590,8 @@ ff02::3 ip6-allhosts
 :: pelckw.qjudpxkisv.xyz
 0.0.0.0 pelis24.com.es
 :: pelis24.com.es
+0.0.0.0 pensebig.com.br
+:: pensebig.com.br
 0.0.0.0 pepsico.com.cn
 :: pepsico.com.cn
 0.0.0.0 perf-events.cloud.unity3d.com
@@ -28912,6 +28888,8 @@ ff02::3 ip6-allhosts
 :: pie.net.pk
 0.0.0.0 pigewang.com.cn
 :: pigewang.com.cn
+0.0.0.0 pigvideo.com.cn
+:: pigvideo.com.cn
 0.0.0.0 pihawv.vprmoda.com
 :: pihawv.vprmoda.com
 0.0.0.0 pimlog.baidu.com
@@ -29288,8 +29266,6 @@ ff02::3 ip6-allhosts
 :: play1.videos.videos.vidto.me
 0.0.0.0 play1.videos.vidto.me
 :: play1.videos.vidto.me
-0.0.0.0 play4.flashx.pw
-:: play4.flashx.pw
 0.0.0.0 player-feedback-v1.glomex.com
 :: player-feedback-v1.glomex.com
 0.0.0.0 player-telemetry.vimeo.com
@@ -30348,8 +30324,6 @@ ff02::3 ip6-allhosts
 :: qcvf.ifeng.com
 0.0.0.0 qd.easylive.net
 :: qd.easylive.net
-0.0.0.0 qd.snwx.com
-:: qd.snwx.com
 0.0.0.0 qd.wanjuanba.com
 :: qd.wanjuanba.com
 0.0.0.0 qde.chinaqirun.cn
@@ -30502,8 +30476,6 @@ ff02::3 ip6-allhosts
 :: r.254a.com
 0.0.0.0 r.5207470.com
 :: r.5207470.com
-0.0.0.0 r.71sem.com
-:: r.71sem.com
 0.0.0.0 r.99waiyu.com
 :: r.99waiyu.com
 0.0.0.0 r.ad1.ru
@@ -33630,8 +33602,6 @@ ff02::3 ip6-allhosts
 :: setting.rayjump.com
 0.0.0.0 settings-win-ppe.data.microsoft.com
 :: settings-win-ppe.data.microsoft.com
-0.0.0.0 settingsfd-geo.trafficmanager.net
-:: settingsfd-geo.trafficmanager.net
 0.0.0.0 sexy.fling.com
 :: sexy.fling.com
 0.0.0.0 seyfwl.smaker.pl
@@ -33758,6 +33728,8 @@ ff02::3 ip6-allhosts
 :: shop.vnay.vn
 0.0.0.0 shop.yinyuetai.com
 :: shop.yinyuetai.com
+0.0.0.0 shopconvert.com.br
+:: shopconvert.com.br
 0.0.0.0 shopify.staging2.crazyegg.com
 :: shopify.staging2.crazyegg.com
 0.0.0.0 shopmetric.rediff.com
@@ -33770,6 +33742,8 @@ ff02::3 ip6-allhosts
 :: short-video.kakamobi.cn
 0.0.0.0 short.youni.im
 :: short.youni.im
+0.0.0.0 shotarget.co.uk
+:: shotarget.co.uk
 0.0.0.0 shouji.yd126.com
 :: shouji.yd126.com
 0.0.0.0 shouliang.52lvgucci.com
@@ -36546,6 +36520,8 @@ ff02::3 ip6-allhosts
 :: sr.cookiescript.info
 0.0.0.0 src.leju.com
 :: src.leju.com
+0.0.0.0 src.zf313.com
+:: src.zf313.com
 0.0.0.0 srch.atdmt.com
 :: srch.atdmt.com
 0.0.0.0 srd.simba.taobao.com
@@ -38276,6 +38252,8 @@ ff02::3 ip6-allhosts
 :: stats.vk-portal.net
 0.0.0.0 stats.vliplatform.com
 :: stats.vliplatform.com
+0.0.0.0 stats.vng.com.vn
+:: stats.vng.com.vn
 0.0.0.0 stats.voyages-sncf.com
 :: stats.voyages-sncf.com
 0.0.0.0 stats.vulture.com
@@ -44240,6 +44218,8 @@ ff02::3 ip6-allhosts
 :: widget.headlines.pw
 0.0.0.0 widget.jobberman.com
 :: widget.jobberman.com
+0.0.0.0 widget.justwatch.com
+:: widget.justwatch.com
 0.0.0.0 widget.kyna.vn
 :: widget.kyna.vn
 0.0.0.0 widget.market-place.su
