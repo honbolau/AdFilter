@@ -1,11 +1,11 @@
-# Checksum: MTYxNjgwNDMzMgo=
+# Checksum: MTYxNjg5MDc3OAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210327-0
-# TimeUpdated: 2021-03-27T00:18:52+00:00
+# Version: -20210328-0
+# TimeUpdated: 2021-03-28T00:19:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 23104
+# Total: 23099
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -866,8 +866,6 @@ ff02::3 ip6-allhosts
 :: a.shenchuang.com
 0.0.0.0 a.slsbc.cn
 :: a.slsbc.cn
-0.0.0.0 a.speedostream.com
-:: a.speedostream.com
 0.0.0.0 a.steigenberger.com
 :: a.steigenberger.com
 0.0.0.0 a.stka8.com
@@ -4018,8 +4016,6 @@ ff02::3 ip6-allhosts
 :: ads.psd2html.com
 0.0.0.0 ads.pubmatic.com
 :: ads.pubmatic.com
-0.0.0.0 ads.quasaraffiliates.com
-:: ads.quasaraffiliates.com
 0.0.0.0 ads.queendom.com
 :: ads.queendom.com
 0.0.0.0 ads.quoka.de
@@ -5668,6 +5664,8 @@ ff02::3 ip6-allhosts
 :: affiliates.treasureisland.com
 0.0.0.0 affiliates.ultrahosting.com
 :: affiliates.ultrahosting.com
+0.0.0.0 affiliates.vpn.ht
+:: affiliates.vpn.ht
 0.0.0.0 affiliatesmedia.sbobet.com
 :: affiliatesmedia.sbobet.com
 0.0.0.0 affiliation.filestube.com
@@ -6310,8 +6308,6 @@ ff02::3 ip6-allhosts
 :: analytics.liveact.cri-mw.jp
 0.0.0.0 analytics.livestream.com
 :: analytics.livestream.com
-0.0.0.0 analytics.localytics.com
-:: analytics.localytics.com
 0.0.0.0 analytics.logsss.com
 :: analytics.logsss.com
 0.0.0.0 analytics.loop-cloud.de
@@ -8456,10 +8452,6 @@ ff02::3 ip6-allhosts
 :: banners.zbs.ru
 0.0.0.0 bannershotlink.perfectgonzo.com
 :: bannershotlink.perfectgonzo.com
-0.0.0.0 bannerus1.axelsfun.com
-:: bannerus1.axelsfun.com
-0.0.0.0 bannerus3.axelsfun.com
-:: bannerus3.axelsfun.com
 0.0.0.0 bannerwall.herewetest.com
 :: bannerwall.herewetest.com
 0.0.0.0 bannerwall.s3.appcnt.com
@@ -8606,8 +8598,6 @@ ff02::3 ip6-allhosts
 :: bd1.idgdmgroup.com.cn
 0.0.0.0 bd1.jobui.com
 :: bd1.jobui.com
-0.0.0.0 bd1.nipic.com
-:: bd1.nipic.com
 0.0.0.0 bd1.pipaw.com
 :: bd1.pipaw.com
 0.0.0.0 bd1.qcjslm.com
@@ -9378,8 +9368,6 @@ ff02::3 ip6-allhosts
 :: btstats.devtribu.fr
 0.0.0.0 bttt.qucaigg.com
 :: bttt.qucaigg.com
-0.0.0.0 bttt99.kkcaicai.com
-:: bttt99.kkcaicai.com
 0.0.0.0 bu01.zybang.com
 :: bu01.zybang.com
 0.0.0.0 bu02.zybang.com
@@ -9518,6 +9506,8 @@ ff02::3 ip6-allhosts
 :: bwp.lastfm.com.com
 0.0.0.0 bwp.theinsider.com.com
 :: bwp.theinsider.com.com
+0.0.0.0 bwstatistics.sapoapps.vn
+:: bwstatistics.sapoapps.vn
 0.0.0.0 bxs.bilandgo.com
 :: bxs.bilandgo.com
 0.0.0.0 by.mbai.cn
@@ -9802,8 +9792,6 @@ ff02::3 ip6-allhosts
 :: c.th.msn.com
 0.0.0.0 c.thecounter.de
 :: c.thecounter.de
-0.0.0.0 c.top267.com
-:: c.top267.com
 0.0.0.0 c.tr.msn.com
 :: c.tr.msn.com
 0.0.0.0 c.tvpixel.com
@@ -9850,8 +9838,6 @@ ff02::3 ip6-allhosts
 :: c.xjhjtz.cn
 0.0.0.0 c.xjsytoy.com
 :: c.xjsytoy.com
-0.0.0.0 c.xsbnxxzw.cn
-:: c.xsbnxxzw.cn
 0.0.0.0 c.yanyanbiji.com
 :: c.yanyanbiji.com
 0.0.0.0 c.yes.youku.com
@@ -13778,6 +13764,8 @@ ff02::3 ip6-allhosts
 :: d2wpknqle9nuv8.cloudfront.net
 0.0.0.0 d2wu036mkcz52n.cloudfront.net
 :: d2wu036mkcz52n.cloudfront.net
+0.0.0.0 d2x19ia47o8gwm.cloudfront.net
+:: d2x19ia47o8gwm.cloudfront.net
 0.0.0.0 d2xsy1lxezptdm.cloudfront.net
 :: d2xsy1lxezptdm.cloudfront.net
 0.0.0.0 d2xxqqn3tj9nf3.cloudfront.net
@@ -22362,6 +22350,8 @@ ff02::3 ip6-allhosts
 :: literally-analytics.appspot.com
 0.0.0.0 live-cams-1.livejasmin.com
 :: live-cams-1.livejasmin.com
+0.0.0.0 live-trace.bilibili.com
+:: live-trace.bilibili.com
 0.0.0.0 live.alljobs.co.il
 :: live.alljobs.co.il
 0.0.0.0 live.cxo.name
@@ -23454,8 +23444,6 @@ ff02::3 ip6-allhosts
 :: m.hhllyt.com
 0.0.0.0 m.hissq.com
 :: m.hissq.com
-0.0.0.0 m.hjues.com
-:: m.hjues.com
 0.0.0.0 m.hlcnzz.com
 :: m.hlcnzz.com
 0.0.0.0 m.hmzsfmjc.com
@@ -23726,8 +23714,6 @@ ff02::3 ip6-allhosts
 :: m.vpadn.com
 0.0.0.0 m.vpon.com
 :: m.vpon.com
-0.0.0.0 m.wbiev.com
-:: m.wbiev.com
 0.0.0.0 m.wenzhougy.cn
 :: m.wenzhougy.cn
 0.0.0.0 m.wervp.com
@@ -28964,6 +28950,8 @@ ff02::3 ip6-allhosts
 :: pix.impdesk.com
 0.0.0.0 pix.nbcuni.com
 :: pix.nbcuni.com
+0.0.0.0 pix.revjet.com
+:: pix.revjet.com
 0.0.0.0 pix.sniperlog.ru
 :: pix.sniperlog.ru
 0.0.0.0 pix.speedbit.com
@@ -30250,6 +30238,8 @@ ff02::3 ip6-allhosts
 :: pxmzlk.redfin.com
 0.0.0.0 pxrbl.megafilms.me
 :: pxrbl.megafilms.me
+0.0.0.0 pxt.daz3d.com
+:: pxt.daz3d.com
 0.0.0.0 py.da.mgtv.com
 :: py.da.mgtv.com
 0.0.0.0 py.qlogo.cn
@@ -33742,8 +33732,6 @@ ff02::3 ip6-allhosts
 :: short-video.kakamobi.cn
 0.0.0.0 short.youni.im
 :: short.youni.im
-0.0.0.0 shotarget.co.uk
-:: shotarget.co.uk
 0.0.0.0 shouji.yd126.com
 :: shouji.yd126.com
 0.0.0.0 shouliang.52lvgucci.com
@@ -36520,8 +36508,6 @@ ff02::3 ip6-allhosts
 :: sr.cookiescript.info
 0.0.0.0 src.leju.com
 :: src.leju.com
-0.0.0.0 src.zf313.com
-:: src.zf313.com
 0.0.0.0 srch.atdmt.com
 :: srch.atdmt.com
 0.0.0.0 srd.simba.taobao.com
@@ -37718,6 +37704,8 @@ ff02::3 ip6-allhosts
 :: statictest.fraudmetrix.cn
 0.0.0.0 statis.api.3g.youku.com
 :: statis.api.3g.youku.com
+0.0.0.0 statis.dsp.vn
+:: statis.dsp.vn
 0.0.0.0 statis.mobile.youku.com
 :: statis.mobile.youku.com
 0.0.0.0 statis.push.netease.com
@@ -45536,6 +45524,8 @@ ff02::3 ip6-allhosts
 :: xstats.evoload.io
 0.0.0.0 xsweb.pxuns.com
 :: xsweb.pxuns.com
+0.0.0.0 xt.persosa.com
+:: xt.persosa.com
 0.0.0.0 xtianqi.com.cn
 :: xtianqi.com.cn
 0.0.0.0 xtracker.logimeter.com
