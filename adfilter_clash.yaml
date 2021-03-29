@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYxNjg5MDc3OAo=
+# Checksum: MTYxNjk3NzE3NQo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210328-0
-# TimeUpdated: 2021-03-28T00:19:38+00:00
+# Version: -20210329-0
+# TimeUpdated: 2021-03-29T00:19:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 23099
+# Total: 23081
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,000.0x1f4b0.com
@@ -149,6 +149,7 @@ payload:
   - DOMAIN,2.bashenghuo.com
   - DOMAIN,2.biqle.ru
   - DOMAIN,2.haoxue360.com
+  - DOMAIN,2.letvlive.com
   - DOMAIN,2.nanrenwo.net
   - DOMAIN,2.speedknow.co
   - DOMAIN,2.tuxi.com.cn
@@ -509,7 +510,6 @@ payload:
   - DOMAIN,a02342.southendstandard.co.uk
   - DOMAIN,a02342.southwalesargus.co.uk
   - DOMAIN,a02342.stalbansreview.co.uk
-  - DOMAIN,a02342.stourbridgenews.co.uk
   - DOMAIN,a02342.theboltonnews.co.uk
   - DOMAIN,a02342.thenorthernecho.co.uk
   - DOMAIN,a02342.thescottishfarmer.co.uk
@@ -5138,7 +5138,6 @@ payload:
   - DOMAIN,cdn.adikteev.com
   - DOMAIN,cdn.adinall.com
   - DOMAIN,cdn.adk2.com
-  - DOMAIN,cdn.adless.io
   - DOMAIN,cdn.adm.myhayo.com
   - DOMAIN,cdn.adnxs.com
   - DOMAIN,cdn.ads.fotoable.net
@@ -6501,7 +6500,6 @@ payload:
   - DOMAIN,cysd.7kww.net
   - DOMAIN,cytron.videojj.com
   - DOMAIN,cytroncdn.videojj.com
-  - DOMAIN,cz.ifeng0.com
   - DOMAIN,cz01016102.ms758.com
   - DOMAIN,cz75pw.kl0ru78.xyz
   - DOMAIN,czdxto.radiopopular.pt
@@ -7694,7 +7692,6 @@ payload:
   - DOMAIN,dowjones.hb-api.omtrdc.net
   - DOMAIN,down.91wangmeng.com
   - DOMAIN,down.diannaodian.com
-  - DOMAIN,down.ewo1617.com
   - DOMAIN,down.gotek.com.cn
   - DOMAIN,down.winads.cn
   - DOMAIN,down.winbaicai.com
@@ -7918,7 +7915,6 @@ payload:
   - DOMAIN,e.anmeilai.net
   - DOMAIN,e.apsalar.com
   - DOMAIN,e.apxyz.com
-  - DOMAIN,e.ayues.com
   - DOMAIN,e.baidu.com
   - DOMAIN,e.banmamedia.com
   - DOMAIN,e.bsnnk.com
@@ -8139,7 +8135,6 @@ payload:
   - DOMAIN,ee.m19ud.cn
   - DOMAIN,ee.mfufanj.cn
   - DOMAIN,ee.oikqfwv.cn
-  - DOMAIN,ee.psrkoce.cn
   - DOMAIN,ee.u0r9.cn
   - DOMAIN,ee.wh723.cn
   - DOMAIN,ee.xfya3.cn
@@ -8387,6 +8382,7 @@ payload:
   - DOMAIN,etrader.kalahari.com
   - DOMAIN,etrader.kalahari.net
   - DOMAIN,etui.fs.ml.com
+  - DOMAIN,etx.indiatimes.com
   - DOMAIN,eu-ad.sam4m.com
   - DOMAIN,eu-gmtdmp.gd1.mookie1.com
   - DOMAIN,eu.groupondata.com
@@ -8553,7 +8549,6 @@ payload:
   - DOMAIN,f.dianwenwang.com
   - DOMAIN,f.doodlemobile.com
   - DOMAIN,f.e719.net
-  - DOMAIN,f.fj95560.com
   - DOMAIN,f.gm.mob.com
   - DOMAIN,f.hongm.com
   - DOMAIN,f.mzw000.com
@@ -8923,7 +8918,6 @@ payload:
   - DOMAIN,g.xywy.com
   - DOMAIN,g.yccdn.com
   - DOMAIN,g.youyou234.com
-  - DOMAIN,g.zx-jsp.com
   - DOMAIN,g1.08160.cn
   - DOMAIN,g1.163.com
   - DOMAIN,g1.ads.oppomobile.com
@@ -8995,7 +8989,6 @@ payload:
   - DOMAIN,gateway.ttpsdk.info
   - DOMAIN,gateways.s3.amazonaws.com
   - DOMAIN,gatorleads.co.uk
-  - DOMAIN,gazetteherald-gb.gazetteherald.co.uk
   - DOMAIN,gb.corp.163.com
   - DOMAIN,gbr-eri-c1-s1.inf.nimiq.network
   - DOMAIN,gbr-eri-c1-s2.inf.nimiq.network
@@ -9092,7 +9085,6 @@ payload:
   - DOMAIN,geo.moatads.com
   - DOMAIN,geo.mtvnn.com
   - DOMAIN,geo.q5media.net
-  - DOMAIN,geo.thehindu.com
   - DOMAIN,geo.vortex.data.microsoft.com.akadns.net
   - DOMAIN,geo.xcel.io
   - DOMAIN,geo.yahoo.com
@@ -10433,7 +10425,6 @@ payload:
   - DOMAIN,itx5.smartadserver.com
   - DOMAIN,iu.juzi.cn
   - DOMAIN,iunrts.booking.com
-  - DOMAIN,iv.aliyune.xyz
   - DOMAIN,iv.doubleclick.net
   - DOMAIN,ivcbrasil.org.br
   - DOMAIN,ivitrine.buscape.com
@@ -10677,7 +10668,6 @@ payload:
   - DOMAIN,js.mosflower.cn
   - DOMAIN,js.mscto.com
   - DOMAIN,js.mtburn.com
-  - DOMAIN,js.mumayi.net
   - DOMAIN,js.nahnoji.cz
   - DOMAIN,js.passaro-de-fogo.biz
   - DOMAIN,js.penxiangge.com
@@ -11479,6 +11469,7 @@ payload:
   - DOMAIN,logs.giaoducthoidai.vn
   - DOMAIN,logs.hotstar.com
   - DOMAIN,logs.juspay.in
+  - DOMAIN,logs.nandu.com
   - DOMAIN,logs.naukri.com
   - DOMAIN,logs.ntvplus.tv
   - DOMAIN,logs.psm.wmcdp.io
@@ -11634,7 +11625,6 @@ payload:
   - DOMAIN,m.aty.cp45.ott.cibntv.net
   - DOMAIN,m.aty.snmsohu.aisee.tv
   - DOMAIN,m.aty.sohu.com
-  - DOMAIN,m.ayues.com
   - DOMAIN,m.b2bchinese.cn
   - DOMAIN,m.baidu.com.yiqisee.cn
   - DOMAIN,m.baidu.com.zhiduo.org
@@ -11686,7 +11676,6 @@ payload:
   - DOMAIN,m.enjuk.com
   - DOMAIN,m.ensts.cn
   - DOMAIN,m.epoch168.com
-  - DOMAIN,m.ercos.cn
   - DOMAIN,m.ever-lohas.com
   - DOMAIN,m.exusr.com
   - DOMAIN,m.fcuit.com
@@ -11897,7 +11886,6 @@ payload:
   - DOMAIN,m.yuyouge.com
   - DOMAIN,m.yyfymj.com
   - DOMAIN,m.z0mh0u.cn
-  - DOMAIN,m.zabxb.com
   - DOMAIN,m.zaoss.com
   - DOMAIN,m.zdjgj.cn
   - DOMAIN,m.zenwq.com
@@ -12669,7 +12657,6 @@ payload:
   - DOMAIN,metrics.nfm.com
   - DOMAIN,metrics.nintendo.com
   - DOMAIN,metrics.nissanusa.com
-  - DOMAIN,metrics.nook.com
   - DOMAIN,metrics.northeast.aaa.com
   - DOMAIN,metrics.notebooksbilliger.de
   - DOMAIN,metrics.npr.org
@@ -12870,7 +12857,6 @@ payload:
   - DOMAIN,milk.yesky.com.cn
   - DOMAIN,mimg.0yq00i.cn
   - DOMAIN,mimg.126.net
-  - DOMAIN,mimg.7791.com.cn
   - DOMAIN,mimg.hjmoiye.cn
   - DOMAIN,mine.gay-hotvideo.net
   - DOMAIN,mine.nahnoji.cz
@@ -13010,7 +12996,6 @@ payload:
   - DOMAIN,mo.rjfkrzwk.cn
   - DOMAIN,mo.test.haloapps.com
   - DOMAIN,mo.zdceaa.cn
-  - DOMAIN,mo.zvygzatj.cn
   - DOMAIN,mob26.jnjszl.com
   - DOMAIN,mobaders.oss-cn-beijing.aliyuncs.com
   - DOMAIN,mobads-logs.baidu.com
@@ -14738,7 +14723,6 @@ payload:
   - DOMAIN,pp.muzofon-online.com
   - DOMAIN,pp.promocionesfarma.com
   - DOMAIN,pp.teksty-pesenok.ru
-  - DOMAIN,pp2.dhzw.org
   - DOMAIN,pp2.pptv.com
   - DOMAIN,pplpiq.pricerunner.se
   - DOMAIN,pps-log.op-mobile.opera.com
@@ -15558,7 +15542,6 @@ payload:
   - DOMAIN,rlogs.youdao.com
   - DOMAIN,rm.gdt.qq.com
   - DOMAIN,rm.lomark.cn
-  - DOMAIN,rm.ra.icast.cn
   - DOMAIN,rm.sina.com.cn
   - DOMAIN,rmads.eu.msn.com
   - DOMAIN,rmads.msn.com
@@ -16208,7 +16191,6 @@ payload:
   - DOMAIN,sc.coutts.com
   - DOMAIN,sc.csai.cn
   - DOMAIN,sc.disneylandparis.com
-  - DOMAIN,sc.ggfeng.com
   - DOMAIN,sc.hl.co.uk
   - DOMAIN,sc.hm.com
   - DOMAIN,sc.iasds01.com

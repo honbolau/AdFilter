@@ -1,11 +1,11 @@
-# Checksum: MTYxNjg5MDc3OAo=
+# Checksum: MTYxNjk3NzE3NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210328-0
-# TimeUpdated: 2021-03-28T00:19:38+00:00
+# Version: -20210329-0
+# TimeUpdated: 2021-03-29T00:19:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 23099
+# Total: 23081
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -300,6 +300,8 @@ ff02::3 ip6-allhosts
 :: 2.biqle.ru
 0.0.0.0 2.haoxue360.com
 :: 2.haoxue360.com
+0.0.0.0 2.letvlive.com
+:: 2.letvlive.com
 0.0.0.0 2.nanrenwo.net
 :: 2.nanrenwo.net
 0.0.0.0 2.speedknow.co
@@ -1020,8 +1022,6 @@ ff02::3 ip6-allhosts
 :: a02342.southwalesargus.co.uk
 0.0.0.0 a02342.stalbansreview.co.uk
 :: a02342.stalbansreview.co.uk
-0.0.0.0 a02342.stourbridgenews.co.uk
-:: a02342.stourbridgenews.co.uk
 0.0.0.0 a02342.theboltonnews.co.uk
 :: a02342.theboltonnews.co.uk
 0.0.0.0 a02342.thenorthernecho.co.uk
@@ -10278,8 +10278,6 @@ ff02::3 ip6-allhosts
 :: cdn.adinall.com
 0.0.0.0 cdn.adk2.com
 :: cdn.adk2.com
-0.0.0.0 cdn.adless.io
-:: cdn.adless.io
 0.0.0.0 cdn.adm.myhayo.com
 :: cdn.adm.myhayo.com
 0.0.0.0 cdn.adnxs.com
@@ -13004,8 +13002,6 @@ ff02::3 ip6-allhosts
 :: cytron.videojj.com
 0.0.0.0 cytroncdn.videojj.com
 :: cytroncdn.videojj.com
-0.0.0.0 cz.ifeng0.com
-:: cz.ifeng0.com
 0.0.0.0 cz01016102.ms758.com
 :: cz01016102.ms758.com
 0.0.0.0 cz75pw.kl0ru78.xyz
@@ -15390,8 +15386,6 @@ ff02::3 ip6-allhosts
 :: down.91wangmeng.com
 0.0.0.0 down.diannaodian.com
 :: down.diannaodian.com
-0.0.0.0 down.ewo1617.com
-:: down.ewo1617.com
 0.0.0.0 down.gotek.com.cn
 :: down.gotek.com.cn
 0.0.0.0 down.winads.cn
@@ -15838,8 +15832,6 @@ ff02::3 ip6-allhosts
 :: e.apsalar.com
 0.0.0.0 e.apxyz.com
 :: e.apxyz.com
-0.0.0.0 e.ayues.com
-:: e.ayues.com
 0.0.0.0 e.baidu.com
 :: e.baidu.com
 0.0.0.0 e.banmamedia.com
@@ -16280,8 +16272,6 @@ ff02::3 ip6-allhosts
 :: ee.mfufanj.cn
 0.0.0.0 ee.oikqfwv.cn
 :: ee.oikqfwv.cn
-0.0.0.0 ee.psrkoce.cn
-:: ee.psrkoce.cn
 0.0.0.0 ee.u0r9.cn
 :: ee.u0r9.cn
 0.0.0.0 ee.wh723.cn
@@ -16776,6 +16766,8 @@ ff02::3 ip6-allhosts
 :: etrader.kalahari.net
 0.0.0.0 etui.fs.ml.com
 :: etui.fs.ml.com
+0.0.0.0 etx.indiatimes.com
+:: etx.indiatimes.com
 0.0.0.0 eu-ad.sam4m.com
 :: eu-ad.sam4m.com
 0.0.0.0 eu-gmtdmp.gd1.mookie1.com
@@ -17108,8 +17100,6 @@ ff02::3 ip6-allhosts
 :: f.doodlemobile.com
 0.0.0.0 f.e719.net
 :: f.e719.net
-0.0.0.0 f.fj95560.com
-:: f.fj95560.com
 0.0.0.0 f.gm.mob.com
 :: f.gm.mob.com
 0.0.0.0 f.hongm.com
@@ -17848,8 +17838,6 @@ ff02::3 ip6-allhosts
 :: g.yccdn.com
 0.0.0.0 g.youyou234.com
 :: g.youyou234.com
-0.0.0.0 g.zx-jsp.com
-:: g.zx-jsp.com
 0.0.0.0 g1.08160.cn
 :: g1.08160.cn
 0.0.0.0 g1.163.com
@@ -17992,8 +17980,6 @@ ff02::3 ip6-allhosts
 :: gateways.s3.amazonaws.com
 0.0.0.0 gatorleads.co.uk
 :: gatorleads.co.uk
-0.0.0.0 gazetteherald-gb.gazetteherald.co.uk
-:: gazetteherald-gb.gazetteherald.co.uk
 0.0.0.0 gb.corp.163.com
 :: gb.corp.163.com
 0.0.0.0 gbr-eri-c1-s1.inf.nimiq.network
@@ -18186,8 +18172,6 @@ ff02::3 ip6-allhosts
 :: geo.mtvnn.com
 0.0.0.0 geo.q5media.net
 :: geo.q5media.net
-0.0.0.0 geo.thehindu.com
-:: geo.thehindu.com
 0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
 :: geo.vortex.data.microsoft.com.akadns.net
 0.0.0.0 geo.xcel.io
@@ -20868,8 +20852,6 @@ ff02::3 ip6-allhosts
 :: iu.juzi.cn
 0.0.0.0 iunrts.booking.com
 :: iunrts.booking.com
-0.0.0.0 iv.aliyune.xyz
-:: iv.aliyune.xyz
 0.0.0.0 iv.doubleclick.net
 :: iv.doubleclick.net
 0.0.0.0 ivcbrasil.org.br
@@ -21356,8 +21338,6 @@ ff02::3 ip6-allhosts
 :: js.mscto.com
 0.0.0.0 js.mtburn.com
 :: js.mtburn.com
-0.0.0.0 js.mumayi.net
-:: js.mumayi.net
 0.0.0.0 js.nahnoji.cz
 :: js.nahnoji.cz
 0.0.0.0 js.passaro-de-fogo.biz
@@ -22960,6 +22940,8 @@ ff02::3 ip6-allhosts
 :: logs.hotstar.com
 0.0.0.0 logs.juspay.in
 :: logs.juspay.in
+0.0.0.0 logs.nandu.com
+:: logs.nandu.com
 0.0.0.0 logs.naukri.com
 :: logs.naukri.com
 0.0.0.0 logs.ntvplus.tv
@@ -23270,8 +23252,6 @@ ff02::3 ip6-allhosts
 :: m.aty.snmsohu.aisee.tv
 0.0.0.0 m.aty.sohu.com
 :: m.aty.sohu.com
-0.0.0.0 m.ayues.com
-:: m.ayues.com
 0.0.0.0 m.b2bchinese.cn
 :: m.b2bchinese.cn
 0.0.0.0 m.baidu.com.yiqisee.cn
@@ -23374,8 +23354,6 @@ ff02::3 ip6-allhosts
 :: m.ensts.cn
 0.0.0.0 m.epoch168.com
 :: m.epoch168.com
-0.0.0.0 m.ercos.cn
-:: m.ercos.cn
 0.0.0.0 m.ever-lohas.com
 :: m.ever-lohas.com
 0.0.0.0 m.exusr.com
@@ -23796,8 +23774,6 @@ ff02::3 ip6-allhosts
 :: m.yyfymj.com
 0.0.0.0 m.z0mh0u.cn
 :: m.z0mh0u.cn
-0.0.0.0 m.zabxb.com
-:: m.zabxb.com
 0.0.0.0 m.zaoss.com
 :: m.zaoss.com
 0.0.0.0 m.zdjgj.cn
@@ -25340,8 +25316,6 @@ ff02::3 ip6-allhosts
 :: metrics.nintendo.com
 0.0.0.0 metrics.nissanusa.com
 :: metrics.nissanusa.com
-0.0.0.0 metrics.nook.com
-:: metrics.nook.com
 0.0.0.0 metrics.northeast.aaa.com
 :: metrics.northeast.aaa.com
 0.0.0.0 metrics.notebooksbilliger.de
@@ -25742,8 +25716,6 @@ ff02::3 ip6-allhosts
 :: mimg.0yq00i.cn
 0.0.0.0 mimg.126.net
 :: mimg.126.net
-0.0.0.0 mimg.7791.com.cn
-:: mimg.7791.com.cn
 0.0.0.0 mimg.hjmoiye.cn
 :: mimg.hjmoiye.cn
 0.0.0.0 mine.gay-hotvideo.net
@@ -26022,8 +25994,6 @@ ff02::3 ip6-allhosts
 :: mo.test.haloapps.com
 0.0.0.0 mo.zdceaa.cn
 :: mo.zdceaa.cn
-0.0.0.0 mo.zvygzatj.cn
-:: mo.zvygzatj.cn
 0.0.0.0 mob26.jnjszl.com
 :: mob26.jnjszl.com
 0.0.0.0 mobaders.oss-cn-beijing.aliyuncs.com
@@ -29478,8 +29448,6 @@ ff02::3 ip6-allhosts
 :: pp.promocionesfarma.com
 0.0.0.0 pp.teksty-pesenok.ru
 :: pp.teksty-pesenok.ru
-0.0.0.0 pp2.dhzw.org
-:: pp2.dhzw.org
 0.0.0.0 pp2.pptv.com
 :: pp2.pptv.com
 0.0.0.0 pplpiq.pricerunner.se
@@ -31118,8 +31086,6 @@ ff02::3 ip6-allhosts
 :: rm.gdt.qq.com
 0.0.0.0 rm.lomark.cn
 :: rm.lomark.cn
-0.0.0.0 rm.ra.icast.cn
-:: rm.ra.icast.cn
 0.0.0.0 rm.sina.com.cn
 :: rm.sina.com.cn
 0.0.0.0 rmads.eu.msn.com
@@ -32418,8 +32384,6 @@ ff02::3 ip6-allhosts
 :: sc.csai.cn
 0.0.0.0 sc.disneylandparis.com
 :: sc.disneylandparis.com
-0.0.0.0 sc.ggfeng.com
-:: sc.ggfeng.com
 0.0.0.0 sc.hl.co.uk
 :: sc.hl.co.uk
 0.0.0.0 sc.hm.com
