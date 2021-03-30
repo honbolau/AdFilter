@@ -1,11 +1,11 @@
-# Checksum: MTYxNjk3NzE3NQo=
+# Checksum: MTYxNzA2MzUxNAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210329-0
-# TimeUpdated: 2021-03-29T00:19:35+00:00
+# Version: -20210330-0
+# TimeUpdated: 2021-03-30T00:18:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 23081
+# Total: 23079
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -130,6 +130,8 @@ ff02::3 ip6-allhosts
 :: 1.kk.sqfuwu.cn
 0.0.0.0 1.kuaidiwo.cn
 :: 1.kuaidiwo.cn
+0.0.0.0 1.letvlive.com
+:: 1.letvlive.com
 0.0.0.0 1.lishibu.com
 :: 1.lishibu.com
 0.0.0.0 1.lvshi567.com
@@ -622,6 +624,8 @@ ff02::3 ip6-allhosts
 :: a-m-s.adnonstop.com
 0.0.0.0 a-m-s.poco.cn
 :: a-m-s.poco.cn
+0.0.0.0 a-reporting.nytimes.com
+:: a-reporting.nytimes.com
 0.0.0.0 a-ssl.ligatus.com
 :: a-ssl.ligatus.com
 0.0.0.0 a-sta-cn.upltv.com
@@ -982,8 +986,6 @@ ff02::3 ip6-allhosts
 :: a02342.bucksfreepress.co.uk
 0.0.0.0 a02342.burnhamandhighbridgeweeklynews.co.uk
 :: a02342.burnhamandhighbridgeweeklynews.co.uk
-0.0.0.0 a02342.clactonandfrintongazette.co.uk
-:: a02342.clactonandfrintongazette.co.uk
 0.0.0.0 a02342.dailyecho.co.uk
 :: a02342.dailyecho.co.uk
 0.0.0.0 a02342.darlingtonandstocktontimes.co.uk
@@ -1006,14 +1008,10 @@ ff02::3 ip6-allhosts
 :: a02342.northwichguardian.co.uk
 0.0.0.0 a02342.penarthtimes.co.uk
 :: a02342.penarthtimes.co.uk
-0.0.0.0 a02342.redditchadvertiser.co.uk
-:: a02342.redditchadvertiser.co.uk
 0.0.0.0 a02342.redhillandreigatelife.co.uk
 :: a02342.redhillandreigatelife.co.uk
 0.0.0.0 a02342.richmondandtwickenhamtimes.co.uk
 :: a02342.richmondandtwickenhamtimes.co.uk
-0.0.0.0 a02342.romseyadvertiser.co.uk
-:: a02342.romseyadvertiser.co.uk
 0.0.0.0 a02342.salisburyjournal.co.uk
 :: a02342.salisburyjournal.co.uk
 0.0.0.0 a02342.southendstandard.co.uk
@@ -7862,8 +7860,6 @@ ff02::3 ip6-allhosts
 :: awsync.yandex.ru
 0.0.0.0 ax.120ask.com
 :: ax.120ask.com
-0.0.0.0 ax.ggfeng.com
-:: ax.ggfeng.com
 0.0.0.0 ax.idg.se
 :: ax.idg.se
 0.0.0.0 ax.ifeng.com
@@ -11816,8 +11812,6 @@ ff02::3 ip6-allhosts
 :: collector.roistat.com
 0.0.0.0 collector.schibsted.io
 :: collector.schibsted.io
-0.0.0.0 collector.shopstream.co
-:: collector.shopstream.co
 0.0.0.0 collector.sspinc.io
 :: collector.sspinc.io
 0.0.0.0 collector.statowl.com
@@ -19836,6 +19830,8 @@ ff02::3 ip6-allhosts
 :: im.aol.de
 0.0.0.0 im.banner.t-online.de
 :: im.banner.t-online.de
+0.0.0.0 im.cbsileads.com
+:: im.cbsileads.com
 0.0.0.0 im.ctags.cn
 :: im.ctags.cn
 0.0.0.0 im.jpush.cn
@@ -26936,8 +26932,6 @@ ff02::3 ip6-allhosts
 :: nochange.ggsafe.com
 0.0.0.0 node.cdntxt.com
 :: node.cdntxt.com
-0.0.0.0 node.coin-hive.com
-:: node.coin-hive.com
 0.0.0.0 node.market-place.su
 :: node.market-place.su
 0.0.0.0 node.sm-dafa.com
@@ -32384,6 +32378,8 @@ ff02::3 ip6-allhosts
 :: sc.csai.cn
 0.0.0.0 sc.disneylandparis.com
 :: sc.disneylandparis.com
+0.0.0.0 sc.ggfeng.com
+:: sc.ggfeng.com
 0.0.0.0 sc.hl.co.uk
 :: sc.hl.co.uk
 0.0.0.0 sc.hm.com
@@ -38204,8 +38200,6 @@ ff02::3 ip6-allhosts
 :: stats.vk-portal.net
 0.0.0.0 stats.vliplatform.com
 :: stats.vliplatform.com
-0.0.0.0 stats.vng.com.vn
-:: stats.vng.com.vn
 0.0.0.0 stats.voyages-sncf.com
 :: stats.voyages-sncf.com
 0.0.0.0 stats.vulture.com
@@ -41096,6 +41090,8 @@ ff02::3 ip6-allhosts
 :: tracker.giftd.ru
 0.0.0.0 tracker.icerocket.com
 :: tracker.icerocket.com
+0.0.0.0 tracker.idocdn.com
+:: tracker.idocdn.com
 0.0.0.0 tracker.iltrovatore.it
 :: tracker.iltrovatore.it
 0.0.0.0 tracker.jawcloud.co
@@ -43806,6 +43802,8 @@ ff02::3 ip6-allhosts
 :: wd.adcolony.com
 0.0.0.0 wdads.sx.atl.publicus.com
 :: wdads.sx.atl.publicus.com
+0.0.0.0 wdfhl.weidianyuedu.com
+:: wdfhl.weidianyuedu.com
 0.0.0.0 wdig.vo.llnwd.net
 :: wdig.vo.llnwd.net
 0.0.0.0 wdm.map24.com
@@ -44890,8 +44888,6 @@ ff02::3 ip6-allhosts
 :: wtnj.worldnow.com
 0.0.0.0 wtrace.cmgame.com
 :: wtrace.cmgame.com
-0.0.0.0 wtradv.market.xiaomi.com
-:: wtradv.market.xiaomi.com
 0.0.0.0 wttd.douglas.at
 :: wttd.douglas.at
 0.0.0.0 wttd.douglas.de

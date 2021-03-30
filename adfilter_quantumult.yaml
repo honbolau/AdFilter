@@ -1,11 +1,11 @@
-# Checksum: MTYxNjk3NzE3NQo=
+# Checksum: MTYxNzA2MzUxNAo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210329-0
-# TimeUpdated: 2021-03-29T00:19:35+00:00
+# Version: -20210330-0
+# TimeUpdated: 2021-03-30T00:18:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 23081
+# Total: 23079
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,000.0x1f4b0.com,REJECT
@@ -63,6 +63,7 @@ DOMAIN,1.isanxia.com,REJECT
 DOMAIN,1.jiqie.cn,REJECT
 DOMAIN,1.kk.sqfuwu.cn,REJECT
 DOMAIN,1.kuaidiwo.cn,REJECT
+DOMAIN,1.letvlive.com,REJECT
 DOMAIN,1.lishibu.com,REJECT
 DOMAIN,1.lvshi567.com,REJECT
 DOMAIN,1.mgff.com,REJECT
@@ -309,6 +310,7 @@ DOMAIN,a-counter.kiev.ua,REJECT
 DOMAIN,a-llq.whbmy.com,REJECT
 DOMAIN,a-m-s.adnonstop.com,REJECT
 DOMAIN,a-m-s.poco.cn,REJECT
+DOMAIN,a-reporting.nytimes.com,REJECT
 DOMAIN,a-ssl.ligatus.com,REJECT
 DOMAIN,a-sta-cn.upltv.com,REJECT
 DOMAIN,a.19869.com,REJECT
@@ -489,7 +491,6 @@ DOMAIN,a02342.bridportnews.co.uk,REJECT
 DOMAIN,a02342.bromsgroveadvertiser.co.uk,REJECT
 DOMAIN,a02342.bucksfreepress.co.uk,REJECT
 DOMAIN,a02342.burnhamandhighbridgeweeklynews.co.uk,REJECT
-DOMAIN,a02342.clactonandfrintongazette.co.uk,REJECT
 DOMAIN,a02342.dailyecho.co.uk,REJECT
 DOMAIN,a02342.darlingtonandstocktontimes.co.uk,REJECT
 DOMAIN,a02342.dudleynews.co.uk,REJECT
@@ -501,10 +502,8 @@ DOMAIN,a02342.harwichandmanningtreestandard.co.uk,REJECT
 DOMAIN,a02342.heraldscotland.com,REJECT
 DOMAIN,a02342.northwichguardian.co.uk,REJECT
 DOMAIN,a02342.penarthtimes.co.uk,REJECT
-DOMAIN,a02342.redditchadvertiser.co.uk,REJECT
 DOMAIN,a02342.redhillandreigatelife.co.uk,REJECT
 DOMAIN,a02342.richmondandtwickenhamtimes.co.uk,REJECT
-DOMAIN,a02342.romseyadvertiser.co.uk,REJECT
 DOMAIN,a02342.salisburyjournal.co.uk,REJECT
 DOMAIN,a02342.southendstandard.co.uk,REJECT
 DOMAIN,a02342.southwalesargus.co.uk,REJECT
@@ -3929,7 +3928,6 @@ DOMAIN,awesome.section.io,REJECT
 DOMAIN,awseukpi.whisbi.com,REJECT
 DOMAIN,awsync.yandex.ru,REJECT
 DOMAIN,ax.120ask.com,REJECT
-DOMAIN,ax.ggfeng.com,REJECT
 DOMAIN,ax.idg.se,REJECT
 DOMAIN,ax.ifeng.com,REJECT
 DOMAIN,ax.xrea.com,REJECT
@@ -5906,7 +5904,6 @@ DOMAIN,collector.retailcrm.pro,REJECT
 DOMAIN,collector.rn.de,REJECT
 DOMAIN,collector.roistat.com,REJECT
 DOMAIN,collector.schibsted.io,REJECT
-DOMAIN,collector.shopstream.co,REJECT
 DOMAIN,collector.sspinc.io,REJECT
 DOMAIN,collector.statowl.com,REJECT
 DOMAIN,collector.tescocompare.com,REJECT
@@ -9916,6 +9913,7 @@ DOMAIN,im-x.jd.com,REJECT
 DOMAIN,im.52441.com,REJECT
 DOMAIN,im.aol.de,REJECT
 DOMAIN,im.banner.t-online.de,REJECT
+DOMAIN,im.cbsileads.com,REJECT
 DOMAIN,im.ctags.cn,REJECT
 DOMAIN,im.jpush.cn,REJECT
 DOMAIN,im.of.pl,REJECT
@@ -13466,7 +13464,6 @@ DOMAIN,nnviav.pier1.com,REJECT
 DOMAIN,noa0.compteczam.fr,REJECT
 DOMAIN,nochange.ggsafe.com,REJECT
 DOMAIN,node.cdntxt.com,REJECT
-DOMAIN,node.coin-hive.com,REJECT
 DOMAIN,node.market-place.su,REJECT
 DOMAIN,node.sm-dafa.com,REJECT
 DOMAIN,node.viaxmr.com,REJECT
@@ -16190,6 +16187,7 @@ DOMAIN,sc.cmt.com,REJECT
 DOMAIN,sc.coutts.com,REJECT
 DOMAIN,sc.csai.cn,REJECT
 DOMAIN,sc.disneylandparis.com,REJECT
+DOMAIN,sc.ggfeng.com,REJECT
 DOMAIN,sc.hl.co.uk,REJECT
 DOMAIN,sc.hm.com,REJECT
 DOMAIN,sc.iasds01.com,REJECT
@@ -19100,7 +19098,6 @@ DOMAIN,stats.visistat.com,REJECT
 DOMAIN,stats.vizergy.com,REJECT
 DOMAIN,stats.vk-portal.net,REJECT
 DOMAIN,stats.vliplatform.com,REJECT
-DOMAIN,stats.vng.com.vn,REJECT
 DOMAIN,stats.voyages-sncf.com,REJECT
 DOMAIN,stats.vulture.com,REJECT
 DOMAIN,stats.wartsila.com,REJECT
@@ -20546,6 +20543,7 @@ DOMAIN,tracker.euroweb.net,REJECT
 DOMAIN,tracker.fado.vn,REJECT
 DOMAIN,tracker.giftd.ru,REJECT
 DOMAIN,tracker.icerocket.com,REJECT
+DOMAIN,tracker.idocdn.com,REJECT
 DOMAIN,tracker.iltrovatore.it,REJECT
 DOMAIN,tracker.jawcloud.co,REJECT
 DOMAIN,tracker.kantan-access.com,REJECT
@@ -21901,6 +21899,7 @@ DOMAIN,wcf.kxewpz.com,REJECT
 DOMAIN,wd-edge.sharethis.com,REJECT
 DOMAIN,wd.adcolony.com,REJECT
 DOMAIN,wdads.sx.atl.publicus.com,REJECT
+DOMAIN,wdfhl.weidianyuedu.com,REJECT
 DOMAIN,wdig.vo.llnwd.net,REJECT
 DOMAIN,wdm.map24.com,REJECT
 DOMAIN,wdr9.inseec.com,REJECT
@@ -22443,7 +22442,6 @@ DOMAIN,wtk.db.com,REJECT
 DOMAIN,wtm.monitoringservice.co,REJECT
 DOMAIN,wtnj.worldnow.com,REJECT
 DOMAIN,wtrace.cmgame.com,REJECT
-DOMAIN,wtradv.market.xiaomi.com,REJECT
 DOMAIN,wttd.douglas.at,REJECT
 DOMAIN,wttd.douglas.de,REJECT
 DOMAIN,wttd.douglas.it,REJECT
