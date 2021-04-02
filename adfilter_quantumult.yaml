@@ -1,11 +1,11 @@
-# Checksum: MTYxNzIzNjM4OQo=
+# Checksum: MTYxNzMyMzEyNwo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210401-0
-# TimeUpdated: 2021-04-01T00:19:49+00:00
+# Version: -20210402-0
+# TimeUpdated: 2021-04-02T00:25:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 26034
+# Total: 26023
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,000.0x1f4b0.com,REJECT
@@ -453,7 +453,6 @@ DOMAIN,a.skcript.com,REJECT
 DOMAIN,a.slsbc.cn,REJECT
 DOMAIN,a.soraredata.com,REJECT
 DOMAIN,a.steigenberger.com,REJECT
-DOMAIN,a.stka8.com,REJECT
 DOMAIN,a.streamoupload.com,REJECT
 DOMAIN,a.tanx.com,REJECT
 DOMAIN,a.telus.com,REJECT
@@ -826,7 +825,6 @@ DOMAIN,acs.agent.56.com,REJECT
 DOMAIN,acs.agent.v-56.com,REJECT
 DOMAIN,acs.wapa.taobao.com,REJECT
 DOMAIN,act-on.ioactive.com,REJECT
-DOMAIN,act-on.up.edu.pe,REJECT
 DOMAIN,act.acotedemoi.com,REJECT
 DOMAIN,act.boxerproperty.com,REJECT
 DOMAIN,act.colorlines.com,REJECT
@@ -4466,7 +4464,6 @@ DOMAIN,bannieres.wdmedia.net,REJECT
 DOMAIN,bans.bride.ru,REJECT
 DOMAIN,banshop.gruntovik.ru,REJECT
 DOMAIN,banstat.nadavi.net,REJECT
-DOMAIN,baobaoshiye.com.cn,REJECT
 DOMAIN,baofeng.m.cn.miaozhen.com,REJECT
 DOMAIN,baptist-health.hrm.healthgrades.com,REJECT
 DOMAIN,baptisthealth.hrm.healthgrades.com,REJECT
@@ -4547,7 +4544,6 @@ DOMAIN,bd2.flfgw.cn,REJECT
 DOMAIN,bd2.idgdmg.com.cn,REJECT
 DOMAIN,bd2.idgdmgroup.com.cn,REJECT
 DOMAIN,bd2.jobui.com,REJECT
-DOMAIN,bd2.nipic.com,REJECT
 DOMAIN,bd2.pipaw.com,REJECT
 DOMAIN,bd2.zuimeitianqi.com,REJECT
 DOMAIN,bd3.chuiyue.com,REJECT
@@ -6827,6 +6823,7 @@ DOMAIN,csr12.svcgateway.net.daraz.com,REJECT
 DOMAIN,csr21.administrators.net.daraz.com,REJECT
 DOMAIN,csr21.cdn.net.daraz.com,REJECT
 DOMAIN,csr21.eng.net.daraz.com,REJECT
+DOMAIN,css.asitend.com,REJECT
 DOMAIN,css.bloggerads.net,REJECT
 DOMAIN,css.suukcn.com,REJECT
 DOMAIN,cstats.sankakucomplex.com,REJECT
@@ -6884,6 +6881,7 @@ DOMAIN,cvt.mydas.mobi,REJECT
 DOMAIN,cw.guominziben.com,REJECT
 DOMAIN,cwcdmm.zennioptical.com,REJECT
 DOMAIN,cws-cctv.conviva.com,REJECT
+DOMAIN,cwt.citywire.info,REJECT
 DOMAIN,cwx.lianwangtech.com,REJECT
 DOMAIN,cx.atdmt.com,REJECT
 DOMAIN,cx.v5cam.com,REJECT
@@ -7522,7 +7520,6 @@ DOMAIN,daima.youbian.com,REJECT
 DOMAIN,daima.ysdui.com,REJECT
 DOMAIN,daima.yuzhulin.com,REJECT
 DOMAIN,daima1.18tzx.com,REJECT
-DOMAIN,dake.net.cn,REJECT
 DOMAIN,dal9hkyfi0m0n.cloudfront.net,REJECT
 DOMAIN,daliantong.com.cn,REJECT
 DOMAIN,dalj98ktasppa.cloudfront.net,REJECT
@@ -9088,7 +9085,6 @@ DOMAIN,events.izooto.com,REJECT
 DOMAIN,events.jianshu.io,REJECT
 DOMAIN,events.jora.com,REJECT
 DOMAIN,events.jotform.com,REJECT
-DOMAIN,events.kalooga.com,REJECT
 DOMAIN,events.launchdarkly.com,REJECT
 DOMAIN,events.lbesecapi.com,REJECT
 DOMAIN,events.matterport.com,REJECT
@@ -9169,7 +9165,6 @@ DOMAIN,ext.ns1.twtelecom.net.daraz.com,REJECT
 DOMAIN,ext.royalcactus.com,REJECT
 DOMAIN,ext.trafficbroker.xyz,REJECT
 DOMAIN,ext.week.news,REJECT
-DOMAIN,exter.weilanshan.com,REJECT
 DOMAIN,external-promo-metrics.yandex.net,REJECT
 DOMAIN,extlog.snssdk.com,REJECT
 DOMAIN,extralog.olclient.baofeng.com,REJECT
@@ -11754,7 +11749,6 @@ DOMAIN,jscode.jbzj.com,REJECT
 DOMAIN,jserr.cnzz.com,REJECT
 DOMAIN,jsf.cnlinfo.net,REJECT
 DOMAIN,jsjs.jbzj.com,REJECT
-DOMAIN,jsjs.nthyn.com,REJECT
 DOMAIN,jslog.zapps.vn,REJECT
 DOMAIN,jsm.39yst.com,REJECT
 DOMAIN,jsm.9939.com,REJECT
@@ -14641,7 +14635,6 @@ DOMAIN,ms-apps.haaretz.com,REJECT
 DOMAIN,ms.5.p2l.info,REJECT
 DOMAIN,ms.analytics.live.com,REJECT
 DOMAIN,ms.applvn.com,REJECT
-DOMAIN,ms.awqsaged.cn,REJECT
 DOMAIN,ms.bdimg.com,REJECT
 DOMAIN,ms.cnbanbao.com,REJECT
 DOMAIN,ms.cnczjy.com,REJECT
@@ -16425,7 +16418,6 @@ DOMAIN,poobaj.bhg.com,REJECT
 DOMAIN,pool-de.supportxmr.com,REJECT
 DOMAIN,pool.aeon.hashvault.pro,REJECT
 DOMAIN,pool.bmnr.pw,REJECT
-DOMAIN,pool.coinlab.biz,REJECT
 DOMAIN,pool.cryptopay.org.za,REJECT
 DOMAIN,pool.graft.hashvault.pro,REJECT
 DOMAIN,pool.minexmr.com,REJECT
@@ -16940,6 +16932,7 @@ DOMAIN,qiji1.jdwx.info,REJECT
 DOMAIN,qitdsl.ralf.ru,REJECT
 DOMAIN,qiye11.ejunshi.net,REJECT
 DOMAIN,qiyeb.iaskbus.com,REJECT
+DOMAIN,qiyegongqiu1.qiyegongqiu.com,REJECT
 DOMAIN,qiyem.aiwen.cc,REJECT
 DOMAIN,qiyem.ejunshi.com,REJECT
 DOMAIN,qiyezs.aiwen.cc,REJECT
@@ -21378,7 +21371,6 @@ DOMAIN,stats.g.doubleclick.net,REJECT
 DOMAIN,stats.galaxyexperte.de,REJECT
 DOMAIN,stats.gamestop.com,REJECT
 DOMAIN,stats.geegain.com,REJECT
-DOMAIN,stats.geekzone.co.nz,REJECT
 DOMAIN,stats.getdoks.org,REJECT
 DOMAIN,stats.ghost.org,REJECT
 DOMAIN,stats.gibson.com,REJECT
@@ -23866,7 +23858,6 @@ DOMAIN,tvl8.supdecreation.com,REJECT
 DOMAIN,tvnotice.kg.garena.vn,REJECT
 DOMAIN,tvupgrade.yunos.com,REJECT
 DOMAIN,tvutso.menbur.com,REJECT
-DOMAIN,tvuyog.renee.pl,REJECT
 DOMAIN,tw-api.vpon.com,REJECT
 DOMAIN,tw.adon.vpon.com,REJECT
 DOMAIN,tw.adx.nextmedia.com,REJECT
@@ -24696,7 +24687,6 @@ DOMAIN,wappv.zol.com.cn,REJECT
 DOMAIN,wapscdn.wapx.cn,REJECT
 DOMAIN,wapwbclick.mobile.sina.cn,REJECT
 DOMAIN,wareneingang.edeka.de,REJECT
-DOMAIN,warp.crystalad.com,REJECT
 DOMAIN,warp.prnewswire.co.uk,REJECT
 DOMAIN,warrenfcu.actonservice.com,REJECT
 DOMAIN,warringtonguardian-gb.warringtonguardian.co.uk,REJECT
@@ -25897,7 +25887,6 @@ DOMAIN,z1.zedo.com,REJECT
 DOMAIN,z1.zhishidu.com,REJECT
 DOMAIN,z1hihu.xmcimg.com,REJECT
 DOMAIN,z2.cnywst.com,REJECT
-DOMAIN,z2.lnymd.com,REJECT
 DOMAIN,z2.yunl1.com,REJECT
 DOMAIN,z2.zhishidu.com,REJECT
 DOMAIN,z888.izhufu.net,REJECT
