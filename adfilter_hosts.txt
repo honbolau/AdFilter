@@ -1,11 +1,11 @@
-# Checksum: MTYxNzMyMzEyNwo=
+# Checksum: MTYxNzQwOTEyNwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210402-0
-# TimeUpdated: 2021-04-02T00:25:27+00:00
+# Version: -20210403-0
+# TimeUpdated: 2021-04-03T00:18:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 26023
+# Total: 26017
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2540,8 +2540,6 @@ ff02::3 ip6-allhosts
 :: ad08.focalink.com
 0.0.0.0 ad09.focalink.com
 :: ad09.focalink.com
-0.0.0.0 ad1.adtitan.net
-:: ad1.adtitan.net
 0.0.0.0 ad1.bigmir.net
 :: ad1.bigmir.net
 0.0.0.0 ad1.emule-project.org
@@ -5880,6 +5878,8 @@ ff02::3 ip6-allhosts
 :: affiliate.juno.co.uk
 0.0.0.0 affiliate.k4.tinhte.vn
 :: affiliate.k4.tinhte.vn
+0.0.0.0 affiliate.konibet.com
+:: affiliate.konibet.com
 0.0.0.0 affiliate.mediatemple.net
 :: affiliate.mediatemple.net
 0.0.0.0 affiliate.mogs.com
@@ -9942,8 +9942,6 @@ ff02::3 ip6-allhosts
 :: buy-cialis.splinder.com
 0.0.0.0 buy-fioricet.hut1.ru
 :: buy-fioricet.hut1.ru
-0.0.0.0 buy-hydrocodone.scromble.com
-:: buy-hydrocodone.scromble.com
 0.0.0.0 buy-lortab-online.iscool.nl
 :: buy-lortab-online.iscool.nl
 0.0.0.0 buy-lortab.hut1.ru
@@ -10704,8 +10702,6 @@ ff02::3 ip6-allhosts
 :: cc.xtgreat.com
 0.0.0.0 cc.xwscg.com
 :: cc.xwscg.com
-0.0.0.0 cc.zeit.de
-:: cc.zeit.de
 0.0.0.0 cc1.juxilm.com
 :: cc1.juxilm.com
 0.0.0.0 cc3.ifeng.com
@@ -10986,8 +10982,6 @@ ff02::3 ip6-allhosts
 :: cdn.krxd.net
 0.0.0.0 cdn.lu.sogoucdn.com
 :: cdn.lu.sogoucdn.com
-0.0.0.0 cdn.m.baidu.com.www-sina-cn-com.com
-:: cdn.m.baidu.com.www-sina-cn-com.com
 0.0.0.0 cdn.malokacha.club
 :: cdn.malokacha.club
 0.0.0.0 cdn.marketgid.com
@@ -12366,6 +12360,8 @@ ff02::3 ip6-allhosts
 :: collect.ptengine.cn
 0.0.0.0 collect.rewardstyle.com
 :: collect.rewardstyle.com
+0.0.0.0 collect.serious.li
+:: collect.serious.li
 0.0.0.0 collect.state.centrum24.pl
 :: collect.state.centrum24.pl
 0.0.0.0 collect.tealiumiq.com
@@ -12776,6 +12772,8 @@ ff02::3 ip6-allhosts
 :: conversion.pro.cn
 0.0.0.0 conversionlabs.net.pl
 :: conversionlabs.net.pl
+0.0.0.0 conversions.appsflyer.com
+:: conversions.appsflyer.com
 0.0.0.0 conversions.genieventures.co.uk
 :: conversions.genieventures.co.uk
 0.0.0.0 convsgmp.taboola.com
@@ -14064,6 +14062,8 @@ ff02::3 ip6-allhosts
 :: d19uh5b0umbjrr.cloudfront.net
 0.0.0.0 d19xf4taj229i8.cloudfront.net
 :: d19xf4taj229i8.cloudfront.net
+0.0.0.0 d1ac2du043ydir.cloudfront.net
+:: d1ac2du043ydir.cloudfront.net
 0.0.0.0 d1aezk8tun0dhm.cloudfront.net
 :: d1aezk8tun0dhm.cloudfront.net
 0.0.0.0 d1afet533lf7zs.cloudfront.net
@@ -16782,8 +16782,6 @@ ff02::3 ip6-allhosts
 :: e.958so.cn
 0.0.0.0 e.967nd.cn
 :: e.967nd.cn
-0.0.0.0 e.acaox.com
-:: e.acaox.com
 0.0.0.0 e.ad.xiaomi.com
 :: e.ad.xiaomi.com
 0.0.0.0 e.aduiz.com
@@ -16882,8 +16880,6 @@ ff02::3 ip6-allhosts
 :: e.kjhfy.com
 0.0.0.0 e.kuaishou.com
 :: e.kuaishou.com
-0.0.0.0 e.kuwoyy.com
-:: e.kuwoyy.com
 0.0.0.0 e.kzwsh.cn
 :: e.kzwsh.cn
 0.0.0.0 e.lndjj.com
@@ -17820,8 +17816,6 @@ ff02::3 ip6-allhosts
 :: entry.baidu.com
 0.0.0.0 entryhit.wp.pl
 :: entryhit.wp.pl
-0.0.0.0 enw.nwpuis.top
-:: enw.nwpuis.top
 0.0.0.0 eo.aaaw.xyz
 :: eo.aaaw.xyz
 0.0.0.0 eo.apmnqut.cn
@@ -18338,8 +18332,6 @@ ff02::3 ip6-allhosts
 :: external-promo-metrics.yandex.net
 0.0.0.0 extlog.snssdk.com
 :: extlog.snssdk.com
-0.0.0.0 extralog.olclient.baofeng.com
-:: extralog.olclient.baofeng.com
 0.0.0.0 eyc-marketing.eyc.com
 :: eyc-marketing.eyc.com
 0.0.0.0 eye.swfchan.com
@@ -20574,8 +20566,6 @@ ff02::3 ip6-allhosts
 :: hfd.bridgetowermedia.com
 0.0.0.0 hffttk.sandro-paris.ru
 :: hffttk.sandro-paris.ru
-0.0.0.0 hgra.ukmaaub.cn
-:: hgra.ukmaaub.cn
 0.0.0.0 hh.jiankang.com
 :: hh.jiankang.com
 0.0.0.0 hh.livehapp.com
@@ -21296,8 +21286,6 @@ ff02::3 ip6-allhosts
 :: ibnads.xl.co.id
 0.0.0.0 ibs.indiatimes.com
 :: ibs.indiatimes.com
-0.0.0.0 ic.aliyuni.xyz
-:: ic.aliyuni.xyz
 0.0.0.0 ic.snssdk.com
 :: ic.snssdk.com
 0.0.0.0 ic.tynt.com
@@ -29620,8 +29608,6 @@ ff02::3 ip6-allhosts
 :: na.ads.yahoo.com
 0.0.0.0 nadjibsoft.blogspot.com
 :: nadjibsoft.blogspot.com
-0.0.0.0 nads.wuaiso.com
-:: nads.wuaiso.com
 0.0.0.0 nadvideo.baidu.com
 :: nadvideo.baidu.com
 0.0.0.0 nadvideo2.baidu.com
@@ -33860,6 +33846,8 @@ ff02::3 ip6-allhosts
 :: qianclick.baidu.com
 0.0.0.0 qianlong.adsame.com
 :: qianlong.adsame.com
+0.0.0.0 qichetuoyun.com.cn
+:: qichetuoyun.com.cn
 0.0.0.0 qiji1.jdwx.info
 :: qiji1.jdwx.info
 0.0.0.0 qitdsl.ralf.ru
@@ -37346,8 +37334,6 @@ ff02::3 ip6-allhosts
 :: server-uk.imrworldwide.com
 0.0.0.0 server-us.imrworldwide.com
 :: server-us.imrworldwide.com
-0.0.0.0 server.adless.io
-:: server.adless.io
 0.0.0.0 server.exposebox.com
 :: server.exposebox.com
 0.0.0.0 server.m.pp.cn
@@ -51870,6 +51856,8 @@ ff02::3 ip6-allhosts
 :: zhanzhang.baidu.com
 0.0.0.0 zhcxvk.qvc.com
 :: zhcxvk.qvc.com
+0.0.0.0 zhihu-analytics.zhihu.com
+:: zhihu-analytics.zhihu.com
 0.0.0.0 zhihu-web-analytics.zhihu.com
 :: zhihu-web-analytics.zhihu.com
 0.0.0.0 zhihu.xmcimg.com

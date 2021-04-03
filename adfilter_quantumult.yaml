@@ -1,11 +1,11 @@
-# Checksum: MTYxNzMyMzEyNwo=
+# Checksum: MTYxNzQwOTEyNwo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210402-0
-# TimeUpdated: 2021-04-02T00:25:27+00:00
+# Version: -20210403-0
+# TimeUpdated: 2021-04-03T00:18:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 26023
+# Total: 26017
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,000.0x1f4b0.com,REJECT
@@ -1268,7 +1268,6 @@ DOMAIN,ad06.focalink.com,REJECT
 DOMAIN,ad07.focalink.com,REJECT
 DOMAIN,ad08.focalink.com,REJECT
 DOMAIN,ad09.focalink.com,REJECT
-DOMAIN,ad1.adtitan.net,REJECT
 DOMAIN,ad1.bigmir.net,REJECT
 DOMAIN,ad1.emule-project.org,REJECT
 DOMAIN,ad1.eventmanager.co.kr,REJECT
@@ -2938,6 +2937,7 @@ DOMAIN,affiliate.heureka.cz,REJECT
 DOMAIN,affiliate.iamplify.com,REJECT
 DOMAIN,affiliate.juno.co.uk,REJECT
 DOMAIN,affiliate.k4.tinhte.vn,REJECT
+DOMAIN,affiliate.konibet.com,REJECT
 DOMAIN,affiliate.mediatemple.net,REJECT
 DOMAIN,affiliate.mogs.com,REJECT
 DOMAIN,affiliate.offgamers.com,REJECT
@@ -4969,7 +4969,6 @@ DOMAIN,buy-cheap-phentermine.blogspot.com,REJECT
 DOMAIN,buy-cialis-online.iscool.nl,REJECT
 DOMAIN,buy-cialis.splinder.com,REJECT
 DOMAIN,buy-fioricet.hut1.ru,REJECT
-DOMAIN,buy-hydrocodone.scromble.com,REJECT
 DOMAIN,buy-lortab-online.iscool.nl,REJECT
 DOMAIN,buy-lortab.hut1.ru,REJECT
 DOMAIN,buy-phentermine.thepizza.net,REJECT
@@ -5350,7 +5349,6 @@ DOMAIN,cc.swiftype.com,REJECT
 DOMAIN,cc.xiaodapei.com,REJECT
 DOMAIN,cc.xtgreat.com,REJECT
 DOMAIN,cc.xwscg.com,REJECT
-DOMAIN,cc.zeit.de,REJECT
 DOMAIN,cc1.juxilm.com,REJECT
 DOMAIN,cc3.ifeng.com,REJECT
 DOMAIN,cc5f.dnyp.com,REJECT
@@ -5491,7 +5489,6 @@ DOMAIN,cdn.klasseo.com,REJECT
 DOMAIN,cdn.komoona.com,REJECT
 DOMAIN,cdn.krxd.net,REJECT
 DOMAIN,cdn.lu.sogoucdn.com,REJECT
-DOMAIN,cdn.m.baidu.com.www-sina-cn-com.com,REJECT
 DOMAIN,cdn.malokacha.club,REJECT
 DOMAIN,cdn.marketgid.com,REJECT
 DOMAIN,cdn.media.innity.net,REJECT
@@ -6181,6 +6178,7 @@ DOMAIN,collect.meilleurtaux.com,REJECT
 DOMAIN,collect.ovp.vn,REJECT
 DOMAIN,collect.ptengine.cn,REJECT
 DOMAIN,collect.rewardstyle.com,REJECT
+DOMAIN,collect.serious.li,REJECT
 DOMAIN,collect.state.centrum24.pl,REJECT
 DOMAIN,collect.tealiumiq.com,REJECT
 DOMAIN,collect.tianya.cn,REJECT
@@ -6386,6 +6384,7 @@ DOMAIN,conv.youdao.com,REJECT
 DOMAIN,conversion.adpro.cn,REJECT
 DOMAIN,conversion.pro.cn,REJECT
 DOMAIN,conversionlabs.net.pl,REJECT
+DOMAIN,conversions.appsflyer.com,REJECT
 DOMAIN,conversions.genieventures.co.uk,REJECT
 DOMAIN,convsgmp.taboola.com,REJECT
 DOMAIN,cookie-matching.mediarithmics.com,REJECT
@@ -7030,6 +7029,7 @@ DOMAIN,d19182vyfoustz.cloudfront.net,REJECT
 DOMAIN,d191y0yd6d0jy4.cloudfront.net,REJECT
 DOMAIN,d19uh5b0umbjrr.cloudfront.net,REJECT
 DOMAIN,d19xf4taj229i8.cloudfront.net,REJECT
+DOMAIN,d1ac2du043ydir.cloudfront.net,REJECT
 DOMAIN,d1aezk8tun0dhm.cloudfront.net,REJECT
 DOMAIN,d1afet533lf7zs.cloudfront.net,REJECT
 DOMAIN,d1aqvw7cn4ydzo.cloudfront.net,REJECT
@@ -8389,7 +8389,6 @@ DOMAIN,e.7clink.com,REJECT
 DOMAIN,e.91.com,REJECT
 DOMAIN,e.958so.cn,REJECT
 DOMAIN,e.967nd.cn,REJECT
-DOMAIN,e.acaox.com,REJECT
 DOMAIN,e.ad.xiaomi.com,REJECT
 DOMAIN,e.aduiz.com,REJECT
 DOMAIN,e.ailix.cn,REJECT
@@ -8439,7 +8438,6 @@ DOMAIN,e.kde.cz,REJECT
 DOMAIN,e.khuoy.com,REJECT
 DOMAIN,e.kjhfy.com,REJECT
 DOMAIN,e.kuaishou.com,REJECT
-DOMAIN,e.kuwoyy.com,REJECT
 DOMAIN,e.kzwsh.cn,REJECT
 DOMAIN,e.lndjj.com,REJECT
 DOMAIN,e.miaoxinqipei.com,REJECT
@@ -8908,7 +8906,6 @@ DOMAIN,ent1.qunchua.com,REJECT
 DOMAIN,entrecard.s3.amazonaws.com,REJECT
 DOMAIN,entry.baidu.com,REJECT
 DOMAIN,entryhit.wp.pl,REJECT
-DOMAIN,enw.nwpuis.top,REJECT
 DOMAIN,eo.aaaw.xyz,REJECT
 DOMAIN,eo.apmnqut.cn,REJECT
 DOMAIN,eo.ccch.xyz,REJECT
@@ -9167,7 +9164,6 @@ DOMAIN,ext.trafficbroker.xyz,REJECT
 DOMAIN,ext.week.news,REJECT
 DOMAIN,external-promo-metrics.yandex.net,REJECT
 DOMAIN,extlog.snssdk.com,REJECT
-DOMAIN,extralog.olclient.baofeng.com,REJECT
 DOMAIN,eyc-marketing.eyc.com,REJECT
 DOMAIN,eye.swfchan.com,REJECT
 DOMAIN,eymiwj.cancan.ro,REJECT
@@ -10285,7 +10281,6 @@ DOMAIN,hexusads.fluent.ltd.uk,REJECT
 DOMAIN,heyaxr.fashiondays.bg,REJECT
 DOMAIN,hfd.bridgetowermedia.com,REJECT
 DOMAIN,hffttk.sandro-paris.ru,REJECT
-DOMAIN,hgra.ukmaaub.cn,REJECT
 DOMAIN,hh.jiankang.com,REJECT
 DOMAIN,hh.livehapp.com,REJECT
 DOMAIN,hhbekxxw5d9e.pflexads.com,REJECT
@@ -10646,7 +10641,6 @@ DOMAIN,iberian.promo.skf.com,REJECT
 DOMAIN,ibn.adnxs.com,REJECT
 DOMAIN,ibnads.xl.co.id,REJECT
 DOMAIN,ibs.indiatimes.com,REJECT
-DOMAIN,ic.aliyuni.xyz,REJECT
 DOMAIN,ic.snssdk.com,REJECT
 DOMAIN,ic.tynt.com,REJECT
 DOMAIN,ic.wps.cn,REJECT
@@ -14808,7 +14802,6 @@ DOMAIN,na-lon05.marketo.com,REJECT
 DOMAIN,na-lon09.marketo.com,REJECT
 DOMAIN,na.ads.yahoo.com,REJECT
 DOMAIN,nadjibsoft.blogspot.com,REJECT
-DOMAIN,nads.wuaiso.com,REJECT
 DOMAIN,nadvideo.baidu.com,REJECT
 DOMAIN,nadvideo2.baidu.com,REJECT
 DOMAIN,namrinfo.motorolasolutions.com,REJECT
@@ -16928,6 +16921,7 @@ DOMAIN,qhzefk.drmartens.com,REJECT
 DOMAIN,qi.wndlkj.com,REJECT
 DOMAIN,qianclick.baidu.com,REJECT
 DOMAIN,qianlong.adsame.com,REJECT
+DOMAIN,qichetuoyun.com.cn,REJECT
 DOMAIN,qiji1.jdwx.info,REJECT
 DOMAIN,qitdsl.ralf.ru,REJECT
 DOMAIN,qiye11.ejunshi.net,REJECT
@@ -18671,7 +18665,6 @@ DOMAIN,server-stockh.imrworldwide.com,REJECT
 DOMAIN,server-ua.imrworldwide.com,REJECT
 DOMAIN,server-uk.imrworldwide.com,REJECT
 DOMAIN,server-us.imrworldwide.com,REJECT
-DOMAIN,server.adless.io,REJECT
 DOMAIN,server.exposebox.com,REJECT
 DOMAIN,server.m.pp.cn,REJECT
 DOMAIN,server.zombie-tv.org,REJECT
@@ -25933,6 +25926,7 @@ DOMAIN,zh.tiredduck.com,REJECT
 DOMAIN,zhannei-dm.csdn.net,REJECT
 DOMAIN,zhanzhang.baidu.com,REJECT
 DOMAIN,zhcxvk.qvc.com,REJECT
+DOMAIN,zhihu-analytics.zhihu.com,REJECT
 DOMAIN,zhihu-web-analytics.zhihu.com,REJECT
 DOMAIN,zhihu.xmcimg.com,REJECT
 DOMAIN,zhuanshenghuo1.kuaizhan.com,REJECT
