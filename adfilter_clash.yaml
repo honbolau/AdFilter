@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYxNzQ5NTYzMAo=
+# Checksum: MTYxNzU4MjA4MAo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210404-0
-# TimeUpdated: 2021-04-04T00:20:30+00:00
+# Version: -20210405-0
+# TimeUpdated: 2021-04-05T00:21:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 26014
+# Total: 26007
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,000.0x1f4b0.com
@@ -310,7 +310,6 @@ payload:
   - DOMAIN,a-cn.duoyi.com
   - DOMAIN,a-counter.kiev.ua
   - DOMAIN,a-llq.whbmy.com
-  - DOMAIN,a-m-s.adnonstop.com
   - DOMAIN,a-m-s.poco.cn
   - DOMAIN,a-reporting.nytimes.com
   - DOMAIN,a-ssl.ligatus.com
@@ -379,6 +378,7 @@ payload:
   - DOMAIN,a.dtprofit.com
   - DOMAIN,a.dxzy163.com
   - DOMAIN,a.dyjqd.com
+  - DOMAIN,a.e7009.com
   - DOMAIN,a.ecook.cn
   - DOMAIN,a.epinv.com
   - DOMAIN,a.eporner.com
@@ -871,7 +871,6 @@ payload:
   - DOMAIN,ad-api.cnblogs.com
   - DOMAIN,ad-api.ehawk.com
   - DOMAIN,ad-arata.s3.amazonaws.com
-  - DOMAIN,ad-beacon-v01.uliza.jp
   - DOMAIN,ad-beta.flipboard.com
   - DOMAIN,ad-bg.adwo.com
   - DOMAIN,ad-cdn.qingting.fm
@@ -2778,7 +2777,6 @@ payload:
   - DOMAIN,adv.pilseta24.lv
   - DOMAIN,adv.s8bbs.com
   - DOMAIN,adv.sec.intl.miui.com
-  - DOMAIN,adv.shangdu.com
   - DOMAIN,adv.strategy.it
   - DOMAIN,adv.thuvienphapluat.vn
   - DOMAIN,adv.virgilio.it
@@ -5072,7 +5070,6 @@ payload:
   - DOMAIN,c.fedsdq.com
   - DOMAIN,c.fi.msn.com
   - DOMAIN,c.fr.msn.com
-  - DOMAIN,c.future888.net
   - DOMAIN,c.gazetevatan.com
   - DOMAIN,c.gdt.qq.com
   - DOMAIN,c.gr.msn.com
@@ -5520,7 +5517,6 @@ payload:
   - DOMAIN,cdn.pocoiq.cn
   - DOMAIN,cdn.popcash.net
   - DOMAIN,cdn.popmyads.com
-  - DOMAIN,cdn.pulpix.com
   - DOMAIN,cdn.relaido.jp
   - DOMAIN,cdn.resonate.com
   - DOMAIN,cdn.rhombusads.com
@@ -6834,7 +6830,6 @@ payload:
   - DOMAIN,ct.needlive.com
   - DOMAIN,ct.niu.xunlei.com
   - DOMAIN,ct.thegear-box.com
-  - DOMAIN,ct.verticalhealth.net
   - DOMAIN,ct5m.citadium.com
   - DOMAIN,ctc.weather.com.cn
   - DOMAIN,ctg.actonservice.com
@@ -6997,6 +6992,7 @@ payload:
   - DOMAIN,d11lt3e1lizkg0.cloudfront.net
   - DOMAIN,d11tybz5ul8vel.cloudfront.net
   - DOMAIN,d11w14257901lw.cloudfront.net
+  - DOMAIN,d12ysuoljjyfqa.cloudfront.net
   - DOMAIN,d138am4hd4ke4y.cloudfront.net
   - DOMAIN,d13jhr4vol1304.cloudfront.net
   - DOMAIN,d13k7prax1yi04.cloudfront.net
@@ -7093,6 +7089,7 @@ payload:
   - DOMAIN,d1nnhbi4g0kj5.cloudfront.net
   - DOMAIN,d1nx2jii03b4ju.cloudfront.net
   - DOMAIN,d1o3ws1znr0uv8.cloudfront.net
+  - DOMAIN,d1oxccu2k3w6jx.cloudfront.net
   - DOMAIN,d1p3zboe6tz3yy.cloudfront.net
   - DOMAIN,d1p7elpjrt6qav.cloudfront.net
   - DOMAIN,d1pozdfelzfhyt.cloudfront.net
@@ -7331,6 +7328,7 @@ payload:
   - DOMAIN,d38itq6vdv6gr9.cloudfront.net
   - DOMAIN,d39hdzmeufnl50.cloudfront.net
   - DOMAIN,d39iocnrk5rxnb.cloudfront.net
+  - DOMAIN,d39xxywi4dmut5.cloudfront.net
   - DOMAIN,d39yds8oe4n4jq.cloudfront.net
   - DOMAIN,d3a42c7xs4vn3.cloudfront.net
   - DOMAIN,d3a49eam5ump99.cloudfront.net
@@ -7399,6 +7397,7 @@ payload:
   - DOMAIN,d3p27nzp3rc51k.cloudfront.net
   - DOMAIN,d3p2b5qewrnsyv.cloudfront.net
   - DOMAIN,d3pe8wzpurrzss.cloudfront.net
+  - DOMAIN,d3pk579obpqv7b.cloudfront.net
   - DOMAIN,d3pob6t6w1ul0e.cloudfront.net
   - DOMAIN,d3prygw1dnamj9.cloudfront.net
   - DOMAIN,d3pvcolmug0tz6.cloudfront.net
@@ -7444,6 +7443,7 @@ payload:
   - DOMAIN,d5.sinaimg.cn
   - DOMAIN,d5em5plenp2k5.cloudfront.net
   - DOMAIN,d5etv3akk3gsa.cloudfront.net
+  - DOMAIN,d5g0nxmbdku6r.cloudfront.net
   - DOMAIN,d5i9o0tpq9sa1.cloudfront.net
   - DOMAIN,d5k6iufjynyu8.cloudfront.net
   - DOMAIN,d5nxst8fruw4z.cloudfront.net
@@ -8023,6 +8023,7 @@ payload:
   - DOMAIN,dlesjf.jutarnji.hr
   - DOMAIN,dlimg.lovfp.com
   - DOMAIN,dlive.pagesjaunes.fr
+  - DOMAIN,dlkfm8bqz0bpx.cloudfront.net
   - DOMAIN,dlne6myudrxi1.cloudfront.net
   - DOMAIN,dlpjgh.techport.ru
   - DOMAIN,dlres.ind9ed.com
@@ -8143,7 +8144,6 @@ payload:
   - DOMAIN,dolphin.ftimg.net
   - DOMAIN,dolphin4.ftimg.net
   - DOMAIN,domain.aishengji.com
-  - DOMAIN,domob.com.cn
   - DOMAIN,donate.crypto-webminer.com
   - DOMAIN,doo6pwib3qngu.cloudfront.net
   - DOMAIN,dopa.com.cn
@@ -8419,7 +8419,6 @@ payload:
   - DOMAIN,e.equuscs.com
   - DOMAIN,e.fdm.dk
   - DOMAIN,e.funnymel.com
-  - DOMAIN,e.future888.net
   - DOMAIN,e.gcaog.com
   - DOMAIN,e.gomev.cn
   - DOMAIN,e.gsycdb.com
@@ -8637,7 +8636,6 @@ payload:
   - DOMAIN,ee.hx623.cn
   - DOMAIN,ee.m19ud.cn
   - DOMAIN,ee.mfufanj.cn
-  - DOMAIN,ee.oikqfwv.cn
   - DOMAIN,ee.u0r9.cn
   - DOMAIN,ee.wh723.cn
   - DOMAIN,ee.xfya3.cn
@@ -8660,7 +8658,6 @@ payload:
   - DOMAIN,eg.gitpapa.com
   - DOMAIN,egjq.com.cn
   - DOMAIN,eharmony.com.au
-  - DOMAIN,ehdj.njguluyu.cn
   - DOMAIN,ehg-youtube.hitbox.com
   - DOMAIN,eht.endress.com
   - DOMAIN,ei.cnzz.com
@@ -9543,7 +9540,6 @@ payload:
   - DOMAIN,g.admedia.com
   - DOMAIN,g.adnxs.com
   - DOMAIN,g.ads.cn.miaozhen.com
-  - DOMAIN,g.aisouk.cn
   - DOMAIN,g.aligames.com
   - DOMAIN,g.baidu.com
   - DOMAIN,g.bit.pt
@@ -10521,6 +10517,7 @@ payload:
   - DOMAIN,hz.hzhongjianfund.com
   - DOMAIN,hz.miercn.com
   - DOMAIN,hz.mmstat.com
+  - DOMAIN,hz.shouyoutv.com
   - DOMAIN,hz1.lanmei80.com
   - DOMAIN,hzdaye.m.zwdu.com
   - DOMAIN,hzdmacore.kejet.net
@@ -11635,7 +11632,6 @@ payload:
   - DOMAIN,js.idgdmgroup.com.cn
   - DOMAIN,js.jianbaimei.com
   - DOMAIN,js.jianbihuadq.com
-  - DOMAIN,js.jqsex.com
   - DOMAIN,js.kuxinqi.com
   - DOMAIN,js.lovexia.top
   - DOMAIN,js.mbaidu.top
@@ -11828,6 +11824,7 @@ payload:
   - DOMAIN,k.wudejia.com
   - DOMAIN,k1.dancihu.com
   - DOMAIN,k1.mobileadsserver.com
+  - DOMAIN,k1.wanwenwan.cn
   - DOMAIN,k4fu.verif.com
   - DOMAIN,k5ads.osdn.com
   - DOMAIN,k8s-dev.keele-nnw-leis-mc-leis.net.daraz.com
@@ -12274,7 +12271,6 @@ payload:
   - DOMAIN,loans.opportunityfund.org
   - DOMAIN,lobster.unionpeer.com
   - DOMAIN,loc.rediff.com
-  - DOMAIN,local.hniux.cn
   - DOMAIN,localads-statistics.maps.me
   - DOMAIN,localhost.payment.net.daraz.com
   - DOMAIN,localsearch24.co.uk
@@ -12765,7 +12761,6 @@ payload:
   - DOMAIN,m.fhxiaoshuo.com
   - DOMAIN,m.fouas.com
   - DOMAIN,m.frjxdv.cn
-  - DOMAIN,m.future888.net
   - DOMAIN,m.g.pptv.com
   - DOMAIN,m.game.weibo.cn
   - DOMAIN,m.gcaog.com
@@ -12782,7 +12777,6 @@ payload:
   - DOMAIN,m.gxkyl.com
   - DOMAIN,m.gxwztv.com
   - DOMAIN,m.gzrljx.cn
-  - DOMAIN,m.h0x.cn
   - DOMAIN,m.haradeiu.rocks
   - DOMAIN,m.hdboping.com
   - DOMAIN,m.heshanwan.cn
@@ -14192,6 +14186,7 @@ payload:
   - DOMAIN,metrics.speedousa.com
   - DOMAIN,metrics.spencersonline.com
   - DOMAIN,metrics.spirithalloween.com
+  - DOMAIN,metrics.spkt.io
   - DOMAIN,metrics.sportsbusinessdaily.com
   - DOMAIN,metrics.staples.com
   - DOMAIN,metrics.starhub.com
@@ -14346,7 +14341,6 @@ payload:
   - DOMAIN,mibook-10006092.cos.myqcloud.com
   - DOMAIN,mic.bahu.xyz
   - DOMAIN,mic.ububyiw6655.xyz
-  - DOMAIN,mic.xiangyuym.cn
   - DOMAIN,microad.co.jp
   - DOMAIN,microsoft.net.daraz.com
   - DOMAIN,mid.houyi.baofeng.net
@@ -14777,7 +14771,6 @@ payload:
   - DOMAIN,n.a.mosenni.com
   - DOMAIN,n.ads3-adnow.com
   - DOMAIN,n.cashheaven.ru
-  - DOMAIN,n.chaoliangyun.cn
   - DOMAIN,n.gemini.yahoo.com
   - DOMAIN,n.hzhfhkj.cn
   - DOMAIN,n.mailfire.io
@@ -14831,8 +14824,6 @@ payload:
   - DOMAIN,nbsdk-baichuan.alicdn.com
   - DOMAIN,nc.5.p2l.info
   - DOMAIN,nc.gdt.qq.com
-  - DOMAIN,nc004x.corp.youdao.com
-  - DOMAIN,nc045x.corp.youdao.com
   - DOMAIN,ncc.nip-col.jp
   - DOMAIN,nccer.actonservice.com
   - DOMAIN,nclog.mars.baofeng.net
@@ -23677,6 +23668,7 @@ payload:
   - DOMAIN,tramadol2006.3xforum.ro
   - DOMAIN,tran.mediav.com
   - DOMAIN,tran.news.so.com
+  - DOMAIN,trap.skype.com
   - DOMAIN,travel.onlinevacationcenter.com
   - DOMAIN,travelmail.traveltek.net
   - DOMAIN,travelmarketreport.actonservice.com
@@ -24232,6 +24224,7 @@ payload:
   - DOMAIN,v.m06nev.com
   - DOMAIN,v.mir-18.ru
   - DOMAIN,v.movad.de
+  - DOMAIN,v.nanjinglongyu.com
   - DOMAIN,v.nkzker.cn
   - DOMAIN,v.oq68.com
   - DOMAIN,v.oui.sncf

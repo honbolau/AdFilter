@@ -1,11 +1,11 @@
-# Checksum: MTYxNzQ5NTYzMAo=
+# Checksum: MTYxNzU4MjA4MAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210404-0
-# TimeUpdated: 2021-04-04T00:20:30+00:00
+# Version: -20210405-0
+# TimeUpdated: 2021-04-05T00:21:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 26014
+# Total: 26007
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -622,8 +622,6 @@ ff02::3 ip6-allhosts
 :: a-counter.kiev.ua
 0.0.0.0 a-llq.whbmy.com
 :: a-llq.whbmy.com
-0.0.0.0 a-m-s.adnonstop.com
-:: a-m-s.adnonstop.com
 0.0.0.0 a-m-s.poco.cn
 :: a-m-s.poco.cn
 0.0.0.0 a-reporting.nytimes.com
@@ -760,6 +758,8 @@ ff02::3 ip6-allhosts
 :: a.dxzy163.com
 0.0.0.0 a.dyjqd.com
 :: a.dyjqd.com
+0.0.0.0 a.e7009.com
+:: a.e7009.com
 0.0.0.0 a.ecook.cn
 :: a.ecook.cn
 0.0.0.0 a.epinv.com
@@ -1744,8 +1744,6 @@ ff02::3 ip6-allhosts
 :: ad-api.ehawk.com
 0.0.0.0 ad-arata.s3.amazonaws.com
 :: ad-arata.s3.amazonaws.com
-0.0.0.0 ad-beacon-v01.uliza.jp
-:: ad-beacon-v01.uliza.jp
 0.0.0.0 ad-beta.flipboard.com
 :: ad-beta.flipboard.com
 0.0.0.0 ad-bg.adwo.com
@@ -5558,8 +5556,6 @@ ff02::3 ip6-allhosts
 :: adv.s8bbs.com
 0.0.0.0 adv.sec.intl.miui.com
 :: adv.sec.intl.miui.com
-0.0.0.0 adv.shangdu.com
-:: adv.shangdu.com
 0.0.0.0 adv.strategy.it
 :: adv.strategy.it
 0.0.0.0 adv.thuvienphapluat.vn
@@ -10146,8 +10142,6 @@ ff02::3 ip6-allhosts
 :: c.fi.msn.com
 0.0.0.0 c.fr.msn.com
 :: c.fr.msn.com
-0.0.0.0 c.future888.net
-:: c.future888.net
 0.0.0.0 c.gazetevatan.com
 :: c.gazetevatan.com
 0.0.0.0 c.gdt.qq.com
@@ -11042,8 +11036,6 @@ ff02::3 ip6-allhosts
 :: cdn.popcash.net
 0.0.0.0 cdn.popmyads.com
 :: cdn.popmyads.com
-0.0.0.0 cdn.pulpix.com
-:: cdn.pulpix.com
 0.0.0.0 cdn.relaido.jp
 :: cdn.relaido.jp
 0.0.0.0 cdn.resonate.com
@@ -13670,8 +13662,6 @@ ff02::3 ip6-allhosts
 :: ct.niu.xunlei.com
 0.0.0.0 ct.thegear-box.com
 :: ct.thegear-box.com
-0.0.0.0 ct.verticalhealth.net
-:: ct.verticalhealth.net
 0.0.0.0 ct5m.citadium.com
 :: ct5m.citadium.com
 0.0.0.0 ctc.weather.com.cn
@@ -13996,6 +13986,8 @@ ff02::3 ip6-allhosts
 :: d11tybz5ul8vel.cloudfront.net
 0.0.0.0 d11w14257901lw.cloudfront.net
 :: d11w14257901lw.cloudfront.net
+0.0.0.0 d12ysuoljjyfqa.cloudfront.net
+:: d12ysuoljjyfqa.cloudfront.net
 0.0.0.0 d138am4hd4ke4y.cloudfront.net
 :: d138am4hd4ke4y.cloudfront.net
 0.0.0.0 d13jhr4vol1304.cloudfront.net
@@ -14188,6 +14180,8 @@ ff02::3 ip6-allhosts
 :: d1nx2jii03b4ju.cloudfront.net
 0.0.0.0 d1o3ws1znr0uv8.cloudfront.net
 :: d1o3ws1znr0uv8.cloudfront.net
+0.0.0.0 d1oxccu2k3w6jx.cloudfront.net
+:: d1oxccu2k3w6jx.cloudfront.net
 0.0.0.0 d1p3zboe6tz3yy.cloudfront.net
 :: d1p3zboe6tz3yy.cloudfront.net
 0.0.0.0 d1p7elpjrt6qav.cloudfront.net
@@ -14664,6 +14658,8 @@ ff02::3 ip6-allhosts
 :: d39hdzmeufnl50.cloudfront.net
 0.0.0.0 d39iocnrk5rxnb.cloudfront.net
 :: d39iocnrk5rxnb.cloudfront.net
+0.0.0.0 d39xxywi4dmut5.cloudfront.net
+:: d39xxywi4dmut5.cloudfront.net
 0.0.0.0 d39yds8oe4n4jq.cloudfront.net
 :: d39yds8oe4n4jq.cloudfront.net
 0.0.0.0 d3a42c7xs4vn3.cloudfront.net
@@ -14800,6 +14796,8 @@ ff02::3 ip6-allhosts
 :: d3p2b5qewrnsyv.cloudfront.net
 0.0.0.0 d3pe8wzpurrzss.cloudfront.net
 :: d3pe8wzpurrzss.cloudfront.net
+0.0.0.0 d3pk579obpqv7b.cloudfront.net
+:: d3pk579obpqv7b.cloudfront.net
 0.0.0.0 d3pob6t6w1ul0e.cloudfront.net
 :: d3pob6t6w1ul0e.cloudfront.net
 0.0.0.0 d3prygw1dnamj9.cloudfront.net
@@ -14890,6 +14888,8 @@ ff02::3 ip6-allhosts
 :: d5em5plenp2k5.cloudfront.net
 0.0.0.0 d5etv3akk3gsa.cloudfront.net
 :: d5etv3akk3gsa.cloudfront.net
+0.0.0.0 d5g0nxmbdku6r.cloudfront.net
+:: d5g0nxmbdku6r.cloudfront.net
 0.0.0.0 d5i9o0tpq9sa1.cloudfront.net
 :: d5i9o0tpq9sa1.cloudfront.net
 0.0.0.0 d5k6iufjynyu8.cloudfront.net
@@ -16048,6 +16048,8 @@ ff02::3 ip6-allhosts
 :: dlimg.lovfp.com
 0.0.0.0 dlive.pagesjaunes.fr
 :: dlive.pagesjaunes.fr
+0.0.0.0 dlkfm8bqz0bpx.cloudfront.net
+:: dlkfm8bqz0bpx.cloudfront.net
 0.0.0.0 dlne6myudrxi1.cloudfront.net
 :: dlne6myudrxi1.cloudfront.net
 0.0.0.0 dlpjgh.techport.ru
@@ -16288,8 +16290,6 @@ ff02::3 ip6-allhosts
 :: dolphin4.ftimg.net
 0.0.0.0 domain.aishengji.com
 :: domain.aishengji.com
-0.0.0.0 domob.com.cn
-:: domob.com.cn
 0.0.0.0 donate.crypto-webminer.com
 :: donate.crypto-webminer.com
 0.0.0.0 doo6pwib3qngu.cloudfront.net
@@ -16840,8 +16840,6 @@ ff02::3 ip6-allhosts
 :: e.fdm.dk
 0.0.0.0 e.funnymel.com
 :: e.funnymel.com
-0.0.0.0 e.future888.net
-:: e.future888.net
 0.0.0.0 e.gcaog.com
 :: e.gcaog.com
 0.0.0.0 e.gomev.cn
@@ -17276,8 +17274,6 @@ ff02::3 ip6-allhosts
 :: ee.m19ud.cn
 0.0.0.0 ee.mfufanj.cn
 :: ee.mfufanj.cn
-0.0.0.0 ee.oikqfwv.cn
-:: ee.oikqfwv.cn
 0.0.0.0 ee.u0r9.cn
 :: ee.u0r9.cn
 0.0.0.0 ee.wh723.cn
@@ -17322,8 +17318,6 @@ ff02::3 ip6-allhosts
 :: egjq.com.cn
 0.0.0.0 eharmony.com.au
 :: eharmony.com.au
-0.0.0.0 ehdj.njguluyu.cn
-:: ehdj.njguluyu.cn
 0.0.0.0 ehg-youtube.hitbox.com
 :: ehg-youtube.hitbox.com
 0.0.0.0 eht.endress.com
@@ -19088,8 +19082,6 @@ ff02::3 ip6-allhosts
 :: g.adnxs.com
 0.0.0.0 g.ads.cn.miaozhen.com
 :: g.ads.cn.miaozhen.com
-0.0.0.0 g.aisouk.cn
-:: g.aisouk.cn
 0.0.0.0 g.aligames.com
 :: g.aligames.com
 0.0.0.0 g.baidu.com
@@ -21044,6 +21036,8 @@ ff02::3 ip6-allhosts
 :: hz.miercn.com
 0.0.0.0 hz.mmstat.com
 :: hz.mmstat.com
+0.0.0.0 hz.shouyoutv.com
+:: hz.shouyoutv.com
 0.0.0.0 hz1.lanmei80.com
 :: hz1.lanmei80.com
 0.0.0.0 hzdaye.m.zwdu.com
@@ -23272,8 +23266,6 @@ ff02::3 ip6-allhosts
 :: js.jianbaimei.com
 0.0.0.0 js.jianbihuadq.com
 :: js.jianbihuadq.com
-0.0.0.0 js.jqsex.com
-:: js.jqsex.com
 0.0.0.0 js.kuxinqi.com
 :: js.kuxinqi.com
 0.0.0.0 js.lovexia.top
@@ -23658,6 +23650,8 @@ ff02::3 ip6-allhosts
 :: k1.dancihu.com
 0.0.0.0 k1.mobileadsserver.com
 :: k1.mobileadsserver.com
+0.0.0.0 k1.wanwenwan.cn
+:: k1.wanwenwan.cn
 0.0.0.0 k4fu.verif.com
 :: k4fu.verif.com
 0.0.0.0 k5ads.osdn.com
@@ -24550,8 +24544,6 @@ ff02::3 ip6-allhosts
 :: lobster.unionpeer.com
 0.0.0.0 loc.rediff.com
 :: loc.rediff.com
-0.0.0.0 local.hniux.cn
-:: local.hniux.cn
 0.0.0.0 localads-statistics.maps.me
 :: localads-statistics.maps.me
 0.0.0.0 localhost.payment.net.daraz.com
@@ -25532,8 +25524,6 @@ ff02::3 ip6-allhosts
 :: m.fouas.com
 0.0.0.0 m.frjxdv.cn
 :: m.frjxdv.cn
-0.0.0.0 m.future888.net
-:: m.future888.net
 0.0.0.0 m.g.pptv.com
 :: m.g.pptv.com
 0.0.0.0 m.game.weibo.cn
@@ -25566,8 +25556,6 @@ ff02::3 ip6-allhosts
 :: m.gxwztv.com
 0.0.0.0 m.gzrljx.cn
 :: m.gzrljx.cn
-0.0.0.0 m.h0x.cn
-:: m.h0x.cn
 0.0.0.0 m.haradeiu.rocks
 :: m.haradeiu.rocks
 0.0.0.0 m.hdboping.com
@@ -28386,6 +28374,8 @@ ff02::3 ip6-allhosts
 :: metrics.spencersonline.com
 0.0.0.0 metrics.spirithalloween.com
 :: metrics.spirithalloween.com
+0.0.0.0 metrics.spkt.io
+:: metrics.spkt.io
 0.0.0.0 metrics.sportsbusinessdaily.com
 :: metrics.sportsbusinessdaily.com
 0.0.0.0 metrics.staples.com
@@ -28694,8 +28684,6 @@ ff02::3 ip6-allhosts
 :: mic.bahu.xyz
 0.0.0.0 mic.ububyiw6655.xyz
 :: mic.ububyiw6655.xyz
-0.0.0.0 mic.xiangyuym.cn
-:: mic.xiangyuym.cn
 0.0.0.0 microad.co.jp
 :: microad.co.jp
 0.0.0.0 microsoft.net.daraz.com
@@ -29556,8 +29544,6 @@ ff02::3 ip6-allhosts
 :: n.ads3-adnow.com
 0.0.0.0 n.cashheaven.ru
 :: n.cashheaven.ru
-0.0.0.0 n.chaoliangyun.cn
-:: n.chaoliangyun.cn
 0.0.0.0 n.gemini.yahoo.com
 :: n.gemini.yahoo.com
 0.0.0.0 n.hzhfhkj.cn
@@ -29664,10 +29650,6 @@ ff02::3 ip6-allhosts
 :: nc.5.p2l.info
 0.0.0.0 nc.gdt.qq.com
 :: nc.gdt.qq.com
-0.0.0.0 nc004x.corp.youdao.com
-:: nc004x.corp.youdao.com
-0.0.0.0 nc045x.corp.youdao.com
-:: nc045x.corp.youdao.com
 0.0.0.0 ncc.nip-col.jp
 :: ncc.nip-col.jp
 0.0.0.0 nccer.actonservice.com
@@ -47356,6 +47338,8 @@ ff02::3 ip6-allhosts
 :: tran.mediav.com
 0.0.0.0 tran.news.so.com
 :: tran.news.so.com
+0.0.0.0 trap.skype.com
+:: trap.skype.com
 0.0.0.0 travel.onlinevacationcenter.com
 :: travel.onlinevacationcenter.com
 0.0.0.0 travelmail.traveltek.net
@@ -48466,6 +48450,8 @@ ff02::3 ip6-allhosts
 :: v.mir-18.ru
 0.0.0.0 v.movad.de
 :: v.movad.de
+0.0.0.0 v.nanjinglongyu.com
+:: v.nanjinglongyu.com
 0.0.0.0 v.nkzker.cn
 :: v.nkzker.cn
 0.0.0.0 v.oq68.com
