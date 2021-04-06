@@ -1,11 +1,11 @@
-# Checksum: MTYxNzU4MjA4MAo=
+# Checksum: MTYxNzY2ODQyNgo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210405-0
-# TimeUpdated: 2021-04-05T00:21:20+00:00
+# Version: -20210406-0
+# TimeUpdated: 2021-04-06T00:20:26+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 26007
+# Total: 26003
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,000.0x1f4b0.com,REJECT
@@ -256,7 +256,6 @@ DOMAIN,720-trail.co.uk,REJECT
 DOMAIN,7208853.hitslink.com,REJECT
 DOMAIN,743m1.11a12.com,REJECT
 DOMAIN,76.ingenioustech.biz,REJECT
-DOMAIN,7791.com.cn,REJECT
 DOMAIN,77kb.qucaigg.com,REJECT
 DOMAIN,789.kakamobi.cn,REJECT
 DOMAIN,79t2.admaster.com.cn,REJECT
@@ -718,7 +717,6 @@ DOMAIN,aa.tallink.com,REJECT
 DOMAIN,aa.tv.com,REJECT
 DOMAIN,aa.voice2page.com,REJECT
 DOMAIN,aa.wowma.jp,REJECT
-DOMAIN,aa.zldh123.com,REJECT
 DOMAIN,aa0.pub.funshion.com,REJECT
 DOMAIN,aa1.pub.funshion.com,REJECT
 DOMAIN,aaa.tumanyi.com,REJECT
@@ -1013,6 +1011,7 @@ DOMAIN,ad.freecity.de,REJECT
 DOMAIN,ad.funp.com,REJECT
 DOMAIN,ad.funpic.de,REJECT
 DOMAIN,ad.funshion.org.cn,REJECT
+DOMAIN,ad.fx168api.com,REJECT
 DOMAIN,ad.g-content.bid,REJECT
 DOMAIN,ad.gameagregator.com,REJECT
 DOMAIN,ad.gamebox.360.cn,REJECT
@@ -2200,7 +2199,6 @@ DOMAIN,ads.spintrade.com,REJECT
 DOMAIN,ads.sportradar.com,REJECT
 DOMAIN,ads.spymac.net,REJECT
 DOMAIN,ads.stackoverflow.com,REJECT
-DOMAIN,ads.starbanner.com,REJECT
 DOMAIN,ads.static.madserving.com,REJECT
 DOMAIN,ads.stephensmedia.com,REJECT
 DOMAIN,ads.stickyadstv.com,REJECT
@@ -3074,7 +3072,6 @@ DOMAIN,alexa-sitestats.s3.amazonaws.com,REJECT
 DOMAIN,alexandria.marfeelcdn.com,REJECT
 DOMAIN,algfri.greenlightcard.com,REJECT
 DOMAIN,ali-stats.jpush.cn,REJECT
-DOMAIN,alicc.txsadql.cn,REJECT
 DOMAIN,alicdnv2.sitemonitor.cn.miaozhen.com,REJECT
 DOMAIN,alimama.alicdn.com,REJECT
 DOMAIN,alime-pic.oss-cn-hangzhou.aliyuncs.com,REJECT
@@ -4307,6 +4304,7 @@ DOMAIN,baidut.github.io,REJECT
 DOMAIN,baifen.music.baidu.com,REJECT
 DOMAIN,baikebcs.bdimg.com,REJECT
 DOMAIN,baimuyuan.com.cn,REJECT
+DOMAIN,bairentou.com.cn,REJECT
 DOMAIN,baj.fanwenzhan.com,REJECT
 DOMAIN,balabass.peerserver.com,REJECT
 DOMAIN,ballymoregroup.actonservice.com,REJECT
@@ -4795,6 +4793,7 @@ DOMAIN,blog.livelog.biz,REJECT
 DOMAIN,blogad01.myweb.hinet.net,REJECT
 DOMAIN,blogad02.myweb.hinet.net,REJECT
 DOMAIN,bloggergreetbox.googlecode.com,REJECT
+DOMAIN,blogparts.gcolle.net,REJECT
 DOMAIN,blogroll.livedoor.net,REJECT
 DOMAIN,blogstatistics.sapoapps.vn,REJECT
 DOMAIN,bloodhound.spotify.com,REJECT
@@ -5043,7 +5042,6 @@ DOMAIN,c.booksir.com.cn,REJECT
 DOMAIN,c.br.msn.com,REJECT
 DOMAIN,c.btyou.com,REJECT
 DOMAIN,c.bxb.oupeng.com,REJECT
-DOMAIN,c.bxjpl.cn,REJECT
 DOMAIN,c.ca.msn.com,REJECT
 DOMAIN,c.caijing123.com,REJECT
 DOMAIN,c.cert.ns.emailvision.net.daraz.com,REJECT
@@ -6930,7 +6928,6 @@ DOMAIN,d.image-ad.jp,REJECT
 DOMAIN,d.impactradius-event.com,REJECT
 DOMAIN,d.jbpbox.com,REJECT
 DOMAIN,d.jjyx.com,REJECT
-DOMAIN,d.jutaowanggou.cn,REJECT
 DOMAIN,d.kugou.com,REJECT
 DOMAIN,d.ligatus.com,REJECT
 DOMAIN,d.mingyihui.net,REJECT
@@ -8347,6 +8344,7 @@ DOMAIN,dwx1guhcvx8gs.cloudfront.net,REJECT
 DOMAIN,dx-cards-css.iqiyi.com,REJECT
 DOMAIN,dx6uy6q3udhkj.cloudfront.net,REJECT
 DOMAIN,dxe2.heip.fr,REJECT
+DOMAIN,dxgo95ahe73e8.cloudfront.net,REJECT
 DOMAIN,dxjpqe.usereserva.com,REJECT
 DOMAIN,dxkkb5tytkivf.cloudfront.net,REJECT
 DOMAIN,dxprljqoay4rt.cloudfront.net,REJECT
@@ -8959,6 +8957,7 @@ DOMAIN,espn-ak.starwave.com,REJECT
 DOMAIN,essdhn.makuake.com,REJECT
 DOMAIN,estadisticas.lanacion.com.ar,REJECT
 DOMAIN,estadonline.publiguias.cl,REJECT
+DOMAIN,estatcounter.co.uk,REJECT
 DOMAIN,estaticos.soitu.es,REJECT
 DOMAIN,esttut.tsum.ru,REJECT
 DOMAIN,et.emarbox.com,REJECT
@@ -9088,6 +9087,7 @@ DOMAIN,events.pingan.com,REJECT
 DOMAIN,events.practo.com,REJECT
 DOMAIN,events.privy.com,REJECT
 DOMAIN,events.realgravity.com,REJECT
+DOMAIN,events.reclamefolder.nl,REJECT
 DOMAIN,events.reddit.com,REJECT
 DOMAIN,events.redditmedia.com,REJECT
 DOMAIN,events.shareably.net,REJECT
@@ -9818,7 +9818,6 @@ DOMAIN,get.tfiph.com,REJECT
 DOMAIN,get.thefile.me,REJECT
 DOMAIN,get.thisisvegas.com,REJECT
 DOMAIN,get.webxmr.com,REJECT
-DOMAIN,get.x-link.pl,REJECT
 DOMAIN,getb.7ya.ru,REJECT
 DOMAIN,getcode.cotsta.ru,REJECT
 DOMAIN,gets.faz.net,REJECT
@@ -9847,7 +9846,6 @@ DOMAIN,gg.egouz.com,REJECT
 DOMAIN,gg.gao7.com,REJECT
 DOMAIN,gg.huangye88.com,REJECT
 DOMAIN,gg.jkmeishi.com,REJECT
-DOMAIN,gg.kkcaicai.com,REJECT
 DOMAIN,gg.meitu.com,REJECT
 DOMAIN,gg.miued.com,REJECT
 DOMAIN,gg.qucaigg.com,REJECT
@@ -10206,7 +10204,6 @@ DOMAIN,harvest.surge.sh,REJECT
 DOMAIN,harvester.hbpl.co.uk,REJECT
 DOMAIN,harvester.hnonline.sk,REJECT
 DOMAIN,hats.haibao.cn,REJECT
-DOMAIN,haucgz.europa-lkw.de,REJECT
 DOMAIN,hauchi.com.tw,REJECT
 DOMAIN,hazawl.veke.fi,REJECT
 DOMAIN,hb.emxdgt.com,REJECT
@@ -10516,7 +10513,6 @@ DOMAIN,hyybul.kaskus.co.id,REJECT
 DOMAIN,hz.hzhongjianfund.com,REJECT
 DOMAIN,hz.miercn.com,REJECT
 DOMAIN,hz.mmstat.com,REJECT
-DOMAIN,hz.shouyoutv.com,REJECT
 DOMAIN,hz1.lanmei80.com,REJECT
 DOMAIN,hzdaye.m.zwdu.com,REJECT
 DOMAIN,hzdmacore.kejet.net,REJECT
@@ -11522,7 +11518,6 @@ DOMAIN,jill.fc.yahoo.com,REJECT
 DOMAIN,jimg.iigs9.com,REJECT
 DOMAIN,jimg.jisuoping.com,REJECT
 DOMAIN,jing.58.com,REJECT
-DOMAIN,jipinapi.panqis.cn,REJECT
 DOMAIN,jira.vpon.com,REJECT
 DOMAIN,jjj.amghais.cn,REJECT
 DOMAIN,jjjj.getui.vip,REJECT
@@ -16528,7 +16523,6 @@ DOMAIN,prod.html5-ads.vk-apps.com,REJECT
 DOMAIN,proditor.sparda.de,REJECT
 DOMAIN,prodownload.newbetakey.com,REJECT
 DOMAIN,producer.getwisdom.io,REJECT
-DOMAIN,prodxnews1blob.blob.core.windows.net,REJECT
 DOMAIN,profile.r-ht-2.net.daraz.com,REJECT
 DOMAIN,profile.ssp.rambler.ru,REJECT
 DOMAIN,profile.uproxx.com,REJECT
@@ -20319,6 +20313,7 @@ DOMAIN,sourcepoint.mgr.consensu.org,REJECT
 DOMAIN,sourcepoint.theguardian.com,REJECT
 DOMAIN,sourcepoint.vice.com,REJECT
 DOMAIN,soxofo.concursosnobrasil.com.br,REJECT
+DOMAIN,sp-consent.stuttgarter-zeitung.de,REJECT
 DOMAIN,sp.analytics.yahoo.com,REJECT
 DOMAIN,sp.centralfloridafuture.com,REJECT
 DOMAIN,sp.chemacid.cn,REJECT
@@ -22422,6 +22417,7 @@ DOMAIN,temp.163.com,REJECT
 DOMAIN,template.liusha.info,REJECT
 DOMAIN,templates.buscape.com,REJECT
 DOMAIN,tempo.inc.com,REJECT
+DOMAIN,temptation.ad.nl,REJECT
 DOMAIN,ten.sngapm.qq.com,REJECT
 DOMAIN,tencent-dtv.m.cn.miaozhen.com,REJECT
 DOMAIN,tenddata.com.cn,REJECT
