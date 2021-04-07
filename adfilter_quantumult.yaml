@@ -1,11 +1,11 @@
-# Checksum: MTYxNzY2ODQyNgo=
+# Checksum: MTYxNzc1NDc5MQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210406-0
-# TimeUpdated: 2021-04-06T00:20:26+00:00
+# Version: -20210407-0
+# TimeUpdated: 2021-04-07T00:19:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 26003
+# Total: 26001
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,000.0x1f4b0.com,REJECT
@@ -4656,6 +4656,7 @@ DOMAIN,beacons4.gvt2.com,REJECT
 DOMAIN,beacons5.gvt2.com,REJECT
 DOMAIN,beagle.prod.tda.link,REJECT
 DOMAIN,beak.bd.313.nl,REJECT
+DOMAIN,beak.bigdata.dpgmmservices.nl,REJECT
 DOMAIN,beam.koddi.com,REJECT
 DOMAIN,beam.remp.impresa.pt,REJECT
 DOMAIN,beam.remp.nv.ua,REJECT
@@ -5003,6 +5004,7 @@ DOMAIN,byqdtp.interpark.com,REJECT
 DOMAIN,bysfnu.bodeboca.com,REJECT
 DOMAIN,bytecoin.crypto-webminer.com,REJECT
 DOMAIN,bzclk.baidu.com,REJECT
+DOMAIN,c-api-bit.shopeemobile.com,REJECT
 DOMAIN,c-gtc.getui.com,REJECT
 DOMAIN,c-hzgt2.getui.com,REJECT
 DOMAIN,c-nfa.jd.com,REJECT
@@ -6737,6 +6739,7 @@ DOMAIN,cr.m.liebao.cn,REJECT
 DOMAIN,cr.youhuiguan.com,REJECT
 DOMAIN,cra-arc-gc-ca.noads.biz,REJECT
 DOMAIN,crab.baidu.com,REJECT
+DOMAIN,cradver.livejasmin.com,REJECT
 DOMAIN,crash.163.com,REJECT
 DOMAIN,crashapi.growingio.com,REJECT
 DOMAIN,crashes.mo.wps.cn,REJECT
@@ -7083,6 +7086,7 @@ DOMAIN,d1n7ypf85zfej7.cloudfront.net,REJECT
 DOMAIN,d1nkvehlw5hmj4.cloudfront.net,REJECT
 DOMAIN,d1nmxiiewlx627.cloudfront.net,REJECT
 DOMAIN,d1nnhbi4g0kj5.cloudfront.net,REJECT
+DOMAIN,d1nssfq3xl2t6b.cloudfront.net,REJECT
 DOMAIN,d1nx2jii03b4ju.cloudfront.net,REJECT
 DOMAIN,d1o3ws1znr0uv8.cloudfront.net,REJECT
 DOMAIN,d1oxccu2k3w6jx.cloudfront.net,REJECT
@@ -8067,7 +8071,6 @@ DOMAIN,dm1.zjydt.com,REJECT
 DOMAIN,dm50.jkyd.net,REJECT
 DOMAIN,dm50.yxlady.com,REJECT
 DOMAIN,dm7gsepi27zsx.cloudfront.net,REJECT
-DOMAIN,dma.15tianqi.com,REJECT
 DOMAIN,dmacore.kejet.com,REJECT
 DOMAIN,dmacore.kejet.net,REJECT
 DOMAIN,dmapp.youku.com,REJECT
@@ -8288,6 +8291,7 @@ DOMAIN,dtch.brunel.nl,REJECT
 DOMAIN,dtlog.szy.cn,REJECT
 DOMAIN,dtmssl.bobcat.com,REJECT
 DOMAIN,dtmxst.66girls.co.kr,REJECT
+DOMAIN,dtrace.nvidia.com,REJECT
 DOMAIN,dtrk.slimcdn.com,REJECT
 DOMAIN,dtto8zfzskfoa.cloudfront.net,REJECT
 DOMAIN,dtv5loup63fac.cloudfront.net,REJECT
@@ -11426,7 +11430,6 @@ DOMAIN,j.zykxjt.com,REJECT
 DOMAIN,j1.ax.xrea.com,REJECT
 DOMAIN,j1.piaobing.com,REJECT
 DOMAIN,j17.shangc.net,REJECT
-DOMAIN,j17.xiumu.cn,REJECT
 DOMAIN,j2.979067.com,REJECT
 DOMAIN,j83ad.speedrun.com,REJECT
 DOMAIN,ja.chushou.tv,REJECT
@@ -11548,7 +11551,6 @@ DOMAIN,join.pro-gaming-world.com,REJECT
 DOMAIN,join.xlgirls.com,REJECT
 DOMAIN,join1.winhundred.com,REJECT
 DOMAIN,joinus.holidayseniorliving.com,REJECT
-DOMAIN,journey.unicef.de,REJECT
 DOMAIN,joy.ochronus.online,REJECT
 DOMAIN,jp-axia.m0mentum.net,REJECT
 DOMAIN,jp.as.pptv.com,REJECT
@@ -11713,7 +11715,6 @@ DOMAIN,js883.cnbole.net,REJECT
 DOMAIN,js883.dragoncent.com,REJECT
 DOMAIN,js883.yongkang6.com,REJECT
 DOMAIN,js986.cnbole.net,REJECT
-DOMAIN,jsa.15tianqi.com,REJECT
 DOMAIN,jsadsdisplay.cn-beijing.log.aliyuncs.com,REJECT
 DOMAIN,jsapi.html5.qq.com,REJECT
 DOMAIN,jsb.high-minded.net,REJECT
@@ -12238,7 +12239,6 @@ DOMAIN,lm.35.com,REJECT
 DOMAIN,lm.ijq.tv,REJECT
 DOMAIN,lm.tv.sohu.com,REJECT
 DOMAIN,lm1.tuliu.com,REJECT
-DOMAIN,lm1.wzpcw.com,REJECT
 DOMAIN,lmbsy.qq.com,REJECT
 DOMAIN,lmdknj.xsbiquge.com,REJECT
 DOMAIN,lmvc1.vivatechnology.com,REJECT
@@ -12680,7 +12680,6 @@ DOMAIN,m.ads.sohu.com,REJECT
 DOMAIN,m.adtiming.com,REJECT
 DOMAIN,m.aduiz.com,REJECT
 DOMAIN,m.adxpop.com,REJECT
-DOMAIN,m.ahwczn.cn,REJECT
 DOMAIN,m.ailezhai.cn,REJECT
 DOMAIN,m.ailix.cn,REJECT
 DOMAIN,m.aiyyu.com,REJECT
@@ -14375,7 +14374,6 @@ DOMAIN,mini.videostrip.com,REJECT
 DOMAIN,mini2015.qq.com,REJECT
 DOMAIN,miniapp.bilibili.com,REJECT
 DOMAIN,miniapp.qiluyidian.mobi,REJECT
-DOMAIN,mining.coin-hive.com,REJECT
 DOMAIN,mining.freebitco.in,REJECT
 DOMAIN,minipage.2345.cn,REJECT
 DOMAIN,minipage.2345.com,REJECT
@@ -18025,6 +18023,7 @@ DOMAIN,sass.directprimal.com,REJECT
 DOMAIN,sass.webmine.pro,REJECT
 DOMAIN,sass2.authcaptcha.com,REJECT
 DOMAIN,sass2.directprimal.com,REJECT
+DOMAIN,sat.public.bd.313.nl,REJECT
 DOMAIN,sat.sanoma.fi,REJECT
 DOMAIN,satracking.finning.com,REJECT
 DOMAIN,savoy.cubecdn.net,REJECT
@@ -18767,7 +18766,6 @@ DOMAIN,shen.zgfszs.com,REJECT
 DOMAIN,shence.hupu.com,REJECT
 DOMAIN,sher.index.hu,REJECT
 DOMAIN,shijuezhongguo.cdn.bcebos.com,REJECT
-DOMAIN,shili.downxia.com,REJECT
 DOMAIN,shili.wanyx.com,REJECT
 DOMAIN,shinystat.shiny.it,REJECT
 DOMAIN,shkunjia.com.cn,REJECT
@@ -18882,7 +18880,6 @@ DOMAIN,sjbaiduadv1.redou.com,REJECT
 DOMAIN,sjbtn.appfh.com,REJECT
 DOMAIN,sjh.baidu.com,REJECT
 DOMAIN,sjremetrics.java.com,REJECT
-DOMAIN,sjy-stone.com.cn,REJECT
 DOMAIN,sjyskm.litres.ru,REJECT
 DOMAIN,sk.5.p2l.info,REJECT
 DOMAIN,skelaxin.1.p2l.info,REJECT
@@ -20331,6 +20328,7 @@ DOMAIN,sp.desmoinesregister.com,REJECT
 DOMAIN,sp.detroitnews.com,REJECT
 DOMAIN,sp.dnj.com,REJECT
 DOMAIN,sp.dnqc.com,REJECT
+DOMAIN,sp.dpgmedia.net,REJECT
 DOMAIN,sp.fanatical.com,REJECT
 DOMAIN,sp.fdlreporter.com,REJECT
 DOMAIN,sp.floridatoday.com,REJECT
