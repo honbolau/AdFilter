@@ -1,11 +1,11 @@
-# Checksum: MTYxNzg0MTI5Ngo=
+# Checksum: MTYxNzkyNzYwNQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210408-0
-# TimeUpdated: 2021-04-08T00:21:36+00:00
+# Version: -20210409-0
+# TimeUpdated: 2021-04-09T00:20:05+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 25995
+# Total: 25988
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -912,6 +912,8 @@ ff02::3 ip6-allhosts
 :: a.streamoupload.com
 0.0.0.0 a.tanx.com
 :: a.tanx.com
+0.0.0.0 a.teenspirithentai.com
+:: a.teenspirithentai.com
 0.0.0.0 a.telus.com
 :: a.telus.com
 0.0.0.0 a.testerns.emailvision.net.daraz.com
@@ -2768,8 +2770,6 @@ ff02::3 ip6-allhosts
 :: adcel.vrvm.com
 0.0.0.0 adcentric.randomseed.com
 :: adcentric.randomseed.com
-0.0.0.0 adclear.baur.de
-:: adclear.baur.de
 0.0.0.0 adclick.g.doublecklick.net
 :: adclick.g.doublecklick.net
 0.0.0.0 adclick.g.doubleclick.net
@@ -2806,8 +2806,6 @@ ff02::3 ip6-allhosts
 :: add.dz19.net
 0.0.0.0 add.f5haber.com
 :: add.f5haber.com
-0.0.0.0 add.in.ua
-:: add.in.ua
 0.0.0.0 add.newmedia.cz
 :: add.newmedia.cz
 0.0.0.0 addata.ku6.com
@@ -2888,8 +2886,6 @@ ff02::3 ip6-allhosts
 :: adfox.yandex.ru
 0.0.0.0 adfuri.socdm.com
 :: adfuri.socdm.com
-0.0.0.0 adg.bzgint.com
-:: adg.bzgint.com
 0.0.0.0 adgebra.co.in
 :: adgebra.co.in
 0.0.0.0 adgeo.163.com
@@ -5384,8 +5380,6 @@ ff02::3 ip6-allhosts
 :: adsrv.tuscaloosanews.com
 0.0.0.0 adsrv2.swidnica24.pl
 :: adsrv2.swidnica24.pl
-0.0.0.0 adsrv2.wilmingtonstar.com
-:: adsrv2.wilmingtonstar.com
 0.0.0.0 adss.video.qq.com
 :: adss.video.qq.com
 0.0.0.0 adss.yahoo.com
@@ -8504,8 +8498,6 @@ ff02::3 ip6-allhosts
 :: b17.shangc.net
 0.0.0.0 b17.wenjutv.com
 :: b17.wenjutv.com
-0.0.0.0 b17.xiumu.cn
-:: b17.xiumu.cn
 0.0.0.0 b1sync.zemanta.com
 :: b1sync.zemanta.com
 0.0.0.0 b2-data.ads.heytapmobi.com
@@ -11744,8 +11736,6 @@ ff02::3 ip6-allhosts
 :: clickjs.cnzz.com
 0.0.0.0 clicklog.hd.baofeng.com
 :: clicklog.hd.baofeng.com
-0.0.0.0 clicklog.moviebox.baofeng.com
-:: clicklog.moviebox.baofeng.com
 0.0.0.0 clicklog.moviebox.baofeng.net
 :: clicklog.moviebox.baofeng.net
 0.0.0.0 clickm.fang.com
@@ -13378,8 +13368,6 @@ ff02::3 ip6-allhosts
 :: cp.gs307.com
 0.0.0.0 cp.jfcdns.com
 :: cp.jfcdns.com
-0.0.0.0 cp.jz5u.net
-:: cp.jz5u.net
 0.0.0.0 cp.pushwoosh.com
 :: cp.pushwoosh.com
 0.0.0.0 cp.qbaobei.com
@@ -14480,6 +14468,8 @@ ff02::3 ip6-allhosts
 :: d2od2b2huvmzuj.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 :: d2oh4tlt9mrke9.cloudfront.net
+0.0.0.0 d2ojfulajn60p5.cloudfront.net
+:: d2ojfulajn60p5.cloudfront.net
 0.0.0.0 d2ox6x0y9xhicd.cloudfront.net
 :: d2ox6x0y9xhicd.cloudfront.net
 0.0.0.0 d2p3zdq8vjvnxd.cloudfront.net
@@ -19504,6 +19494,8 @@ ff02::3 ip6-allhosts
 :: geo.frtya.com
 0.0.0.0 geo.frtyd.com
 :: geo.frtyd.com
+0.0.0.0 geo.gfycat.com
+:: geo.gfycat.com
 0.0.0.0 geo.go2s.co
 :: geo.go2s.co
 0.0.0.0 geo.gorillanation.com
@@ -25416,8 +25408,6 @@ ff02::3 ip6-allhosts
 :: m.cdxtny.cn
 0.0.0.0 m.ceyiuy.com
 :: m.ceyiuy.com
-0.0.0.0 m.chaoliangyun.cn
-:: m.chaoliangyun.cn
 0.0.0.0 m.chinachooses.com
 :: m.chinachooses.com
 0.0.0.0 m.clkservice.youdao.com
@@ -25988,8 +25978,6 @@ ff02::3 ip6-allhosts
 :: ma-adx.ctrip.com
 0.0.0.0 ma.5.p2l.info
 :: ma.5.p2l.info
-0.0.0.0 ma.alvexo.com
-:: ma.alvexo.com
 0.0.0.0 ma.globalhma.com
 :: ma.globalhma.com
 0.0.0.0 ma.meritmind.se
@@ -26802,8 +26790,6 @@ ff02::3 ip6-allhosts
 :: marketing.stahl.com
 0.0.0.0 marketing.stay-rlhc.com
 :: marketing.stay-rlhc.com
-0.0.0.0 marketing.steelforge.com
-:: marketing.steelforge.com
 0.0.0.0 marketing.stellarmls.com
 :: marketing.stellarmls.com
 0.0.0.0 marketing.sunny.org
@@ -29174,8 +29160,6 @@ ff02::3 ip6-allhosts
 :: mp.5.p2l.info
 0.0.0.0 mp.miaomiaojia.cc
 :: mp.miaomiaojia.cc
-0.0.0.0 mp.qy9.net
-:: mp.qy9.net
 0.0.0.0 mp.xi9p.com
 :: mp.xi9p.com
 0.0.0.0 mp4.res.hunantv.com
@@ -29344,8 +29328,6 @@ ff02::3 ip6-allhosts
 :: mti.35kds.com
 0.0.0.0 mtj.baidu.com
 :: mtj.baidu.com
-0.0.0.0 mtl.ttsqgs.com
-:: mtl.ttsqgs.com
 0.0.0.0 mtlog.droid4x.cn
 :: mtlog.droid4x.cn
 0.0.0.0 mto.cgv.vn
@@ -31104,6 +31086,8 @@ ff02::3 ip6-allhosts
 :: otheve.beacon.qq.com
 0.0.0.0 otheve.play.aiseet.atianqi.com
 :: otheve.play.aiseet.atianqi.com
+0.0.0.0 othstr.beacon.qq.com
+:: othstr.beacon.qq.com
 0.0.0.0 othstr.play.aiseet.atianqi.com
 :: othstr.play.aiseet.atianqi.com
 0.0.0.0 otpercpiheno.blogspot.com
@@ -36046,6 +36030,8 @@ ff02::3 ip6-allhosts
 :: sat.sanoma.fi
 0.0.0.0 satracking.finning.com
 :: satracking.finning.com
+0.0.0.0 sats.manager-magazin.de
+:: sats.manager-magazin.de
 0.0.0.0 savoy.cubecdn.net
 :: savoy.cubecdn.net
 0.0.0.0 savoy.storage.cubecdn.net
@@ -37652,8 +37638,6 @@ ff02::3 ip6-allhosts
 :: sicas.ikea.com
 0.0.0.0 sidebar.angelfire.com
 :: sidebar.angelfire.com
-0.0.0.0 sidebar.incest-porno.tv
-:: sidebar.incest-porno.tv
 0.0.0.0 sidebar.issuu.com
 :: sidebar.issuu.com
 0.0.0.0 siewmi.uncommongoods.com
@@ -41320,6 +41304,8 @@ ff02::3 ip6-allhosts
 :: ssp.otm-r.com
 0.0.0.0 ssp.pro.cn
 :: ssp.pro.cn
+0.0.0.0 ssp.qq.com
+:: ssp.qq.com
 0.0.0.0 ssp.seznam.cz
 :: ssp.seznam.cz
 0.0.0.0 ssp.streamrail.net
@@ -44416,6 +44402,8 @@ ff02::3 ip6-allhosts
 :: ta.trs.cn
 0.0.0.0 ta.yangkeduo.com
 :: ta.yangkeduo.com
+0.0.0.0 taboola.com.cn
+:: taboola.com.cn
 0.0.0.0 tac.aiclk.com
 :: tac.aiclk.com
 0.0.0.0 tactics.bainv.net
@@ -44608,10 +44596,6 @@ ff02::3 ip6-allhosts
 :: tb.code.twyxi.com
 0.0.0.0 tb.mybb.ru
 :: tb.mybb.ru
-0.0.0.0 tb060x.corp.youdao.com
-:: tb060x.corp.youdao.com
-0.0.0.0 tb104x.corp.youdao.com
-:: tb104x.corp.youdao.com
 0.0.0.0 tbe.tom.ru
 :: tbe.tom.ru
 0.0.0.0 tben.nnchangyi.com
@@ -49146,6 +49130,8 @@ ff02::3 ip6-allhosts
 :: w.freecontent.com
 0.0.0.0 w.gdown.baidu.com
 :: w.gdown.baidu.com
+0.0.0.0 w.inews.qq.com
+:: w.inews.qq.com
 0.0.0.0 w.l.qq.com
 :: w.l.qq.com
 0.0.0.0 w.online-verlag-freiburg.de
