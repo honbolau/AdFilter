@@ -1,11 +1,11 @@
-# Checksum: MTYxODAxNDA0Ngo=
+# Checksum: MTYxODEwMDUxMQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210410-0
-# TimeUpdated: 2021-04-10T00:20:46+00:00
+# Version: -20210411-0
+# TimeUpdated: 2021-04-11T00:21:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 25982
+# Total: 25990
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,000.0x1f4b0.com,REJECT
@@ -760,6 +760,7 @@ DOMAIN,abc.if.qidian.com,REJECT
 DOMAIN,abc.pema.cl,REJECT
 DOMAIN,abc.rwpt.top,REJECT
 DOMAIN,abc.yjbys.com,REJECT
+DOMAIN,abc.zvqbbj.cn,REJECT
 DOMAIN,abcdcfasda.gushiwen.cn,REJECT
 DOMAIN,abcj.dooccn.com,REJECT
 DOMAIN,abclegal.actonservice.com,REJECT
@@ -2681,7 +2682,6 @@ DOMAIN,adspace.zaman.com.tr,REJECT
 DOMAIN,adspaces.ero-advertising.com,REJECT
 DOMAIN,adsrv.deviantart.com,REJECT
 DOMAIN,adsrv.iol.co.za,REJECT
-DOMAIN,adsrv.kobi.tv,REJECT
 DOMAIN,adsrv.lua.pl,REJECT
 DOMAIN,adsrv.moebelmarkt.tv,REJECT
 DOMAIN,adsrv.swidnica24.pl,REJECT
@@ -3695,6 +3695,7 @@ DOMAIN,api.ktplay.com,REJECT
 DOMAIN,api.kwaizt.com,REJECT
 DOMAIN,api.leancloud.cn,REJECT
 DOMAIN,api.linkgist.com,REJECT
+DOMAIN,api.lwxs99.com,REJECT
 DOMAIN,api.mediarithmics.com,REJECT
 DOMAIN,api.mediation.amberweather.com,REJECT
 DOMAIN,api.minero.cc,REJECT
@@ -3722,6 +3723,7 @@ DOMAIN,api.pingstart.com,REJECT
 DOMAIN,api.poll.aiseet.atianqi.com,REJECT
 DOMAIN,api.ppoi.org,REJECT
 DOMAIN,api.primecaster.net,REJECT
+DOMAIN,api.qids.xyz,REJECT
 DOMAIN,api.qvpublish.com,REJECT
 DOMAIN,api.rees46.com,REJECT
 DOMAIN,api.reon.club,REJECT
@@ -5079,6 +5081,7 @@ DOMAIN,c.it.msn.com,REJECT
 DOMAIN,c.j782e.cn,REJECT
 DOMAIN,c.jjkk.org,REJECT
 DOMAIN,c.jp.msn.com,REJECT
+DOMAIN,c.jumorecn.com.cn,REJECT
 DOMAIN,c.kbf365.cn,REJECT
 DOMAIN,c.kuaiduizuoye.com,REJECT
 DOMAIN,c.kuwo.cn,REJECT
@@ -5169,6 +5172,7 @@ DOMAIN,c.xjsytoy.com,REJECT
 DOMAIN,c.yanyanbiji.com,REJECT
 DOMAIN,c.yes.youku.com,REJECT
 DOMAIN,c.youdao.com,REJECT
+DOMAIN,c.yunnanpulasi.com,REJECT
 DOMAIN,c.za.msn.com,REJECT
 DOMAIN,c.zlongad.com,REJECT
 DOMAIN,c.zoepb.cn,REJECT
@@ -9310,6 +9314,7 @@ DOMAIN,file.chanet.com.cn,REJECT
 DOMAIN,file.ipinyou.com.cn,REJECT
 DOMAIN,files.adform.net,REJECT
 DOMAIN,files2.sogou.com,REJECT
+DOMAIN,film.dofkfhv.cn,REJECT
 DOMAIN,filmyhit.net.daraz.com,REJECT
 DOMAIN,filosvybfimpsv.ru.gg,REJECT
 DOMAIN,filter.mediacpc.com,REJECT
@@ -14548,7 +14553,6 @@ DOMAIN,moodle.net.daraz.com,REJECT
 DOMAIN,moodoo.com.cn,REJECT
 DOMAIN,moody.actonsoftware.com,REJECT
 DOMAIN,mooieplaatjes.bierdopje.com,REJECT
-DOMAIN,moonbit.co.in,REJECT
 DOMAIN,moonwish.com.cn,REJECT
 DOMAIN,mopnativeadv.037201.com,REJECT
 DOMAIN,mopub-win-us-east.bksn.se,REJECT
@@ -16827,7 +16831,6 @@ DOMAIN,py.da.mgtv.com,REJECT
 DOMAIN,py.qlogo.cn,REJECT
 DOMAIN,py.wikigifth.com,REJECT
 DOMAIN,py2.qlogo.cn,REJECT
-DOMAIN,pylfi.flash.hxh999.com,REJECT
 DOMAIN,pzpevk.newbalance.ru,REJECT
 DOMAIN,pzxhyp.aeropostale.com,REJECT
 DOMAIN,q.0451106.com,REJECT
@@ -22123,6 +22126,7 @@ DOMAIN,t.qihaoqu.com,REJECT
 DOMAIN,t.qiuqiuqipai.com,REJECT
 DOMAIN,t.quandangdang.net,REJECT
 DOMAIN,t.quisma.com,REJECT
+DOMAIN,t.rainide.com,REJECT
 DOMAIN,t.raptorsmartadvisor.com,REJECT
 DOMAIN,t.regionsjob.com,REJECT
 DOMAIN,t.seesaa.net,REJECT
@@ -22367,6 +22371,7 @@ DOMAIN,technology.informaengage.com,REJECT
 DOMAIN,technologyadvice.actonservice.com,REJECT
 DOMAIN,techsolutions.com.tw,REJECT
 DOMAIN,techweb.adsame.com,REJECT
+DOMAIN,tect.douximo.cn,REJECT
 DOMAIN,ted.dailymail.co.uk,REJECT
 DOMAIN,ted.metro.co.uk,REJECT
 DOMAIN,teinfo.wps.cn,REJECT
@@ -23181,6 +23186,7 @@ DOMAIN,tracker.departapp.com,REJECT
 DOMAIN,tracker.digitalcamp.co.kr,REJECT
 DOMAIN,tracker.downdetector.com,REJECT
 DOMAIN,tracker.durasite.net,REJECT
+DOMAIN,tracker.esputnik.com,REJECT
 DOMAIN,tracker.euroweb.net,REJECT
 DOMAIN,tracker.fado.vn,REJECT
 DOMAIN,tracker.giftd.ru,REJECT
@@ -24190,6 +24196,7 @@ DOMAIN,v.ggsgww.cn,REJECT
 DOMAIN,v.heygugu.com,REJECT
 DOMAIN,v.jinliaoyang.com,REJECT
 DOMAIN,v.jsbgh.cn,REJECT
+DOMAIN,v.jumorecn.com.cn,REJECT
 DOMAIN,v.koqz36.com,REJECT
 DOMAIN,v.lalaxit.cn,REJECT
 DOMAIN,v.lovepets70.com,REJECT
@@ -24217,6 +24224,7 @@ DOMAIN,v.xi666.com,REJECT
 DOMAIN,v.xinshide.cn,REJECT
 DOMAIN,v.xjsytoy.com,REJECT
 DOMAIN,v.yanyanbiji.com,REJECT
+DOMAIN,v.yunnanpulasi.com,REJECT
 DOMAIN,v.yushengyuancaishui.com,REJECT
 DOMAIN,v.zoepb.cn,REJECT
 DOMAIN,v1-c73e.kxcdn.com,REJECT

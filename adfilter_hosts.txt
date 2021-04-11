@@ -1,11 +1,11 @@
-# Checksum: MTYxODAxNDA0Ngo=
+# Checksum: MTYxODEwMDUxMQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210410-0
-# TimeUpdated: 2021-04-10T00:20:46+00:00
+# Version: -20210411-0
+# TimeUpdated: 2021-04-11T00:21:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 25982
+# Total: 25990
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1524,6 +1524,8 @@ ff02::3 ip6-allhosts
 :: abc.rwpt.top
 0.0.0.0 abc.yjbys.com
 :: abc.yjbys.com
+0.0.0.0 abc.zvqbbj.cn
+:: abc.zvqbbj.cn
 0.0.0.0 abcdcfasda.gushiwen.cn
 :: abcdcfasda.gushiwen.cn
 0.0.0.0 abcj.dooccn.com
@@ -5366,8 +5368,6 @@ ff02::3 ip6-allhosts
 :: adsrv.deviantart.com
 0.0.0.0 adsrv.iol.co.za
 :: adsrv.iol.co.za
-0.0.0.0 adsrv.kobi.tv
-:: adsrv.kobi.tv
 0.0.0.0 adsrv.lua.pl
 :: adsrv.lua.pl
 0.0.0.0 adsrv.moebelmarkt.tv
@@ -7394,6 +7394,8 @@ ff02::3 ip6-allhosts
 :: api.leancloud.cn
 0.0.0.0 api.linkgist.com
 :: api.linkgist.com
+0.0.0.0 api.lwxs99.com
+:: api.lwxs99.com
 0.0.0.0 api.mediarithmics.com
 :: api.mediarithmics.com
 0.0.0.0 api.mediation.amberweather.com
@@ -7448,6 +7450,8 @@ ff02::3 ip6-allhosts
 :: api.ppoi.org
 0.0.0.0 api.primecaster.net
 :: api.primecaster.net
+0.0.0.0 api.qids.xyz
+:: api.qids.xyz
 0.0.0.0 api.qvpublish.com
 :: api.qvpublish.com
 0.0.0.0 api.rees46.com
@@ -10162,6 +10166,8 @@ ff02::3 ip6-allhosts
 :: c.jjkk.org
 0.0.0.0 c.jp.msn.com
 :: c.jp.msn.com
+0.0.0.0 c.jumorecn.com.cn
+:: c.jumorecn.com.cn
 0.0.0.0 c.kbf365.cn
 :: c.kbf365.cn
 0.0.0.0 c.kuaiduizuoye.com
@@ -10342,6 +10348,8 @@ ff02::3 ip6-allhosts
 :: c.yes.youku.com
 0.0.0.0 c.youdao.com
 :: c.youdao.com
+0.0.0.0 c.yunnanpulasi.com
+:: c.yunnanpulasi.com
 0.0.0.0 c.za.msn.com
 :: c.za.msn.com
 0.0.0.0 c.zlongad.com
@@ -18624,6 +18632,8 @@ ff02::3 ip6-allhosts
 :: files.adform.net
 0.0.0.0 files2.sogou.com
 :: files2.sogou.com
+0.0.0.0 film.dofkfhv.cn
+:: film.dofkfhv.cn
 0.0.0.0 filmyhit.net.daraz.com
 :: filmyhit.net.daraz.com
 0.0.0.0 filosvybfimpsv.ru.gg
@@ -29100,8 +29110,6 @@ ff02::3 ip6-allhosts
 :: moody.actonsoftware.com
 0.0.0.0 mooieplaatjes.bierdopje.com
 :: mooieplaatjes.bierdopje.com
-0.0.0.0 moonbit.co.in
-:: moonbit.co.in
 0.0.0.0 moonwish.com.cn
 :: moonwish.com.cn
 0.0.0.0 mopnativeadv.037201.com
@@ -33658,8 +33666,6 @@ ff02::3 ip6-allhosts
 :: py.wikigifth.com
 0.0.0.0 py2.qlogo.cn
 :: py2.qlogo.cn
-0.0.0.0 pylfi.flash.hxh999.com
-:: pylfi.flash.hxh999.com
 0.0.0.0 pzpevk.newbalance.ru
 :: pzpevk.newbalance.ru
 0.0.0.0 pzxhyp.aeropostale.com
@@ -44250,6 +44256,8 @@ ff02::3 ip6-allhosts
 :: t.quandangdang.net
 0.0.0.0 t.quisma.com
 :: t.quisma.com
+0.0.0.0 t.rainide.com
+:: t.rainide.com
 0.0.0.0 t.raptorsmartadvisor.com
 :: t.raptorsmartadvisor.com
 0.0.0.0 t.regionsjob.com
@@ -44738,6 +44746,8 @@ ff02::3 ip6-allhosts
 :: techsolutions.com.tw
 0.0.0.0 techweb.adsame.com
 :: techweb.adsame.com
+0.0.0.0 tect.douximo.cn
+:: tect.douximo.cn
 0.0.0.0 ted.dailymail.co.uk
 :: ted.dailymail.co.uk
 0.0.0.0 ted.metro.co.uk
@@ -46366,6 +46376,8 @@ ff02::3 ip6-allhosts
 :: tracker.downdetector.com
 0.0.0.0 tracker.durasite.net
 :: tracker.durasite.net
+0.0.0.0 tracker.esputnik.com
+:: tracker.esputnik.com
 0.0.0.0 tracker.euroweb.net
 :: tracker.euroweb.net
 0.0.0.0 tracker.fado.vn
@@ -48384,6 +48396,8 @@ ff02::3 ip6-allhosts
 :: v.jinliaoyang.com
 0.0.0.0 v.jsbgh.cn
 :: v.jsbgh.cn
+0.0.0.0 v.jumorecn.com.cn
+:: v.jumorecn.com.cn
 0.0.0.0 v.koqz36.com
 :: v.koqz36.com
 0.0.0.0 v.lalaxit.cn
@@ -48438,6 +48452,8 @@ ff02::3 ip6-allhosts
 :: v.xjsytoy.com
 0.0.0.0 v.yanyanbiji.com
 :: v.yanyanbiji.com
+0.0.0.0 v.yunnanpulasi.com
+:: v.yunnanpulasi.com
 0.0.0.0 v.yushengyuancaishui.com
 :: v.yushengyuancaishui.com
 0.0.0.0 v.zoepb.cn
