@@ -1,11 +1,11 @@
-# Checksum: MTYxODEwMDUxMQo=
+# Checksum: MTYxODE4Njg4Nwo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210411-0
-# TimeUpdated: 2021-04-11T00:21:51+00:00
+# Version: -20210412-0
+# TimeUpdated: 2021-04-12T00:21:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 25990
+# Total: 25985
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,000.0x1f4b0.com,REJECT
@@ -1006,7 +1006,6 @@ DOMAIN,ad.filmweb.pl,REJECT
 DOMAIN,ad.flipboard.com,REJECT
 DOMAIN,ad.floq.jp,REJECT
 DOMAIN,ad.flurry.com,REJECT
-DOMAIN,ad.fo.net,REJECT
 DOMAIN,ad.foxnetworks.com,REJECT
 DOMAIN,ad.freecity.de,REJECT
 DOMAIN,ad.funp.com,REJECT
@@ -1175,7 +1174,6 @@ DOMAIN,ad.r.worldssl.net,REJECT
 DOMAIN,ad.reachlocal.com,REJECT
 DOMAIN,ad.rednet.cn,REJECT
 DOMAIN,ad.referencement.01net.com,REJECT
-DOMAIN,ad.reklam.xyz,REJECT
 DOMAIN,ad.reklamport.com,REJECT
 DOMAIN,ad.repubblica.it,REJECT
 DOMAIN,ad.reunion.com,REJECT
@@ -1374,7 +1372,6 @@ DOMAIN,adc.hpplay.cn,REJECT
 DOMAIN,adc.nine.com.au,REJECT
 DOMAIN,adc.quantrimang.com,REJECT
 DOMAIN,adc.tripple.at,REJECT
-DOMAIN,adc.xxxlshop.de,REJECT
 DOMAIN,adc3-launch.adcolony.com,REJECT
 DOMAIN,adcast.deviantart.com,REJECT
 DOMAIN,adcast.fblife.com,REJECT
@@ -4285,7 +4282,6 @@ DOMAIN,baichuan.baidu.com,REJECT
 DOMAIN,baid1.okooo.com,REJECT
 DOMAIN,baidu.dsp.tansuotv.com,REJECT
 DOMAIN,baidu.greenxf.cn,REJECT
-DOMAIN,baidu.jz5u.net,REJECT
 DOMAIN,baidu.tlssyg.com,REJECT
 DOMAIN,baidu1.codejie.net,REJECT
 DOMAIN,baidu1.weather.com.cn,REJECT
@@ -4542,7 +4538,6 @@ DOMAIN,bd4.chuiyue.com,REJECT
 DOMAIN,bd4.idgdmgroup.com.cn,REJECT
 DOMAIN,bd888.qizuang.com,REJECT
 DOMAIN,bda1.ayule.net,REJECT
-DOMAIN,bdad.gaotie.net,REJECT
 DOMAIN,bdapi.ads.oppomobile.com,REJECT
 DOMAIN,bdasd.chdbook.cn,REJECT
 DOMAIN,bdcdncmn-gd.inter.71edge.com,REJECT
@@ -5792,7 +5787,6 @@ DOMAIN,click.aristotle.net,REJECT
 DOMAIN,click.atdmt.com,REJECT
 DOMAIN,click.bes.baidu.com,REJECT
 DOMAIN,click.bokecc.com,REJECT
-DOMAIN,click.buzzcity.net,REJECT
 DOMAIN,click.cartsguru.io,REJECT
 DOMAIN,click.cheshi.com,REJECT
 DOMAIN,click.com.cn,REJECT
@@ -11677,7 +11671,6 @@ DOMAIN,js.yoyi.tv,REJECT
 DOMAIN,js.zhuoyaju.com,REJECT
 DOMAIN,js.zjsyawqj.cn,REJECT
 DOMAIN,js.zol.com.cn,REJECT
-DOMAIN,js.zyrfanli.com,REJECT
 DOMAIN,js1.2abc8.com,REJECT
 DOMAIN,js1.bloggerads.net,REJECT
 DOMAIN,js1.nend.net,REJECT
@@ -12901,7 +12894,6 @@ DOMAIN,m.vkuay.com,REJECT
 DOMAIN,m.vpadn.com,REJECT
 DOMAIN,m.vpon.com,REJECT
 DOMAIN,m.wenzhougy.cn,REJECT
-DOMAIN,m.wervp.com,REJECT
 DOMAIN,m.wh723.cn,REJECT
 DOMAIN,m.wikigifth.com,REJECT
 DOMAIN,m.wonwg.com,REJECT
@@ -14540,6 +14532,7 @@ DOMAIN,monitor-stsdk.vivo.com.cn,REJECT
 DOMAIN,monitor-targeting-failures.sqrt-5041.de,REJECT
 DOMAIN,monitor-uu.play.aiseet.atianqi.com,REJECT
 DOMAIN,monitor.adcaffe.com,REJECT
+DOMAIN,monitor.channel4.com,REJECT
 DOMAIN,monitor.ebay.com,REJECT
 DOMAIN,monitor.ssp.admobile.top,REJECT
 DOMAIN,monitor.teko.vn,REJECT
@@ -16736,6 +16729,7 @@ DOMAIN,push.com2us.net,REJECT
 DOMAIN,push.daksham.in,REJECT
 DOMAIN,push.esputnik.com,REJECT
 DOMAIN,push.feng.com,REJECT
+DOMAIN,push.knd.ro,REJECT
 DOMAIN,push.m.youku.com,REJECT
 DOMAIN,push.mobile.kugou.com,REJECT
 DOMAIN,push.neko-san.fr,REJECT
@@ -17397,6 +17391,7 @@ DOMAIN,rt.prnewswire.com,REJECT
 DOMAIN,rt.visilabs.net,REJECT
 DOMAIN,rta.dailymail.co.uk,REJECT
 DOMAIN,rta2.metro.co.uk,REJECT
+DOMAIN,rta2.newzit.com,REJECT
 DOMAIN,rtapi.abbi.io,REJECT
 DOMAIN,rtas.videocc.net,REJECT
 DOMAIN,rtax.criteo.com,REJECT

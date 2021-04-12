@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYxODEwMDUxMQo=
+# Checksum: MTYxODE4Njg4Nwo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210411-0
-# TimeUpdated: 2021-04-11T00:21:51+00:00
+# Version: -20210412-0
+# TimeUpdated: 2021-04-12T00:21:27+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 25990
+# Total: 25985
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,000.0x1f4b0.com
@@ -1007,7 +1007,6 @@ payload:
   - DOMAIN,ad.flipboard.com
   - DOMAIN,ad.floq.jp
   - DOMAIN,ad.flurry.com
-  - DOMAIN,ad.fo.net
   - DOMAIN,ad.foxnetworks.com
   - DOMAIN,ad.freecity.de
   - DOMAIN,ad.funp.com
@@ -1176,7 +1175,6 @@ payload:
   - DOMAIN,ad.reachlocal.com
   - DOMAIN,ad.rednet.cn
   - DOMAIN,ad.referencement.01net.com
-  - DOMAIN,ad.reklam.xyz
   - DOMAIN,ad.reklamport.com
   - DOMAIN,ad.repubblica.it
   - DOMAIN,ad.reunion.com
@@ -1375,7 +1373,6 @@ payload:
   - DOMAIN,adc.nine.com.au
   - DOMAIN,adc.quantrimang.com
   - DOMAIN,adc.tripple.at
-  - DOMAIN,adc.xxxlshop.de
   - DOMAIN,adc3-launch.adcolony.com
   - DOMAIN,adcast.deviantart.com
   - DOMAIN,adcast.fblife.com
@@ -4286,7 +4283,6 @@ payload:
   - DOMAIN,baid1.okooo.com
   - DOMAIN,baidu.dsp.tansuotv.com
   - DOMAIN,baidu.greenxf.cn
-  - DOMAIN,baidu.jz5u.net
   - DOMAIN,baidu.tlssyg.com
   - DOMAIN,baidu1.codejie.net
   - DOMAIN,baidu1.weather.com.cn
@@ -4543,7 +4539,6 @@ payload:
   - DOMAIN,bd4.idgdmgroup.com.cn
   - DOMAIN,bd888.qizuang.com
   - DOMAIN,bda1.ayule.net
-  - DOMAIN,bdad.gaotie.net
   - DOMAIN,bdapi.ads.oppomobile.com
   - DOMAIN,bdasd.chdbook.cn
   - DOMAIN,bdcdncmn-gd.inter.71edge.com
@@ -5793,7 +5788,6 @@ payload:
   - DOMAIN,click.atdmt.com
   - DOMAIN,click.bes.baidu.com
   - DOMAIN,click.bokecc.com
-  - DOMAIN,click.buzzcity.net
   - DOMAIN,click.cartsguru.io
   - DOMAIN,click.cheshi.com
   - DOMAIN,click.com.cn
@@ -11678,7 +11672,6 @@ payload:
   - DOMAIN,js.zhuoyaju.com
   - DOMAIN,js.zjsyawqj.cn
   - DOMAIN,js.zol.com.cn
-  - DOMAIN,js.zyrfanli.com
   - DOMAIN,js1.2abc8.com
   - DOMAIN,js1.bloggerads.net
   - DOMAIN,js1.nend.net
@@ -12902,7 +12895,6 @@ payload:
   - DOMAIN,m.vpadn.com
   - DOMAIN,m.vpon.com
   - DOMAIN,m.wenzhougy.cn
-  - DOMAIN,m.wervp.com
   - DOMAIN,m.wh723.cn
   - DOMAIN,m.wikigifth.com
   - DOMAIN,m.wonwg.com
@@ -14541,6 +14533,7 @@ payload:
   - DOMAIN,monitor-targeting-failures.sqrt-5041.de
   - DOMAIN,monitor-uu.play.aiseet.atianqi.com
   - DOMAIN,monitor.adcaffe.com
+  - DOMAIN,monitor.channel4.com
   - DOMAIN,monitor.ebay.com
   - DOMAIN,monitor.ssp.admobile.top
   - DOMAIN,monitor.teko.vn
@@ -16737,6 +16730,7 @@ payload:
   - DOMAIN,push.daksham.in
   - DOMAIN,push.esputnik.com
   - DOMAIN,push.feng.com
+  - DOMAIN,push.knd.ro
   - DOMAIN,push.m.youku.com
   - DOMAIN,push.mobile.kugou.com
   - DOMAIN,push.neko-san.fr
@@ -17398,6 +17392,7 @@ payload:
   - DOMAIN,rt.visilabs.net
   - DOMAIN,rta.dailymail.co.uk
   - DOMAIN,rta2.metro.co.uk
+  - DOMAIN,rta2.newzit.com
   - DOMAIN,rtapi.abbi.io
   - DOMAIN,rtas.videocc.net
   - DOMAIN,rtax.criteo.com
