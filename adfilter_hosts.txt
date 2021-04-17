@@ -1,11 +1,11 @@
-# Checksum: MTYxODUzMjI4Ngo=
+# Checksum: MTYxODYxODc0MAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210416-0
-# TimeUpdated: 2021-04-16T00:18:06+00:00
+# Version: -20210417-0
+# TimeUpdated: 2021-04-17T00:19:00+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 27687
+# Total: 27685
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1634,8 +1634,6 @@ ff02::3 ip6-allhosts
 :: abc.zvqbbj.cn
 0.0.0.0 abcdcfasda.gushiwen.cn
 :: abcdcfasda.gushiwen.cn
-0.0.0.0 abcj.dooccn.com
-:: abcj.dooccn.com
 0.0.0.0 abclegal.actonservice.com
 :: abclegal.actonservice.com
 0.0.0.0 abcotv.hb-api.omtrdc.net
@@ -1832,6 +1830,8 @@ ff02::3 ip6-allhosts
 :: activity.tuigorilla.com
 0.0.0.0 activity.tuipear.com
 :: activity.tuipear.com
+0.0.0.0 activity.yuyiya.com
+:: activity.yuyiya.com
 0.0.0.0 actlog.dftoutiao.com
 :: actlog.dftoutiao.com
 0.0.0.0 acton.marcusevans-events.com
@@ -2494,8 +2494,6 @@ ff02::3 ip6-allhosts
 :: ad.seeyouyima.com
 0.0.0.0 ad.sensismediasmart.com.au
 :: ad.sensismediasmart.com.au
-0.0.0.0 ad.seznam.cz
-:: ad.seznam.cz
 0.0.0.0 ad.simflight.com
 :: ad.simflight.com
 0.0.0.0 ad.simgames.net
@@ -5868,8 +5866,6 @@ ff02::3 ip6-allhosts
 :: adx.relaksit.ru
 0.0.0.0 adx.rrt365.com
 :: adx.rrt365.com
-0.0.0.0 adx.starnewsonline.com
-:: adx.starnewsonline.com
 0.0.0.0 adx.xemvtv.net
 :: adx.xemvtv.net
 0.0.0.0 adx.xiaodutv.com
@@ -7116,8 +7112,6 @@ ff02::3 ip6-allhosts
 :: analytics.verizonwireless.com
 0.0.0.0 analytics.viblo.asia
 :: analytics.viblo.asia
-0.0.0.0 analytics.video.meredithcorp.io
-:: analytics.video.meredithcorp.io
 0.0.0.0 analytics.videocloud.top
 :: analytics.videocloud.top
 0.0.0.0 analytics.vietnamfinance.vn
@@ -8384,6 +8378,8 @@ ff02::3 ip6-allhosts
 :: atlas1.krone.at
 0.0.0.0 atm.yoyi.com.cn
 :: atm.yoyi.com.cn
+0.0.0.0 atom-log.3.cn
+:: atom-log.3.cn
 0.0.0.0 atrace.chelaile.net.cn
 :: atrace.chelaile.net.cn
 0.0.0.0 atrack.allposters.com
@@ -10666,10 +10662,10 @@ ff02::3 ip6-allhosts
 :: c.pt.msn.com
 0.0.0.0 c.pub.network
 :: c.pub.network
+0.0.0.0 c.qhruisen.cn
+:: c.qhruisen.cn
 0.0.0.0 c.reset.ns.emailvision.net.daraz.com
 :: c.reset.ns.emailvision.net.daraz.com
-0.0.0.0 c.rexuebi.com
-:: c.rexuebi.com
 0.0.0.0 c.ru.msn.com
 :: c.ru.msn.com
 0.0.0.0 c.saastt.com
@@ -10760,6 +10756,8 @@ ff02::3 ip6-allhosts
 :: c.xiaobaipan.com
 0.0.0.0 c.xjsytoy.com
 :: c.xjsytoy.com
+0.0.0.0 c.xlhwzx.cn
+:: c.xlhwzx.cn
 0.0.0.0 c.yanyanbiji.com
 :: c.yanyanbiji.com
 0.0.0.0 c.yes.youku.com
@@ -15312,6 +15310,8 @@ ff02::3 ip6-allhosts
 :: d3ax6xygyb5hn9.cloudfront.net
 0.0.0.0 d3b2hhehkqd158.cloudfront.net
 :: d3b2hhehkqd158.cloudfront.net
+0.0.0.0 d3beefy8kd1pr7.cloudfront.net
+:: d3beefy8kd1pr7.cloudfront.net
 0.0.0.0 d3c3cq33003psk.cloudfront.net
 :: d3c3cq33003psk.cloudfront.net
 0.0.0.0 d3c3uihon9kmp.cloudfront.net
@@ -19560,6 +19560,8 @@ ff02::3 ip6-allhosts
 :: filelib-ht-1.net.daraz.com
 0.0.0.0 files.adform.net
 :: files.adform.net
+0.0.0.0 files.pbgiris.com
+:: files.pbgiris.com
 0.0.0.0 files2.sogou.com
 :: files2.sogou.com
 0.0.0.0 film.dofkfhv.cn
@@ -24970,8 +24972,6 @@ ff02::3 ip6-allhosts
 :: kiks.auto.ru
 0.0.0.0 kil.longkoupeanut.cn
 :: kil.longkoupeanut.cn
-0.0.0.0 kingpolo.com.cn
-:: kingpolo.com.cn
 0.0.0.0 kinoprogramm.bild.de
 :: kinoprogramm.bild.de
 0.0.0.0 kio.quanliyouxi.cn
@@ -25800,8 +25800,6 @@ ff02::3 ip6-allhosts
 :: lknqfn.furla.com
 0.0.0.0 ll.a.hulu.com
 :: ll.a.hulu.com
-0.0.0.0 ll.songlaoban.cn
-:: ll.songlaoban.cn
 0.0.0.0 llsp.gfd80.com
 :: llsp.gfd80.com
 0.0.0.0 lm.35.com
@@ -26076,8 +26074,6 @@ ff02::3 ip6-allhosts
 :: log.nxjcwh.com
 0.0.0.0 log.olark.com
 :: log.olark.com
-0.0.0.0 log.optimizely.com
-:: log.optimizely.com
 0.0.0.0 log.orchidscape.net
 :: log.orchidscape.net
 0.0.0.0 log.oto.com.vn
@@ -26920,8 +26916,6 @@ ff02::3 ip6-allhosts
 :: m.hx623.cn
 0.0.0.0 m.hy10010.com.cn
 :: m.hy10010.com.cn
-0.0.0.0 m.i05h.cn
-:: m.i05h.cn
 0.0.0.0 m.icyrd.com
 :: m.icyrd.com
 0.0.0.0 m.ihais.com
@@ -26936,8 +26930,6 @@ ff02::3 ip6-allhosts
 :: m.jcaik.com
 0.0.0.0 m.jcboloni.cn
 :: m.jcboloni.cn
-0.0.0.0 m.jieyixiu.com
-:: m.jieyixiu.com
 0.0.0.0 m.jinchaoyu.com
 :: m.jinchaoyu.com
 0.0.0.0 m.jinhuizhibo.com
@@ -28218,8 +28210,6 @@ ff02::3 ip6-allhosts
 :: marketing.paysafe.com
 0.0.0.0 marketing.peoplesafe.co.nz
 :: marketing.peoplesafe.co.nz
-0.0.0.0 marketing.petfirsthealthcare.com
-:: marketing.petfirsthealthcare.com
 0.0.0.0 marketing.petsit.com
 :: marketing.petsit.com
 0.0.0.0 marketing.pinkerton.com
@@ -34840,6 +34830,8 @@ ff02::3 ip6-allhosts
 :: pod.manplay.com
 0.0.0.0 pod.xpress.com
 :: pod.xpress.com
+0.0.0.0 poh.biqumo.com
+:: poh.biqumo.com
 0.0.0.0 pol-waw-c1-s1.inf.nimiq.network
 :: pol-waw-c1-s1.inf.nimiq.network
 0.0.0.0 pol-waw-c1-s2.inf.nimiq.network
@@ -34958,6 +34950,8 @@ ff02::3 ip6-allhosts
 :: postpixel.vindicosuite.com
 0.0.0.0 postuler.bpost.be
 :: postuler.bpost.be
+0.0.0.0 pot.biqumo.com
+:: pot.biqumo.com
 0.0.0.0 potatoes.dinomatic.com
 :: potatoes.dinomatic.com
 0.0.0.0 potd.onlytease.com
@@ -35964,8 +35958,6 @@ ff02::3 ip6-allhosts
 :: qiji1.jdwx.info
 0.0.0.0 qitdsl.ralf.ru
 :: qitdsl.ralf.ru
-0.0.0.0 qiye11.ejunshi.net
-:: qiye11.ejunshi.net
 0.0.0.0 qiyeb.iaskbus.com
 :: qiyeb.iaskbus.com
 0.0.0.0 qiyegongqiu1.qiyegongqiu.com
@@ -44774,6 +44766,8 @@ ff02::3 ip6-allhosts
 :: stat3.stat.v-56.com
 0.0.0.0 statapp.iqilu.com
 :: statapp.iqilu.com
+0.0.0.0 statcollector.sidearmsports.com
+:: statcollector.sidearmsports.com
 0.0.0.0 statdb.pressflex.com
 :: statdb.pressflex.com
 0.0.0.0 state.sml2.ru
@@ -47488,8 +47482,6 @@ ff02::3 ip6-allhosts
 :: tb.code.twyxi.com
 0.0.0.0 tb.mybb.ru
 :: tb.mybb.ru
-0.0.0.0 tb104x.corp.youdao.com
-:: tb104x.corp.youdao.com
 0.0.0.0 tbe.tom.ru
 :: tbe.tom.ru
 0.0.0.0 tben.nnchangyi.com
@@ -47634,6 +47626,8 @@ ff02::3 ip6-allhosts
 :: teaser.meta.ua
 0.0.0.0 teasers.ucoz.ru
 :: teasers.ucoz.ru
+0.0.0.0 tech.douximo.cn
+:: tech.douximo.cn
 0.0.0.0 tech.jiukang.org
 :: tech.jiukang.org
 0.0.0.0 tech.qgdvyvd.cn
@@ -48704,8 +48698,6 @@ ff02::3 ip6-allhosts
 :: tr.news.alinea.com
 0.0.0.0 tr.news.allopneus.com
 :: tr.news.allopneus.com
-0.0.0.0 tr.news.cad-magazine.com
-:: tr.news.cad-magazine.com
 0.0.0.0 tr.news.capfun.com
 :: tr.news.capfun.com
 0.0.0.0 tr.news.casino.fr
@@ -51582,6 +51574,8 @@ ff02::3 ip6-allhosts
 :: v.oui.sncf
 0.0.0.0 v.pdfmxsh.cn
 :: v.pdfmxsh.cn
+0.0.0.0 v.qhruisen.cn
+:: v.qhruisen.cn
 0.0.0.0 v.ql01t4.com
 :: v.ql01t4.com
 0.0.0.0 v.r-ht-2.net.daraz.com
@@ -51612,6 +51606,8 @@ ff02::3 ip6-allhosts
 :: v.xinshide.cn
 0.0.0.0 v.xjsytoy.com
 :: v.xjsytoy.com
+0.0.0.0 v.xlhwzx.cn
+:: v.xlhwzx.cn
 0.0.0.0 v.yanyanbiji.com
 :: v.yanyanbiji.com
 0.0.0.0 v.yunnanpulasi.com
@@ -52132,8 +52128,6 @@ ff02::3 ip6-allhosts
 :: vjoz.lu.sogou.com
 0.0.0.0 vkbvny.ddanzi.com
 :: vkbvny.ddanzi.com
-0.0.0.0 vkbvny.mediaus.co.kr
-:: vkbvny.mediaus.co.kr
 0.0.0.0 vkcdnservice.appspot.com
 :: vkcdnservice.appspot.com
 0.0.0.0 vkgpor.varusteleka.fi
@@ -54968,6 +54962,8 @@ ff02::3 ip6-allhosts
 :: yun.tuia.cn
 0.0.0.0 yun.tuisnake.com
 :: yun.tuisnake.com
+0.0.0.0 yun.yuyiya.com
+:: yun.yuyiya.com
 0.0.0.0 yvcjyi.beymen.com
 :: yvcjyi.beymen.com
 0.0.0.0 yvdaeg.on-running.com
