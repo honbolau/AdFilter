@@ -1,11 +1,11 @@
-# Checksum: MTYxODYxODc0MAo=
+# Checksum: MTYxODcwNTE4NQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: -20210417-0
-# TimeUpdated: 2021-04-17T00:19:00+00:00
+# Version: -20210418-0
+# TimeUpdated: 2021-04-18T00:19:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 27685
+# Total: 27674
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,000.0x1f4b0.com,REJECT
@@ -1367,7 +1367,6 @@ DOMAIN,ad2.yam.com,REJECT
 DOMAIN,ad2.yangjinyou.com,REJECT
 DOMAIN,ad2.zophar.net,REJECT
 DOMAIN,ad2017.meo4.info,REJECT
-DOMAIN,ad3.bb.ru,REJECT
 DOMAIN,ad3.iinfo.cz,REJECT
 DOMAIN,ad3.pamedia.com.au,REJECT
 DOMAIN,ad3.sina.com.cn,REJECT
@@ -4656,7 +4655,6 @@ DOMAIN,bd1.52che.com,REJECT
 DOMAIN,bd1.99danji.com,REJECT
 DOMAIN,bd1.click.com.cn,REJECT
 DOMAIN,bd1.dopa.com,REJECT
-DOMAIN,bd1.flfgw.cn,REJECT
 DOMAIN,bd1.guancha.cn,REJECT
 DOMAIN,bd1.idgdmg.com.cn,REJECT
 DOMAIN,bd1.idgdmgroup.com.cn,REJECT
@@ -7939,6 +7937,7 @@ DOMAIN,datacollector-drru.dt.hicloud.com,REJECT
 DOMAIN,datadog-service.mvfglobal.com,REJECT
 DOMAIN,dataf.ads.oppomobile.com,REJECT
 DOMAIN,dataflow.biliapi.com,REJECT
+DOMAIN,datagroup-reporting.shopeemobile.com,REJECT
 DOMAIN,datalayer.p7s1.io,REJECT
 DOMAIN,datamaster.com.cn,REJECT
 DOMAIN,datar-es-1.net.daraz.com,REJECT
@@ -9949,6 +9948,7 @@ DOMAIN,freya.jenkins.net.daraz.com,REJECT
 DOMAIN,freya.mail.net.daraz.com,REJECT
 DOMAIN,freya.origin.net.daraz.com,REJECT
 DOMAIN,freya.train.net.daraz.com,REJECT
+DOMAIN,froglytics.eventfrog.ch,REJECT
 DOMAIN,froling.bee.pl,REJECT
 DOMAIN,front.optimonk.com,REJECT
 DOMAIN,frontier.musical.ly,REJECT
@@ -12389,7 +12389,6 @@ DOMAIN,k.13hangpifa.com,REJECT
 DOMAIN,k.85wa.cn,REJECT
 DOMAIN,k.97wanle.com,REJECT
 DOMAIN,k.ailefen.com,REJECT
-DOMAIN,k.cnsayo.com,REJECT
 DOMAIN,k.cocooncenter.co.uk,REJECT
 DOMAIN,k.cocooncenter.com,REJECT
 DOMAIN,k.cocooncenter.de,REJECT
@@ -13425,7 +13424,6 @@ DOMAIN,m.feirs.com,REJECT
 DOMAIN,m.fenrs.com,REJECT
 DOMAIN,m.fhxiaoshuo.com,REJECT
 DOMAIN,m.fouas.com,REJECT
-DOMAIN,m.frjxdv.cn,REJECT
 DOMAIN,m.g.pptv.com,REJECT
 DOMAIN,m.game.weibo.cn,REJECT
 DOMAIN,m.gcaog.com,REJECT
@@ -15146,7 +15144,6 @@ DOMAIN,milk.yesky.com.cn,REJECT
 DOMAIN,mimakiusa.actonservice.com,REJECT
 DOMAIN,mimg.0yq00i.cn,REJECT
 DOMAIN,mimg.126.net,REJECT
-DOMAIN,mimg.hjmoiye.cn,REJECT
 DOMAIN,mine.gay-hotvideo.net,REJECT
 DOMAIN,mine.nahnoji.cz,REJECT
 DOMAIN,mine.terorie.com,REJECT
@@ -16905,7 +16902,6 @@ DOMAIN,pc4.sokken.nl,REJECT
 DOMAIN,pc4.zwembroeken.nl,REJECT
 DOMAIN,pcash.globalmailer5.com,REJECT
 DOMAIN,pcash.imlive.com,REJECT
-DOMAIN,pcauto.irs01.com,REJECT
 DOMAIN,pcd.autohome.com.cn,REJECT
 DOMAIN,pcdstm.petbarn.com.au,REJECT
 DOMAIN,pcgamer-gb.pcgamer.com,REJECT
@@ -18314,7 +18310,6 @@ DOMAIN,repokeele-nnw-leis-mc-leis.net.daraz.com,REJECT
 DOMAIN,repopertner.net.jumia.com,REJECT
 DOMAIN,report.adview.cn,REJECT
 DOMAIN,report.appmetrica.yandex.net,REJECT
-DOMAIN,report.huatuo.qq.com,REJECT
 DOMAIN,report.meituan.com,REJECT
 DOMAIN,report.mitsubishicars.com,REJECT
 DOMAIN,report.qcloud.com,REJECT
@@ -21918,7 +21913,6 @@ DOMAIN,ssh.iwwacgx.cn,REJECT
 DOMAIN,ssh.lifu11.com,REJECT
 DOMAIN,ssh.njcyfpv.cn,REJECT
 DOMAIN,ssh.xnmcmnt.cn,REJECT
-DOMAIN,ssh.yezijizhang.com,REJECT
 DOMAIN,ssite.johnlewis.com,REJECT
 DOMAIN,ssite.johnlewisfinance.com,REJECT
 DOMAIN,ssite.waitrose.com,REJECT
@@ -21932,8 +21926,6 @@ DOMAIN,ssl-r-ht-2.net.daraz.com,REJECT
 DOMAIN,ssl-youtube.2cnt.net,REJECT
 DOMAIN,ssl.aafp.org,REJECT
 DOMAIN,ssl.affiliate.logitravel.com,REJECT
-DOMAIN,ssl.bbba8.com,REJECT
-DOMAIN,ssl.bbbr8.com,REJECT
 DOMAIN,ssl.o.auspost.com.au,REJECT
 DOMAIN,ssl.o.emedicinehealth.com,REJECT
 DOMAIN,ssl.o.journalofhospitalmedicine.com,REJECT
@@ -24599,6 +24591,7 @@ DOMAIN,track.qoof.com,REJECT
 DOMAIN,track.ra.icast.cn,REJECT
 DOMAIN,track.readdsp.com,REJECT
 DOMAIN,track.recreativ.ru,REJECT
+DOMAIN,track.rundschau-online.de,REJECT
 DOMAIN,track.saygames.io,REJECT
 DOMAIN,track.searchignite.com,REJECT
 DOMAIN,track.searchiq.co,REJECT
@@ -25465,7 +25458,6 @@ DOMAIN,ubvsjh.pointtown.com,REJECT
 DOMAIN,ubxvdx.accuweather.com,REJECT
 DOMAIN,uc.qq.uuaoz.com,REJECT
 DOMAIN,uc.ucweb.com,REJECT
-DOMAIN,uc.whkwpzz.cn,REJECT
 DOMAIN,uc.xddi.ru,REJECT
 DOMAIN,uc.xiansuper.com,REJECT
 DOMAIN,uc.zhuici.com,REJECT
@@ -25724,7 +25716,6 @@ DOMAIN,uu1.3gu.com,REJECT
 DOMAIN,uudbvq.skuola.net,REJECT
 DOMAIN,uue2.destinia.ir,REJECT
 DOMAIN,uuidapi.yunos.com,REJECT
-DOMAIN,uun.1uandun.com,REJECT
 DOMAIN,uusee.adsame.com,REJECT
 DOMAIN,uuu.pctowap.com,REJECT
 DOMAIN,uv.terra.com.br,REJECT
@@ -25764,7 +25755,6 @@ DOMAIN,v.dengbaozx.cn,REJECT
 DOMAIN,v.dfseafood.com,REJECT
 DOMAIN,v.dlski.space,REJECT
 DOMAIN,v.domob.cn,REJECT
-DOMAIN,v.e7002.com,REJECT
 DOMAIN,v.fedsdq.com,REJECT
 DOMAIN,v.fwmrm.net,REJECT
 DOMAIN,v.gdt.qq.com,REJECT
@@ -26096,6 +26086,7 @@ DOMAIN,vp.html5.qq.com,REJECT
 DOMAIN,vp1.zkshfbdg.info,REJECT
 DOMAIN,vpf4.euskaltelofertas.com,REJECT
 DOMAIN,vphsiv.gsshop.com,REJECT
+DOMAIN,vplayer.newseveryday.com,REJECT
 DOMAIN,vpn-w-htgb-a.net.daraz.com,REJECT
 DOMAIN,vpn.szdatayj.com,REJECT
 DOMAIN,vpn.tuodupingguomiao.com,REJECT
@@ -27171,7 +27162,6 @@ DOMAIN,xfobuc.serenaandlily.com,REJECT
 DOMAIN,xg.depnegj.cn,REJECT
 DOMAIN,xg.g52bl.cn,REJECT
 DOMAIN,xg.t415n.cn,REJECT
-DOMAIN,xg.tjwmtrw.cn,REJECT
 DOMAIN,xg.whsbpw.cn,REJECT
 DOMAIN,xgtxdf.saihok.jp,REJECT
 DOMAIN,xhrplq.rolf-probeg.ru,REJECT
@@ -27474,7 +27464,6 @@ DOMAIN,yujmyt.theiconic.co.nz,REJECT
 DOMAIN,yule.fulevmy.com,REJECT
 DOMAIN,yule.sohu.com,REJECT
 DOMAIN,yumcs.xiaohuau.xyz,REJECT
-DOMAIN,yun.lvehaisen.com,REJECT
 DOMAIN,yun.rili.cn,REJECT
 DOMAIN,yun.sifuhe.cn,REJECT
 DOMAIN,yun.tuia.cn,REJECT
