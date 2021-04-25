@@ -1,11 +1,11 @@
-# Checksum: MTYxOTIyMzYxNwo=
+# Checksum: MTYxOTMxMDAzNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.0.5-20210424-0
-# TimeUpdated: 2021-04-24T00:20:17+00:00
+# Version: 1.0.5-20210425-0
+# TimeUpdated: 2021-04-25T00:20:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 29131
+# Total: 29133
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -250,6 +250,8 @@ ff02::3 ip6-allhosts
 :: 1480876790.rsc.cdn77.org
 0.0.0.0 15.taboola.com
 :: 15.taboola.com
+0.0.0.0 150601.fc2rs.com
+:: 150601.fc2rs.com
 0.0.0.0 1571627030.rsc.cdn77.org
 :: 1571627030.rsc.cdn77.org
 0.0.0.0 168.it168.com
@@ -5704,8 +5706,6 @@ ff02::3 ip6-allhosts
 :: adspace.zaman.com.tr
 0.0.0.0 adspaces.ero-advertising.com
 :: adspaces.ero-advertising.com
-0.0.0.0 adsr3pg.com.br
-:: adsr3pg.com.br
 0.0.0.0 adsrv.deviantart.com
 :: adsrv.deviantart.com
 0.0.0.0 adsrv.iol.co.za
@@ -7730,8 +7730,6 @@ ff02::3 ip6-allhosts
 :: api.dsp.yhd.com
 0.0.0.0 api.duapp.n.shifen.com
 :: api.duapp.n.shifen.com
-0.0.0.0 api.e-cg.cn
-:: api.e-cg.cn
 0.0.0.0 api.e.kuaishou.com
 :: api.e.kuaishou.com
 0.0.0.0 api.e.mi.com
@@ -10010,8 +10008,6 @@ ff02::3 ip6-allhosts
 :: bison.weitweit.at
 0.0.0.0 bit.ehow.com
 :: bit.ehow.com
-0.0.0.0 bitauto.irs01.com
-:: bitauto.irs01.com
 0.0.0.0 bitbucket-car21.net.daraz.com
 :: bitbucket-car21.net.daraz.com
 0.0.0.0 bitbucket-nfreya.net.daraz.com
@@ -11844,6 +11840,8 @@ ff02::3 ip6-allhosts
 :: cdn.wuyou.ca
 0.0.0.0 cdn.xianliao.me
 :: cdn.xianliao.me
+0.0.0.0 cdn.ycxjtd.com
+:: cdn.ycxjtd.com
 0.0.0.0 cdn.yottos.com
 :: cdn.yottos.com
 0.0.0.0 cdn.zampda.net
@@ -16364,6 +16362,8 @@ ff02::3 ip6-allhosts
 :: db5.vortex.data.microsoft.com.akadns.net
 0.0.0.0 dbam.dashbida.com
 :: dbam.dashbida.com
+0.0.0.0 dbc.pkkjxs.cn
+:: dbc.pkkjxs.cn
 0.0.0.0 dbcdqp72lzmvj.cloudfront.net
 :: dbcdqp72lzmvj.cloudfront.net
 0.0.0.0 dbex-tracker-v2.driveback.ru
@@ -17844,6 +17844,8 @@ ff02::3 ip6-allhosts
 :: du4rq1xqh3i1k.cloudfront.net
 0.0.0.0 du8783wkf05yr.cloudfront.net
 :: du8783wkf05yr.cloudfront.net
+0.0.0.0 dualstack-logs.amap.com
+:: dualstack-logs.amap.com
 0.0.0.0 duclick.baidu.com
 :: duclick.baidu.com
 0.0.0.0 dudm.qingsj.cn
@@ -18698,8 +18700,6 @@ ff02::3 ip6-allhosts
 :: elink.nhanlucnganhluat.vn
 0.0.0.0 eljlai.japana.vn
 :: eljlai.japana.vn
-0.0.0.0 elk.jonsully.net
-:: elk.jonsully.net
 0.0.0.0 elogic-learning.actonservice.com
 :: elogic-learning.actonservice.com
 0.0.0.0 elogs.vnexpress.net
@@ -23982,6 +23982,8 @@ ff02::3 ip6-allhosts
 :: hbo5.concours-pass.com
 0.0.0.0 hbolag.hb-api.omtrdc.net
 :: hbolag.hb-api.omtrdc.net
+0.0.0.0 hbs.sxdanke.cn
+:: hbs.sxdanke.cn
 0.0.0.0 hc-analytics.idp.clogin.att.com
 :: hc-analytics.idp.clogin.att.com
 0.0.0.0 hc.uralweb.ru
@@ -24458,10 +24460,14 @@ ff02::3 ip6-allhosts
 :: hrum.hotelsapi.io
 0.0.0.0 hrwgsq.loesdau.de
 :: hrwgsq.loesdau.de
+0.0.0.0 hs.avbdf.com
+:: hs.avbdf.com
 0.0.0.0 hs.healthstream.com
 :: hs.healthstream.com
 0.0.0.0 hs.qhupdate.com
 :: hs.qhupdate.com
+0.0.0.0 hs.sxyunyou.cn
+:: hs.sxyunyou.cn
 0.0.0.0 hsasqc.randewoo.ru
 :: hsasqc.randewoo.ru
 0.0.0.0 hshv.7kzw.com
@@ -24810,8 +24816,6 @@ ff02::3 ip6-allhosts
 :: i4.fuimg.com
 0.0.0.0 i5.akjunshi.com
 :: i5.akjunshi.com
-0.0.0.0 i8.i8ggwm.com
-:: i8.i8ggwm.com
 0.0.0.0 ia.5.p2l.info
 :: ia.5.p2l.info
 0.0.0.0 ia.51.la
@@ -28678,8 +28682,6 @@ ff02::3 ip6-allhosts
 :: log.f-tra.com
 0.0.0.0 log.flight.qunar.com
 :: log.flight.qunar.com
-0.0.0.0 log.g-enews.com
-:: log.g-enews.com
 0.0.0.0 log.giaoduc.net.vn
 :: log.giaoduc.net.vn
 0.0.0.0 log.go.com
@@ -36948,8 +36950,6 @@ ff02::3 ip6-allhosts
 :: photo.dhford.cn
 0.0.0.0 photo.domainrank.cn
 :: photo.domainrank.cn
-0.0.0.0 photo.dstrchina.cn
-:: photo.dstrchina.cn
 0.0.0.0 photo.epowuxiao.cn
 :: photo.epowuxiao.cn
 0.0.0.0 photo.headwell.cn
@@ -38906,8 +38906,6 @@ ff02::3 ip6-allhosts
 :: quangcao247.com.vn
 0.0.0.0 quanjing.cnzz.com
 :: quanjing.cnzz.com
-0.0.0.0 quanrunze.com.cn
-:: quanrunze.com.cn
 0.0.0.0 qubitanalytics.appspot.com
 :: qubitanalytics.appspot.com
 0.0.0.0 questions.theanswerco.com
@@ -39726,8 +39724,6 @@ ff02::3 ip6-allhosts
 :: rfgana.owletcare.com
 0.0.0.0 rflrlt.divano.ru
 :: rflrlt.divano.ru
-0.0.0.0 rfv.ws7j.com
-:: rfv.ws7j.com
 0.0.0.0 rg.yottos.com
 :: rg.yottos.com
 0.0.0.0 rgmseo.thejewellershop.com
@@ -40360,8 +40356,6 @@ ff02::3 ip6-allhosts
 :: s.rosettastone.com
 0.0.0.0 s.rosettastone.fr
 :: s.rosettastone.fr
-0.0.0.0 s.savjee.be
-:: s.savjee.be
 0.0.0.0 s.sdx.ru
 :: s.sdx.ru
 0.0.0.0 s.share.baidu.com
@@ -41590,6 +41584,8 @@ ff02::3 ip6-allhosts
 :: sdac.lenovomm.com
 0.0.0.0 sdb.amazonaws.com
 :: sdb.amazonaws.com
+0.0.0.0 sdc.10086.cn
+:: sdc.10086.cn
 0.0.0.0 sdc.allianz.de
 :: sdc.allianz.de
 0.0.0.0 sdc.aware.com.au
@@ -45830,6 +45826,8 @@ ff02::3 ip6-allhosts
 :: soft.zhidian3g.cn
 0.0.0.0 softclick.com.br
 :: softclick.com.br
+0.0.0.0 softdown.coumie.top
+:: softdown.coumie.top
 0.0.0.0 software-wenc.co.cc
 :: software-wenc.co.cc
 0.0.0.0 software.seek.intel.com
@@ -53960,6 +53958,8 @@ ff02::3 ip6-allhosts
 :: udash.umengcloud.com
 0.0.0.0 udata.mixmarket.biz
 :: udata.mixmarket.biz
+0.0.0.0 udd1i5.zhihu.com
+:: udd1i5.zhihu.com
 0.0.0.0 udgrbq.malwarebytes.com
 :: udgrbq.malwarebytes.com
 0.0.0.0 udm.scorecardresearch.com
@@ -56116,6 +56116,8 @@ ff02::3 ip6-allhosts
 :: win.staticstuff.net
 0.0.0.0 window.nixnet.cz
 :: window.nixnet.cz
+0.0.0.0 windows.pkkjxs.cn
+:: windows.pkkjxs.cn
 0.0.0.0 winter.admins.net.daraz.com
 :: winter.admins.net.daraz.com
 0.0.0.0 winter.chd.net.daraz.com
@@ -57306,6 +57308,8 @@ ff02::3 ip6-allhosts
 :: xiaoshuo.kp53.cn
 0.0.0.0 xiazai.cdren.com
 :: xiazai.cdren.com
+0.0.0.0 xiazai.uzhuangji.cn
+:: xiazai.uzhuangji.cn
 0.0.0.0 xieyanmin.com.cn
 :: xieyanmin.com.cn
 0.0.0.0 xinhuanet.adsame.com

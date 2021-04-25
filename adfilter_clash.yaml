@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYxOTIyMzYxNwo=
+# Checksum: MTYxOTMxMDAzNgo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.0.5-20210424-0
-# TimeUpdated: 2021-04-24T00:20:17+00:00
+# Version: 1.0.5-20210425-0
+# TimeUpdated: 2021-04-25T00:20:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 29131
+# Total: 29133
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -124,6 +124,7 @@ payload:
   - DOMAIN,144.dragonparking.com
   - DOMAIN,1480876790.rsc.cdn77.org
   - DOMAIN,15.taboola.com
+  - DOMAIN,150601.fc2rs.com
   - DOMAIN,1571627030.rsc.cdn77.org
   - DOMAIN,168.it168.com
   - DOMAIN,1686607364.rsc.cdn77.org
@@ -2851,7 +2852,6 @@ payload:
   - DOMAIN,adsp.haberturk.com
   - DOMAIN,adspace.zaman.com.tr
   - DOMAIN,adspaces.ero-advertising.com
-  - DOMAIN,adsr3pg.com.br
   - DOMAIN,adsrv.deviantart.com
   - DOMAIN,adsrv.iol.co.za
   - DOMAIN,adsrv.lua.pl
@@ -3864,7 +3864,6 @@ payload:
   - DOMAIN,api.doumob.com
   - DOMAIN,api.dsp.yhd.com
   - DOMAIN,api.duapp.n.shifen.com
-  - DOMAIN,api.e-cg.cn
   - DOMAIN,api.e.kuaishou.com
   - DOMAIN,api.e.mi.com
   - DOMAIN,api.ettoday.net
@@ -5004,7 +5003,6 @@ payload:
   - DOMAIN,bismetrics.experian.com
   - DOMAIN,bison.weitweit.at
   - DOMAIN,bit.ehow.com
-  - DOMAIN,bitauto.irs01.com
   - DOMAIN,bitbucket-car21.net.daraz.com
   - DOMAIN,bitbucket-nfreya.net.daraz.com
   - DOMAIN,bitburg.adtech.fr
@@ -5921,6 +5919,7 @@ payload:
   - DOMAIN,cdn.wibiya.com
   - DOMAIN,cdn.wuyou.ca
   - DOMAIN,cdn.xianliao.me
+  - DOMAIN,cdn.ycxjtd.com
   - DOMAIN,cdn.yottos.com
   - DOMAIN,cdn.zampda.net
   - DOMAIN,cdn.zampdsp.com
@@ -8181,6 +8180,7 @@ payload:
   - DOMAIN,db5.settings.data.microsoft.com.akadns.net
   - DOMAIN,db5.vortex.data.microsoft.com.akadns.net
   - DOMAIN,dbam.dashbida.com
+  - DOMAIN,dbc.pkkjxs.cn
   - DOMAIN,dbcdqp72lzmvj.cloudfront.net
   - DOMAIN,dbex-tracker-v2.driveback.ru
   - DOMAIN,dbpbyh.americanas.com.br
@@ -8921,6 +8921,7 @@ payload:
   - DOMAIN,du2uh7rq0r0d3.cloudfront.net
   - DOMAIN,du4rq1xqh3i1k.cloudfront.net
   - DOMAIN,du8783wkf05yr.cloudfront.net
+  - DOMAIN,dualstack-logs.amap.com
   - DOMAIN,duclick.baidu.com
   - DOMAIN,dudm.qingsj.cn
   - DOMAIN,due5a6x777z0x.cloudfront.net
@@ -9348,7 +9349,6 @@ payload:
   - DOMAIN,elgas.actonservice.com
   - DOMAIN,elink.nhanlucnganhluat.vn
   - DOMAIN,eljlai.japana.vn
-  - DOMAIN,elk.jonsully.net
   - DOMAIN,elogic-learning.actonservice.com
   - DOMAIN,elogs.vnexpress.net
   - DOMAIN,eloq.fiducial.fr
@@ -11990,6 +11990,7 @@ payload:
   - DOMAIN,hbid.ams3.cdn.digitaloceanspaces.com
   - DOMAIN,hbo5.concours-pass.com
   - DOMAIN,hbolag.hb-api.omtrdc.net
+  - DOMAIN,hbs.sxdanke.cn
   - DOMAIN,hc-analytics.idp.clogin.att.com
   - DOMAIN,hc.uralweb.ru
   - DOMAIN,hc.wstztt.com
@@ -12228,8 +12229,10 @@ payload:
   - DOMAIN,hrs.actonservice.com
   - DOMAIN,hrum.hotelsapi.io
   - DOMAIN,hrwgsq.loesdau.de
+  - DOMAIN,hs.avbdf.com
   - DOMAIN,hs.healthstream.com
   - DOMAIN,hs.qhupdate.com
+  - DOMAIN,hs.sxyunyou.cn
   - DOMAIN,hsasqc.randewoo.ru
   - DOMAIN,hshv.7kzw.com
   - DOMAIN,hskqhd.groupprice.ru
@@ -12404,7 +12407,6 @@ payload:
   - DOMAIN,i3j3u3u9.ssl.hwcdn.net
   - DOMAIN,i4.fuimg.com
   - DOMAIN,i5.akjunshi.com
-  - DOMAIN,i8.i8ggwm.com
   - DOMAIN,ia.5.p2l.info
   - DOMAIN,ia.51.la
   - DOMAIN,ia.ctags.cn
@@ -14338,7 +14340,6 @@ payload:
   - DOMAIN,log.event.hunantv.com
   - DOMAIN,log.f-tra.com
   - DOMAIN,log.flight.qunar.com
-  - DOMAIN,log.g-enews.com
   - DOMAIN,log.giaoduc.net.vn
   - DOMAIN,log.go.com
   - DOMAIN,log.go2s.co
@@ -18473,7 +18474,6 @@ payload:
   - DOMAIN,photo.ccjxybj.cn
   - DOMAIN,photo.dhford.cn
   - DOMAIN,photo.domainrank.cn
-  - DOMAIN,photo.dstrchina.cn
   - DOMAIN,photo.epowuxiao.cn
   - DOMAIN,photo.headwell.cn
   - DOMAIN,photo.hhmyi.cn
@@ -19452,7 +19452,6 @@ payload:
   - DOMAIN,quangcao.tuoitre.vn
   - DOMAIN,quangcao247.com.vn
   - DOMAIN,quanjing.cnzz.com
-  - DOMAIN,quanrunze.com.cn
   - DOMAIN,qubitanalytics.appspot.com
   - DOMAIN,questions.theanswerco.com
   - DOMAIN,qugedj.paprika-shopping.nl
@@ -19862,7 +19861,6 @@ payload:
   - DOMAIN,rffsds.fsastore.com
   - DOMAIN,rfgana.owletcare.com
   - DOMAIN,rflrlt.divano.ru
-  - DOMAIN,rfv.ws7j.com
   - DOMAIN,rg.yottos.com
   - DOMAIN,rgmseo.thejewellershop.com
   - DOMAIN,rgnutc.topcor.ru
@@ -20179,7 +20177,6 @@ payload:
   - DOMAIN,s.rosettastone.co.uk
   - DOMAIN,s.rosettastone.com
   - DOMAIN,s.rosettastone.fr
-  - DOMAIN,s.savjee.be
   - DOMAIN,s.sdx.ru
   - DOMAIN,s.share.baidu.com
   - DOMAIN,s.sick.com
@@ -20794,6 +20791,7 @@ payload:
   - DOMAIN,sda.tamdiem247.com
   - DOMAIN,sdac.lenovomm.com
   - DOMAIN,sdb.amazonaws.com
+  - DOMAIN,sdc.10086.cn
   - DOMAIN,sdc.allianz.de
   - DOMAIN,sdc.aware.com.au
   - DOMAIN,sdc.rbistats.com
@@ -22914,6 +22912,7 @@ payload:
   - DOMAIN,soft.tbs.imtt.qq.com
   - DOMAIN,soft.zhidian3g.cn
   - DOMAIN,softclick.com.br
+  - DOMAIN,softdown.coumie.top
   - DOMAIN,software-wenc.co.cc
   - DOMAIN,software.seek.intel.com
   - DOMAIN,sogou.front99.com
@@ -26979,6 +26978,7 @@ payload:
   - DOMAIN,uczzd.com.cn
   - DOMAIN,udash.umengcloud.com
   - DOMAIN,udata.mixmarket.biz
+  - DOMAIN,udd1i5.zhihu.com
   - DOMAIN,udgrbq.malwarebytes.com
   - DOMAIN,udm.scorecardresearch.com
   - DOMAIN,udpolimenew.baidu.com
@@ -28057,6 +28057,7 @@ payload:
   - DOMAIN,win.iqm.com
   - DOMAIN,win.staticstuff.net
   - DOMAIN,window.nixnet.cz
+  - DOMAIN,windows.pkkjxs.cn
   - DOMAIN,winter.admins.net.daraz.com
   - DOMAIN,winter.chd.net.daraz.com
   - DOMAIN,winter.firewall.net.daraz.com
@@ -28652,6 +28653,7 @@ payload:
   - DOMAIN,xiaomi.m.cn.miaozhen.com
   - DOMAIN,xiaoshuo.kp53.cn
   - DOMAIN,xiazai.cdren.com
+  - DOMAIN,xiazai.uzhuangji.cn
   - DOMAIN,xieyanmin.com.cn
   - DOMAIN,xinhuanet.adsame.com
   - DOMAIN,xinjscn.oss-cn-hangzhou.aliyuncs.com
