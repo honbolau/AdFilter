@@ -1,11 +1,11 @@
-# Checksum: MTYxOTU2OTE3Mwo=
+# Checksum: MTYxOTY1NTU2NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.0.5-20210428-0
-# TimeUpdated: 2021-04-28T00:19:33+00:00
+# Version: 1.0.5-20210429-0
+# TimeUpdated: 2021-04-29T00:19:25+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 25966
+# Total: 25971
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5228,8 +5228,6 @@ ff02::3 ip6-allhosts
 :: aftonbladetnya.sc.omtrdc.net
 0.0.0.0 ag.qq.com
 :: ag.qq.com
-0.0.0.0 ag1.zuszw.com
-:: ag1.zuszw.com
 0.0.0.0 agd.p.360.cn
 :: agd.p.360.cn
 0.0.0.0 agd2.p.360.cn
@@ -5736,6 +5734,8 @@ ff02::3 ip6-allhosts
 :: analytics.datahc.com
 0.0.0.0 analytics.datasavannah.com
 :: analytics.datasavannah.com
+0.0.0.0 analytics.dev.htmedia.in
+:: analytics.dev.htmedia.in
 0.0.0.0 analytics.dev.springboardvideo.com
 :: analytics.dev.springboardvideo.com
 0.0.0.0 analytics.developer.riotgames.com
@@ -6804,8 +6804,6 @@ ff02::3 ip6-allhosts
 :: api.xiaohuxi.cn
 0.0.0.0 api.xmrpool.net
 :: api.xmrpool.net
-0.0.0.0 api.yidiansurong.com
-:: api.yidiansurong.com
 0.0.0.0 api.youtu.qq.com
 :: api.youtu.qq.com
 0.0.0.0 api.youxiaoad.com
@@ -7934,6 +7932,8 @@ ff02::3 ip6-allhosts
 :: baby.yf898.com
 0.0.0.0 backend-r-ht-1.net.daraz.com
 :: backend-r-ht-1.net.daraz.com
+0.0.0.0 backend.turtlemobile.com.tw
+:: backend.turtlemobile.com.tw
 0.0.0.0 backend.www.net.daraz.com
 :: backend.www.net.daraz.com
 0.0.0.0 backendr-oa-2.net.daraz.com
@@ -8288,6 +8288,8 @@ ff02::3 ip6-allhosts
 :: bat.adforum.com
 0.0.0.0 bate.cum-shows.net
 :: bate.cum-shows.net
+0.0.0.0 batmobile.com.tw
+:: batmobile.com.tw
 0.0.0.0 bats.video.yahoo.com
 :: bats.video.yahoo.com
 0.0.0.0 bavvgo.zingat.com
@@ -9640,8 +9642,6 @@ ff02::3 ip6-allhosts
 :: c.rhapsody.com
 0.0.0.0 c.sayhi.360.cn
 :: c.sayhi.360.cn
-0.0.0.0 c.shantelope.com
-:: c.shantelope.com
 0.0.0.0 c.sibnet.ru
 :: c.sibnet.ru
 0.0.0.0 c.silvinst.com
@@ -13646,6 +13646,8 @@ ff02::3 ip6-allhosts
 :: d28g9g3vb08y70.cloudfront.net
 0.0.0.0 d28k9nkt2spnp.cloudfront.net
 :: d28k9nkt2spnp.cloudfront.net
+0.0.0.0 d28s7kbgrs6h2f.cloudfront.net
+:: d28s7kbgrs6h2f.cloudfront.net
 0.0.0.0 d28wlxclbkz49x.cloudfront.net
 :: d28wlxclbkz49x.cloudfront.net
 0.0.0.0 d29dbajta0the9.cloudfront.net
@@ -15574,6 +15576,12 @@ ff02::3 ip6-allhosts
 :: dns2.freshegg.net.daraz.com
 0.0.0.0 dns2.oadz.com
 :: dns2.oadz.com
+0.0.0.0 dnsseed.bitcoin.dashjr.org
+:: dnsseed.bitcoin.dashjr.org
+0.0.0.0 dnsseed.bluematt.me
+:: dnsseed.bluematt.me
+0.0.0.0 dnsseed.emzy.de
+:: dnsseed.emzy.de
 0.0.0.0 do.lymstsc.com
 :: do.lymstsc.com
 0.0.0.0 do67etikr7pwz.cloudfront.net
@@ -18754,8 +18762,6 @@ ff02::3 ip6-allhosts
 :: g.xywy.com
 0.0.0.0 g.yccdn.com
 :: g.yccdn.com
-0.0.0.0 g.youyou234.com
-:: g.youyou234.com
 0.0.0.0 g1.08160.cn
 :: g1.08160.cn
 0.0.0.0 g1.163.com
@@ -20826,8 +20832,6 @@ ff02::3 ip6-allhosts
 :: idg1.idgarages.com
 0.0.0.0 idgdmgroup.com.cn
 :: idgdmgroup.com.cn
-0.0.0.0 idigger.allyes.com
-:: idigger.allyes.com
 0.0.0.0 idm-su.baidu.com
 :: idm-su.baidu.com
 0.0.0.0 idm.bce.baidu.com
@@ -25144,8 +25148,6 @@ ff02::3 ip6-allhosts
 :: m.guanren9.com
 0.0.0.0 m.gxkyl.com
 :: m.gxkyl.com
-0.0.0.0 m.gxwztv.com
-:: m.gxwztv.com
 0.0.0.0 m.haradeiu.rocks
 :: m.haradeiu.rocks
 0.0.0.0 m.hdboping.com
@@ -26838,6 +26840,8 @@ ff02::3 ip6-allhosts
 :: materiel.baizhan.net
 0.0.0.0 matomo.activate.cz
 :: matomo.activate.cz
+0.0.0.0 matomo.gals24.ru
+:: matomo.gals24.ru
 0.0.0.0 matomo.hdweb.ru
 :: matomo.hdweb.ru
 0.0.0.0 matomo.kmkb.ru
@@ -27122,8 +27126,6 @@ ff02::3 ip6-allhosts
 :: measure.refinery89.com
 0.0.0.0 med-api.admost.com
 :: med-api.admost.com
-0.0.0.0 med.fxfvttu.cn
-:: med.fxfvttu.cn
 0.0.0.0 med.vraylar.com
 :: med.vraylar.com
 0.0.0.0 medal.blog.csdn.net
@@ -31228,8 +31230,6 @@ ff02::3 ip6-allhosts
 :: p.ecwan77.net
 0.0.0.0 p.egou.com
 :: p.egou.com
-0.0.0.0 p.eikuaitao.com
-:: p.eikuaitao.com
 0.0.0.0 p.estream.to
 :: p.estream.to
 0.0.0.0 p.eyebuydirect-cmr.net
@@ -32990,6 +32990,8 @@ ff02::3 ip6-allhosts
 :: production-allseason.net.daraz.com
 0.0.0.0 production-lib-ln-1.net.daraz.com
 :: production-lib-ln-1.net.daraz.com
+0.0.0.0 production-tracking.riviu.co
+:: production-tracking.riviu.co
 0.0.0.0 production.partner-pay.net.daraz.com
 :: production.partner-pay.net.daraz.com
 0.0.0.0 productionr-ht-1.net.daraz.com
@@ -34126,8 +34128,6 @@ ff02::3 ip6-allhosts
 :: reachandrich.antevenio.com
 0.0.0.0 reactioncommerce.actonservice.com
 :: reactioncommerce.actonservice.com
-0.0.0.0 read.huabian.com
-:: read.huabian.com
 0.0.0.0 read.medium.com
 :: read.medium.com
 0.0.0.0 reader.meizu.com
@@ -34166,6 +34166,8 @@ ff02::3 ip6-allhosts
 :: reclame.lequipement.fr
 0.0.0.0 recmd.html5.qq.com
 :: recmd.html5.qq.com
+0.0.0.0 recommend-pc-bto.sakura.ne.jp
+:: recommend-pc-bto.sakura.ne.jp
 0.0.0.0 recommend.union.39.net
 :: recommend.union.39.net
 0.0.0.0 recommendation.24.com
@@ -36998,6 +37000,18 @@ ff02::3 ip6-allhosts
 :: seed-pol-3.inf.nimiq.network
 0.0.0.0 seed-pol-4.inf.nimiq.network
 :: seed-pol-4.inf.nimiq.network
+0.0.0.0 seed.bitcoin.jonasschnelli.ch
+:: seed.bitcoin.jonasschnelli.ch
+0.0.0.0 seed.bitcoin.sipa.be
+:: seed.bitcoin.sipa.be
+0.0.0.0 seed.bitcoin.sprovoost.nl
+:: seed.bitcoin.sprovoost.nl
+0.0.0.0 seed.bitcoin.wiz.biz
+:: seed.bitcoin.wiz.biz
+0.0.0.0 seed.bitcoinstats.com
+:: seed.bitcoinstats.com
+0.0.0.0 seed.btc.petertodd.org
+:: seed.btc.petertodd.org
 0.0.0.0 seed.nimiqpool.com
 :: seed.nimiqpool.com
 0.0.0.0 seedapp-creative.s3.amazonaws.com
@@ -42842,8 +42856,6 @@ ff02::3 ip6-allhosts
 :: stats.guiamais.com.br
 0.0.0.0 stats.handyvertrag.de
 :: stats.handyvertrag.de
-0.0.0.0 stats.happynhealthful.com
-:: stats.happynhealthful.com
 0.0.0.0 stats.harpercollins.com
 :: stats.harpercollins.com
 0.0.0.0 stats.hex.pm
@@ -46410,6 +46422,8 @@ ff02::3 ip6-allhosts
 :: track.pingstart.com
 0.0.0.0 track.pnicnik.live
 :: track.pnicnik.live
+0.0.0.0 track.pnj.com.vn
+:: track.pnj.com.vn
 0.0.0.0 track.pokestats.gg
 :: track.pokestats.gg
 0.0.0.0 track.postkodlotteriet.se
@@ -47510,8 +47524,6 @@ ff02::3 ip6-allhosts
 :: tracy.sadv.dadapro.com
 0.0.0.0 trade.koudaitong.com
 :: trade.koudaitong.com
-0.0.0.0 trade.mtime.com
-:: trade.mtime.com
 0.0.0.0 tradecraft.s.llnwi.net
 :: tradecraft.s.llnwi.net
 0.0.0.0 traffic-keele-nnw-leis-mc-leis.net.daraz.com
@@ -47700,6 +47712,8 @@ ff02::3 ip6-allhosts
 :: trk.en.business.westernunion.ch
 0.0.0.0 trk.en.business.westernunion.it
 :: trk.en.business.westernunion.it
+0.0.0.0 trk.enemy-adult-scared-there.xyz
+:: trk.enemy-adult-scared-there.xyz
 0.0.0.0 trk.fensi.plus
 :: trk.fensi.plus
 0.0.0.0 trk.findmanufacturingbuyers.com
@@ -48792,8 +48806,6 @@ ff02::3 ip6-allhosts
 :: v1.play.log.hunantv.com
 0.0.0.0 v1.res.log.hunantv.com
 :: v1.res.log.hunantv.com
-0.0.0.0 v1.taksh.cn
-:: v1.taksh.cn
 0.0.0.0 v1.ujian.cc
 :: v1.ujian.cc
 0.0.0.0 v12-r0566gbscjw.z.irs01.com
@@ -51074,8 +51086,6 @@ ff02::3 ip6-allhosts
 :: x.weather.com
 0.0.0.0 x.xxyxmdq.cn
 :: x.xxyxmdq.cn
-0.0.0.0 x0.ifengimg.com
-:: x0.ifengimg.com
 0.0.0.0 x01.aidata.io
 :: x01.aidata.io
 0.0.0.0 x0r.urlgalleries.net
