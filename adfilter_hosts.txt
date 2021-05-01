@@ -1,11 +1,11 @@
-# Checksum: MTYxOTc0NDUyNgo=
+# Checksum: MTYxOTgzMTA0NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.0.5-20210430-0
-# TimeUpdated: 2021-04-30T01:02:06+00:00
+# Version: 1.0.5-20210501-0
+# TimeUpdated: 2021-05-01T01:04:05+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 28314
+# Total: 28313
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -340,8 +340,6 @@ ff02::3 ip6-allhosts
 :: 2345api.dftoutiao.com
 0.0.0.0 2345apicode.dftoutiao.com
 :: 2345apicode.dftoutiao.com
-0.0.0.0 24200.h5ixp.com
-:: 24200.h5ixp.com
 0.0.0.0 2468.go2cloud.org
 :: 2468.go2cloud.org
 0.0.0.0 247support.adtech.fr
@@ -522,6 +520,8 @@ ff02::3 ip6-allhosts
 :: 7mnpeh.com1.z0.glb.clouddn.com
 0.0.0.0 7mx.eider.com
 :: 7mx.eider.com
+0.0.0.0 7n0zz.300prize.7113879.com
+:: 7n0zz.300prize.7113879.com
 0.0.0.0 7q1z79gxsi.global.ssl.fastly.net
 :: 7q1z79gxsi.global.ssl.fastly.net
 0.0.0.0 7x7br2h1ujdoi391.in.net
@@ -3110,8 +3110,6 @@ ff02::3 ip6-allhosts
 :: adcontent.saymedia.com
 0.0.0.0 adcore.lenovomm.com
 :: adcore.lenovomm.com
-0.0.0.0 adcount.ohmynews.com
-:: adcount.ohmynews.com
 0.0.0.0 adcount.yoka.com
 :: adcount.yoka.com
 0.0.0.0 adcounter.theglobeandmail.com
@@ -3364,6 +3362,8 @@ ff02::3 ip6-allhosts
 :: adm.beimg.com
 0.0.0.0 adm.cloud.cnfol.com
 :: adm.cloud.cnfol.com
+0.0.0.0 adm.easou.com
+:: adm.easou.com
 0.0.0.0 adm.funshion.com
 :: adm.funshion.com
 0.0.0.0 adm.fwmrm.net
@@ -5936,8 +5936,6 @@ ff02::3 ip6-allhosts
 :: adv.madserving.com
 0.0.0.0 adv.merlin.co.il
 :: adv.merlin.co.il
-0.0.0.0 adv.mezon.ru
-:: adv.mezon.ru
 0.0.0.0 adv.mpvc.it
 :: adv.mpvc.it
 0.0.0.0 adv.mxmcdn.net
@@ -6568,8 +6566,6 @@ ff02::3 ip6-allhosts
 :: allyes.com.cn
 0.0.0.0 allyesbjafa.allyes.com
 :: allyesbjafa.allyes.com
-0.0.0.0 allyesshafa.allyes.com
-:: allyesshafa.allyes.com
 0.0.0.0 alma-cmp.almamedia.io
 :: alma-cmp.almamedia.io
 0.0.0.0 alog.umeng.com
@@ -6606,8 +6602,6 @@ ff02::3 ip6-allhosts
 :: altg.widerplanet.com
 0.0.0.0 alwayscare.starmountlife.com
 :: alwayscare.starmountlife.com
-0.0.0.0 alyssamilano.ca.tt
-:: alyssamilano.ca.tt
 0.0.0.0 alyssamilano.home.sapo.pt
 :: alyssamilano.home.sapo.pt
 0.0.0.0 am-trc-events.taboola.com
@@ -7130,6 +7124,8 @@ ff02::3 ip6-allhosts
 :: analytics.nordea.no
 0.0.0.0 analytics.nordea.se
 :: analytics.nordea.se
+0.0.0.0 analytics.omniscientai.com
+:: analytics.omniscientai.com
 0.0.0.0 analytics.oneplus.cn
 :: analytics.oneplus.cn
 0.0.0.0 analytics.onesearch.id
@@ -20982,6 +20978,8 @@ ff02::3 ip6-allhosts
 :: g.xywy.com
 0.0.0.0 g.yccdn.com
 :: g.yccdn.com
+0.0.0.0 g.youyou234.com
+:: g.youyou234.com
 0.0.0.0 g1.08160.cn
 :: g1.08160.cn
 0.0.0.0 g1.163.com
@@ -21538,8 +21536,6 @@ ff02::3 ip6-allhosts
 :: gg.yxdown.com
 0.0.0.0 gg1.jc001.cn
 :: gg1.jc001.cn
-0.0.0.0 gg1.yszyz.com
-:: gg1.yszyz.com
 0.0.0.0 gg2.51cto.com
 :: gg2.51cto.com
 0.0.0.0 gg2.dss9927.com
@@ -23332,8 +23328,6 @@ ff02::3 ip6-allhosts
 :: ieonlinews.trafficmanager.net
 0.0.0.0 iesnare.co.uk
 :: iesnare.co.uk
-0.0.0.0 if.bbanner.it
-:: if.bbanner.it
 0.0.0.0 if.mingxing.qq.com
 :: if.mingxing.qq.com
 0.0.0.0 ifa.tube8live.com
@@ -23472,8 +23466,6 @@ ff02::3 ip6-allhosts
 :: image.fsyule.net
 0.0.0.0 image.gentags.com
 :: image.gentags.com
-0.0.0.0 image.haiyunx.com
-:: image.haiyunx.com
 0.0.0.0 image.hh010.com
 :: image.hh010.com
 0.0.0.0 image.hpplay.cn
@@ -23492,6 +23484,8 @@ ff02::3 ip6-allhosts
 :: image.yiqifa.com
 0.0.0.0 image.zzd.sm.cn
 :: image.zzd.sm.cn
+0.0.0.0 image66.top2099.com
+:: image66.top2099.com
 0.0.0.0 imagecache.g.pptv.com
 :: imagecache.g.pptv.com
 0.0.0.0 imagelx.yidianzixun.com
@@ -25254,6 +25248,8 @@ ff02::3 ip6-allhosts
 :: js.9136.com
 0.0.0.0 js.9669.cn
 :: js.9669.cn
+0.0.0.0 js.98158.com
+:: js.98158.com
 0.0.0.0 js.ad-stir.com
 :: js.ad-stir.com
 0.0.0.0 js.ad7.com
@@ -26846,8 +26842,6 @@ ff02::3 ip6-allhosts
 :: llama.growthinkers.nl
 0.0.0.0 llama.moodgym.com.au
 :: llama.moodgym.com.au
-0.0.0.0 lm.35.com
-:: lm.35.com
 0.0.0.0 lm.ijq.tv
 :: lm.ijq.tv
 0.0.0.0 lm.tv.sohu.com
@@ -28044,8 +28038,6 @@ ff02::3 ip6-allhosts
 :: m.oipeirates.online
 0.0.0.0 m.openv.tv
 :: m.openv.tv
-0.0.0.0 m.panda.voiceads.cn
-:: m.panda.voiceads.cn
 0.0.0.0 m.phonthing.com
 :: m.phonthing.com
 0.0.0.0 m.picbr.com
@@ -33854,6 +33846,8 @@ ff02::3 ip6-allhosts
 :: omnistats.jetblue.com
 0.0.0.0 omnistats.teleflora.com
 :: omnistats.teleflora.com
+0.0.0.0 omnitag.omniscientai.com
+:: omnitag.omniscientai.com
 0.0.0.0 omniture-dc-sec.cadence.com
 :: omniture-dc-sec.cadence.com
 0.0.0.0 omniture-ssl.direct.asda.com
@@ -35368,8 +35362,6 @@ ff02::3 ip6-allhosts
 :: pi.feedsportal.com
 0.0.0.0 pi.ispot.tv
 :: pi.ispot.tv
-0.0.0.0 pi.pardot.com
-:: pi.pardot.com
 0.0.0.0 pi.technik3d.com
 :: pi.technik3d.com
 0.0.0.0 pic.0597kk.com
@@ -37602,8 +37594,6 @@ ff02::3 ip6-allhosts
 :: rc.asci.freenet.de
 0.0.0.0 rc.dxsvr.com
 :: rc.dxsvr.com
-0.0.0.0 rc.haodongkeji.cn
-:: rc.haodongkeji.cn
 0.0.0.0 rc.hystq.com
 :: rc.hystq.com
 0.0.0.0 rc.ie13.com
@@ -37732,8 +37722,6 @@ ff02::3 ip6-allhosts
 :: reclame.lequipement.fr
 0.0.0.0 recmd.html5.qq.com
 :: recmd.html5.qq.com
-0.0.0.0 recommend-pc-bto.sakura.ne.jp
-:: recommend-pc-bto.sakura.ne.jp
 0.0.0.0 recommend.union.39.net
 :: recommend.union.39.net
 0.0.0.0 recommendation.24.com
@@ -37930,6 +37918,8 @@ ff02::3 ip6-allhosts
 :: report.meituan.com
 0.0.0.0 report.mitsubishicars.com
 :: report.mitsubishicars.com
+0.0.0.0 report.novinky.cz
+:: report.novinky.cz
 0.0.0.0 report.qcloud.com
 :: report.qcloud.com
 0.0.0.0 report.seznamzpravy.cz
@@ -41468,8 +41458,6 @@ ff02::3 ip6-allhosts
 :: smart2.allocine.fr
 0.0.0.0 smartad.10010.com
 :: smartad.10010.com
-0.0.0.0 smartads.mobile.yahoo.co.jp
-:: smartads.mobile.yahoo.co.jp
 0.0.0.0 smartbroker.efscle.com
 :: smartbroker.efscle.com
 0.0.0.0 smartpixel.auditorius.ru
@@ -46758,6 +46746,8 @@ ff02::3 ip6-allhosts
 :: stats.guiamais.com.br
 0.0.0.0 stats.handyvertrag.de
 :: stats.handyvertrag.de
+0.0.0.0 stats.happynhealthful.com
+:: stats.happynhealthful.com
 0.0.0.0 stats.harpercollins.com
 :: stats.harpercollins.com
 0.0.0.0 stats.hex.pm
@@ -48830,6 +48820,8 @@ ff02::3 ip6-allhosts
 :: tb.code.twyxi.com
 0.0.0.0 tb.mybb.ru
 :: tb.mybb.ru
+0.0.0.0 tb104x.corp.youdao.com
+:: tb104x.corp.youdao.com
 0.0.0.0 tbe.tom.ru
 :: tbe.tom.ru
 0.0.0.0 tben.nnchangyi.com
@@ -49330,8 +49322,6 @@ ff02::3 ip6-allhosts
 :: tizer.medikforum.ru
 0.0.0.0 tizer.passion.ru
 :: tizer.passion.ru
-0.0.0.0 tizer.pohudetdoma.ru
-:: tizer.pohudetdoma.ru
 0.0.0.0 tizer.ukraine-ru.net
 :: tizer.ukraine-ru.net
 0.0.0.0 tj.20hn.cn
@@ -50460,6 +50450,8 @@ ff02::3 ip6-allhosts
 :: track.libii.cn
 0.0.0.0 track.mailerlite.com
 :: track.mailerlite.com
+0.0.0.0 track.marketsvc.net
+:: track.marketsvc.net
 0.0.0.0 track.mdirector.com
 :: track.mdirector.com
 0.0.0.0 track.mdrctr.com
@@ -50512,6 +50504,8 @@ ff02::3 ip6-allhosts
 :: track.msadcenter.lyv.com
 0.0.0.0 track.msadcenter.mazp.com
 :: track.msadcenter.mazp.com
+0.0.0.0 track.msadcenter.mkqa.com
+:: track.msadcenter.mkqa.com
 0.0.0.0 track.msadcenter.mur.com
 :: track.msadcenter.mur.com
 0.0.0.0 track.msadcenter.nho.com
@@ -52824,6 +52818,8 @@ ff02::3 ip6-allhosts
 :: us.promo.skf.com
 0.0.0.0 us.r-ht-1.net.daraz.com
 :: us.r-ht-1.net.daraz.com
+0.0.0.0 us.u1.yimg.com
+:: us.u1.yimg.com
 0.0.0.0 us.vortex-win.data.microsoft.com
 :: us.vortex-win.data.microsoft.com
 0.0.0.0 us.xmlppcbuzz.com
@@ -53138,6 +53134,8 @@ ff02::3 ip6-allhosts
 :: v1.play.log.hunantv.com
 0.0.0.0 v1.res.log.hunantv.com
 :: v1.res.log.hunantv.com
+0.0.0.0 v1.taksh.cn
+:: v1.taksh.cn
 0.0.0.0 v1.ujian.cc
 :: v1.ujian.cc
 0.0.0.0 v12-r0566gbscjw.z.irs01.com
