@@ -1,11 +1,11 @@
-# Checksum: MTYxOTgzMTA0NQo=
+# Checksum: MTYxOTkxNzc1Mwo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.0.5-20210501-0
-# TimeUpdated: 2021-05-01T01:04:05+00:00
+# Version: 1.0.5-20210502-0
+# TimeUpdated: 2021-05-02T01:09:13+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 28313
+# Total: 28312
 DOMAIN,0.nextyourcontent.com,REJECT
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
@@ -2953,7 +2953,6 @@ DOMAIN,adv.autosurf.vn,REJECT
 DOMAIN,adv.bandi.so,REJECT
 DOMAIN,adv.baotintuc.vn,REJECT
 DOMAIN,adv.baovemoitruong.org.vn,REJECT
-DOMAIN,adv.bbanner.it,REJECT
 DOMAIN,adv.cooperhosting.net,REJECT
 DOMAIN,adv.donejty.pl,REJECT
 DOMAIN,adv.drtuber.com,REJECT
@@ -3923,6 +3922,7 @@ DOMAIN,api.gi.igexin.com,REJECT
 DOMAIN,api.gimbal.com,REJECT
 DOMAIN,api.growingio.com,REJECT
 DOMAIN,api.grumft.com,REJECT
+DOMAIN,api.hfyhjg.cn,REJECT
 DOMAIN,api.iapps.ifeng.com,REJECT
 DOMAIN,api.iimedia.cn,REJECT
 DOMAIN,api.ijunhai.com,REJECT
@@ -4626,7 +4626,6 @@ DOMAIN,baichuan.baidu.com,REJECT
 DOMAIN,baid1.okooo.com,REJECT
 DOMAIN,baidu.dsp.tansuotv.com,REJECT
 DOMAIN,baidu.greenxf.cn,REJECT
-DOMAIN,baidu.tlssyg.com,REJECT
 DOMAIN,baidu1.codejie.net,REJECT
 DOMAIN,baidu1.weather.com.cn,REJECT
 DOMAIN,baidua1.cardbaobao.com,REJECT
@@ -5376,7 +5375,6 @@ DOMAIN,bwp.download.com,REJECT
 DOMAIN,bwp.lastfm.com.com,REJECT
 DOMAIN,bwp.theinsider.com.com,REJECT
 DOMAIN,bwstatistics.sapoapps.vn,REJECT
-DOMAIN,bxs.bilandgo.com,REJECT
 DOMAIN,bxwzds.spartoo.hu,REJECT
 DOMAIN,by.bollore-logistics.com,REJECT
 DOMAIN,by.mbai.cn,REJECT
@@ -6006,7 +6004,6 @@ DOMAIN,cdn.unityads.unity3d.com,REJECT
 DOMAIN,cdn.upthinking.cn,REJECT
 DOMAIN,cdn.usabilitytracker.com,REJECT
 DOMAIN,cdn.usefathom.com,REJECT
-DOMAIN,cdn.vdopia.com,REJECT
 DOMAIN,cdn.viglink.com,REJECT
 DOMAIN,cdn.wadawada-stop-report-us.com,REJECT
 DOMAIN,cdn.welcome.pussysaga.com,REJECT
@@ -10343,6 +10340,7 @@ DOMAIN,free.propdfconverter.com,REJECT
 DOMAIN,free.thesocialsexnetwork.com,REJECT
 DOMAIN,free.videodownloadconverter.com,REJECT
 DOMAIN,freebiegb.co.uk,REJECT
+DOMAIN,freecamerauk.co.uk,REJECT
 DOMAIN,freecodecs.us.intellitxt.com,REJECT
 DOMAIN,freexxxvideoclip.aebn.net,REJECT
 DOMAIN,fresh-js.bitbucket.io,REJECT
@@ -12373,7 +12371,6 @@ DOMAIN,ipv6.freebitco.in,REJECT
 DOMAIN,iq001.adtech.fr,REJECT
 DOMAIN,iq001.adtech.us,REJECT
 DOMAIN,iqdcaz.santehnika-online.ru,REJECT
-DOMAIN,iqiyi.irs01.com,REJECT
 DOMAIN,iqiyi.m.cn.miaozhen.com,REJECT
 DOMAIN,ir.mail.126.com,REJECT
 DOMAIN,ir.mail.163.com,REJECT
@@ -12529,6 +12526,7 @@ DOMAIN,jenkins-wlan-switch.net.daraz.com,REJECT
 DOMAIN,jenno.adsb4all.com,REJECT
 DOMAIN,jerry.proweb.net,REJECT
 DOMAIN,jet.zbp.ru,REJECT
+DOMAIN,jf.10010.com,REJECT
 DOMAIN,jf.winads.cn,REJECT
 DOMAIN,jfdaily.adsame.com,REJECT
 DOMAIN,jfm4.pop.baofeng.net,REJECT
@@ -13086,6 +13084,7 @@ DOMAIN,latin-season.net.daraz.com,REJECT
 DOMAIN,latin.dns1.freshegg.net.daraz.com,REJECT
 DOMAIN,latincar10.net.daraz.com,REJECT
 DOMAIN,launcher.us.yeshen.com,REJECT
+DOMAIN,launches.appsflyer.com,REJECT
 DOMAIN,laurel.macrovision.com,REJECT
 DOMAIN,laurel.rovicorp.com,REJECT
 DOMAIN,lax.csr41.net.daraz.com,REJECT
@@ -22597,6 +22596,7 @@ DOMAIN,ssl-r-ht-2.net.daraz.com,REJECT
 DOMAIN,ssl-youtube.2cnt.net,REJECT
 DOMAIN,ssl.aafp.org,REJECT
 DOMAIN,ssl.affiliate.logitravel.com,REJECT
+DOMAIN,ssl.bbbr8.com,REJECT
 DOMAIN,ssl.o.auspost.com.au,REJECT
 DOMAIN,ssl.o.emedicinehealth.com,REJECT
 DOMAIN,ssl.o.journalofhospitalmedicine.com,REJECT
@@ -24408,7 +24408,6 @@ DOMAIN,taurus.iad.appboy.com,REJECT
 DOMAIN,taylorshellfish.actonservice.com,REJECT
 DOMAIN,tb.code.twyxi.com,REJECT
 DOMAIN,tb.mybb.ru,REJECT
-DOMAIN,tb104x.corp.youdao.com,REJECT
 DOMAIN,tbe.tom.ru,REJECT
 DOMAIN,tben.nnchangyi.com,REJECT
 DOMAIN,tbm.net.toom.de,REJECT
@@ -24890,6 +24889,7 @@ DOMAIN,tp.universal.at,REJECT
 DOMAIN,tp.yomonda.de,REJECT
 DOMAIN,tp.yourhome.de,REJECT
 DOMAIN,tpa7.iahorro.com,REJECT
+DOMAIN,tpads.ovguide.com,REJECT
 DOMAIN,tpc.googlesyndication.com,REJECT
 DOMAIN,tpe-csr41.net.daraz.com,REJECT
 DOMAIN,tpe.car10.net.daraz.com,REJECT
@@ -25223,7 +25223,6 @@ DOMAIN,track.leady.cz,REJECT
 DOMAIN,track.lexico.com,REJECT
 DOMAIN,track.libii.cn,REJECT
 DOMAIN,track.mailerlite.com,REJECT
-DOMAIN,track.marketsvc.net,REJECT
 DOMAIN,track.mdirector.com,REJECT
 DOMAIN,track.mdrctr.com,REJECT
 DOMAIN,track.mdsmatch.com,REJECT
@@ -25250,7 +25249,6 @@ DOMAIN,track.msadcenter.llu.com,REJECT
 DOMAIN,track.msadcenter.ltp.com,REJECT
 DOMAIN,track.msadcenter.lyv.com,REJECT
 DOMAIN,track.msadcenter.mazp.com,REJECT
-DOMAIN,track.msadcenter.mkqa.com,REJECT
 DOMAIN,track.msadcenter.mur.com,REJECT
 DOMAIN,track.msadcenter.nho.com,REJECT
 DOMAIN,track.msadcenter.nyfg.com,REJECT
@@ -26407,7 +26405,6 @@ DOMAIN,us.moneroocean.stream,REJECT
 DOMAIN,us.onkyo.actonservice.com,REJECT
 DOMAIN,us.promo.skf.com,REJECT
 DOMAIN,us.r-ht-1.net.daraz.com,REJECT
-DOMAIN,us.u1.yimg.com,REJECT
 DOMAIN,us.vortex-win.data.microsoft.com,REJECT
 DOMAIN,us.xmlppcbuzz.com,REJECT
 DOMAIN,us.y.atwola.com,REJECT
@@ -26455,6 +26452,7 @@ DOMAIN,utility.rogersmedia.com,REJECT
 DOMAIN,utils.mediageneral.net,REJECT
 DOMAIN,utle.tech426.com,REJECT
 DOMAIN,utop.umengcloud.com,REJECT
+DOMAIN,utopia.ad-loupe.com,REJECT
 DOMAIN,utp-dmp.ucweb.com,REJECT
 DOMAIN,utp.ucweb.com,REJECT
 DOMAIN,utrack.hexun.com,REJECT
@@ -27743,6 +27741,7 @@ DOMAIN,www4.glam.com,REJECT
 DOMAIN,www4.smartadserver.com,REJECT
 DOMAIN,www4176uc.sakura.ne.jp,REJECT
 DOMAIN,www5.oss-cn-hangzhou.aliyuncs.com,REJECT
+DOMAIN,www5.technews.tw,REJECT
 DOMAIN,www5.zoosi.club,REJECT
 DOMAIN,www6.ns1.name,REJECT
 DOMAIN,www6.smartadserver.com,REJECT
