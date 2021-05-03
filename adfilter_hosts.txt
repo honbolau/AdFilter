@@ -1,11 +1,11 @@
-# Checksum: MTYxOTkxNzc1Mwo=
+# Checksum: MTYyMDAwMzg4MAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.0.5-20210502-0
-# TimeUpdated: 2021-05-02T01:09:13+00:00
+# Version: 1.0.5-20210503-0
+# TimeUpdated: 2021-05-03T01:04:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 28312
+# Total: 28318
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -6234,6 +6234,8 @@ ff02::3 ip6-allhosts
 :: affiliate.dtiserv.com
 0.0.0.0 affiliate.exabytes.com.my
 :: affiliate.exabytes.com.my
+0.0.0.0 affiliate.fr.espotting.com
+:: affiliate.fr.espotting.com
 0.0.0.0 affiliate.gameladen.com
 :: affiliate.gameladen.com
 0.0.0.0 affiliate.gamesdeal.com
@@ -9494,6 +9496,8 @@ ff02::3 ip6-allhosts
 :: banners.etermax.com
 0.0.0.0 banners.fastcupid.com
 :: banners.fastcupid.com
+0.0.0.0 banners.freett.com
+:: banners.freett.com
 0.0.0.0 banners.friendfinder.com
 :: banners.friendfinder.com
 0.0.0.0 banners.fuckbookhookups.com
@@ -9988,6 +9992,8 @@ ff02::3 ip6-allhosts
 :: beak.bd.313.nl
 0.0.0.0 beak.bigdata.dpgmmservices.nl
 :: beak.bigdata.dpgmmservices.nl
+0.0.0.0 beam.mjhlifesciences.com
+:: beam.mjhlifesciences.com
 0.0.0.0 beam.remp.impresa.pt
 :: beam.remp.impresa.pt
 0.0.0.0 beam.remp.nv.ua
@@ -10964,8 +10970,6 @@ ff02::3 ip6-allhosts
 :: c.lianwangtech.com
 0.0.0.0 c.lovame.com.cn
 :: c.lovame.com.cn
-0.0.0.0 c.lovepets70.com
-:: c.lovepets70.com
 0.0.0.0 c.m06nev.com
 :: c.m06nev.com
 0.0.0.0 c.media-dl.co
@@ -13814,6 +13818,8 @@ ff02::3 ip6-allhosts
 :: contentrecommend-out.mobile.sina.cn
 0.0.0.0 contents-tracking.beop.io
 :: contents-tracking.beop.io
+0.0.0.0 contentsearch.de.espotting.com
+:: contentsearch.de.espotting.com
 0.0.0.0 conteudos.lp.deloittecomunicacao.com.br
 :: conteudos.lp.deloittecomunicacao.com.br
 0.0.0.0 context.hotline.ua
@@ -16436,8 +16442,6 @@ ff02::3 ip6-allhosts
 :: data.mic.com
 0.0.0.0 data.minute.ly
 :: data.minute.ly
-0.0.0.0 data.namesakeoscilloscopemarquis.com
-:: data.namesakeoscilloscopemarquis.com
 0.0.0.0 data.neosmi.ru
 :: data.neosmi.ru
 0.0.0.0 data.netweaver.uk
@@ -18914,6 +18918,8 @@ ff02::3 ip6-allhosts
 :: elink.nhanlucnganhluat.vn
 0.0.0.0 eljlai.japana.vn
 :: eljlai.japana.vn
+0.0.0.0 eljunkszabadon.co.vu
+:: eljunkszabadon.co.vu
 0.0.0.0 elk.andrewfomera.com
 :: elk.andrewfomera.com
 0.0.0.0 elmuaa.boyner.com.tr
@@ -20684,8 +20690,6 @@ ff02::3 ip6-allhosts
 :: free.videodownloadconverter.com
 0.0.0.0 freebiegb.co.uk
 :: freebiegb.co.uk
-0.0.0.0 freecamerauk.co.uk
-:: freecamerauk.co.uk
 0.0.0.0 freecodecs.us.intellitxt.com
 :: freecodecs.us.intellitxt.com
 0.0.0.0 freexxxvideoclip.aebn.net
@@ -23438,8 +23442,6 @@ ff02::3 ip6-allhosts
 :: im.of.pl
 0.0.0.0 im.ov.yahoo.co.jp
 :: im.ov.yahoo.co.jp
-0.0.0.0 im.tiodata.com
-:: im.tiodata.com
 0.0.0.0 im.xo.pl
 :: im.xo.pl
 0.0.0.0 im2.smartadserver.com
@@ -25346,6 +25348,8 @@ ff02::3 ip6-allhosts
 :: js.ruiwen.com
 0.0.0.0 js.safe524.xyz
 :: js.safe524.xyz
+0.0.0.0 js.saiqizhi.com
+:: js.saiqizhi.com
 0.0.0.0 js.sanwen.net
 :: js.sanwen.net
 0.0.0.0 js.shangxueba.com
@@ -27860,8 +27864,6 @@ ff02::3 ip6-allhosts
 :: m.enjuk.com
 0.0.0.0 m.ensts.cn
 :: m.ensts.cn
-0.0.0.0 m.ever-lohas.com
-:: m.ever-lohas.com
 0.0.0.0 m.exusr.com
 :: m.exusr.com
 0.0.0.0 m.fcuit.com
@@ -38844,8 +38846,6 @@ ff02::3 ip6-allhosts
 :: s.zixuntop.com
 0.0.0.0 s.zlongad.com
 :: s.zlongad.com
-0.0.0.0 s.zp0573.cn
-:: s.zp0573.cn
 0.0.0.0 s01.hostcontent.live
 :: s01.hostcontent.live
 0.0.0.0 s01.vidtod.me
@@ -41136,6 +41136,8 @@ ff02::3 ip6-allhosts
 :: shopping.coccoc.com
 0.0.0.0 shoppingbox.liberation.fr
 :: shoppingbox.liberation.fr
+0.0.0.0 shoppingbox.partner.leguide.com
+:: shoppingbox.partner.leguide.com
 0.0.0.0 shoppingguarantee.digicert.com
 :: shoppingguarantee.digicert.com
 0.0.0.0 short-video.kakamobi.cn
@@ -45036,6 +45038,8 @@ ff02::3 ip6-allhosts
 :: ss.musthird.com
 0.0.0.0 ss.ting55.com
 :: ss.ting55.com
+0.0.0.0 ss.tiscali.com
+:: ss.tiscali.com
 0.0.0.0 ss.tiscali.it
 :: ss.tiscali.it
 0.0.0.0 ss2.he2d.com
@@ -48616,6 +48620,8 @@ ff02::3 ip6-allhosts
 :: t9h2.ricardocuisine.com
 0.0.0.0 t9k3a.jeanpaulfortin.com
 :: t9k3a.jeanpaulfortin.com
+0.0.0.0 ta.at.user-mode-linux.net
+:: ta.at.user-mode-linux.net
 0.0.0.0 ta.qq.com
 :: ta.qq.com
 0.0.0.0 ta.sanook.com
@@ -52474,6 +52480,8 @@ ff02::3 ip6-allhosts
 :: uestat.video.qiyi.com
 0.0.0.0 ueuqui.esprit.nl
 :: ueuqui.esprit.nl
+0.0.0.0 uf2aasn.111adfueo.us
+:: uf2aasn.111adfueo.us
 0.0.0.0 ufnmjz.brosa.com.au
 :: ufnmjz.brosa.com.au
 0.0.0.0 ufz.doesxyz.com
@@ -54706,6 +54714,8 @@ ff02::3 ip6-allhosts
 :: wmxuba.aldoshoes.com
 0.0.0.0 wn.pos.baidu.com
 :: wn.pos.baidu.com
+0.0.0.0 wn.x.jd.com
+:: wn.x.jd.com
 0.0.0.0 wncs.7ez4.cn
 :: wncs.7ez4.cn
 0.0.0.0 wneia.iaskhot.com
@@ -55422,6 +55432,8 @@ ff02::3 ip6-allhosts
 :: www2.wyylde.com
 0.0.0.0 www2.xinmin.cn
 :: www2.xinmin.cn
+0.0.0.0 www21.counsellor.gov.cn
+:: www21.counsellor.gov.cn
 0.0.0.0 www24.glam.com
 :: www24.glam.com
 0.0.0.0 www24a.glam.com
