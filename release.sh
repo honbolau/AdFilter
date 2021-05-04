@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.0.7
+# Current Version: 1.0.8
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && bash ./AdFilter/release.sh
@@ -14,12 +14,6 @@ function GetData() {
         "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt"
     )
     filter_adblock=(
-        "https://easylist-downloads.adblockplus.org/easylist.txt"
-        "https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt"
-        "https://easylist-downloads.adblockplus.org/easylistchina.txt"
-        "https://easylist-downloads.adblockplus.org/easyprivacy+easylist.txt"
-        "https://easylist-downloads.adblockplus.org/easyprivacy.txt"
-        "https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt"
         "https://filters.adtidy.org/extension/chromium/filters/1.txt"
         "https://filters.adtidy.org/extension/chromium/filters/101.txt"
         "https://filters.adtidy.org/extension/chromium/filters/102.txt"
@@ -122,9 +116,6 @@ function GetData() {
         "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt"
         "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt"
         "https://sub.adtchrome.com/adt-chinalist-easylist.txt"
-        "https://www.fanboy.co.nz/enhancedstats.txt"
-        "https://www.fanboy.co.nz/r/fanboy-complete.txt"
-        "https://www.fanboy.co.nz/r/fanboy-ultimate.txt"
     )
     filter_domain=(
         "https://gitee.com/damengzhudamengzhu/guanggaoguolv/raw/master/jiekouAD.txt"
