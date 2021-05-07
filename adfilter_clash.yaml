@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYyMDI2MjU0OQo=
+# Checksum: MTYyMDM0OTEzMwo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.0-20210506-0
-# TimeUpdated: 2021-05-06T00:55:49+00:00
+# Version: 1.1.0-20210507-0
+# TimeUpdated: 2021-05-07T00:58:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 30658
+# Total: 30650
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,001.0x1f4b0.com
@@ -109,7 +109,6 @@ payload:
   - DOMAIN,1116.oadz.com
   - DOMAIN,111g.yiqig.cn
   - DOMAIN,114-track.net.daraz.com
-  - DOMAIN,114.allyes.com
   - DOMAIN,1178.shucong.com
   - DOMAIN,119.29.196.104.bc.googleusercontent.com
   - DOMAIN,12.cookcai.com
@@ -1557,6 +1556,7 @@ payload:
   - DOMAIN,ad.weplayer.cc
   - DOMAIN,ad.where.com
   - DOMAIN,ad.winiso.pl
+  - DOMAIN,ad.winrar.com.cn
   - DOMAIN,ad.wretch.cc
   - DOMAIN,ad.wsod.com
   - DOMAIN,ad.wynk.in
@@ -2004,7 +2004,6 @@ payload:
   - DOMAIN,adpass.co.uk
   - DOMAIN,adpic.chinadaily.com.cn
   - DOMAIN,adpick.co.kr
-  - DOMAIN,adpingpong2.co.kr
   - DOMAIN,adplatform.vrtcal.com
   - DOMAIN,adplex.co.kr
   - DOMAIN,adplexmedia.adk2.co
@@ -2250,6 +2249,7 @@ payload:
   - DOMAIN,ads.dimcab.com
   - DOMAIN,ads.directionsmag.com
   - DOMAIN,ads.dogusdigital.com
+  - DOMAIN,ads.doit.com.cn
   - DOMAIN,ads.domain.com
   - DOMAIN,ads.domeus.com
   - DOMAIN,ads.doublemax.net
@@ -3581,7 +3581,6 @@ payload:
   - DOMAIN,allseason.k8s-prod.net.daraz.com
   - DOMAIN,allseason.stgx.net.daraz.com
   - DOMAIN,allyes.com.cn
-  - DOMAIN,allyesbjafa.allyes.com
   - DOMAIN,alma-cmp.almamedia.io
   - DOMAIN,almuradtiles.zohosites.com
   - DOMAIN,alog.umeng.com
@@ -5877,7 +5876,6 @@ payload:
   - DOMAIN,c.4gpkf.cn
   - DOMAIN,c.51xmgys.com
   - DOMAIN,c.51y5.net
-  - DOMAIN,c.9weg7b.com
   - DOMAIN,c.acgshenshicha.cn
   - DOMAIN,c.active.ns.emailvision.net.daraz.com
   - DOMAIN,c.ad6media.fr
@@ -7077,6 +7075,7 @@ payload:
   - DOMAIN,cls.vrvm.com
   - DOMAIN,cls7.theushuaiaexperience.com
   - DOMAIN,clshkv.labirint.ru
+  - DOMAIN,cltgtstor001.blob.core.windows.net
   - DOMAIN,club-img.douyucdn.cn
   - DOMAIN,clubpenguin.haxdo.com
   - DOMAIN,clubpenguinmembershiphack.newzgames.com
@@ -10221,7 +10220,6 @@ payload:
   - DOMAIN,ei.cnzz.com
   - DOMAIN,eicyds.qoo10.jp
   - DOMAIN,eiftfa.fashionette.de
-  - DOMAIN,eitbglobal.ojdinteractiva.com
   - DOMAIN,eiv.baidu.com
   - DOMAIN,ej.progresas.lt
   - DOMAIN,ejbbcf.finishline.com
@@ -10563,7 +10561,6 @@ payload:
   - DOMAIN,epp.bih.net.ba
   - DOMAIN,epro.sogou.com
   - DOMAIN,eproof.drudgereport.com
-  - DOMAIN,epu.1024txt.xyz
   - DOMAIN,eq.10jqka.com.cn
   - DOMAIN,eqnan.megaseries.biz
   - DOMAIN,eqs.intuit.com
@@ -10902,7 +10899,6 @@ payload:
   - DOMAIN,fantage.haxdo.com
   - DOMAIN,fanxing.kugou.com
   - DOMAIN,fanyi100.com.cn
-  - DOMAIN,farecnop.loftlm.ru
   - DOMAIN,farm-ro.plista.com
   - DOMAIN,farm01.go.vn
   - DOMAIN,farmingsimulator.dlcodes.com
@@ -11205,6 +11201,7 @@ payload:
   - DOMAIN,freedota2.wordpress.com
   - DOMAIN,freedsipoints.co.uk
   - DOMAIN,freegift001.000webhostapp.com
+  - DOMAIN,freeipodnanouk.co.uk
   - DOMAIN,freeminecraft.co.uk
   - DOMAIN,freemoneymakingwebsite300.blogspot.com
   - DOMAIN,freenetflix.dlcodes.com
@@ -14130,7 +14127,6 @@ payload:
   - DOMAIN,init.startappexchange.com
   - DOMAIN,inline.admedia.com
   - DOMAIN,inmobisdk-a.akamaihd.net
-  - DOMAIN,inner.newinform.com
   - DOMAIN,inneractive-assets.s3.amazonaws.com
   - DOMAIN,inpref.s3.amazonaws.com
   - DOMAIN,input.shouji.sogou.com
@@ -14336,6 +14332,8 @@ payload:
   - DOMAIN,iy.com.cn
   - DOMAIN,iyes.youku.com
   - DOMAIN,iyumiao.com.cn
+  - DOMAIN,j.9136.com
+  - DOMAIN,j.98158.com
   - DOMAIN,j.appjiagu.com
   - DOMAIN,j.avz4.com
   - DOMAIN,j.baminw.cn
@@ -14458,6 +14456,7 @@ payload:
   - DOMAIN,jing.58.com
   - DOMAIN,jira.vpon.com
   - DOMAIN,jjjj.getui.vip
+  - DOMAIN,jjk.sxklm.cn
   - DOMAIN,jkcontrols.co.uk
   - DOMAIN,jke1.jianke.com
   - DOMAIN,jknarp.kakaku.com
@@ -15327,7 +15326,6 @@ payload:
   - DOMAIN,live.xunlei.com
   - DOMAIN,liveagent.mobilbonus.cz
   - DOMAIN,livec.l.qq.com
-  - DOMAIN,livecheck.theperfectsystoupdating.date
   - DOMAIN,livecounter.theyosh.nl
   - DOMAIN,livem.l.qq.com
   - DOMAIN,livep.l.aiseet.atianqi.com
@@ -18258,6 +18256,7 @@ payload:
   - DOMAIN,myhzhu.chicme.com
   - DOMAIN,myip.myzaker.com
   - DOMAIN,myjsym.zichenit.com
+  - DOMAIN,mylike.co.uk
   - DOMAIN,mymangaonline.net.daraz.com
   - DOMAIN,mymm.zichenit.com
   - DOMAIN,myscoop-tracking.googlecode.com
@@ -19904,7 +19903,6 @@ payload:
   - DOMAIN,pl.codetheweb.blog
   - DOMAIN,pl.cp12.wasu.tv
   - DOMAIN,pl.cp31.ott.cibntv.net
-  - DOMAIN,pl.medic-reporters.com
   - DOMAIN,pl.sharpmarketing.eu
   - DOMAIN,pl.tradenewsinvesting.com
   - DOMAIN,pl.web.toleadoo.com
@@ -20006,7 +20004,6 @@ payload:
   - DOMAIN,play.play.estream.xyz
   - DOMAIN,play.play1.videos.vidto.me
   - DOMAIN,play.qs01.cn
-  - DOMAIN,play.s01.vidtodo.pro
   - DOMAIN,play.tercabilis.info
   - DOMAIN,play.traffpartners.com
   - DOMAIN,play.video2.stream.vidzi.tv
@@ -20543,6 +20540,7 @@ payload:
   - DOMAIN,px.ucweb.com
   - DOMAIN,px.wayfair.com
   - DOMAIN,px.wp.pl
+  - DOMAIN,px.za.zalo.me
   - DOMAIN,px.za.zaloapp.com
   - DOMAIN,pxayti.hair-express.de
   - DOMAIN,pxc.otto.de
@@ -21416,7 +21414,6 @@ payload:
   - DOMAIN,s.onlineornot.com
   - DOMAIN,s.p.youku.com
   - DOMAIN,s.phpwind.com
-  - DOMAIN,s.polkoi.com
   - DOMAIN,s.ppjol.net
   - DOMAIN,s.qhupdate.com
   - DOMAIN,s.qiangger.pw
@@ -26334,7 +26331,6 @@ payload:
   - DOMAIN,t.ads.sohu.com
   - DOMAIN,t.adxchina.cn
   - DOMAIN,t.adyun.com
-  - DOMAIN,t.afi-b.com
   - DOMAIN,t.ajrkm.link
   - DOMAIN,t.alimama.com
   - DOMAIN,t.allmodern.com
@@ -26490,7 +26486,6 @@ payload:
   - DOMAIN,t2.huluim.com
   - DOMAIN,t2.jzkapp.com
   - DOMAIN,t2.t2b.click
-  - DOMAIN,t3.51maiwanju.com
   - DOMAIN,t3.a.market.xiaomi.com
   - DOMAIN,t38uu.k42jvw.com
   - DOMAIN,t4.51maiwanju.com
@@ -28658,7 +28653,6 @@ payload:
   - DOMAIN,us.y.atwola.com
   - DOMAIN,usage.influxdata.com
   - DOMAIN,usage.seibert-media.io
-  - DOMAIN,usao.77gog.com
   - DOMAIN,usatoday.app.ur.gcion.com
   - DOMAIN,usd.sierra-boa.com
   - DOMAIN,usdbbx.mmartan.com.br
@@ -29418,7 +29412,6 @@ payload:
   - DOMAIN,webstats.garanti.com.tr
   - DOMAIN,webstats.motigo.com
   - DOMAIN,webstats.sapo.pt
-  - DOMAIN,webstats.thaindian.com
   - DOMAIN,webstats.thesoul-publishing.com
   - DOMAIN,webstats.vodafone.com
   - DOMAIN,webstats.volvo.com
@@ -30299,7 +30292,6 @@ payload:
   - DOMAIN,xxjiqg.oysho.com
   - DOMAIN,xxlefq.journaldesfemmes.fr
   - DOMAIN,xxlefq.linternaute.fr
-  - DOMAIN,xxxa.aikeapp.com
   - DOMAIN,xy-log2.tagtic.cn
   - DOMAIN,xy.nullrefexcep.com
   - DOMAIN,xy33.smallable.com
@@ -30515,10 +30507,10 @@ payload:
   - DOMAIN,z1.zhishidu.com
   - DOMAIN,z1hihu.xmcimg.com
   - DOMAIN,z2.cnywst.com
+  - DOMAIN,z2.lnymd.com
   - DOMAIN,z2.yunl1.com
   - DOMAIN,z2.zhishidu.com
   - DOMAIN,z888.izhufu.net
-  - DOMAIN,za.zalo.me
   - DOMAIN,zae.gzzena.com
   - DOMAIN,zafrc.5780.site
   - DOMAIN,zahir2.aeiou.pt
