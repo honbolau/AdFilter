@@ -1,11 +1,11 @@
-# Checksum: MTYyMDUyMjA4Mgo=
+# Checksum: MTYyMDYwODQzOAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.0-20210509-0
-# TimeUpdated: 2021-05-09T01:01:22+00:00
+# Version: 1.1.0-20210510-0
+# TimeUpdated: 2021-05-10T01:00:38+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 29359
+# Total: 29353
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2936,8 +2936,6 @@ ff02::3 ip6-allhosts
 :: ad.starlightmedia.ua
 0.0.0.0 ad.sunflower.vn
 :: ad.sunflower.vn
-0.0.0.0 ad.supportal.hu
-:: ad.supportal.hu
 0.0.0.0 ad.sweb.ru
 :: ad.sweb.ru
 0.0.0.0 ad.szexneked.hu
@@ -3020,8 +3018,6 @@ ff02::3 ip6-allhosts
 :: ad.way.cz
 0.0.0.0 ad.webnext.ru
 :: ad.webnext.ru
-0.0.0.0 ad.webprovider.com
-:: ad.webprovider.com
 0.0.0.0 ad.webservis.gen.tr
 :: ad.webservis.gen.tr
 0.0.0.0 ad.webshark.pl
@@ -3276,8 +3272,6 @@ ff02::3 ip6-allhosts
 :: adb.wp.pl
 0.0.0.0 adbd.liuxue86.com
 :: adbd.liuxue86.com
-0.0.0.0 adbee.com.ua
-:: adbee.com.ua
 0.0.0.0 adbehavior.ximalaya.com
 :: adbehavior.ximalaya.com
 0.0.0.0 adbiz.co.kr
@@ -3916,8 +3910,6 @@ ff02::3 ip6-allhosts
 :: adpic.chinadaily.com.cn
 0.0.0.0 adpick.co.kr
 :: adpick.co.kr
-0.0.0.0 adpingpong.co.kr
-:: adpingpong.co.kr
 0.0.0.0 adplatform.vrtcal.com
 :: adplatform.vrtcal.com
 0.0.0.0 adplex.co.kr
@@ -4048,8 +4040,6 @@ ff02::3 ip6-allhosts
 :: ads.5min.at
 0.0.0.0 ads.73dpi.com
 :: ads.73dpi.com
-0.0.0.0 ads.8833.com
-:: ads.8833.com
 0.0.0.0 ads.979799777.com
 :: ads.979799777.com
 0.0.0.0 ads.a-snag-smartmoney.fyi
@@ -5230,8 +5220,6 @@ ff02::3 ip6-allhosts
 :: ads.telkomsel.com
 0.0.0.0 ads.terra.es
 :: ads.terra.es
-0.0.0.0 ads.theawl.com
-:: ads.theawl.com
 0.0.0.0 ads.thecoolhunter.net
 :: ads.thecoolhunter.net
 0.0.0.0 ads.thecrimson.com
@@ -5588,8 +5576,6 @@ ff02::3 ip6-allhosts
 :: ads2.realcities.com
 0.0.0.0 ads2.rne.com
 :: ads2.rne.com
-0.0.0.0 ads2.rp.pl
-:: ads2.rp.pl
 0.0.0.0 ads2.techads.info
 :: ads2.techads.info
 0.0.0.0 ads2.tweetna.ir
@@ -5718,8 +5704,6 @@ ff02::3 ip6-allhosts
 :: adsense.html5.qq.com
 0.0.0.0 adserv.bravenet.com
 :: adserv.bravenet.com
-0.0.0.0 adserv.iafrica.com
-:: adserv.iafrica.com
 0.0.0.0 adserv.lwmn.net
 :: adserv.lwmn.net
 0.0.0.0 adserv.maineguide.com
@@ -5918,8 +5902,6 @@ ff02::3 ip6-allhosts
 :: adserver.hg-computer.de
 0.0.0.0 adserver.hi-m.de
 :: adserver.hi-m.de
-0.0.0.0 adserver.hispavista.com
-:: adserver.hispavista.com
 0.0.0.0 adserver.home.pl
 :: adserver.home.pl
 0.0.0.0 adserver.hostinteractive.com
@@ -8272,8 +8254,6 @@ ff02::3 ip6-allhosts
 :: api.adnsafe.org
 0.0.0.0 api.ads.watchabc.go.com
 :: api.ads.watchabc.go.com
-0.0.0.0 api.adsymptotic.com
-:: api.adsymptotic.com
 0.0.0.0 api.adtimaserver.vn
 :: api.adtimaserver.vn
 0.0.0.0 api.adv.ott.cibntv.net
@@ -8790,24 +8770,34 @@ ff02::3 ip6-allhosts
 :: app.yesware.com
 0.0.0.0 app03.ikk-classic.de
 :: app03.ikk-classic.de
+0.0.0.0 app1.letitbefaster.website
+:: app1.letitbefaster.website
 0.0.0.0 app1.maatwerkonline.nl
 :: app1.maatwerkonline.nl
 0.0.0.0 app1.youngcapital.nl
 :: app1.youngcapital.nl
 0.0.0.0 app2.downloadmacsoft.world
 :: app2.downloadmacsoft.world
+0.0.0.0 app2.letitbefaster.website
+:: app2.letitbefaster.website
 0.0.0.0 app2.letmacwork.world
 :: app2.letmacwork.world
 0.0.0.0 app2.letslowbefast.life
 :: app2.letslowbefast.life
+0.0.0.0 app3.letitbefaster.website
+:: app3.letitbefaster.website
 0.0.0.0 app3.letmacwork.world
 :: app3.letmacwork.world
 0.0.0.0 app4.greatmacsoft.tech
 :: app4.greatmacsoft.tech
+0.0.0.0 app4.letitbefaster.website
+:: app4.letitbefaster.website
 0.0.0.0 app4.letslowbefast.life
 :: app4.letslowbefast.life
 0.0.0.0 app5.fastermac.tech
 :: app5.fastermac.tech
+0.0.0.0 app5.letitbefaster.website
+:: app5.letitbefaster.website
 0.0.0.0 appanalysis.banggood.com
 :: appanalysis.banggood.com
 0.0.0.0 appapisdk.tanv.com
@@ -8818,8 +8808,6 @@ ff02::3 ip6-allhosts
 :: appcdn.wapx.com
 0.0.0.0 appchannel.html5.qq.com
 :: appchannel.html5.qq.com
-0.0.0.0 appcheats.co.uk
-:: appcheats.co.uk
 0.0.0.0 appcloud2.zhihu.com
 :: appcloud2.zhihu.com
 0.0.0.0 appdownload.alicdn.com
@@ -9898,8 +9886,6 @@ ff02::3 ip6-allhosts
 :: ban.zab.ru
 0.0.0.0 bancopostapremia.bancoposta.it
 :: bancopostapremia.bancoposta.it
-0.0.0.0 banery.acr.pl
-:: banery.acr.pl
 0.0.0.0 banery.netart.pl
 :: banery.netart.pl
 0.0.0.0 banery.onet.pl
@@ -20584,8 +20570,6 @@ ff02::3 ip6-allhosts
 :: erectile.byethost33.com
 0.0.0.0 erepublic.actonservice.com
 :: erepublic.actonservice.com
-0.0.0.0 erkaseriilan.com.tr
-:: erkaseriilan.com.tr
 0.0.0.0 ermao.sikabeila.com
 :: ermao.sikabeila.com
 0.0.0.0 erp.garan.pro
@@ -21348,8 +21332,6 @@ ff02::3 ip6-allhosts
 :: felix.data.tm-awx.com
 0.0.0.0 female-v.1.p2l.info
 :: female-v.1.p2l.info
-0.0.0.0 fengfengtie.com.cn
-:: fengfengtie.com.cn
 0.0.0.0 feqbqn.rent.com
 :: feqbqn.rent.com
 0.0.0.0 ferret.helpspace.com
@@ -24458,8 +24440,6 @@ ff02::3 ip6-allhosts
 :: golds.lp.mydas.mobi
 0.0.0.0 good.ta80.com
 :: good.ta80.com
-0.0.0.0 goodadvert.com.ua
-:: goodadvert.com.ua
 0.0.0.0 gooffice.okan.jp
 :: gooffice.okan.jp
 0.0.0.0 google-shopping.sapoapps.vn
@@ -29984,6 +29964,8 @@ ff02::3 ip6-allhosts
 :: log.tinnhanhchungkhoan.vn
 0.0.0.0 log.tinxe.vn
 :: log.tinxe.vn
+0.0.0.0 log.toss.vn
+:: log.toss.vn
 0.0.0.0 log.tpns.tencent.com
 :: log.tpns.tencent.com
 0.0.0.0 log.trithuctructuyen.com.vn
@@ -30074,8 +30056,6 @@ ff02::3 ip6-allhosts
 :: logapi.tv.naver.com
 0.0.0.0 logbak.hicloud.com
 :: logbak.hicloud.com
-0.0.0.0 logcollect.totalcms.ncloud.or.kr
-:: logcollect.totalcms.ncloud.or.kr
 0.0.0.0 logconf.iflytek.com
 :: logconf.iflytek.com
 0.0.0.0 logconfig.polarisoffice.com
@@ -30870,8 +30850,6 @@ ff02::3 ip6-allhosts
 :: m.simba.taobao.com
 0.0.0.0 m.sjzhushou.com
 :: m.sjzhushou.com
-0.0.0.0 m.sosjyx.com
-:: m.sosjyx.com
 0.0.0.0 m.symad.cn
 :: m.symad.cn
 0.0.0.0 m.symag.cn
@@ -32524,6 +32502,8 @@ ff02::3 ip6-allhosts
 :: mc.yandex.ru
 0.0.0.0 mcc.engineering.northwestern.edu
 :: mcc.engineering.northwestern.edu
+0.0.0.0 mccafee-orientador.com-br.site
+:: mccafee-orientador.com-br.site
 0.0.0.0 mcdmetrics.aaa.com
 :: mcdmetrics.aaa.com
 0.0.0.0 mcfg.sandai.net
@@ -40116,8 +40096,6 @@ ff02::3 ip6-allhosts
 :: rads.stackoverflow.com
 0.0.0.0 rail.bankofamerica.com
 :: rail.bankofamerica.com
-0.0.0.0 rake.11st.co.kr
-:: rake.11st.co.kr
 0.0.0.0 rand.com.ru
 :: rand.com.ru
 0.0.0.0 rang.com.ua
@@ -40840,6 +40818,8 @@ ff02::3 ip6-allhosts
 :: root.qw.su
 0.0.0.0 rose.ixbt.com
 :: rose.ixbt.com
+0.0.0.0 roseemariepatterson.uk.to
+:: roseemariepatterson.uk.to
 0.0.0.0 rosenberg.appmetrica.yandex.net
 :: rosenberg.appmetrica.yandex.net
 0.0.0.0 rosi.okkkk.com
@@ -41126,6 +41106,8 @@ ff02::3 ip6-allhosts
 :: s.6travel.com
 0.0.0.0 s.abcache.com
 :: s.abcache.com
+0.0.0.0 s.ad121m.com
+:: s.ad121m.com
 0.0.0.0 s.adroll.com
 :: s.adroll.com
 0.0.0.0 s.ads.sohu.com
@@ -44198,6 +44180,8 @@ ff02::3 ip6-allhosts
 :: smart2.allocine.fr
 0.0.0.0 smartad.10010.com
 :: smartad.10010.com
+0.0.0.0 smartads.mobile.yahoo.co.jp
+:: smartads.mobile.yahoo.co.jp
 0.0.0.0 smartpixel.auditorius.ru
 :: smartpixel.auditorius.ru
 0.0.0.0 smatning.volkswagen.se
@@ -44696,10 +44680,6 @@ ff02::3 ip6-allhosts
 :: smetrics.bostonglobe.com
 0.0.0.0 smetrics.bpbusinesssolutions.com
 :: smetrics.bpbusinesssolutions.com
-0.0.0.0 smetrics.brandsworld.com.my
-:: smetrics.brandsworld.com.my
-0.0.0.0 smetrics.brandsworld.com.sg
-:: smetrics.brandsworld.com.sg
 0.0.0.0 smetrics.braunability.com
 :: smetrics.braunability.com
 0.0.0.0 smetrics.brett-robinson.com
@@ -49688,6 +49668,8 @@ ff02::3 ip6-allhosts
 :: stats.southswindon-pc.gov.uk
 0.0.0.0 stats.splinder.com
 :: stats.splinder.com
+0.0.0.0 stats.sponsorafuture.org.uk
+:: stats.sponsorafuture.org.uk
 0.0.0.0 stats.stackingthebricks.com
 :: stats.stackingthebricks.com
 0.0.0.0 stats.stacks.org
@@ -50748,8 +50730,6 @@ ff02::3 ip6-allhosts
 :: t.dtscdn.com
 0.0.0.0 t.eharmony.com
 :: t.eharmony.com
-0.0.0.0 t.en25.com
-:: t.en25.com
 0.0.0.0 t.enbw.com
 :: t.enbw.com
 0.0.0.0 t.etraveli.com
@@ -51208,6 +51188,8 @@ ff02::3 ip6-allhosts
 :: tbm.net.toom.de
 0.0.0.0 tc-log.mattel163.com
 :: tc-log.mattel163.com
+0.0.0.0 tc.18moe.net
+:: tc.18moe.net
 0.0.0.0 tc.51la.net
 :: tc.51la.net
 0.0.0.0 tc.airfrance.com
@@ -52812,6 +52794,8 @@ ff02::3 ip6-allhosts
 :: track.leadhit.io
 0.0.0.0 track.leady.cz
 :: track.leady.cz
+0.0.0.0 track.lemonnovel.com
+:: track.lemonnovel.com
 0.0.0.0 track.lexico.com
 :: track.lexico.com
 0.0.0.0 track.libii.cn
@@ -53524,6 +53508,8 @@ ff02::3 ip6-allhosts
 :: tracking.game8.jp
 0.0.0.0 tracking.gameforge.de
 :: tracking.gameforge.de
+0.0.0.0 tracking.gapone.vn
+:: tracking.gapone.vn
 0.0.0.0 tracking.go.atcc.org
 :: tracking.go.atcc.org
 0.0.0.0 tracking.go.onshape.com
@@ -58698,6 +58684,8 @@ ff02::3 ip6-allhosts
 :: zyban-store.shengen.ru
 0.0.0.0 zyban.1.p2l.info
 :: zyban.1.p2l.info
+0.0.0.0 zyban.about-tabs.com
+:: zyban.about-tabs.com
 0.0.0.0 zybveu.swappie.com
 :: zybveu.swappie.com
 0.0.0.0 zyngapoker.hackfree.us
