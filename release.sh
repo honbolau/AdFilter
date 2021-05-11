@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.0
+# Current Version: 1.1.1
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && bash ./AdFilter/release.sh
@@ -14,6 +14,8 @@ function GetData() {
         "https://raw.githubusercontent.com/notracking/hosts-blocklists-scripts/master/hostnames.dead.txt"
     )
     filter_adblock=(
+        "https://easylist.to/easylist/easylist.txt"
+        "https://easylist.to/easylist/easyprivacy.txt"
         "https://filters.adtidy.org/extension/chromium/filters/1.txt"
         "https://filters.adtidy.org/extension/chromium/filters/101.txt"
         "https://filters.adtidy.org/extension/chromium/filters/102.txt"
@@ -116,6 +118,7 @@ function GetData() {
         "https://raw.githubusercontent.com/o0HalfLife0o/list/master/ad3.txt"
         "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt"
         "https://sub.adtchrome.com/adt-chinalist-easylist.txt"
+        "https://www.fanboy.co.nz/r/fanboy-ultimate.txt"
     )
     filter_domain=(
         "https://gitee.com/damengzhudamengzhu/guanggaoguolv/raw/master/jiekouAD.txt"
