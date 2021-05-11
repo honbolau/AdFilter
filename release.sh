@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.4
+# Current Version: 1.1.5
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && bash ./AdFilter/release.sh
@@ -132,6 +132,8 @@ function GetData() {
     )
     filter_hosts=(
         "https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts"
+        "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt"
+        "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt"
         "https://raw.githubusercontent.com/ilpl/ad-hosts/master/hosts"
         "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts"
         "https://raw.githubusercontent.com/neoFelhz/neohosts/gh-pages/full/hosts"
