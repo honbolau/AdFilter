@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.6
+# Current Version: 1.1.7
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && bash ./AdFilter/release.sh
@@ -122,6 +122,7 @@ function GetData() {
         "https://www.fanboy.co.nz/fanboy-annoyance.txt"
     )
     filter_domain=(
+        "https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt"
         "https://gitee.com/damengzhudamengzhu/guanggaoguolv/raw/master/jiekouAD.txt"
         "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list_browser.txt"
         "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/reject-list.txt"
@@ -131,7 +132,6 @@ function GetData() {
         "https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt"
     )
     filter_hosts=(
-        "https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt"
         "https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts"
         "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt"
         "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt"
