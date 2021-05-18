@@ -1,11 +1,11 @@
-# Checksum: MTYyMTI2MjE0OAo=
+# Checksum: MTYyMTMwMDIyMwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210517-4
-# TimeUpdated: 2021-05-17T14:35:48+00:00
+# Version: 1.1.8-20210518-0
+# TimeUpdated: 2021-05-18T01:10:23+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 30897
+# Total: 30890
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -622,8 +622,6 @@ ff02::3 ip6-allhosts
 :: 913nd.dieti-natura.es
 0.0.0.0 91ad.bestvogue.com
 :: 91ad.bestvogue.com
-0.0.0.0 91adv.com.cn
-:: 91adv.com.cn
 0.0.0.0 9270.com.cn
 :: 9270.com.cn
 0.0.0.0 92x.tumblr.com
@@ -7146,6 +7144,8 @@ ff02::3 ip6-allhosts
 :: aka-cdn-ns.adtechus.com
 0.0.0.0 aka-cdn.adtechus.com
 :: aka-cdn.adtechus.com
+0.0.0.0 aka.ms-ads.co
+:: aka.ms-ads.co
 0.0.0.0 akaads-espn.starwave.com
 :: akaads-espn.starwave.com
 0.0.0.0 akamai.smartadserver.com
@@ -12282,10 +12282,14 @@ ff02::3 ip6-allhosts
 :: c.wkanx.com
 0.0.0.0 c.wort-suche.com
 :: c.wort-suche.com
+0.0.0.0 c.wxskqy.cn
+:: c.wxskqy.cn
 0.0.0.0 c.x.oanda.com
 :: c.x.oanda.com
 0.0.0.0 c.xbjcgs.cn
 :: c.xbjcgs.cn
+0.0.0.0 c.xdygw.com.cn
+:: c.xdygw.com.cn
 0.0.0.0 c.xiaobaipan.com
 :: c.xiaobaipan.com
 0.0.0.0 c.xlhwzx.cn
@@ -20100,8 +20104,6 @@ ff02::3 ip6-allhosts
 :: e2e.mashable.com
 0.0.0.0 e77lmzbqou0n-a.akamaihd.net
 :: e77lmzbqou0n-a.akamaihd.net
-0.0.0.0 e7free.allyes.com
-:: e7free.allyes.com
 0.0.0.0 ea.access-moto.com
 :: ea.access-moto.com
 0.0.0.0 ea.armandthiery.fr
@@ -22566,8 +22568,6 @@ ff02::3 ip6-allhosts
 :: freedsipoints.co.uk
 0.0.0.0 freegift001.000webhostapp.com
 :: freegift001.000webhostapp.com
-0.0.0.0 freeleagueoflegendskins.co.uk
-:: freeleagueoflegendskins.co.uk
 0.0.0.0 freeminecraft.co.uk
 :: freeminecraft.co.uk
 0.0.0.0 freemoneymakingwebsite300.blogspot.com
@@ -25270,8 +25270,6 @@ ff02::3 ip6-allhosts
 :: go2.mathworks.com
 0.0.0.0 go2.signalboosters.com
 :: go2.signalboosters.com
-0.0.0.0 go2.toshiba.com
-:: go2.toshiba.com
 0.0.0.0 go2.unitrends.com
 :: go2.unitrends.com
 0.0.0.0 goals.rusingh.com
@@ -25804,8 +25802,6 @@ ff02::3 ip6-allhosts
 :: hdj.baidu.com
 0.0.0.0 hdjhsudhe.kuaizhan.com
 :: hdjhsudhe.kuaizhan.com
-0.0.0.0 hdnagl.womensecret.com
-:: hdnagl.womensecret.com
 0.0.0.0 he6e.lavieimmo.com
 :: he6e.lavieimmo.com
 0.0.0.0 headlines.sharethrough.com
@@ -28602,8 +28598,6 @@ ff02::3 ip6-allhosts
 :: ipdata.adtech.us
 0.0.0.0 ipengtai.huanqiu.com
 :: ipengtai.huanqiu.com
-0.0.0.0 iphufr.circleline.com
-:: iphufr.circleline.com
 0.0.0.0 ipinyou.com.cn
 :: ipinyou.com.cn
 0.0.0.0 ipkasp.nissan.co.jp
@@ -28682,6 +28676,8 @@ ff02::3 ip6-allhosts
 :: ismpnb.pureda.co.kr
 0.0.0.0 isocket-creatives.s3.amazonaws.com
 :: isocket-creatives.s3.amazonaws.com
+0.0.0.0 isu.weidianyuedu.com
+:: isu.weidianyuedu.com
 0.0.0.0 isuzu.actonservice.com
 :: isuzu.actonservice.com
 0.0.0.0 isyght.lensa.ro
@@ -28770,8 +28766,6 @@ ff02::3 ip6-allhosts
 :: ixrfsm.sawiday.fr
 0.0.0.0 iy.com.cn
 :: iy.com.cn
-0.0.0.0 iycifx.coldwatercreek.com
-:: iycifx.coldwatercreek.com
 0.0.0.0 iyes.youku.com
 :: iyes.youku.com
 0.0.0.0 iyumiao.com.cn
@@ -29882,8 +29876,6 @@ ff02::3 ip6-allhosts
 :: krq.yymmsd.cn
 0.0.0.0 krum.vsct.fr
 :: krum.vsct.fr
-0.0.0.0 krurdm.spao.com
-:: krurdm.spao.com
 0.0.0.0 krutor.eu.org
 :: krutor.eu.org
 0.0.0.0 krwzck.sharelytics.co
@@ -30284,8 +30276,6 @@ ff02::3 ip6-allhosts
 :: lepodownload.mediatek.com
 0.0.0.0 let1.devialet.com
 :: let1.devialet.com
-0.0.0.0 letv.allyes.com
-:: letv.allyes.com
 0.0.0.0 letv.axp.admaster.com.cn
 :: letv.axp.admaster.com.cn
 0.0.0.0 letv.ipdx.cn.miaozhen.com
@@ -38214,8 +38204,6 @@ ff02::3 ip6-allhosts
 :: onespot-tracking.herokuapp.com
 0.0.0.0 onetag.mgr.consensu.org
 :: onetag.mgr.consensu.org
-0.0.0.0 oneyouxi.com.cn
-:: oneyouxi.com.cn
 0.0.0.0 onghfx.revolve.com
 :: onghfx.revolve.com
 0.0.0.0 online-casino.shengen.ru
@@ -38958,8 +38946,6 @@ ff02::3 ip6-allhosts
 :: pam.nextinpact.com
 0.0.0.0 pan.render.com
 :: pan.render.com
-0.0.0.0 pan.whathyx.com
-:: pan.whathyx.com
 0.0.0.0 panda.adsame.com
 :: panda.adsame.com
 0.0.0.0 panda.kdnet.net
@@ -40028,8 +40014,6 @@ ff02::3 ip6-allhosts
 :: pj.u5m4.cn
 0.0.0.0 pjh7.us.chantelle.com
 :: pjh7.us.chantelle.com
-0.0.0.0 pjljqp.gap.ru
-:: pjljqp.gap.ru
 0.0.0.0 pjogndc8ixoidna.360doc.cn
 :: pjogndc8ixoidna.360doc.cn
 0.0.0.0 pjtlme.rozetka.com.ua
@@ -55266,8 +55250,6 @@ ff02::3 ip6-allhosts
 :: track.msadcenter.xda.com
 0.0.0.0 track.msadcenter.xxx.com
 :: track.msadcenter.xxx.com
-0.0.0.0 track.msadcenter.xzwy.com
-:: track.msadcenter.xzwy.com
 0.0.0.0 track.msadcenter.ybi.com
 :: track.msadcenter.ybi.com
 0.0.0.0 track.msadcenter.zepw.com
@@ -57718,10 +57700,14 @@ ff02::3 ip6-allhosts
 :: v.tf.360.cn
 0.0.0.0 v.u22l.cc
 :: v.u22l.cc
+0.0.0.0 v.wxskqy.cn
+:: v.wxskqy.cn
 0.0.0.0 v.xadingli.cn
 :: v.xadingli.cn
 0.0.0.0 v.xbjcgs.cn
 :: v.xbjcgs.cn
+0.0.0.0 v.xdygw.com.cn
+:: v.xdygw.com.cn
 0.0.0.0 v.xi666.com
 :: v.xi666.com
 0.0.0.0 v.xinshide.cn
@@ -58742,6 +58728,8 @@ ff02::3 ip6-allhosts
 :: wddnff.bonprix.cz
 0.0.0.0 wdfhbx.zdpeanut.com
 :: wdfhbx.zdpeanut.com
+0.0.0.0 wdfhl.weidianyuedu.com
+:: wdfhl.weidianyuedu.com
 0.0.0.0 wdig.vo.llnwd.net
 :: wdig.vo.llnwd.net
 0.0.0.0 wdm.map24.com
@@ -60280,8 +60268,6 @@ ff02::3 ip6-allhosts
 :: www2.ispot.tv
 0.0.0.0 www2.jameshardie.com.au
 :: www2.jameshardie.com.au
-0.0.0.0 www2.jetpak.com
-:: www2.jetpak.com
 0.0.0.0 www2.joyce-meyer.de
 :: www2.joyce-meyer.de
 0.0.0.0 www2.joyce-meyer.nl
