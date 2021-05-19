@@ -1,8 +1,8 @@
-# Checksum: MTYyMTMwMDIyMwo=
+# Checksum: MTYyMTM4NjM0MQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210518-0
-# TimeUpdated: 2021-05-18T01:10:23+00:00
+# Version: 1.1.8-20210519-0
+# TimeUpdated: 2021-05-19T01:05:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 30890
@@ -104,7 +104,6 @@ DOMAIN,104231.dtiblog.com,REJECT
 DOMAIN,1080872514.rsc.cdn77.org,REJECT
 DOMAIN,11.96131.com.cn,REJECT
 DOMAIN,11.yiqig.com,REJECT
-DOMAIN,1116.oadz.com,REJECT
 DOMAIN,111g.yiqig.cn,REJECT
 DOMAIN,114-track.net.daraz.com,REJECT
 DOMAIN,1178.shucong.com,REJECT
@@ -2861,7 +2860,6 @@ DOMAIN,ads2.pittsburghlive.com,REJECT
 DOMAIN,ads2.realcities.com,REJECT
 DOMAIN,ads2.rne.com,REJECT
 DOMAIN,ads2.techads.info,REJECT
-DOMAIN,ads2.tweetna.ir,REJECT
 DOMAIN,ads2.virtual-nights.com,REJECT
 DOMAIN,ads2.webdrive.no,REJECT
 DOMAIN,ads2.weblogssl.com,REJECT
@@ -3698,6 +3696,7 @@ DOMAIN,analytic.ae.com,REJECT
 DOMAIN,analytic.baodantoc.vn,REJECT
 DOMAIN,analytic.cibc.com,REJECT
 DOMAIN,analytic.imlive.com,REJECT
+DOMAIN,analytic.rollout.io,REJECT
 DOMAIN,analytic.surfline.com,REJECT
 DOMAIN,analytic.underarmour.com,REJECT
 DOMAIN,analytic.xingcloud.com,REJECT
@@ -6277,7 +6276,6 @@ DOMAIN,cap.touclick.com,REJECT
 DOMAIN,capinfoproreport.batiactu.com,REJECT
 DOMAIN,capitain.noblock.pro,REJECT
 DOMAIN,captain.directprimal.com,REJECT
-DOMAIN,captain.noblock.pro,REJECT
 DOMAIN,captain2.directprimal.com,REJECT
 DOMAIN,captchas.freebitco.in,REJECT
 DOMAIN,captify.co.uk,REJECT
@@ -10926,6 +10924,7 @@ DOMAIN,f.e719.net,REJECT
 DOMAIN,f.gm.mob.com,REJECT
 DOMAIN,f.hongm.com,REJECT
 DOMAIN,f.novanet.vn,REJECT
+DOMAIN,f.schemeflood.com,REJECT
 DOMAIN,f.staticlp.com,REJECT
 DOMAIN,f.xyu.tv,REJECT
 DOMAIN,f.zgbmw.com.cn,REJECT
@@ -15996,7 +15995,6 @@ DOMAIN,m.nejup.com,REJECT
 DOMAIN,m.niegg.com,REJECT
 DOMAIN,m.nkjfzq43034.cn,REJECT
 DOMAIN,m.nmtouzi.com,REJECT
-DOMAIN,m.ntxiangtai.com,REJECT
 DOMAIN,m.nuoqingck.cn,REJECT
 DOMAIN,m.nydjsm.cn,REJECT
 DOMAIN,m.obeip.com,REJECT
@@ -20352,6 +20350,7 @@ DOMAIN,privacy-api.9gag.com,REJECT
 DOMAIN,privacy-policy.u-lab.nl,REJECT
 DOMAIN,privacy.claytonhomes.com,REJECT
 DOMAIN,privacy.clion.agency,REJECT
+DOMAIN,privacy.outdoorsg.com,REJECT
 DOMAIN,privacy.selbst.de,REJECT
 DOMAIN,privacypolicy.trgr.be,REJECT
 DOMAIN,privacyportal.fatergroup.com,REJECT
@@ -21112,7 +21111,6 @@ DOMAIN,reklama-cluster.tut.by,REJECT
 DOMAIN,reklama.mironet.cz,REJECT
 DOMAIN,reklama.onet.pl,REJECT
 DOMAIN,reklama.reflektor.cz,REJECT
-DOMAIN,reklama.warforum.cz,REJECT
 DOMAIN,reklame.unwired-i.net,REJECT
 DOMAIN,reklamstore.cubecdn.net,REJECT
 DOMAIN,reklamy.sfd.pl,REJECT
@@ -21481,7 +21479,6 @@ DOMAIN,s.376zf.com,REJECT
 DOMAIN,s.6travel.com,REJECT
 DOMAIN,s.80000hours.org,REJECT
 DOMAIN,s.abcache.com,REJECT
-DOMAIN,s.ad121m.com,REJECT
 DOMAIN,s.adroll.com,REJECT
 DOMAIN,s.ads.sohu.com,REJECT
 DOMAIN,s.adverigo.com,REJECT
@@ -21532,7 +21529,6 @@ DOMAIN,s.di.com.pl,REJECT
 DOMAIN,s.domob.cn,REJECT
 DOMAIN,s.doyo.cn,REJECT
 DOMAIN,s.dpcq1.net,REJECT
-DOMAIN,s.duoroumao.cn,REJECT
 DOMAIN,s.ecampaign.pl,REJECT
 DOMAIN,s.eclick.vn,REJECT
 DOMAIN,s.effectivemeasure.net,REJECT
@@ -25903,6 +25899,7 @@ DOMAIN,stats.piaggio.com,REJECT
 DOMAIN,stats.pixify.net,REJECT
 DOMAIN,stats.pixyship.com,REJECT
 DOMAIN,stats.planillaplus.com,REJECT
+DOMAIN,stats.podcastwebsites.com,REJECT
 DOMAIN,stats.polekatfitness.com,REJECT
 DOMAIN,stats.polldaddy.com,REJECT
 DOMAIN,stats.popcap.com,REJECT
@@ -26582,6 +26579,7 @@ DOMAIN,t.locasun.es,REJECT
 DOMAIN,t.locasun.fr,REJECT
 DOMAIN,t.locasun.it,REJECT
 DOMAIN,t.locasun.nl,REJECT
+DOMAIN,t.mdn2015x3.com,REJECT
 DOMAIN,t.mediacartel.ru,REJECT
 DOMAIN,t.menepe.com,REJECT
 DOMAIN,t.mktg.genesys.com,REJECT
@@ -27140,7 +27138,6 @@ DOMAIN,tob-cms.bj.bcebos.com,REJECT
 DOMAIN,tobapplog.ctobsnssdk.com,REJECT
 DOMAIN,toblog.ctobsnssdk.com,REJECT
 DOMAIN,toblog.snssdk.com,REJECT
-DOMAIN,today.vuer.net,REJECT
 DOMAIN,tojrhz.silvergoldbull.com,REJECT
 DOMAIN,tokei.upstract.com,REJECT
 DOMAIN,token.rubiconproject.com,REJECT
@@ -27727,6 +27724,7 @@ DOMAIN,track2.cliplister.com,REJECT
 DOMAIN,track2.dulingo.com,REJECT
 DOMAIN,track2.mycliplister.com,REJECT
 DOMAIN,trackcommon.hujiang.com,REJECT
+DOMAIN,trackdb.go3.tv,REJECT
 DOMAIN,tracker-api.my.com,REJECT
 DOMAIN,tracker-id.cdiscount.com,REJECT
 DOMAIN,tracker.520call.me,REJECT
@@ -30522,6 +30520,7 @@ DOMAIN,xxlefq.commentcamarche.net,REJECT
 DOMAIN,xxlefq.journaldesfemmes.fr,REJECT
 DOMAIN,xxlefq.linternaute.fr,REJECT
 DOMAIN,xxvwif.marquise.com.au,REJECT
+DOMAIN,xxxa.aikeapp.com,REJECT
 DOMAIN,xy-log2.tagtic.cn,REJECT
 DOMAIN,xy.nullrefexcep.com,REJECT
 DOMAIN,xy33.smallable.com,REJECT
@@ -30739,6 +30738,7 @@ DOMAIN,z1.chezhuzhinan.com,REJECT
 DOMAIN,z1.cnywst.com,REJECT
 DOMAIN,z1.cyla.cn,REJECT
 DOMAIN,z1.o8h7d.cn,REJECT
+DOMAIN,z1.pclady.com.cn,REJECT
 DOMAIN,z1.yunl1.com,REJECT
 DOMAIN,z1.zedo.com,REJECT
 DOMAIN,z1.zhishidu.com,REJECT

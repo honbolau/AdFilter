@@ -1,8 +1,8 @@
-# Checksum: MTYyMTMwMDIyMwo=
+# Checksum: MTYyMTM4NjM0MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210518-0
-# TimeUpdated: 2021-05-18T01:10:23+00:00
+# Version: 1.1.8-20210519-0
+# TimeUpdated: 2021-05-19T01:05:41+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 30890
@@ -212,8 +212,6 @@ ff02::3 ip6-allhosts
 :: 11.96131.com.cn
 0.0.0.0 11.yiqig.com
 :: 11.yiqig.com
-0.0.0.0 1116.oadz.com
-:: 1116.oadz.com
 0.0.0.0 111g.yiqig.cn
 :: 111g.yiqig.cn
 0.0.0.0 114-track.net.daraz.com
@@ -5726,8 +5724,6 @@ ff02::3 ip6-allhosts
 :: ads2.rne.com
 0.0.0.0 ads2.techads.info
 :: ads2.techads.info
-0.0.0.0 ads2.tweetna.ir
-:: ads2.tweetna.ir
 0.0.0.0 ads2.virtual-nights.com
 :: ads2.virtual-nights.com
 0.0.0.0 ads2.webdrive.no
@@ -7400,6 +7396,8 @@ ff02::3 ip6-allhosts
 :: analytic.cibc.com
 0.0.0.0 analytic.imlive.com
 :: analytic.imlive.com
+0.0.0.0 analytic.rollout.io
+:: analytic.rollout.io
 0.0.0.0 analytic.surfline.com
 :: analytic.surfline.com
 0.0.0.0 analytic.underarmour.com
@@ -12558,8 +12556,6 @@ ff02::3 ip6-allhosts
 :: capitain.noblock.pro
 0.0.0.0 captain.directprimal.com
 :: captain.directprimal.com
-0.0.0.0 captain.noblock.pro
-:: captain.noblock.pro
 0.0.0.0 captain2.directprimal.com
 :: captain2.directprimal.com
 0.0.0.0 captchas.freebitco.in
@@ -21856,6 +21852,8 @@ ff02::3 ip6-allhosts
 :: f.hongm.com
 0.0.0.0 f.novanet.vn
 :: f.novanet.vn
+0.0.0.0 f.schemeflood.com
+:: f.schemeflood.com
 0.0.0.0 f.staticlp.com
 :: f.staticlp.com
 0.0.0.0 f.xyu.tv
@@ -31996,8 +31994,6 @@ ff02::3 ip6-allhosts
 :: m.nkjfzq43034.cn
 0.0.0.0 m.nmtouzi.com
 :: m.nmtouzi.com
-0.0.0.0 m.ntxiangtai.com
-:: m.ntxiangtai.com
 0.0.0.0 m.nuoqingck.cn
 :: m.nuoqingck.cn
 0.0.0.0 m.nydjsm.cn
@@ -40708,6 +40704,8 @@ ff02::3 ip6-allhosts
 :: privacy.claytonhomes.com
 0.0.0.0 privacy.clion.agency
 :: privacy.clion.agency
+0.0.0.0 privacy.outdoorsg.com
+:: privacy.outdoorsg.com
 0.0.0.0 privacy.selbst.de
 :: privacy.selbst.de
 0.0.0.0 privacypolicy.trgr.be
@@ -42228,8 +42226,6 @@ ff02::3 ip6-allhosts
 :: reklama.onet.pl
 0.0.0.0 reklama.reflektor.cz
 :: reklama.reflektor.cz
-0.0.0.0 reklama.warforum.cz
-:: reklama.warforum.cz
 0.0.0.0 reklame.unwired-i.net
 :: reklame.unwired-i.net
 0.0.0.0 reklamstore.cubecdn.net
@@ -42966,8 +42962,6 @@ ff02::3 ip6-allhosts
 :: s.80000hours.org
 0.0.0.0 s.abcache.com
 :: s.abcache.com
-0.0.0.0 s.ad121m.com
-:: s.ad121m.com
 0.0.0.0 s.adroll.com
 :: s.adroll.com
 0.0.0.0 s.ads.sohu.com
@@ -43068,8 +43062,6 @@ ff02::3 ip6-allhosts
 :: s.doyo.cn
 0.0.0.0 s.dpcq1.net
 :: s.dpcq1.net
-0.0.0.0 s.duoroumao.cn
-:: s.duoroumao.cn
 0.0.0.0 s.ecampaign.pl
 :: s.ecampaign.pl
 0.0.0.0 s.eclick.vn
@@ -51810,6 +51802,8 @@ ff02::3 ip6-allhosts
 :: stats.pixyship.com
 0.0.0.0 stats.planillaplus.com
 :: stats.planillaplus.com
+0.0.0.0 stats.podcastwebsites.com
+:: stats.podcastwebsites.com
 0.0.0.0 stats.polekatfitness.com
 :: stats.polekatfitness.com
 0.0.0.0 stats.polldaddy.com
@@ -53168,6 +53162,8 @@ ff02::3 ip6-allhosts
 :: t.locasun.it
 0.0.0.0 t.locasun.nl
 :: t.locasun.nl
+0.0.0.0 t.mdn2015x3.com
+:: t.mdn2015x3.com
 0.0.0.0 t.mediacartel.ru
 :: t.mediacartel.ru
 0.0.0.0 t.menepe.com
@@ -54284,8 +54280,6 @@ ff02::3 ip6-allhosts
 :: toblog.ctobsnssdk.com
 0.0.0.0 toblog.snssdk.com
 :: toblog.snssdk.com
-0.0.0.0 today.vuer.net
-:: today.vuer.net
 0.0.0.0 tojrhz.silvergoldbull.com
 :: tojrhz.silvergoldbull.com
 0.0.0.0 tokei.upstract.com
@@ -55458,6 +55452,8 @@ ff02::3 ip6-allhosts
 :: track2.mycliplister.com
 0.0.0.0 trackcommon.hujiang.com
 :: trackcommon.hujiang.com
+0.0.0.0 trackdb.go3.tv
+:: trackdb.go3.tv
 0.0.0.0 tracker-api.my.com
 :: tracker-api.my.com
 0.0.0.0 tracker-id.cdiscount.com
@@ -61048,6 +61044,8 @@ ff02::3 ip6-allhosts
 :: xxlefq.linternaute.fr
 0.0.0.0 xxvwif.marquise.com.au
 :: xxvwif.marquise.com.au
+0.0.0.0 xxxa.aikeapp.com
+:: xxxa.aikeapp.com
 0.0.0.0 xy-log2.tagtic.cn
 :: xy-log2.tagtic.cn
 0.0.0.0 xy.nullrefexcep.com
@@ -61482,6 +61480,8 @@ ff02::3 ip6-allhosts
 :: z1.cyla.cn
 0.0.0.0 z1.o8h7d.cn
 :: z1.o8h7d.cn
+0.0.0.0 z1.pclady.com.cn
+:: z1.pclady.com.cn
 0.0.0.0 z1.yunl1.com
 :: z1.yunl1.com
 0.0.0.0 z1.zedo.com
