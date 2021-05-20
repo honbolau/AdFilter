@@ -1,11 +1,11 @@
-# Checksum: MTYyMTM4NjM0MQo=
+# Checksum: MTYyMTQ3MjYwMwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210519-0
-# TimeUpdated: 2021-05-19T01:05:41+00:00
+# Version: 1.1.8-20210520-0
+# TimeUpdated: 2021-05-20T01:03:23+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 30890
+# Total: 30895
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1212,8 +1212,6 @@ ff02::3 ip6-allhosts
 :: a1.zhanzhang.net
 0.0.0.0 a11058.actonservice.com
 :: a11058.actonservice.com
-0.0.0.0 a1139.oadz.com
-:: a1139.oadz.com
 0.0.0.0 a11413003.actonservice.com
 :: a11413003.actonservice.com
 0.0.0.0 a11868.actonservice.com
@@ -3450,6 +3448,8 @@ ff02::3 ip6-allhosts
 :: adc.nine.com.au
 0.0.0.0 adc.quantrimang.com
 :: adc.quantrimang.com
+0.0.0.0 adc.streamspread.com
+:: adc.streamspread.com
 0.0.0.0 adc.tripple.at
 :: adc.tripple.at
 0.0.0.0 adc3-launch.adcolony.com
@@ -7500,6 +7500,8 @@ ff02::3 ip6-allhosts
 :: analytics.asml.com
 0.0.0.0 analytics.atdmt.com
 :: analytics.atdmt.com
+0.0.0.0 analytics.atlassian.com
+:: analytics.atlassian.com
 0.0.0.0 analytics.atomiconline.com
 :: analytics.atomiconline.com
 0.0.0.0 analytics.audioeye.com
@@ -8360,8 +8362,6 @@ ff02::3 ip6-allhosts
 :: apac.car10.net.daraz.com
 0.0.0.0 apac.wf.com
 :: apac.wf.com
-0.0.0.0 apac1.notify.windows.com.akadns.net
-:: apac1.notify.windows.com.akadns.net
 0.0.0.0 apache.r-oa-2.net.daraz.com
 :: apache.r-oa-2.net.daraz.com
 0.0.0.0 apacr-ht-1.net.daraz.com
@@ -10568,6 +10568,8 @@ ff02::3 ip6-allhosts
 :: bbsimages.zkxf119.com
 0.0.0.0 bc.5.p2l.info
 :: bc.5.p2l.info
+0.0.0.0 bc.ad.daum.net
+:: bc.ad.daum.net
 0.0.0.0 bc.bannerengineering.com
 :: bc.bannerengineering.com
 0.0.0.0 bc.coupons.com
@@ -15772,6 +15774,8 @@ ff02::3 ip6-allhosts
 :: counter.photopulse.ru
 0.0.0.0 counter.pixplug.in
 :: counter.pixplug.in
+0.0.0.0 counter.plos.org
+:: counter.plos.org
 0.0.0.0 counter.powweb.com
 :: counter.powweb.com
 0.0.0.0 counter.pr-cy.ru
@@ -18784,8 +18788,6 @@ ff02::3 ip6-allhosts
 :: digital.opsbase.com
 0.0.0.0 digital.setpointis.com
 :: digital.setpointis.com
-0.0.0.0 digital4ro.adocean.pl
-:: digital4ro.adocean.pl
 0.0.0.0 digitaladv.despar.it
 :: digitaladv.despar.it
 0.0.0.0 digitalmarketing.nglantz.com
@@ -21652,6 +21654,8 @@ ff02::3 ip6-allhosts
 :: events3.adcolony.com
 0.0.0.0 events3alt.adcolony.com
 :: events3alt.adcolony.com
+0.0.0.0 eventsapi.grocerkey.com
+:: eventsapi.grocerkey.com
 0.0.0.0 eventstream.dodopizza.com
 :: eventstream.dodopizza.com
 0.0.0.0 eventtracker.videostrip.com
@@ -23192,6 +23196,8 @@ ff02::3 ip6-allhosts
 :: gemius.mgr.consensu.org
 0.0.0.0 gen.alicdn.com
 :: gen.alicdn.com
+0.0.0.0 geo.ads.audio.thisisdax.com
+:: geo.ads.audio.thisisdax.com
 0.0.0.0 geo.battle.net
 :: geo.battle.net
 0.0.0.0 geo.bluedot.io
@@ -29232,8 +29238,6 @@ ff02::3 ip6-allhosts
 :: js.ea3w.com
 0.0.0.0 js.fc090.com
 :: js.fc090.com
-0.0.0.0 js.feitian001.com
-:: js.feitian001.com
 0.0.0.0 js.fengniao.com
 :: js.fengniao.com
 0.0.0.0 js.fhxiaoshuo.com
@@ -29304,8 +29308,6 @@ ff02::3 ip6-allhosts
 :: js.ruiwen.com
 0.0.0.0 js.safe524.xyz
 :: js.safe524.xyz
-0.0.0.0 js.saiqizhi.com
-:: js.saiqizhi.com
 0.0.0.0 js.sanwen.net
 :: js.sanwen.net
 0.0.0.0 js.shangxueba.com
@@ -32326,8 +32328,6 @@ ff02::3 ip6-allhosts
 :: mac-osx.message-warning.net
 0.0.0.0 macaxpower.com.br
 :: macaxpower.com.br
-0.0.0.0 maccms.tan5858.com
-:: maccms.tan5858.com
 0.0.0.0 machinelogic.actonservice.com
 :: machinelogic.actonservice.com
 0.0.0.0 mackeeperapp.mackeeper.com
@@ -37178,8 +37178,6 @@ ff02::3 ip6-allhosts
 :: nfused.eobuv.com.ua
 0.0.0.0 ng-vn-notice.gameitop.com
 :: ng-vn-notice.gameitop.com
-0.0.0.0 ng.namupage.com
-:: ng.namupage.com
 0.0.0.0 ng.nextgen.com
 :: ng.nextgen.com
 0.0.0.0 ng3.ads.warnerbros.com
@@ -39830,8 +39828,6 @@ ff02::3 ip6-allhosts
 :: pix.airbusgroup.com
 0.0.0.0 pix.eads.com
 :: pix.eads.com
-0.0.0.0 pix.impdesk.com
-:: pix.impdesk.com
 0.0.0.0 pix.nbcuni.com
 :: pix.nbcuni.com
 0.0.0.0 pix.revjet.com
@@ -40984,6 +40980,8 @@ ff02::3 ip6-allhosts
 :: protection.nzpolice.com
 0.0.0.0 protection.papolice.com
 :: protection.papolice.com
+0.0.0.0 protection.pfpolice.com
+:: protection.pfpolice.com
 0.0.0.0 protection.pgpolice.com
 :: protection.pgpolice.com
 0.0.0.0 protection.sbpolice.com
@@ -41318,6 +41316,8 @@ ff02::3 ip6-allhosts
 :: pv.funshion.com
 0.0.0.0 pv.hd.sohu.com
 :: pv.hd.sohu.com
+0.0.0.0 pv.kuaizhan.com
+:: pv.kuaizhan.com
 0.0.0.0 pv.mediav.com
 :: pv.mediav.com
 0.0.0.0 pv.pjtsu.com
@@ -53794,6 +53794,8 @@ ff02::3 ip6-allhosts
 :: telemetry.urs.microsoft.com
 0.0.0.0 telemetry.v.dropbox.com
 :: telemetry.v.dropbox.com
+0.0.0.0 telemetry.voxeet.com
+:: telemetry.voxeet.com
 0.0.0.0 telstra.imrworldwide.com
 :: telstra.imrworldwide.com
 0.0.0.0 telulr.golfgalaxy.com
@@ -53858,6 +53860,8 @@ ff02::3 ip6-allhosts
 :: test.directprimal.com
 0.0.0.0 test.e.ad.xiaomi.com
 :: test.e.ad.xiaomi.com
+0.0.0.0 test.eduancm.com
+:: test.eduancm.com
 0.0.0.0 test.ishvara-yoga.com
 :: test.ishvara-yoga.com
 0.0.0.0 test.minr.pw
@@ -55030,6 +55034,8 @@ ff02::3 ip6-allhosts
 :: trace2.rtbasia.com
 0.0.0.0 tracelog-debug.aiclk.com
 :: tracelog-debug.aiclk.com
+0.0.0.0 traces.sr.roku.com
+:: traces.sr.roku.com
 0.0.0.0 traceybell.co.uk
 :: traceybell.co.uk
 0.0.0.0 track-aws.notsy.io
@@ -57550,6 +57556,8 @@ ff02::3 ip6-allhosts
 :: uuhejd.snipes.es
 0.0.0.0 uuidapi.yunos.com
 :: uuidapi.yunos.com
+0.0.0.0 uun.1uandun.com
+:: uun.1uandun.com
 0.0.0.0 uurzdr.global-style.jp
 :: uurzdr.global-style.jp
 0.0.0.0 uusee.adsame.com
@@ -59124,6 +59132,8 @@ ff02::3 ip6-allhosts
 :: widget.cybershop-affiliate.jp
 0.0.0.0 widget.ezprice.com.tw
 :: widget.ezprice.com.tw
+0.0.0.0 widget.faphouse.com
+:: widget.faphouse.com
 0.0.0.0 widget.feedot-lawyer.ru
 :: widget.feedot-lawyer.ru
 0.0.0.0 widget.headlines.pw

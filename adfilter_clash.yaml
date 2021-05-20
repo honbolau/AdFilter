@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYyMTM4NjM0MQo=
+# Checksum: MTYyMTQ3MjYwMwo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210519-0
-# TimeUpdated: 2021-05-19T01:05:41+00:00
+# Version: 1.1.8-20210520-0
+# TimeUpdated: 2021-05-20T01:03:23+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 30890
+# Total: 30895
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -605,7 +605,6 @@ payload:
   - DOMAIN,a1.twtym.com
   - DOMAIN,a1.zhanzhang.net
   - DOMAIN,a11058.actonservice.com
-  - DOMAIN,a1139.oadz.com
   - DOMAIN,a11413003.actonservice.com
   - DOMAIN,a11868.actonservice.com
   - DOMAIN,a12329.actonservice.com
@@ -1724,6 +1723,7 @@ payload:
   - DOMAIN,adc.hpplay.cn
   - DOMAIN,adc.nine.com.au
   - DOMAIN,adc.quantrimang.com
+  - DOMAIN,adc.streamspread.com
   - DOMAIN,adc.tripple.at
   - DOMAIN,adc3-launch.adcolony.com
   - DOMAIN,adcampaigns.sharewood.org
@@ -3749,6 +3749,7 @@ payload:
   - DOMAIN,analytics.arz.at
   - DOMAIN,analytics.asml.com
   - DOMAIN,analytics.atdmt.com
+  - DOMAIN,analytics.atlassian.com
   - DOMAIN,analytics.atomiconline.com
   - DOMAIN,analytics.audioeye.com
   - DOMAIN,analytics.audionow.de
@@ -4179,7 +4180,6 @@ payload:
   - DOMAIN,apac-winter.net.daraz.com
   - DOMAIN,apac.car10.net.daraz.com
   - DOMAIN,apac.wf.com
-  - DOMAIN,apac1.notify.windows.com.akadns.net
   - DOMAIN,apache.r-oa-2.net.daraz.com
   - DOMAIN,apacr-ht-1.net.daraz.com
   - DOMAIN,apacwlan-switch.net.daraz.com
@@ -5283,6 +5283,7 @@ payload:
   - DOMAIN,bbnn.999xs.com
   - DOMAIN,bbsimages.zkxf119.com
   - DOMAIN,bc.5.p2l.info
+  - DOMAIN,bc.ad.daum.net
   - DOMAIN,bc.bannerengineering.com
   - DOMAIN,bc.coupons.com
   - DOMAIN,bc.infoblog.today
@@ -7885,6 +7886,7 @@ payload:
   - DOMAIN,counter.people.cn
   - DOMAIN,counter.photopulse.ru
   - DOMAIN,counter.pixplug.in
+  - DOMAIN,counter.plos.org
   - DOMAIN,counter.powweb.com
   - DOMAIN,counter.pr-cy.ru
   - DOMAIN,counter.proxycrawl.com
@@ -9391,7 +9393,6 @@ payload:
   - DOMAIN,digital.att.com
   - DOMAIN,digital.opsbase.com
   - DOMAIN,digital.setpointis.com
-  - DOMAIN,digital4ro.adocean.pl
   - DOMAIN,digitaladv.despar.it
   - DOMAIN,digitalmarketing.nglantz.com
   - DOMAIN,digitalmore-a.akamaihd.net
@@ -10825,6 +10826,7 @@ payload:
   - DOMAIN,events.yourcx.io
   - DOMAIN,events3.adcolony.com
   - DOMAIN,events3alt.adcolony.com
+  - DOMAIN,eventsapi.grocerkey.com
   - DOMAIN,eventstream.dodopizza.com
   - DOMAIN,eventtracker.videostrip.com
   - DOMAIN,evhkrh.biory.kr
@@ -11595,6 +11597,7 @@ payload:
   - DOMAIN,gemini.yahoo.com
   - DOMAIN,gemius.mgr.consensu.org
   - DOMAIN,gen.alicdn.com
+  - DOMAIN,geo.ads.audio.thisisdax.com
   - DOMAIN,geo.battle.net
   - DOMAIN,geo.bluedot.io
   - DOMAIN,geo.cliphunter.com
@@ -14615,7 +14618,6 @@ payload:
   - DOMAIN,js.duotegame.com
   - DOMAIN,js.ea3w.com
   - DOMAIN,js.fc090.com
-  - DOMAIN,js.feitian001.com
   - DOMAIN,js.fengniao.com
   - DOMAIN,js.fhxiaoshuo.com
   - DOMAIN,js.firefang.cn
@@ -14651,7 +14653,6 @@ payload:
   - DOMAIN,js.qqsort.com
   - DOMAIN,js.ruiwen.com
   - DOMAIN,js.safe524.xyz
-  - DOMAIN,js.saiqizhi.com
   - DOMAIN,js.sanwen.net
   - DOMAIN,js.shangxueba.com
   - DOMAIN,js.smi2.ru
@@ -16162,7 +16163,6 @@ payload:
   - DOMAIN,mac-alert-information-getting-errors.s3-website-us-west-2.amazonaws.com
   - DOMAIN,mac-osx.message-warning.net
   - DOMAIN,macaxpower.com.br
-  - DOMAIN,maccms.tan5858.com
   - DOMAIN,machinelogic.actonservice.com
   - DOMAIN,mackeeperapp.mackeeper.com
   - DOMAIN,mackeeperapp1.zeobit.com
@@ -18588,7 +18588,6 @@ payload:
   - DOMAIN,nfdnserror9.wo.com.cn
   - DOMAIN,nfused.eobuv.com.ua
   - DOMAIN,ng-vn-notice.gameitop.com
-  - DOMAIN,ng.namupage.com
   - DOMAIN,ng.nextgen.com
   - DOMAIN,ng3.ads.warnerbros.com
   - DOMAIN,ngads.go.com
@@ -19914,7 +19913,6 @@ payload:
   - DOMAIN,piwik.matrix.ua
   - DOMAIN,pix.airbusgroup.com
   - DOMAIN,pix.eads.com
-  - DOMAIN,pix.impdesk.com
   - DOMAIN,pix.nbcuni.com
   - DOMAIN,pix.revjet.com
   - DOMAIN,pix.speedbit.com
@@ -20491,6 +20489,7 @@ payload:
   - DOMAIN,protection.ncpolice.com
   - DOMAIN,protection.nzpolice.com
   - DOMAIN,protection.papolice.com
+  - DOMAIN,protection.pfpolice.com
   - DOMAIN,protection.pgpolice.com
   - DOMAIN,protection.sbpolice.com
   - DOMAIN,protection.stpolice.com
@@ -20658,6 +20657,7 @@ payload:
   - DOMAIN,pv.focus.cn
   - DOMAIN,pv.funshion.com
   - DOMAIN,pv.hd.sohu.com
+  - DOMAIN,pv.kuaizhan.com
   - DOMAIN,pv.mediav.com
   - DOMAIN,pv.pjtsu.com
   - DOMAIN,pv.ra.icast.cn
@@ -26896,6 +26896,7 @@ payload:
   - DOMAIN,telemetry.tradingview.com
   - DOMAIN,telemetry.urs.microsoft.com
   - DOMAIN,telemetry.v.dropbox.com
+  - DOMAIN,telemetry.voxeet.com
   - DOMAIN,telstra.imrworldwide.com
   - DOMAIN,telulr.golfgalaxy.com
   - DOMAIN,telus.hb-api.omtrdc.net
@@ -26928,6 +26929,7 @@ payload:
   - DOMAIN,test.customers.instacartemail.com
   - DOMAIN,test.directprimal.com
   - DOMAIN,test.e.ad.xiaomi.com
+  - DOMAIN,test.eduancm.com
   - DOMAIN,test.ishvara-yoga.com
   - DOMAIN,test.minr.pw
   - DOMAIN,test.shoppers.instacartemail.com
@@ -27514,6 +27516,7 @@ payload:
   - DOMAIN,trace.ynet.com
   - DOMAIN,trace2.rtbasia.com
   - DOMAIN,tracelog-debug.aiclk.com
+  - DOMAIN,traces.sr.roku.com
   - DOMAIN,traceybell.co.uk
   - DOMAIN,track-aws.notsy.io
   - DOMAIN,track-east.mobileadtrading.com
@@ -28774,6 +28777,7 @@ payload:
   - DOMAIN,uue2.destinia.ir
   - DOMAIN,uuhejd.snipes.es
   - DOMAIN,uuidapi.yunos.com
+  - DOMAIN,uun.1uandun.com
   - DOMAIN,uurzdr.global-style.jp
   - DOMAIN,uusee.adsame.com
   - DOMAIN,uuu.pctowap.com
@@ -29561,6 +29565,7 @@ payload:
   - DOMAIN,widget.criteo.com
   - DOMAIN,widget.cybershop-affiliate.jp
   - DOMAIN,widget.ezprice.com.tw
+  - DOMAIN,widget.faphouse.com
   - DOMAIN,widget.feedot-lawyer.ru
   - DOMAIN,widget.headlines.pw
   - DOMAIN,widget.jobberman.com
