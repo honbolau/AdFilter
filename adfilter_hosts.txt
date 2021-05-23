@@ -1,11 +1,11 @@
-# Checksum: MTYyMTczMjUzNwo=
+# Checksum: MTYyMTc1MTYzMQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210523-0
-# TimeUpdated: 2021-05-23T01:15:37+00:00
+# Version: 1.1.8-20210523-2
+# TimeUpdated: 2021-05-23T06:33:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 30895
+# Total: 30892
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3632,8 +3632,6 @@ ff02::3 ip6-allhosts
 :: adi2007.cnool.net
 0.0.0.0 adidm.idmnet.pl
 :: adidm.idmnet.pl
-0.0.0.0 adidm.supermedia.pl
-:: adidm.supermedia.pl
 0.0.0.0 adilk.ilikecomix.com
 :: adilk.ilikecomix.com
 0.0.0.0 adim.pinduoduo.com
@@ -4670,8 +4668,6 @@ ff02::3 ip6-allhosts
 :: ads.friendfinder.com
 0.0.0.0 ads.fuckingmachines.com
 :: ads.fuckingmachines.com
-0.0.0.0 ads.gadget.ro
-:: ads.gadget.ro
 0.0.0.0 ads.game.net
 :: ads.game.net
 0.0.0.0 ads.gamecity.net
@@ -6034,8 +6030,6 @@ ff02::3 ip6-allhosts
 :: adserver.goforandroid.com
 0.0.0.0 adserver.gorillanation.com
 :: adserver.gorillanation.com
-0.0.0.0 adserver.hardwareanalysis.com
-:: adserver.hardwareanalysis.com
 0.0.0.0 adserver.harktheherald.com
 :: adserver.harktheherald.com
 0.0.0.0 adserver.hellasnet.gr
@@ -7090,6 +7084,8 @@ ff02::3 ip6-allhosts
 :: aio.lp.mydas.mobi
 0.0.0.0 aip.actonservice.com
 :: aip.actonservice.com
+0.0.0.0 air.audioeye.com
+:: air.audioeye.com
 0.0.0.0 air.hitachiaircon.com
 :: air.hitachiaircon.com
 0.0.0.0 air.yoyi.com.cn
@@ -7922,6 +7918,8 @@ ff02::3 ip6-allhosts
 :: analytics.ratopanda.com
 0.0.0.0 analytics.rayjump.com
 :: analytics.rayjump.com
+0.0.0.0 analytics.realestate.com.au
+:: analytics.realestate.com.au
 0.0.0.0 analytics.rechtslupe.org
 :: analytics.rechtslupe.org
 0.0.0.0 analytics.recruitics.com
@@ -10076,6 +10074,8 @@ ff02::3 ip6-allhosts
 :: backup.lumion3d.com
 0.0.0.0 backup.lumion3d.net
 :: backup.lumion3d.net
+0.0.0.0 bacon.getcarro.com
+:: bacon.getcarro.com
 0.0.0.0 bacon.section.io
 :: bacon.section.io
 0.0.0.0 bad.maienyanjing.cn
@@ -28978,8 +28978,6 @@ ff02::3 ip6-allhosts
 :: jfm4.pop.baofeng.net
 0.0.0.0 jg.bjpengyi.com
 :: jg.bjpengyi.com
-0.0.0.0 jg.wensixuetang.com
-:: jg.wensixuetang.com
 0.0.0.0 jg0c.sfr.fr
 :: jg0c.sfr.fr
 0.0.0.0 jgdguc.arcteryx.com
@@ -31908,8 +31906,6 @@ ff02::3 ip6-allhosts
 :: m.hx623.cn
 0.0.0.0 m.hy10010.com.cn
 :: m.hy10010.com.cn
-0.0.0.0 m.icyrd.com
-:: m.icyrd.com
 0.0.0.0 m.ihais.com
 :: m.ihais.com
 0.0.0.0 m.iruad.com
@@ -36238,8 +36234,6 @@ ff02::3 ip6-allhosts
 :: monitor.yigao.com
 0.0.0.0 monitoring-sdk.experimentation.intuit.com
 :: monitoring-sdk.experimentation.intuit.com
-0.0.0.0 monkey.ddsnow.dental
-:: monkey.ddsnow.dental
 0.0.0.0 monkeyball.osa.pl
 :: monkeyball.osa.pl
 0.0.0.0 mononoteapp.firebaseio.com
@@ -39462,6 +39456,8 @@ ff02::3 ip6-allhosts
 :: peuzhq.bookspot.be
 0.0.0.0 pevftg.shopee.sg
 :: pevftg.shopee.sg
+0.0.0.0 pexa.realestate.com.au
+:: pexa.realestate.com.au
 0.0.0.0 pf-2.pchome.net
 :: pf-2.pchome.net
 0.0.0.0 pf.intuit.com
@@ -40666,6 +40662,8 @@ ff02::3 ip6-allhosts
 :: preview.sharethrough.com
 0.0.0.0 prexyone.appspot.com
 :: prexyone.appspot.com
+0.0.0.0 prf.vagnt.com
+:: prf.vagnt.com
 0.0.0.0 prg.smartadserver.com
 :: prg.smartadserver.com
 0.0.0.0 priceinfo.comuv.com
@@ -43256,6 +43254,8 @@ ff02::3 ip6-allhosts
 :: s.zixuntop.com
 0.0.0.0 s.zlongad.com
 :: s.zlongad.com
+0.0.0.0 s.zp0573.cn
+:: s.zp0573.cn
 0.0.0.0 s0.beyondonline.nl
 :: s0.beyondonline.nl
 0.0.0.0 s01.hostcontent.live
@@ -43298,10 +43298,6 @@ ff02::3 ip6-allhosts
 :: s1.leshi123.cc
 0.0.0.0 s1.mingmingtehui.com
 :: s1.mingmingtehui.com
-0.0.0.0 s1.qiqutt.cn
-:: s1.qiqutt.cn
-0.0.0.0 s1.qiqutt.com
-:: s1.qiqutt.com
 0.0.0.0 s1.qiuyi.cn
 :: s1.qiuyi.cn
 0.0.0.0 s1.s8tu.com
@@ -49782,8 +49778,6 @@ ff02::3 ip6-allhosts
 :: srmdvb.ekohealth.com
 0.0.0.0 srnzdl.morhipo.com
 :: srnzdl.morhipo.com
-0.0.0.0 sroomafp.allyes.com
-:: sroomafp.allyes.com
 0.0.0.0 srt.pch.com
 :: srt.pch.com
 0.0.0.0 srtb.msn.com
@@ -51266,6 +51260,8 @@ ff02::3 ip6-allhosts
 :: stats.boringcactus.com
 0.0.0.0 stats.breadtube.tv
 :: stats.breadtube.tv
+0.0.0.0 stats.brides.com
+:: stats.brides.com
 0.0.0.0 stats.briskoda.net
 :: stats.briskoda.net
 0.0.0.0 stats.bungeefit.co.uk
@@ -53532,8 +53528,6 @@ ff02::3 ip6-allhosts
 :: tb.code.twyxi.com
 0.0.0.0 tb.mybb.ru
 :: tb.mybb.ru
-0.0.0.0 tb104x.corp.youdao.com
-:: tb104x.corp.youdao.com
 0.0.0.0 tbe.tom.ru
 :: tbe.tom.ru
 0.0.0.0 tben.nnchangyi.com
@@ -55214,6 +55208,8 @@ ff02::3 ip6-allhosts
 :: track.msadcenter.qymv.com
 0.0.0.0 track.msadcenter.sax.com
 :: track.msadcenter.sax.com
+0.0.0.0 track.msadcenter.scz.com
+:: track.msadcenter.scz.com
 0.0.0.0 track.msadcenter.sgq.com
 :: track.msadcenter.sgq.com
 0.0.0.0 track.msadcenter.shy.com
@@ -55774,8 +55770,6 @@ ff02::3 ip6-allhosts
 :: tracking.cairn.info
 0.0.0.0 tracking.carsales.com.au
 :: tracking.carsales.com.au
-0.0.0.0 tracking.cat.com
-:: tracking.cat.com
 0.0.0.0 tracking.cat898.com
 :: tracking.cat898.com
 0.0.0.0 tracking.cengage.com
@@ -59334,6 +59328,8 @@ ff02::3 ip6-allhosts
 :: wmeng.feihuadns.com
 0.0.0.0 wn.pos.baidu.com
 :: wn.pos.baidu.com
+0.0.0.0 wn.x.jd.com
+:: wn.x.jd.com
 0.0.0.0 wncs.7ez4.cn
 :: wncs.7ez4.cn
 0.0.0.0 wneia.iaskhot.com
@@ -60876,8 +60872,6 @@ ff02::3 ip6-allhosts
 :: xggayd.thecolouredhouse.nl
 0.0.0.0 xiamiss.wap.xsbiquge.com
 :: xiamiss.wap.xsbiquge.com
-0.0.0.0 xiaoling.ixiunv.com
-:: xiaoling.ixiunv.com
 0.0.0.0 xiaomi.m.cn.miaozhen.com
 :: xiaomi.m.cn.miaozhen.com
 0.0.0.0 xiaoshuo.kp53.cn
