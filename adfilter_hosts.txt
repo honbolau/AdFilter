@@ -1,11 +1,11 @@
-# Checksum: MTYyMTY0NTU4OQo=
+# Checksum: MTYyMTczMjUzNwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210522-0
-# TimeUpdated: 2021-05-22T01:06:29+00:00
+# Version: 1.1.8-20210523-0
+# TimeUpdated: 2021-05-23T01:15:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 30899
+# Total: 30895
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -208,8 +208,6 @@ ff02::3 ip6-allhosts
 :: 1080872514.rsc.cdn77.org
 0.0.0.0 11.96131.com.cn
 :: 11.96131.com.cn
-0.0.0.0 11.yiqig.com
-:: 11.yiqig.com
 0.0.0.0 111g.yiqig.cn
 :: 111g.yiqig.cn
 0.0.0.0 114-track.net.daraz.com
@@ -3112,8 +3110,6 @@ ff02::3 ip6-allhosts
 :: ad.vkool.net
 0.0.0.0 ad.vrvm.com
 :: ad.vrvm.com
-0.0.0.0 ad.vurts.com
-:: ad.vurts.com
 0.0.0.0 ad.wang502.com
 :: ad.wang502.com
 0.0.0.0 ad.wappalyzer.com
@@ -3636,6 +3632,8 @@ ff02::3 ip6-allhosts
 :: adi2007.cnool.net
 0.0.0.0 adidm.idmnet.pl
 :: adidm.idmnet.pl
+0.0.0.0 adidm.supermedia.pl
+:: adidm.supermedia.pl
 0.0.0.0 adilk.ilikecomix.com
 :: adilk.ilikecomix.com
 0.0.0.0 adim.pinduoduo.com
@@ -5994,8 +5992,6 @@ ff02::3 ip6-allhosts
 :: adserver.click4cash.de
 0.0.0.0 adserver.clix.pt
 :: adserver.clix.pt
-0.0.0.0 adserver.clundressed.com
-:: adserver.clundressed.com
 0.0.0.0 adserver.co.il
 :: adserver.co.il
 0.0.0.0 adserver.corusradionetwork.com
@@ -6038,6 +6034,8 @@ ff02::3 ip6-allhosts
 :: adserver.goforandroid.com
 0.0.0.0 adserver.gorillanation.com
 :: adserver.gorillanation.com
+0.0.0.0 adserver.hardwareanalysis.com
+:: adserver.hardwareanalysis.com
 0.0.0.0 adserver.harktheherald.com
 :: adserver.harktheherald.com
 0.0.0.0 adserver.hellasnet.gr
@@ -6806,8 +6804,6 @@ ff02::3 ip6-allhosts
 :: aetv.hb-api.omtrdc.net
 0.0.0.0 aeventlog.beacon.qq.com
 :: aeventlog.beacon.qq.com
-0.0.0.0 aevents.izooto.com
-:: aevents.izooto.com
 0.0.0.0 aexception.bugly.qq.com
 :: aexception.bugly.qq.com
 0.0.0.0 aexz.rm.fhxiaoshuo.com
@@ -11452,6 +11448,8 @@ ff02::3 ip6-allhosts
 :: borsvarlden-banners.azurewebsites.net
 0.0.0.0 boss.bankofamerica.com
 :: boss.bankofamerica.com
+0.0.0.0 bostonceltics.com.cn
+:: bostonceltics.com.cn
 0.0.0.0 botuu.adsame.com
 :: botuu.adsame.com
 0.0.0.0 bournemouthecho-gb.bournemouthecho.co.uk
@@ -12636,8 +12634,6 @@ ff02::3 ip6-allhosts
 :: cards-css.iqiyi.com
 0.0.0.0 cards.virtuagirlhd.com
 :: cards.virtuagirlhd.com
-0.0.0.0 care-health.co.kr
-:: care-health.co.kr
 0.0.0.0 care.grainger.com
 :: care.grainger.com
 0.0.0.0 care.petcureoncology.com
@@ -13236,6 +13232,8 @@ ff02::3 ip6-allhosts
 :: cdn.zampdsp.com
 0.0.0.0 cdn0.mobmore.com
 :: cdn0.mobmore.com
+0.0.0.0 cdn03.sndkorea.co.kr
+:: cdn03.sndkorea.co.kr
 0.0.0.0 cdn1.ad-center.com
 :: cdn1.ad-center.com
 0.0.0.0 cdn1.crispadvertising.com
@@ -21596,8 +21594,6 @@ ff02::3 ip6-allhosts
 :: events.il.fi
 0.0.0.0 events.ingatlan.com
 :: events.ingatlan.com
-0.0.0.0 events.izooto.com
-:: events.izooto.com
 0.0.0.0 events.jianshu.io
 :: events.jianshu.io
 0.0.0.0 events.jora.com
@@ -21678,8 +21674,6 @@ ff02::3 ip6-allhosts
 :: evnt.iol.it
 0.0.0.0 evt.collarity.com
 :: evt.collarity.com
-0.0.0.0 evt.izooto.com
-:: evt.izooto.com
 0.0.0.0 ew.politros.com
 :: ew.politros.com
 0.0.0.0 ew16d.package12.com
@@ -40588,8 +40582,6 @@ ff02::3 ip6-allhosts
 :: pp2.pptv.com
 0.0.0.0 pps-log.op-mobile.opera.com
 :: pps-log.op-mobile.opera.com
-0.0.0.0 ppt.tianya999.com
-:: ppt.tianya999.com
 0.0.0.0 pptv.adx.admaster.com.cn
 :: pptv.adx.admaster.com.cn
 0.0.0.0 pptv.m.cn.miaozhen.com
@@ -52420,8 +52412,6 @@ ff02::3 ip6-allhosts
 :: subscribe.car.org
 0.0.0.0 subscribe.hearstmags.com
 :: subscribe.hearstmags.com
-0.0.0.0 subscriptions.cbc.ca
-:: subscriptions.cbc.ca
 0.0.0.0 subsidies.pnoconsultants.com
 :: subsidies.pnoconsultants.com
 0.0.0.0 success.act-on.com
@@ -60056,6 +60046,8 @@ ff02::3 ip6-allhosts
 :: www-smt.daiichisankyo-hc.co.jp
 0.0.0.0 www-stats-so.f-secure.com
 :: www-stats-so.f-secure.com
+0.0.0.0 www1.acemetrix.com
+:: www1.acemetrix.com
 0.0.0.0 www1.amigo2.ne.jp
 :: www1.amigo2.ne.jp
 0.0.0.0 www1.aozorabank.co.jp

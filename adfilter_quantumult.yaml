@@ -1,11 +1,11 @@
-# Checksum: MTYyMTY0NTU4OQo=
+# Checksum: MTYyMTczMjUzNwo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210522-0
-# TimeUpdated: 2021-05-22T01:06:29+00:00
+# Version: 1.1.8-20210523-0
+# TimeUpdated: 2021-05-23T01:15:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 30899
+# Total: 30895
 DOMAIN,0.nextyourcontent.com,REJECT
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
@@ -102,7 +102,6 @@ DOMAIN,100.pncdn.cn,REJECT
 DOMAIN,104231.dtiblog.com,REJECT
 DOMAIN,1080872514.rsc.cdn77.org,REJECT
 DOMAIN,11.96131.com.cn,REJECT
-DOMAIN,11.yiqig.com,REJECT
 DOMAIN,111g.yiqig.cn,REJECT
 DOMAIN,114-track.net.daraz.com,REJECT
 DOMAIN,1178.shucong.com,REJECT
@@ -1554,7 +1553,6 @@ DOMAIN,ad.vidver.to,REJECT
 DOMAIN,ad.virtual-nights.com,REJECT
 DOMAIN,ad.vkool.net,REJECT
 DOMAIN,ad.vrvm.com,REJECT
-DOMAIN,ad.vurts.com,REJECT
 DOMAIN,ad.wang502.com,REJECT
 DOMAIN,ad.wappalyzer.com,REJECT
 DOMAIN,ad.wavu.hu,REJECT
@@ -1816,6 +1814,7 @@ DOMAIN,adi.cnool.net,REJECT
 DOMAIN,adi.vcmedia.vn,REJECT
 DOMAIN,adi2007.cnool.net,REJECT
 DOMAIN,adidm.idmnet.pl,REJECT
+DOMAIN,adidm.supermedia.pl,REJECT
 DOMAIN,adilk.ilikecomix.com,REJECT
 DOMAIN,adim.pinduoduo.com,REJECT
 DOMAIN,adimage.blm.net,REJECT
@@ -2995,7 +2994,6 @@ DOMAIN,adserver.cebu-online.com,REJECT
 DOMAIN,adserver.chickclick.com,REJECT
 DOMAIN,adserver.click4cash.de,REJECT
 DOMAIN,adserver.clix.pt,REJECT
-DOMAIN,adserver.clundressed.com,REJECT
 DOMAIN,adserver.co.il,REJECT
 DOMAIN,adserver.corusradionetwork.com,REJECT
 DOMAIN,adserver.creative-asia.com,REJECT
@@ -3017,6 +3015,7 @@ DOMAIN,adserver.friendfinder.com,REJECT
 DOMAIN,adserver.gameparty.net,REJECT
 DOMAIN,adserver.goforandroid.com,REJECT
 DOMAIN,adserver.gorillanation.com,REJECT
+DOMAIN,adserver.hardwareanalysis.com,REJECT
 DOMAIN,adserver.harktheherald.com,REJECT
 DOMAIN,adserver.hellasnet.gr,REJECT
 DOMAIN,adserver.hg-computer.de,REJECT
@@ -3401,7 +3400,6 @@ DOMAIN,aero.bankofamerica.com,REJECT
 DOMAIN,aesus.so-net.ne.jp,REJECT
 DOMAIN,aetv.hb-api.omtrdc.net,REJECT
 DOMAIN,aeventlog.beacon.qq.com,REJECT
-DOMAIN,aevents.izooto.com,REJECT
 DOMAIN,aexception.bugly.qq.com,REJECT
 DOMAIN,aexz.rm.fhxiaoshuo.com,REJECT
 DOMAIN,af-ad.co.uk,REJECT
@@ -5724,6 +5722,7 @@ DOMAIN,boqufs.2nn.jp,REJECT
 DOMAIN,borckt.abarth.it,REJECT
 DOMAIN,borsvarlden-banners.azurewebsites.net,REJECT
 DOMAIN,boss.bankofamerica.com,REJECT
+DOMAIN,bostonceltics.com.cn,REJECT
 DOMAIN,botuu.adsame.com,REJECT
 DOMAIN,bournemouthecho-gb.bournemouthecho.co.uk,REJECT
 DOMAIN,bovid.neural.love,REJECT
@@ -6316,7 +6315,6 @@ DOMAIN,car44.net.daraz.com,REJECT
 DOMAIN,cardinal.iwgb.org.uk,REJECT
 DOMAIN,cards-css.iqiyi.com,REJECT
 DOMAIN,cards.virtuagirlhd.com,REJECT
-DOMAIN,care-health.co.kr,REJECT
 DOMAIN,care.grainger.com,REJECT
 DOMAIN,care.petcureoncology.com,REJECT
 DOMAIN,careers.nchjobs.org,REJECT
@@ -6616,6 +6614,7 @@ DOMAIN,cdn.yottos.com,REJECT
 DOMAIN,cdn.zampda.net,REJECT
 DOMAIN,cdn.zampdsp.com,REJECT
 DOMAIN,cdn0.mobmore.com,REJECT
+DOMAIN,cdn03.sndkorea.co.kr,REJECT
 DOMAIN,cdn1.ad-center.com,REJECT
 DOMAIN,cdn1.crispadvertising.com,REJECT
 DOMAIN,cdn1.inner-active.mobi,REJECT
@@ -10796,7 +10795,6 @@ DOMAIN,events.guesttoguest.com,REJECT
 DOMAIN,events.hu.nl,REJECT
 DOMAIN,events.il.fi,REJECT
 DOMAIN,events.ingatlan.com,REJECT
-DOMAIN,events.izooto.com,REJECT
 DOMAIN,events.jianshu.io,REJECT
 DOMAIN,events.jora.com,REJECT
 DOMAIN,events.jotform.com,REJECT
@@ -10837,7 +10835,6 @@ DOMAIN,evisit.exeter.ac.uk,REJECT
 DOMAIN,evkjai.grandado.com,REJECT
 DOMAIN,evnt.iol.it,REJECT
 DOMAIN,evt.collarity.com,REJECT
-DOMAIN,evt.izooto.com,REJECT
 DOMAIN,ew.politros.com,REJECT
 DOMAIN,ew16d.package12.com,REJECT
 DOMAIN,ewfrnd.stockmann.ru,REJECT
@@ -20292,7 +20289,6 @@ DOMAIN,pp.promocionesfarma.com,REJECT
 DOMAIN,pp.teksty-pesenok.ru,REJECT
 DOMAIN,pp2.pptv.com,REJECT
 DOMAIN,pps-log.op-mobile.opera.com,REJECT
-DOMAIN,ppt.tianya999.com,REJECT
 DOMAIN,pptv.adx.admaster.com.cn,REJECT
 DOMAIN,pptv.m.cn.miaozhen.com,REJECT
 DOMAIN,ppvabs.pplive.com,REJECT
@@ -26208,7 +26204,6 @@ DOMAIN,subpixel.4players.de,REJECT
 DOMAIN,subs.vingd.com,REJECT
 DOMAIN,subscribe.car.org,REJECT
 DOMAIN,subscribe.hearstmags.com,REJECT
-DOMAIN,subscriptions.cbc.ca,REJECT
 DOMAIN,subsidies.pnoconsultants.com,REJECT
 DOMAIN,success.act-on.com,REJECT
 DOMAIN,success.catman.global,REJECT
@@ -30026,6 +30021,7 @@ DOMAIN,www-presse-fotos-dk.filesusr.com,REJECT
 DOMAIN,www-sadobe.384.co.jp,REJECT
 DOMAIN,www-smt.daiichisankyo-hc.co.jp,REJECT
 DOMAIN,www-stats-so.f-secure.com,REJECT
+DOMAIN,www1.acemetrix.com,REJECT
 DOMAIN,www1.amigo2.ne.jp,REJECT
 DOMAIN,www1.aozorabank.co.jp,REJECT
 DOMAIN,www1.carestream.com,REJECT
