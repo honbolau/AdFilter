@@ -1,11 +1,11 @@
-# Checksum: MTYyMTc1MTYzMQo=
+# Checksum: MTYyMTgxODc1Ngo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210523-2
-# TimeUpdated: 2021-05-23T06:33:51+00:00
+# Version: 1.1.8-20210524-0
+# TimeUpdated: 2021-05-24T01:12:36+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 30892
+# Total: 30889
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -744,8 +744,6 @@ ff02::3 ip6-allhosts
 :: a.binpartner.com
 0.0.0.0 a.bjhuajing.com.cn
 :: a.bjhuajing.com.cn
-0.0.0.0 a.blesk.cz
-:: a.blesk.cz
 0.0.0.0 a.booksir.cn
 :: a.booksir.cn
 0.0.0.0 a.boom.ro
@@ -1396,8 +1394,6 @@ ff02::3 ip6-allhosts
 :: a30667.actonservice.com
 0.0.0.0 a30668.actonservice.com
 :: a30668.actonservice.com
-0.0.0.0 a32a.com.cn
-:: a32a.com.cn
 0.0.0.0 a33994.actonservice.com
 :: a33994.actonservice.com
 0.0.0.0 a35827.actonservice.com
@@ -1762,6 +1758,8 @@ ff02::3 ip6-allhosts
 :: aax-us-west.amazon-adsystem.com
 0.0.0.0 aax.amazon-adsystem.com
 :: aax.amazon-adsystem.com
+0.0.0.0 ab-machine.forbes.com
+:: ab-machine.forbes.com
 0.0.0.0 ab.5.p2l.info
 :: ab.5.p2l.info
 0.0.0.0 ab.advertiserurl.com
@@ -3136,6 +3134,8 @@ ff02::3 ip6-allhosts
 :: ad.winrar.com.cn
 0.0.0.0 ad.woman.mynavi.jp
 :: ad.woman.mynavi.jp
+0.0.0.0 ad.woolworths.com.au
+:: ad.woolworths.com.au
 0.0.0.0 ad.wretch.cc
 :: ad.wretch.cc
 0.0.0.0 ad.wsod.com
@@ -4782,8 +4782,6 @@ ff02::3 ip6-allhosts
 :: ads.illuminatednation.com
 0.0.0.0 ads.imagistica.com
 :: ads.imagistica.com
-0.0.0.0 ads.img.co.za
-:: ads.img.co.za
 0.0.0.0 ads.imgur.com
 :: ads.imgur.com
 0.0.0.0 ads.indeed.com
@@ -12556,8 +12554,6 @@ ff02::3 ip6-allhosts
 :: cap.touclick.com
 0.0.0.0 capinfoproreport.batiactu.com
 :: capinfoproreport.batiactu.com
-0.0.0.0 capitain.noblock.pro
-:: capitain.noblock.pro
 0.0.0.0 captain.directprimal.com
 :: captain.directprimal.com
 0.0.0.0 captain2.directprimal.com
@@ -13722,6 +13718,8 @@ ff02::3 ip6-allhosts
 :: cksfgh.jaycar.com.au
 0.0.0.0 cl-ad.x-flow.app
 :: cl-ad.x-flow.app
+0.0.0.0 cl.canva.com
+:: cl.canva.com
 0.0.0.0 cl.ctags.cn
 :: cl.ctags.cn
 0.0.0.0 cl.he9630.com
@@ -17336,6 +17334,8 @@ ff02::3 ip6-allhosts
 :: d2t15uaqqm1mjb.cloudfront.net
 0.0.0.0 d2t67iukq9ieyq.cloudfront.net
 :: d2t67iukq9ieyq.cloudfront.net
+0.0.0.0 d2t77mnxyo7adj.cloudfront.net
+:: d2t77mnxyo7adj.cloudfront.net
 0.0.0.0 d2taktuuo4oqx.cloudfront.net
 :: d2taktuuo4oqx.cloudfront.net
 0.0.0.0 d2tcg4i9q4js4a.cloudfront.net
@@ -28678,8 +28678,6 @@ ff02::3 ip6-allhosts
 :: ismpnb.pureda.co.kr
 0.0.0.0 isocket-creatives.s3.amazonaws.com
 :: isocket-creatives.s3.amazonaws.com
-0.0.0.0 isu.weidianyuedu.com
-:: isu.weidianyuedu.com
 0.0.0.0 isuzu.actonservice.com
 :: isuzu.actonservice.com
 0.0.0.0 isyght.lensa.ro
@@ -31372,8 +31370,6 @@ ff02::3 ip6-allhosts
 :: logs.ntvplus.tv
 0.0.0.0 logs.psm.wmcdp.io
 :: logs.psm.wmcdp.io
-0.0.0.0 logs.ptable.com
-:: logs.ptable.com
 0.0.0.0 logs.roku.com
 :: logs.roku.com
 0.0.0.0 logs.spilgames.com
@@ -50088,8 +50084,6 @@ ff02::3 ip6-allhosts
 :: ssp.xiaomi.com
 0.0.0.0 ssp.youxiaoad.com
 :: ssp.youxiaoad.com
-0.0.0.0 ssp.zf313.com
-:: ssp.zf313.com
 0.0.0.0 ssp.zryydi.com
 :: ssp.zryydi.com
 0.0.0.0 sspapi.youxiaoad.com
@@ -57812,6 +57806,8 @@ ff02::3 ip6-allhosts
 :: valc.atm.youku.com
 0.0.0.0 valensoft.actonservice.com
 :: valensoft.actonservice.com
+0.0.0.0 valerie.forbes.com
+:: valerie.forbes.com
 0.0.0.0 valf.atm.youku.com
 :: valf.atm.youku.com
 0.0.0.0 vali.cp12.wasu.tv
@@ -58722,8 +58718,6 @@ ff02::3 ip6-allhosts
 :: wddnff.bonprix.cz
 0.0.0.0 wdfhbx.zdpeanut.com
 :: wdfhbx.zdpeanut.com
-0.0.0.0 wdfhl.weidianyuedu.com
-:: wdfhl.weidianyuedu.com
 0.0.0.0 wdig.vo.llnwd.net
 :: wdig.vo.llnwd.net
 0.0.0.0 wdm.map24.com
