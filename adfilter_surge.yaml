@@ -1,14 +1,15 @@
-# Checksum: MTYyMTk5MjMwNQo=
+# Checksum: MTYyMjA3OTQ0MAo=
 # Title: Zhijie's Ad Filter for Surge (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210526-0
-# TimeUpdated: 2021-05-26T01:25:05+00:00
+# Version: 1.1.8-20210527-0
+# TimeUpdated: 2021-05-27T01:37:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32381
+# Total: 32369
 DOMAIN,0.nextyourcontent.com
 DOMAIN,0.r.msn.com
 DOMAIN,0.up.qingdaonews.com
+DOMAIN,000.0x1f4b0.com
 DOMAIN,001.0x1f4b0.com
 DOMAIN,002.0x1f4b0.com
 DOMAIN,003.0x1f4b0.com
@@ -431,7 +432,6 @@ DOMAIN,a.kidstaff.net
 DOMAIN,a.klaviyo.com
 DOMAIN,a.koudai.com
 DOMAIN,a.letsjerk.to
-DOMAIN,a.libertystmedia.com
 DOMAIN,a.livesportmedia.eu
 DOMAIN,a.lz13.cn
 DOMAIN,a.marketns.emailvision.net.daraz.com
@@ -886,6 +886,7 @@ DOMAIN,aaa.zxglpj.cn
 DOMAIN,aaddss.tohomh.com
 DOMAIN,aag.yahooapis.jp
 DOMAIN,aagw.sdo.com
+DOMAIN,aaid.umeng.com
 DOMAIN,aam.gumtree.com.au
 DOMAIN,aamt.msnbc.com
 DOMAIN,aamt.nbcnews.com
@@ -1673,7 +1674,6 @@ DOMAIN,ad2.lupa.cz
 DOMAIN,ad2.nend.net
 DOMAIN,ad2.netriota.hu
 DOMAIN,ad2.nmm.de
-DOMAIN,ad2.parom.hu
 DOMAIN,ad2.sina.com.cn
 DOMAIN,ad2.thisisgame.com
 DOMAIN,ad2.xrea.com
@@ -5150,6 +5150,7 @@ DOMAIN,baichuan.baidu.com
 DOMAIN,baid1.okooo.com
 DOMAIN,baidu.dsp.tansuotv.com
 DOMAIN,baidu.greenxf.cn
+DOMAIN,baidu.tlssyg.com
 DOMAIN,baidu1.codejie.net
 DOMAIN,baidu1.weather.com.cn
 DOMAIN,baidua1.cardbaobao.com
@@ -5374,7 +5375,6 @@ DOMAIN,bbcc.yxlady.com
 DOMAIN,bbcdn.go.cz.bbelements.com
 DOMAIN,bbcwsy.blacktyres.ru
 DOMAIN,bbdm.051661.com
-DOMAIN,bbn.gzblogger.cn
 DOMAIN,bbn.img.com.ua
 DOMAIN,bbnn.999xs.com
 DOMAIN,bbsimages.zkxf119.com
@@ -7306,10 +7306,8 @@ DOMAIN,cm.reachmax.cn
 DOMAIN,cm.redbull.com
 DOMAIN,cm.stg8.com
 DOMAIN,cm.zhiziyun.com
-DOMAIN,cm1.joins.com
 DOMAIN,cm1.jssearch.net
 DOMAIN,cm2.cjmooter.com
-DOMAIN,cm2.joins.com
 DOMAIN,cm2.jssearch.net
 DOMAIN,cm3.jssearch.net
 DOMAIN,cm8.lycos.com
@@ -9192,7 +9190,6 @@ DOMAIN,data.email-lightroom.cjm.adobe.com
 DOMAIN,data.engelhorn.de
 DOMAIN,data.eroadvertising.com
 DOMAIN,data.glamour.ru
-DOMAIN,data.goertz.de
 DOMAIN,data.gosquared.com
 DOMAIN,data.haoma.sogou.com
 DOMAIN,data.hicloud.com
@@ -12261,6 +12258,7 @@ DOMAIN,go.brightcove.com
 DOMAIN,go.brighthorizons.com
 DOMAIN,go.broadcast-solutions.de
 DOMAIN,go.bryter.com
+DOMAIN,go.bshrdr.com
 DOMAIN,go.bts.com
 DOMAIN,go.buildertrend.com
 DOMAIN,go.business.rutgers.edu
@@ -13832,7 +13830,6 @@ DOMAIN,i.j2j.ru
 DOMAIN,i.jads.co
 DOMAIN,i.jiathis.com
 DOMAIN,i.liadm.com
-DOMAIN,i.libertystmedia.com
 DOMAIN,i.media.cz
 DOMAIN,i.mmcdn.cn
 DOMAIN,i.mxplayer.j2inter.com
@@ -15100,7 +15097,6 @@ DOMAIN,iyvzqt.agabangmall.com
 DOMAIN,j.9136.com
 DOMAIN,j.98158.com
 DOMAIN,j.appjiagu.com
-DOMAIN,j.avz4.com
 DOMAIN,j.baminw.cn
 DOMAIN,j.bg.adresult-sp.jp
 DOMAIN,j.biquge520.cc
@@ -15585,7 +15581,6 @@ DOMAIN,kfzhph.bonprix.pl
 DOMAIN,kfzntn.chinatimes.com
 DOMAIN,kfzqoj.utkonos.ru
 DOMAIN,kgmobilestat.kugou.com
-DOMAIN,kgmobilestatbak.kugou.com
 DOMAIN,kharid.isatice.com
 DOMAIN,khgayc.hackers.com
 DOMAIN,khgtwn.reifendirekt.de
@@ -16809,7 +16804,6 @@ DOMAIN,m.qcw.com
 DOMAIN,m.qianka.com
 DOMAIN,m.qilungroup.cn
 DOMAIN,m.qingzhencai.net
-DOMAIN,m.qj10b.cn
 DOMAIN,m.quanxs.net
 DOMAIN,m.qulishi.com
 DOMAIN,m.quxiangkeji.cn
@@ -16868,7 +16862,6 @@ DOMAIN,m.xingxd.com
 DOMAIN,m.xkqpco.com.com
 DOMAIN,m.xsjjjc.cn
 DOMAIN,m.xt2d.cn
-DOMAIN,m.xuwm6.cn
 DOMAIN,m.xxkio.com
 DOMAIN,m.y195j.cn
 DOMAIN,m.yalayi.com
@@ -19156,7 +19149,6 @@ DOMAIN,multimedia-projector.katrina.ru
 DOMAIN,munchkin.brightfunnel.com
 DOMAIN,munchkin.marketo.net
 DOMAIN,muppvq.cocooncenter.co.uk
-DOMAIN,murroliving.com.cn
 DOMAIN,muscle-relaxers.1.p2l.info
 DOMAIN,music.getyesappz1.com
 DOMAIN,music.myappzcenter.com
@@ -20220,7 +20212,6 @@ DOMAIN,osimg.universalorlandovacations.com
 DOMAIN,osimg.windsurfercrs.com
 DOMAIN,osm-onead.cdn.hinet.net
 DOMAIN,oss-asq-static.11222.cn
-DOMAIN,ostats.mozilla.com
 DOMAIN,osupdateservice.yunos.com
 DOMAIN,ot.obi-italia.it
 DOMAIN,ot.obi.at
@@ -21430,6 +21421,7 @@ DOMAIN,processor.asccommunications.com
 DOMAIN,procookie.by.nf
 DOMAIN,prod-collector.bigbasket.com
 DOMAIN,prod-sb-appanalytics-us1.servicebus.windows.net
+DOMAIN,prod.entry.video-ads.a2z.com
 DOMAIN,prod.html5-ads.vk-apps.com
 DOMAIN,prod.one.lt
 DOMAIN,prod.webpu.sh
@@ -22794,7 +22786,6 @@ DOMAIN,s1.intimshop.ru
 DOMAIN,s1.irs03.com
 DOMAIN,s1.kuaibaopay.com
 DOMAIN,s1.leshi123.cc
-DOMAIN,s1.mingmingtehui.com
 DOMAIN,s1.qiuyi.cn
 DOMAIN,s1.s8tu.com
 DOMAIN,s1.stat.lianmeng.360.cn
@@ -28091,7 +28082,6 @@ DOMAIN,telemetrics.klaviyo.com
 DOMAIN,telemetry.api.playstation.com
 DOMAIN,telemetry.api.swiftkey.com
 DOMAIN,telemetry.api.wmcdp.io
-DOMAIN,telemetry.appex.bing.net
 DOMAIN,telemetry.art19.com
 DOMAIN,telemetry.dropbox.com
 DOMAIN,telemetry.jivosite.com
@@ -29831,9 +29821,7 @@ DOMAIN,um2.eqads.com
 DOMAIN,uma.gtags.net
 DOMAIN,umami.nordiskehandel.cloud
 DOMAIN,umc.danuoyi.alicdn.com
-DOMAIN,umeng.com.gds.alibabadns.com
 DOMAIN,umengacs.m.taobao.com
-DOMAIN,umengcloud.com.gds.alibabadns.com
 DOMAIN,umengjmacs.m.taobao.com
 DOMAIN,umid.orion.meizu.com
 DOMAIN,umini.shujupie.com
@@ -29915,7 +29903,6 @@ DOMAIN,updates.aem.org
 DOMAIN,upeayz.eksisozluk.com
 DOMAIN,upfile16.mediaphim.com
 DOMAIN,upfmqr.carmensteffens.com.br
-DOMAIN,upgrade.freesetofvideoplayers.info
 DOMAIN,upload-beta-interaction.net.daraz.com
 DOMAIN,upload-ns3.cl.bellsouth.net.daraz.com
 DOMAIN,upload.adtech.fr
@@ -30781,6 +30768,7 @@ DOMAIN,webstats.channel4.com
 DOMAIN,webstats.garanti.com.tr
 DOMAIN,webstats.motigo.com
 DOMAIN,webstats.sapo.pt
+DOMAIN,webstats.thaindian.com
 DOMAIN,webstats.thesoul-publishing.com
 DOMAIN,webstats.vodafone.com
 DOMAIN,webt.pure.com

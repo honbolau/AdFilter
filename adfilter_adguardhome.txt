@@ -1,14 +1,15 @@
-! Checksum: MTYyMTk5MjMwNQo=
+! Checksum: MTYyMjA3OTQ0MAo=
 ! Title: Zhijie's Ad Filter for AdGuard Home (DNS-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.1.8-20210526-0
-! TimeUpdated: 2021-05-26T01:25:05+00:00
+! Version: 1.1.8-20210527-0
+! TimeUpdated: 2021-05-27T01:37:20+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 32381
+! Total: 32369
 |0.nextyourcontent.com^
 |0.r.msn.com^
 |0.up.qingdaonews.com^
+|000.0x1f4b0.com^
 |001.0x1f4b0.com^
 |002.0x1f4b0.com^
 |003.0x1f4b0.com^
@@ -431,7 +432,6 @@
 |a.klaviyo.com^
 |a.koudai.com^
 |a.letsjerk.to^
-|a.libertystmedia.com^
 |a.livesportmedia.eu^
 |a.lz13.cn^
 |a.marketns.emailvision.net.daraz.com^
@@ -886,6 +886,7 @@
 |aaddss.tohomh.com^
 |aag.yahooapis.jp^
 |aagw.sdo.com^
+|aaid.umeng.com^
 |aam.gumtree.com.au^
 |aamt.msnbc.com^
 |aamt.nbcnews.com^
@@ -1673,7 +1674,6 @@
 |ad2.nend.net^
 |ad2.netriota.hu^
 |ad2.nmm.de^
-|ad2.parom.hu^
 |ad2.sina.com.cn^
 |ad2.thisisgame.com^
 |ad2.xrea.com^
@@ -5150,6 +5150,7 @@
 |baid1.okooo.com^
 |baidu.dsp.tansuotv.com^
 |baidu.greenxf.cn^
+|baidu.tlssyg.com^
 |baidu1.codejie.net^
 |baidu1.weather.com.cn^
 |baidua1.cardbaobao.com^
@@ -5374,7 +5375,6 @@
 |bbcdn.go.cz.bbelements.com^
 |bbcwsy.blacktyres.ru^
 |bbdm.051661.com^
-|bbn.gzblogger.cn^
 |bbn.img.com.ua^
 |bbnn.999xs.com^
 |bbsimages.zkxf119.com^
@@ -7306,10 +7306,8 @@
 |cm.redbull.com^
 |cm.stg8.com^
 |cm.zhiziyun.com^
-|cm1.joins.com^
 |cm1.jssearch.net^
 |cm2.cjmooter.com^
-|cm2.joins.com^
 |cm2.jssearch.net^
 |cm3.jssearch.net^
 |cm8.lycos.com^
@@ -9192,7 +9190,6 @@
 |data.engelhorn.de^
 |data.eroadvertising.com^
 |data.glamour.ru^
-|data.goertz.de^
 |data.gosquared.com^
 |data.haoma.sogou.com^
 |data.hicloud.com^
@@ -12261,6 +12258,7 @@
 |go.brighthorizons.com^
 |go.broadcast-solutions.de^
 |go.bryter.com^
+|go.bshrdr.com^
 |go.bts.com^
 |go.buildertrend.com^
 |go.business.rutgers.edu^
@@ -13832,7 +13830,6 @@
 |i.jads.co^
 |i.jiathis.com^
 |i.liadm.com^
-|i.libertystmedia.com^
 |i.media.cz^
 |i.mmcdn.cn^
 |i.mxplayer.j2inter.com^
@@ -15100,7 +15097,6 @@
 |j.9136.com^
 |j.98158.com^
 |j.appjiagu.com^
-|j.avz4.com^
 |j.baminw.cn^
 |j.bg.adresult-sp.jp^
 |j.biquge520.cc^
@@ -15585,7 +15581,6 @@
 |kfzntn.chinatimes.com^
 |kfzqoj.utkonos.ru^
 |kgmobilestat.kugou.com^
-|kgmobilestatbak.kugou.com^
 |kharid.isatice.com^
 |khgayc.hackers.com^
 |khgtwn.reifendirekt.de^
@@ -16809,7 +16804,6 @@
 |m.qianka.com^
 |m.qilungroup.cn^
 |m.qingzhencai.net^
-|m.qj10b.cn^
 |m.quanxs.net^
 |m.qulishi.com^
 |m.quxiangkeji.cn^
@@ -16868,7 +16862,6 @@
 |m.xkqpco.com.com^
 |m.xsjjjc.cn^
 |m.xt2d.cn^
-|m.xuwm6.cn^
 |m.xxkio.com^
 |m.y195j.cn^
 |m.yalayi.com^
@@ -19156,7 +19149,6 @@
 |munchkin.brightfunnel.com^
 |munchkin.marketo.net^
 |muppvq.cocooncenter.co.uk^
-|murroliving.com.cn^
 |muscle-relaxers.1.p2l.info^
 |music.getyesappz1.com^
 |music.myappzcenter.com^
@@ -20220,7 +20212,6 @@
 |osimg.windsurfercrs.com^
 |osm-onead.cdn.hinet.net^
 |oss-asq-static.11222.cn^
-|ostats.mozilla.com^
 |osupdateservice.yunos.com^
 |ot.obi-italia.it^
 |ot.obi.at^
@@ -21430,6 +21421,7 @@
 |procookie.by.nf^
 |prod-collector.bigbasket.com^
 |prod-sb-appanalytics-us1.servicebus.windows.net^
+|prod.entry.video-ads.a2z.com^
 |prod.html5-ads.vk-apps.com^
 |prod.one.lt^
 |prod.webpu.sh^
@@ -22794,7 +22786,6 @@
 |s1.irs03.com^
 |s1.kuaibaopay.com^
 |s1.leshi123.cc^
-|s1.mingmingtehui.com^
 |s1.qiuyi.cn^
 |s1.s8tu.com^
 |s1.stat.lianmeng.360.cn^
@@ -28091,7 +28082,6 @@
 |telemetry.api.playstation.com^
 |telemetry.api.swiftkey.com^
 |telemetry.api.wmcdp.io^
-|telemetry.appex.bing.net^
 |telemetry.art19.com^
 |telemetry.dropbox.com^
 |telemetry.jivosite.com^
@@ -29831,9 +29821,7 @@
 |uma.gtags.net^
 |umami.nordiskehandel.cloud^
 |umc.danuoyi.alicdn.com^
-|umeng.com.gds.alibabadns.com^
 |umengacs.m.taobao.com^
-|umengcloud.com.gds.alibabadns.com^
 |umengjmacs.m.taobao.com^
 |umid.orion.meizu.com^
 |umini.shujupie.com^
@@ -29915,7 +29903,6 @@
 |upeayz.eksisozluk.com^
 |upfile16.mediaphim.com^
 |upfmqr.carmensteffens.com.br^
-|upgrade.freesetofvideoplayers.info^
 |upload-beta-interaction.net.daraz.com^
 |upload-ns3.cl.bellsouth.net.daraz.com^
 |upload.adtech.fr^
@@ -30781,6 +30768,7 @@
 |webstats.garanti.com.tr^
 |webstats.motigo.com^
 |webstats.sapo.pt^
+|webstats.thaindian.com^
 |webstats.thesoul-publishing.com^
 |webstats.vodafone.com^
 |webt.pure.com^
