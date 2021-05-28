@@ -1,11 +1,11 @@
-# Checksum: MTYyMjA3OTQ0MAo=
+# Checksum: MTYyMjE2NjMyMwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210527-0
-# TimeUpdated: 2021-05-27T01:37:20+00:00
+# Version: 1.1.8-20210528-0
+# TimeUpdated: 2021-05-28T01:45:23+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32369
+# Total: 32360
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -22,8 +22,6 @@ ff02::3 ip6-allhosts
 :: 0.r.msn.com
 0.0.0.0 0.up.qingdaonews.com
 :: 0.up.qingdaonews.com
-0.0.0.0 000.0x1f4b0.com
-:: 000.0x1f4b0.com
 0.0.0.0 001.0x1f4b0.com
 :: 001.0x1f4b0.com
 0.0.0.0 002.0x1f4b0.com
@@ -1286,8 +1284,6 @@ ff02::3 ip6-allhosts
 :: a14732.actonservice.com
 0.0.0.0 a14786.actonservice.com
 :: a14786.actonservice.com
-0.0.0.0 a1491.oadz.com
-:: a1491.oadz.com
 0.0.0.0 a15575.actonservice.com
 :: a15575.actonservice.com
 0.0.0.0 a15838.actonservice.com
@@ -3914,8 +3910,6 @@ ff02::3 ip6-allhosts
 :: admicro6.vcmedia.vn
 0.0.0.0 admin.appnext.com
 :: admin.appnext.com
-0.0.0.0 admin.cooguo.com
-:: admin.cooguo.com
 0.0.0.0 admin.digitalacre.com
 :: admin.digitalacre.com
 0.0.0.0 admin.ninebox.cn
@@ -5066,6 +5060,8 @@ ff02::3 ip6-allhosts
 :: ads.mtv.uol.com.br
 0.0.0.0 ads.multimania.lycos.fr
 :: ads.multimania.lycos.fr
+0.0.0.0 ads.museum.or.jp
+:: ads.museum.or.jp
 0.0.0.0 ads.muslimehelfen.org
 :: ads.muslimehelfen.org
 0.0.0.0 ads.mustangworks.com
@@ -6764,8 +6760,6 @@ ff02::3 ip6-allhosts
 :: adw.sapo.pt
 0.0.0.0 adwbs.ximalaya.com
 :: adwbs.ximalaya.com
-0.0.0.0 adweb.test.ximalaya.com
-:: adweb.test.ximalaya.com
 0.0.0.0 adweb.ximalaya.com
 :: adweb.ximalaya.com
 0.0.0.0 adwordsecommerce.com.br
@@ -9548,8 +9542,6 @@ ff02::3 ip6-allhosts
 :: assets-r-dw-1.net.daraz.com
 0.0.0.0 assets.applovin.com
 :: assets.applovin.com
-0.0.0.0 assets.ckjr001.com
-:: assets.ckjr001.com
 0.0.0.0 assets.cntdy.mobi
 :: assets.cntdy.mobi
 0.0.0.0 assets.easou.com
@@ -10304,8 +10296,6 @@ ff02::3 ip6-allhosts
 :: baidu.dsp.tansuotv.com
 0.0.0.0 baidu.greenxf.cn
 :: baidu.greenxf.cn
-0.0.0.0 baidu.tlssyg.com
-:: baidu.tlssyg.com
 0.0.0.0 baidu1.codejie.net
 :: baidu1.codejie.net
 0.0.0.0 baidu1.weather.com.cn
@@ -10754,6 +10744,8 @@ ff02::3 ip6-allhosts
 :: bbcwsy.blacktyres.ru
 0.0.0.0 bbdm.051661.com
 :: bbdm.051661.com
+0.0.0.0 bbn.gzblogger.cn
+:: bbn.gzblogger.cn
 0.0.0.0 bbn.img.com.ua
 :: bbn.img.com.ua
 0.0.0.0 bbnn.999xs.com
@@ -11230,8 +11222,6 @@ ff02::3 ip6-allhosts
 :: bhmzab.totes.com
 0.0.0.0 bhwkju.vivo.com
 :: bhwkju.vivo.com
-0.0.0.0 bi-pipeline-collector.stylight.net
-:: bi-pipeline-collector.stylight.net
 0.0.0.0 bi.manhuaren.com
 :: bi.manhuaren.com
 0.0.0.0 bi.yeshen.com
@@ -13298,8 +13288,6 @@ ff02::3 ip6-allhosts
 :: cdn.mgid.com
 0.0.0.0 cdn.minescripts.info
 :: cdn.minescripts.info
-0.0.0.0 cdn.mingmingtehui.com
-:: cdn.mingmingtehui.com
 0.0.0.0 cdn.mobicow.com
 :: cdn.mobicow.com
 0.0.0.0 cdn.moji.com
@@ -13352,8 +13340,6 @@ ff02::3 ip6-allhosts
 :: cdn.popmyads.com
 0.0.0.0 cdn.raygun.io
 :: cdn.raygun.io
-0.0.0.0 cdn.relaido.jp
-:: cdn.relaido.jp
 0.0.0.0 cdn.resonate.com
 :: cdn.resonate.com
 0.0.0.0 cdn.rhombusads.com
@@ -14268,6 +14254,8 @@ ff02::3 ip6-allhosts
 :: clicks.burgerking.co.uk
 0.0.0.0 clicks.dealer.com
 :: clicks.dealer.com
+0.0.0.0 clicks.demotivators.to
+:: clicks.demotivators.to
 0.0.0.0 clicks.deskbabes.com
 :: clicks.deskbabes.com
 0.0.0.0 clicks.drizly.com
@@ -19660,6 +19648,8 @@ ff02::3 ip6-allhosts
 :: dngpzy.bfmtv.com
 0.0.0.0 dnhfi5nn2dt67.cloudfront.net
 :: dnhfi5nn2dt67.cloudfront.net
+0.0.0.0 dnk2wr2ch6zxa.cloudfront.net
+:: dnk2wr2ch6zxa.cloudfront.net
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 :: dnn506yrbagrg.cloudfront.net
 0.0.0.0 dns.jd.com
@@ -20336,8 +20326,6 @@ ff02::3 ip6-allhosts
 :: e-vcdn.anthill.vn
 0.0.0.0 e-wei.com.cn
 :: e-wei.com.cn
-0.0.0.0 e.2l06k.cn
-:: e.2l06k.cn
 0.0.0.0 e.53trya.cn
 :: e.53trya.cn
 0.0.0.0 e.60sk.ru
@@ -20348,8 +20336,6 @@ ff02::3 ip6-allhosts
 :: e.91.com
 0.0.0.0 e.958so.cn
 :: e.958so.cn
-0.0.0.0 e.967nd.cn
-:: e.967nd.cn
 0.0.0.0 e.ad.xiaomi.com
 :: e.ad.xiaomi.com
 0.0.0.0 e.aduiz.com
@@ -20750,8 +20736,6 @@ ff02::3 ip6-allhosts
 :: ebis.pasonatech.co.jp
 0.0.0.0 ebis.rozetta.jp
 :: ebis.rozetta.jp
-0.0.0.0 ebis.sbismile.co.jp
-:: ebis.sbismile.co.jp
 0.0.0.0 ebis.sekisuihouse.co.jp
 :: ebis.sekisuihouse.co.jp
 0.0.0.0 ebis.studio-alice.co.jp
@@ -21724,8 +21708,6 @@ ff02::3 ip6-allhosts
 :: eol1.egyptonline.com
 0.0.0.0 eolvci.olx.ro
 :: eolvci.olx.ro
-0.0.0.0 ep.xone.com
-:: ep.xone.com
 0.0.0.0 epfykmaw.opencagedata.com
 :: epfykmaw.opencagedata.com
 0.0.0.0 epiv.cardlytics.com
@@ -26466,6 +26448,8 @@ ff02::3 ip6-allhosts
 :: gp.dejanews.com
 0.0.0.0 gp.jstv.com
 :: gp.jstv.com
+0.0.0.0 gp.trcked.me
+:: gp.trcked.me
 0.0.0.0 gp.zaiyunli.cn
 :: gp.zaiyunli.cn
 0.0.0.0 gpiyhj.leopalace21.com
@@ -28008,8 +27992,6 @@ ff02::3 ip6-allhosts
 :: illicium.wmtransfer.com
 0.0.0.0 iltcaf.immobilienscout24.de
 :: iltcaf.immobilienscout24.de
-0.0.0.0 ilumigrafias.adriancugar.com
-:: ilumigrafias.adriancugar.com
 0.0.0.0 ilyonanalytics.herokuapp.com
 :: ilyonanalytics.herokuapp.com
 0.0.0.0 im-x.jd.com
@@ -30282,8 +30264,6 @@ ff02::3 ip6-allhosts
 :: jas.indeednps.com
 0.0.0.0 jasmine.directprimal.com
 :: jasmine.directprimal.com
-0.0.0.0 jasmine.noblock.pro
-:: jasmine.noblock.pro
 0.0.0.0 jasmine2.directprimal.com
 :: jasmine2.directprimal.com
 0.0.0.0 jat01.stolen-secrets.com
@@ -31308,8 +31288,6 @@ ff02::3 ip6-allhosts
 :: kplusd.far.ru
 0.0.0.0 kpshx.douguo.com
 :: kpshx.douguo.com
-0.0.0.0 kpstaticbj.wx.ckjr001.com
-:: kpstaticbj.wx.ckjr001.com
 0.0.0.0 kpu.samsungelectronics.com
 :: kpu.samsungelectronics.com
 0.0.0.0 kqaasz.instreet.com.tr
@@ -31976,6 +31954,8 @@ ff02::3 ip6-allhosts
 :: likiwh.vagabondstudio.com
 0.0.0.0 lilb2.shutterstock.com
 :: lilb2.shutterstock.com
+0.0.0.0 limone.iltrovatore.it
+:: limone.iltrovatore.it
 0.0.0.0 limonecomunicacao.com.br
 :: limonecomunicacao.com.br
 0.0.0.0 limpet.padbury.app
@@ -38050,8 +38030,6 @@ ff02::3 ip6-allhosts
 :: mozoo.go2cloud.org
 0.0.0.0 mp.5.p2l.info
 :: mp.5.p2l.info
-0.0.0.0 mp.miaomiaojia.cc
-:: mp.miaomiaojia.cc
 0.0.0.0 mp.xi9p.com
 :: mp.xi9p.com
 0.0.0.0 mp4.res.hunantv.com
@@ -55336,8 +55314,6 @@ ff02::3 ip6-allhosts
 :: t.3apf.com
 0.0.0.0 t.58xs.com
 :: t.58xs.com
-0.0.0.0 t.91dijiu.com
-:: t.91dijiu.com
 0.0.0.0 t.9gag.com
 :: t.9gag.com
 0.0.0.0 t.a3cloud.net
@@ -55456,6 +55432,8 @@ ff02::3 ip6-allhosts
 :: t.felmat.net
 0.0.0.0 t.festo.com
 :: t.festo.com
+0.0.0.0 t.fhfgjhgf.top
+:: t.fhfgjhgf.top
 0.0.0.0 t.fileplaneta.com
 :: t.fileplaneta.com
 0.0.0.0 t.firstpromoter.com
@@ -57690,6 +57668,8 @@ ff02::3 ip6-allhosts
 :: track.msadcenter.qymv.com
 0.0.0.0 track.msadcenter.sax.com
 :: track.msadcenter.sax.com
+0.0.0.0 track.msadcenter.scz.com
+:: track.msadcenter.scz.com
 0.0.0.0 track.msadcenter.sgq.com
 :: track.msadcenter.sgq.com
 0.0.0.0 track.msadcenter.shy.com
@@ -58056,6 +58036,8 @@ ff02::3 ip6-allhosts
 :: tracker.publico.pt
 0.0.0.0 tracker.realclearpolitics.com
 :: tracker.realclearpolitics.com
+0.0.0.0 tracker.relaido.jp
+:: tracker.relaido.jp
 0.0.0.0 tracker.remp.impresa.pt
 :: tracker.remp.impresa.pt
 0.0.0.0 tracker.roitesting.com
