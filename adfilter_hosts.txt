@@ -1,11 +1,11 @@
-# Checksum: MTYyMjE2NjMyMwo=
+# Checksum: MTYyMjI1MzY2NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210528-0
-# TimeUpdated: 2021-05-28T01:45:23+00:00
+# Version: 1.1.8-20210529-0
+# TimeUpdated: 2021-05-29T02:01:05+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32360
+# Total: 32345
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -234,6 +234,8 @@ ff02::3 ip6-allhosts
 :: 1234.jjxgly.com
 0.0.0.0 1234.zgxue.com
 :: 1234.zgxue.com
+0.0.0.0 123456798.2021zuixingg.com
+:: 123456798.2021zuixingg.com
 0.0.0.0 123counter.mycomputer.com
 :: 123counter.mycomputer.com
 0.0.0.0 13023.url.7wkw.com
@@ -402,8 +404,6 @@ ff02::3 ip6-allhosts
 :: 33b.b33r.net
 0.0.0.0 360fenxi.mediav.com
 :: 360fenxi.mediav.com
-0.0.0.0 360vip.front99.com
-:: 360vip.front99.com
 0.0.0.0 377d936c10e6811f484c-6402e46c712497f58e3f77a59f47bbd5.r17.cf2.rackcdn.com
 :: 377d936c10e6811f484c-6402e46c712497f58e3f77a59f47bbd5.r17.cf2.rackcdn.com
 0.0.0.0 380.bu2z.com
@@ -6972,6 +6972,8 @@ ff02::3 ip6-allhosts
 :: affiliate.resellerclub.com
 0.0.0.0 affiliate.rusvpn.com
 :: affiliate.rusvpn.com
+0.0.0.0 affiliate.sonicsense.jp
+:: affiliate.sonicsense.jp
 0.0.0.0 affiliate.travelnow.com
 :: affiliate.travelnow.com
 0.0.0.0 affiliate.treated.com
@@ -6996,8 +6998,6 @@ ff02::3 ip6-allhosts
 :: affiliates.eblastengine.com
 0.0.0.0 affiliates.expaus.in
 :: affiliates.expaus.in
-0.0.0.0 affiliates.galapartners.co.uk
-:: affiliates.galapartners.co.uk
 0.0.0.0 affiliates.genealogybank.com
 :: affiliates.genealogybank.com
 0.0.0.0 affiliates.globat.com
@@ -10400,8 +10400,6 @@ ff02::3 ip6-allhosts
 :: banner.europacasino.com
 0.0.0.0 banner.finzoom.ro
 :: banner.finzoom.ro
-0.0.0.0 banner.galabingo.com
-:: banner.galabingo.com
 0.0.0.0 banner.goldenpalace.com
 :: banner.goldenpalace.com
 0.0.0.0 banner.hpmdnetwork.ru
@@ -12106,6 +12104,8 @@ ff02::3 ip6-allhosts
 :: c.caijing123.com
 0.0.0.0 c.cl.msn.com
 :: c.cl.msn.com
+0.0.0.0 c.cloudwp.io
+:: c.cloudwp.io
 0.0.0.0 c.cnstats.ru
 :: c.cnstats.ru
 0.0.0.0 c.cnzz.com
@@ -13340,6 +13340,8 @@ ff02::3 ip6-allhosts
 :: cdn.popmyads.com
 0.0.0.0 cdn.raygun.io
 :: cdn.raygun.io
+0.0.0.0 cdn.relaido.jp
+:: cdn.relaido.jp
 0.0.0.0 cdn.resonate.com
 :: cdn.resonate.com
 0.0.0.0 cdn.rhombusads.com
@@ -13712,6 +13714,8 @@ ff02::3 ip6-allhosts
 :: cfs.u-ad.info
 0.0.0.0 cfsaze.retailmenot.com
 :: cfsaze.retailmenot.com
+0.0.0.0 cgi.hotstat.nl
+:: cgi.hotstat.nl
 0.0.0.0 cgicounter.oneandone.co.uk
 :: cgicounter.oneandone.co.uk
 0.0.0.0 cgicounter.onlinehome.de
@@ -18438,8 +18442,6 @@ ff02::3 ip6-allhosts
 :: data.woosmap.com
 0.0.0.0 data.wptag.net
 :: data.wptag.net
-0.0.0.0 data.yd126.com
-:: data.yd126.com
 0.0.0.0 data.younow.com
 :: data.younow.com
 0.0.0.0 data0.bell.ca
@@ -20338,8 +20340,6 @@ ff02::3 ip6-allhosts
 :: e.958so.cn
 0.0.0.0 e.ad.xiaomi.com
 :: e.ad.xiaomi.com
-0.0.0.0 e.aduiz.com
-:: e.aduiz.com
 0.0.0.0 e.ailix.cn
 :: e.ailix.cn
 0.0.0.0 e.aiyyu.com
@@ -20388,8 +20388,6 @@ ff02::3 ip6-allhosts
 :: e.e7001.com
 0.0.0.0 e.e70123.com
 :: e.e70123.com
-0.0.0.0 e.e708.net
-:: e.e708.net
 0.0.0.0 e.ediun.com
 :: e.ediun.com
 0.0.0.0 e.ejiakm.net
@@ -20474,8 +20472,6 @@ ff02::3 ip6-allhosts
 :: e.q671e.cn
 0.0.0.0 e.qiaoyuwang.com
 :: e.qiaoyuwang.com
-0.0.0.0 e.qj10b.cn
-:: e.qj10b.cn
 0.0.0.0 e.qq.com
 :: e.qq.com
 0.0.0.0 e.qxfly.com
@@ -20790,8 +20786,6 @@ ff02::3 ip6-allhosts
 :: echidna.honeybadger.io
 0.0.0.0 echo.andumb.com
 :: echo.andumb.com
-0.0.0.0 echo.biasdo.com
-:: echo.biasdo.com
 0.0.0.0 ecjsot.aosom.es
 :: ecjsot.aosom.es
 0.0.0.0 eclick.120ask.com
@@ -30294,8 +30288,6 @@ ff02::3 ip6-allhosts
 :: jc.lgtianma.cn
 0.0.0.0 jc.szjianxin.net
 :: jc.szjianxin.net
-0.0.0.0 jc1.dayfund.cn
-:: jc1.dayfund.cn
 0.0.0.0 jcm.jd.com
 :: jcm.jd.com
 0.0.0.0 jcr3.onlyyouhotels.com
@@ -31964,8 +31956,6 @@ ff02::3 ip6-allhosts
 :: lincolnfinancialgroup.lfg.com
 0.0.0.0 lincolnshirefitness.co.uk
 :: lincolnshirefitness.co.uk
-0.0.0.0 line.jzs001.cn
-:: line.jzs001.cn
 0.0.0.0 line1-log.biligame.net
 :: line1-log.biligame.net
 0.0.0.0 lines-metric.h16.ru
@@ -35872,8 +35862,6 @@ ff02::3 ip6-allhosts
 :: members.upc.nl
 0.0.0.0 membership.mortonarb.org
 :: membership.mortonarb.org
-0.0.0.0 meme.smhlmao.com
-:: meme.smhlmao.com
 0.0.0.0 meng.360zuowen.com
 :: meng.360zuowen.com
 0.0.0.0 mens.1.p2l.info
@@ -37696,8 +37684,6 @@ ff02::3 ip6-allhosts
 :: mm.analytics.blue
 0.0.0.0 mm.anqu.com
 :: mm.anqu.com
-0.0.0.0 mm.awrsx.cn
-:: mm.awrsx.cn
 0.0.0.0 mm.jbzj.com
 :: mm.jbzj.com
 0.0.0.0 mm.melia.com
@@ -42930,8 +42916,6 @@ ff02::3 ip6-allhosts
 :: promo.ezstatic.com
 0.0.0.0 promo.fileforum.com
 :: promo.fileforum.com
-0.0.0.0 promo.galabingo.com
-:: promo.galabingo.com
 0.0.0.0 promo.japanhdv.com
 :: promo.japanhdv.com
 0.0.0.0 promo.jeunette.net
@@ -44100,8 +44084,6 @@ ff02::3 ip6-allhosts
 :: rbis-solutions.averydennison.com
 0.0.0.0 rbp.emea.mxptint.net
 :: rbp.emea.mxptint.net
-0.0.0.0 rbs.haiyunx.com
-:: rbs.haiyunx.com
 0.0.0.0 rbwipb.nonton.ru
 :: rbwipb.nonton.ru
 0.0.0.0 rc-au.imrworldwide.com
@@ -44282,8 +44264,6 @@ ff02::3 ip6-allhosts
 :: record.affiliatelounge.com
 0.0.0.0 record.mrwin.com
 :: record.mrwin.com
-0.0.0.0 record.sportsbetaffiliates.com.au
-:: record.sportsbetaffiliates.com.au
 0.0.0.0 recreativ.com.ua
 :: recreativ.com.ua
 0.0.0.0 recs.atgsvcs.com
@@ -47014,8 +46994,6 @@ ff02::3 ip6-allhosts
 :: season.net.net.daraz.com
 0.0.0.0 seasonale.1.p2l.info
 :: seasonale.1.p2l.info
-0.0.0.0 seawayz.com.cn
-:: seawayz.com.cn
 0.0.0.0 seb.sharpmarketing.eu
 :: seb.sharpmarketing.eu
 0.0.0.0 sec-analytics.panasonic.co.uk
@@ -53968,8 +53946,6 @@ ff02::3 ip6-allhosts
 :: stats.merriam-webster.com
 0.0.0.0 stats.mesenvies.fr
 :: stats.mesenvies.fr
-0.0.0.0 stats.metaletter.net
-:: stats.metaletter.net
 0.0.0.0 stats.metrozendodo.fr
 :: stats.metrozendodo.fr
 0.0.0.0 stats.miarroba.info
@@ -55432,8 +55408,6 @@ ff02::3 ip6-allhosts
 :: t.felmat.net
 0.0.0.0 t.festo.com
 :: t.festo.com
-0.0.0.0 t.fhfgjhgf.top
-:: t.fhfgjhgf.top
 0.0.0.0 t.fileplaneta.com
 :: t.fileplaneta.com
 0.0.0.0 t.firstpromoter.com
@@ -55658,8 +55632,6 @@ ff02::3 ip6-allhosts
 :: t3.a.market.xiaomi.com
 0.0.0.0 t38uu.k42jvw.com
 :: t38uu.k42jvw.com
-0.0.0.0 t4.51maiwanju.com
-:: t4.51maiwanju.com
 0.0.0.0 t4.a.market.xiaomi.com
 :: t4.a.market.xiaomi.com
 0.0.0.0 t4.agrantsem.com
@@ -57668,8 +57640,6 @@ ff02::3 ip6-allhosts
 :: track.msadcenter.qymv.com
 0.0.0.0 track.msadcenter.sax.com
 :: track.msadcenter.sax.com
-0.0.0.0 track.msadcenter.scz.com
-:: track.msadcenter.scz.com
 0.0.0.0 track.msadcenter.sgq.com
 :: track.msadcenter.sgq.com
 0.0.0.0 track.msadcenter.shy.com
@@ -58270,6 +58240,8 @@ ff02::3 ip6-allhosts
 :: tracking.drivercenter.eu
 0.0.0.0 tracking.drsfostersmith.com
 :: tracking.drsfostersmith.com
+0.0.0.0 tracking.drum.io
+:: tracking.drum.io
 0.0.0.0 tracking.easyzic.com
 :: tracking.easyzic.com
 0.0.0.0 tracking.ecookie.fr
@@ -61738,8 +61710,6 @@ ff02::3 ip6-allhosts
 :: widget.utinet.ru
 0.0.0.0 widget.whatshelp.io
 :: widget.whatshelp.io
-0.0.0.0 widget.yavli.com
-:: widget.yavli.com
 0.0.0.0 widget.zenback.jp
 :: widget.zenback.jp
 0.0.0.0 widget.zoorate.com
@@ -63972,6 +63942,8 @@ ff02::3 ip6-allhosts
 :: y.zp22.cn
 0.0.0.0 y001.tianjimedia.com
 :: y001.tianjimedia.com
+0.0.0.0 y0utube.com.mx
+:: y0utube.com.mx
 0.0.0.0 y1.arte.tv
 :: y1.arte.tv
 0.0.0.0 y1.spreton.com
@@ -64416,8 +64388,6 @@ ff02::3 ip6-allhosts
 :: z1hihu.xmcimg.com
 0.0.0.0 z2.cnywst.com
 :: z2.cnywst.com
-0.0.0.0 z2.lnymd.com
-:: z2.lnymd.com
 0.0.0.0 z2.yunl1.com
 :: z2.yunl1.com
 0.0.0.0 z2.zhishidu.com
