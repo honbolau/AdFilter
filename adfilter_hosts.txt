@@ -1,8 +1,8 @@
-# Checksum: MTYyMjI1MzY2NQo=
+# Checksum: MTYyMjM0MDgzNAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210529-0
-# TimeUpdated: 2021-05-29T02:01:05+00:00
+# Version: 1.1.8-20210530-0
+# TimeUpdated: 2021-05-30T02:13:54+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 32345
@@ -13714,8 +13714,6 @@ ff02::3 ip6-allhosts
 :: cfs.u-ad.info
 0.0.0.0 cfsaze.retailmenot.com
 :: cfsaze.retailmenot.com
-0.0.0.0 cgi.hotstat.nl
-:: cgi.hotstat.nl
 0.0.0.0 cgicounter.oneandone.co.uk
 :: cgicounter.oneandone.co.uk
 0.0.0.0 cgicounter.onlinehome.de
@@ -15136,6 +15134,8 @@ ff02::3 ip6-allhosts
 :: communications.guidedogs.com
 0.0.0.0 communications.hunterindustries.com
 :: communications.hunterindustries.com
+0.0.0.0 communications.melitaltd.com
+:: communications.melitaltd.com
 0.0.0.0 communications.optimagfx.com
 :: communications.optimagfx.com
 0.0.0.0 communications.parmenion-im.co.uk
@@ -32252,6 +32252,8 @@ ff02::3 ip6-allhosts
 :: literally-analytics.appspot.com
 0.0.0.0 littlebrother.makeplans.net
 :: littlebrother.makeplans.net
+0.0.0.0 liuhemei.com.cn
+:: liuhemei.com.cn
 0.0.0.0 live-cams-1.livejasmin.com
 :: live-cams-1.livejasmin.com
 0.0.0.0 live-trace.bilibili.com
@@ -33274,8 +33276,6 @@ ff02::3 ip6-allhosts
 :: m.ads.sohu.com
 0.0.0.0 m.adtiming.com
 :: m.adtiming.com
-0.0.0.0 m.aduiz.com
-:: m.aduiz.com
 0.0.0.0 m.adxpop.com
 :: m.adxpop.com
 0.0.0.0 m.ailix.cn
@@ -38078,6 +38078,8 @@ ff02::3 ip6-allhosts
 :: ms.continuedsys.cn
 0.0.0.0 ms.informaengage.com
 :: ms.informaengage.com
+0.0.0.0 ms.markosaric.com
+:: ms.markosaric.com
 0.0.0.0 ms.vipstatic.com
 :: ms.vipstatic.com
 0.0.0.0 msafoy.eyebuydirect.com
@@ -40550,8 +40552,6 @@ ff02::3 ip6-allhosts
 :: p.aty.sohu.com
 0.0.0.0 p.barrera.io
 :: p.barrera.io
-0.0.0.0 p.biasdo.com
-:: p.biasdo.com
 0.0.0.0 p.bnuni.com
 :: p.bnuni.com
 0.0.0.0 p.brid.tv
@@ -41990,6 +41990,8 @@ ff02::3 ip6-allhosts
 :: pixel.trackverify.com
 0.0.0.0 pixel.tuko.co.ke
 :: pixel.tuko.co.ke
+0.0.0.0 pixel.videohub.tv
+:: pixel.videohub.tv
 0.0.0.0 pixel.vihub.ru
 :: pixel.vihub.ru
 0.0.0.0 pixel.welt.de
@@ -54172,8 +54174,6 @@ ff02::3 ip6-allhosts
 :: stats.sim.de
 0.0.0.0 stats.simplecss.org
 :: stats.simplecss.org
-0.0.0.0 stats.simply-hentai.com
-:: stats.simply-hentai.com
 0.0.0.0 stats.simplytel.de
 :: stats.simplytel.de
 0.0.0.0 stats.sirdata.com
@@ -63942,8 +63942,6 @@ ff02::3 ip6-allhosts
 :: y.zp22.cn
 0.0.0.0 y001.tianjimedia.com
 :: y001.tianjimedia.com
-0.0.0.0 y0utube.com.mx
-:: y0utube.com.mx
 0.0.0.0 y1.arte.tv
 :: y1.arte.tv
 0.0.0.0 y1.spreton.com
@@ -64346,6 +64344,8 @@ ff02::3 ip6-allhosts
 :: yzzqza.vanillashu.co.kr
 0.0.0.0 z.cdn.adpool.bet
 :: z.cdn.adpool.bet
+0.0.0.0 z.cdp-dev.cnn.com
+:: z.cdp-dev.cnn.com
 0.0.0.0 z.ceotrk.com
 :: z.ceotrk.com
 0.0.0.0 z.cnzz.com
