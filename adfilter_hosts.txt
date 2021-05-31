@@ -1,8 +1,8 @@
-# Checksum: MTYyMjM0MDgzNAo=
+# Checksum: MTYyMjQyNzk5Nwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210530-0
-# TimeUpdated: 2021-05-30T02:13:54+00:00
+# Version: 1.1.8-20210531-0
+# TimeUpdated: 2021-05-31T02:26:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 32345
@@ -340,8 +340,6 @@ ff02::3 ip6-allhosts
 :: 21.zhaozongjie.com
 0.0.0.0 22.qingsongbar.com
 :: 22.qingsongbar.com
-0.0.0.0 2311.oadz.com
-:: 2311.oadz.com
 0.0.0.0 2341.a.dlads.cn
 :: 2341.a.dlads.cn
 0.0.0.0 2345api.dftoutiao.com
@@ -1450,8 +1448,6 @@ ff02::3 ip6-allhosts
 :: a38820.actonservice.com
 0.0.0.0 a4.b2b168.com
 :: a4.b2b168.com
-0.0.0.0 a4.ikafan.com
-:: a4.ikafan.com
 0.0.0.0 a40452.actonservice.com
 :: a40452.actonservice.com
 0.0.0.0 a40554.actonservice.com
@@ -4176,6 +4172,8 @@ ff02::3 ip6-allhosts
 :: adr.alltorrents.net
 0.0.0.0 adraker-dev.azureedge.net
 :: adraker-dev.azureedge.net
+0.0.0.0 adremote.timeinc.aol.com
+:: adremote.timeinc.aol.com
 0.0.0.0 adreq.vivo.com.cn
 :: adreq.vivo.com.cn
 0.0.0.0 adres.myaora.net
@@ -6942,8 +6940,6 @@ ff02::3 ip6-allhosts
 :: affiliate.exabytes.com.my
 0.0.0.0 affiliate.fc2.com
 :: affiliate.fc2.com
-0.0.0.0 affiliate.fr.espotting.com
-:: affiliate.fr.espotting.com
 0.0.0.0 affiliate.gameladen.com
 :: affiliate.gameladen.com
 0.0.0.0 affiliate.gamesdeal.com
@@ -11206,6 +11202,10 @@ ff02::3 ip6-allhosts
 :: bfzikn.l-wine.ru
 0.0.0.0 bg.promo.skf.com
 :: bg.promo.skf.com
+0.0.0.0 bgl1dr1-a-fixed.sancharnet.in
+:: bgl1dr1-a-fixed.sancharnet.in
+0.0.0.0 bgl1pp1-a-fixed.sancharnet.in
+:: bgl1pp1-a-fixed.sancharnet.in
 0.0.0.0 bglog.bitauto.com
 :: bglog.bitauto.com
 0.0.0.0 bgrel.bonedmilfs.com
@@ -13410,6 +13410,8 @@ ff02::3 ip6-allhosts
 :: cdn.usefathom.com
 0.0.0.0 cdn.userdatatrust.com
 :: cdn.userdatatrust.com
+0.0.0.0 cdn.vdopia.com
+:: cdn.vdopia.com
 0.0.0.0 cdn.videonow.ru
 :: cdn.videonow.ru
 0.0.0.0 cdn.viglink.com
@@ -16914,8 +16916,6 @@ ff02::3 ip6-allhosts
 :: d.image-ad.jp
 0.0.0.0 d.jjyx.com
 :: d.jjyx.com
-0.0.0.0 d.kugou.com
-:: d.kugou.com
 0.0.0.0 d.ligatus.com
 :: d.ligatus.com
 0.0.0.0 d.login.ns.emailvision.net.daraz.com
@@ -17182,6 +17182,8 @@ ff02::3 ip6-allhosts
 :: d19uh5b0umbjrr.cloudfront.net
 0.0.0.0 d19xf4taj229i8.cloudfront.net
 :: d19xf4taj229i8.cloudfront.net
+0.0.0.0 d1a3jb5hjny5s4.cloudfront.net
+:: d1a3jb5hjny5s4.cloudfront.net
 0.0.0.0 d1ac2du043ydir.cloudfront.net
 :: d1ac2du043ydir.cloudfront.net
 0.0.0.0 d1aezk8tun0dhm.cloudfront.net
@@ -19796,6 +19798,8 @@ ff02::3 ip6-allhosts
 :: doo6pwib3qngu.cloudfront.net
 0.0.0.0 dopa.com.cn
 :: dopa.com.cn
+0.0.0.0 doppler-reporting.cbsivideo.com
+:: doppler-reporting.cbsivideo.com
 0.0.0.0 doppler.logger.baofeng.com
 :: doppler.logger.baofeng.com
 0.0.0.0 dorangesource.alicdn.com
@@ -20440,8 +20444,6 @@ ff02::3 ip6-allhosts
 :: e.kjhfy.com
 0.0.0.0 e.kuaishou.com
 :: e.kuaishou.com
-0.0.0.0 e.kzwsh.cn
-:: e.kzwsh.cn
 0.0.0.0 e.lexington.es
 :: e.lexington.es
 0.0.0.0 e.lndjj.com
@@ -20500,8 +20502,6 @@ ff02::3 ip6-allhosts
 :: e.tw.cx
 0.0.0.0 e.uissm.com
 :: e.uissm.com
-0.0.0.0 e.vaxyz.com
-:: e.vaxyz.com
 0.0.0.0 e.vkuay.com
 :: e.vkuay.com
 0.0.0.0 e.w6xj4.cn
@@ -22298,6 +22298,8 @@ ff02::3 ip6-allhosts
 :: f-log-extension.grammarly.io
 0.0.0.0 f-log-mobile-ios.grammarly.io
 :: f-log-mobile-ios.grammarly.io
+0.0.0.0 f-log-test.grammarly.io
+:: f-log-test.grammarly.io
 0.0.0.0 f-mobilevideo.blogspot.com
 :: f-mobilevideo.blogspot.com
 0.0.0.0 f-trak.rumahkerennn.com
@@ -23046,6 +23048,8 @@ ff02::3 ip6-allhosts
 :: freedsipoints.co.uk
 0.0.0.0 freegift001.000webhostapp.com
 :: freegift001.000webhostapp.com
+0.0.0.0 freeipoduk.co.uk
+:: freeipoduk.co.uk
 0.0.0.0 freeminecraft.co.uk
 :: freeminecraft.co.uk
 0.0.0.0 freemoneymakingwebsite300.blogspot.com
@@ -27378,8 +27382,6 @@ ff02::3 ip6-allhosts
 :: httpdns.push.oppomobile.com
 0.0.0.0 httpkafka.unityads.unity3d.com
 :: httpkafka.unityads.unity3d.com
-0.0.0.0 huanbao110.com.cn
-:: huanbao110.com.cn
 0.0.0.0 huatuo.qq.com
 :: huatuo.qq.com
 0.0.0.0 hub.com.pl
@@ -30380,8 +30382,6 @@ ff02::3 ip6-allhosts
 :: jfdaily.adsame.com
 0.0.0.0 jfm4.pop.baofeng.net
 :: jfm4.pop.baofeng.net
-0.0.0.0 jg.bjpengyi.com
-:: jg.bjpengyi.com
 0.0.0.0 jg0c.sfr.fr
 :: jg0c.sfr.fr
 0.0.0.0 jgdguc.arcteryx.com
@@ -32252,8 +32252,6 @@ ff02::3 ip6-allhosts
 :: literally-analytics.appspot.com
 0.0.0.0 littlebrother.makeplans.net
 :: littlebrother.makeplans.net
-0.0.0.0 liuhemei.com.cn
-:: liuhemei.com.cn
 0.0.0.0 live-cams-1.livejasmin.com
 :: live-cams-1.livejasmin.com
 0.0.0.0 live-trace.bilibili.com
@@ -32446,8 +32444,6 @@ ff02::3 ip6-allhosts
 :: log-player.arte.tv
 0.0.0.0 log-stats.weathercn.com
 :: log-stats.weathercn.com
-0.0.0.0 log-upload-os.mihoyo.com
-:: log-upload-os.mihoyo.com
 0.0.0.0 log-upload.mihoyo.com
 :: log-upload.mihoyo.com
 0.0.0.0 log-yex.youdao.com
@@ -33486,8 +33482,6 @@ ff02::3 ip6-allhosts
 :: m.lengren.com.cn
 0.0.0.0 m.lesanmo.top
 :: m.lesanmo.top
-0.0.0.0 m.lfshpt.cn
-:: m.lfshpt.cn
 0.0.0.0 m.lolvsdota.cn
 :: m.lolvsdota.cn
 0.0.0.0 m.louisan.cn
@@ -38036,8 +38030,6 @@ ff02::3 ip6-allhosts
 :: mpp.vindicosuite.com
 0.0.0.0 mps.yuwenba.cn
 :: mps.yuwenba.cn
-0.0.0.0 mpx.mopub.com
-:: mpx.mopub.com
 0.0.0.0 mqldrm.lgcity.ru
 :: mqldrm.lgcity.ru
 0.0.0.0 mqqad.cs0309.html5.qq.com
@@ -38274,6 +38266,8 @@ ff02::3 ip6-allhosts
 :: music.getyesappz1.com
 0.0.0.0 music.myappzcenter.com
 :: music.myappzcenter.com
+0.0.0.0 musicmaargarit63.uk.to
+:: musicmaargarit63.uk.to
 0.0.0.0 musk-gifts.blogspot.com
 :: musk-gifts.blogspot.com
 0.0.0.0 musk-present.blogspot.com
@@ -38576,8 +38570,12 @@ ff02::3 ip6-allhosts
 :: ncxxek.donedeal.ie
 0.0.0.0 nd.5.p2l.info
 :: nd.5.p2l.info
+0.0.0.0 nd11mx1-a-fixed.sancharnet.in
+:: nd11mx1-a-fixed.sancharnet.in
 0.0.0.0 ndeooc.bubbleroom.no
 :: ndeooc.bubbleroom.no
+0.0.0.0 ndl1mc1-a-fixed.sancharnet.in
+:: ndl1mc1-a-fixed.sancharnet.in
 0.0.0.0 ndl1pp1-a-fixed.sancharnet.in
 :: ndl1pp1-a-fixed.sancharnet.in
 0.0.0.0 ndnxln.alfaconcursos.com.br
@@ -38926,8 +38924,6 @@ ff02::3 ip6-allhosts
 :: ng3.ads.warnerbros.com
 0.0.0.0 ngads.go.com
 :: ngads.go.com
-0.0.0.0 nginfo.industrialinfo.com
-:: nginfo.industrialinfo.com
 0.0.0.0 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 :: nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 0.0.0.0 nginx.r-dw-1.net.daraz.com
@@ -39608,6 +39604,8 @@ ff02::3 ip6-allhosts
 :: oascentral.theonionavclub.com
 0.0.0.0 oascentral.thephoenix.com
 :: oascentral.thephoenix.com
+0.0.0.0 oascentral.thespark.com
+:: oascentral.thespark.com
 0.0.0.0 oascentral.tmcnet.com
 :: oascentral.tmcnet.com
 0.0.0.0 oascentral.tnr.com
@@ -41030,6 +41028,8 @@ ff02::3 ip6-allhosts
 :: partner-ts.groupon.pl
 0.0.0.0 partner.accesstrade.vn
 :: partner.accesstrade.vn
+0.0.0.0 partner.alerts.aol.com
+:: partner.alerts.aol.com
 0.0.0.0 partner.alfa.kz
 :: partner.alfa.kz
 0.0.0.0 partner.bargaindomains.com
@@ -42216,8 +42216,6 @@ ff02::3 ip6-allhosts
 :: plausible.prod.sketch.com
 0.0.0.0 plausible.promlabs.com
 :: plausible.promlabs.com
-0.0.0.0 plausible.punchfork.com
-:: plausible.punchfork.com
 0.0.0.0 plausible.resilienz-kongress.de
 :: plausible.resilienz-kongress.de
 0.0.0.0 plausible.riok.ch
@@ -54554,6 +54552,8 @@ ff02::3 ip6-allhosts
 :: stores-counters.wix.com
 0.0.0.0 storewidget.pcauthority.com.au
 :: storewidget.pcauthority.com.au
+0.0.0.0 stories-news.com.ua
+:: stories-news.com.ua
 0.0.0.0 storm.logger.baofeng.com
 :: storm.logger.baofeng.com
 0.0.0.0 stormwind.actonservice.com
