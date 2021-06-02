@@ -1,11 +1,11 @@
-# Checksum: MTYyMjUxNTgxMgo=
+# Checksum: MTYyMjYwMjM2OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210601-0
-# TimeUpdated: 2021-06-01T02:50:12+00:00
+# Version: 1.1.8-20210602-0
+# TimeUpdated: 2021-06-02T02:52:49+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32031
+# Total: 32038
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -252,8 +252,6 @@ ff02::3 ip6-allhosts
 :: 1480876790.rsc.cdn77.org
 0.0.0.0 15.taboola.com
 :: 15.taboola.com
-0.0.0.0 150601.fc2rs.com
-:: 150601.fc2rs.com
 0.0.0.0 1524001641.rsc.cdn77.org
 :: 1524001641.rsc.cdn77.org
 0.0.0.0 1571627030.rsc.cdn77.org
@@ -2504,6 +2502,8 @@ ff02::3 ip6-allhosts
 :: ad.abum.com
 0.0.0.0 ad.accesstrade.vn
 :: ad.accesstrade.vn
+0.0.0.0 ad.aceplanet.co.kr
+:: ad.aceplanet.co.kr
 0.0.0.0 ad.ad-stir.com
 :: ad.ad-stir.com
 0.0.0.0 ad.adfurikun.jp
@@ -2868,8 +2868,6 @@ ff02::3 ip6-allhosts
 :: ad.keenspace.com
 0.0.0.0 ad.khan.co.kr
 :: ad.khan.co.kr
-0.0.0.0 ad.kissanime.io
-:: ad.kissanime.io
 0.0.0.0 ad.kisscartoon.ac
 :: ad.kisscartoon.ac
 0.0.0.0 ad.kisscartoon.is
@@ -3032,6 +3030,8 @@ ff02::3 ip6-allhosts
 :: ad.period-calendar.com
 0.0.0.0 ad.ph-prt.tbn.ru
 :: ad.ph-prt.tbn.ru
+0.0.0.0 ad.phaserep.com
+:: ad.phaserep.com
 0.0.0.0 ad.phunuxuavanay.vn
 :: ad.phunuxuavanay.vn
 0.0.0.0 ad.pickple.net
@@ -4210,8 +4210,6 @@ ff02::3 ip6-allhosts
 :: adr.alltorrents.net
 0.0.0.0 adraker-dev.azureedge.net
 :: adraker-dev.azureedge.net
-0.0.0.0 adremote.timeinc.aol.com
-:: adremote.timeinc.aol.com
 0.0.0.0 adreq.vivo.com.cn
 :: adreq.vivo.com.cn
 0.0.0.0 adres.myaora.net
@@ -8574,6 +8572,8 @@ ff02::3 ip6-allhosts
 :: api-analytics.huami.com
 0.0.0.0 api-analytics.metaps.com
 :: api-analytics.metaps.com
+0.0.0.0 api-analytics.prod.birdapp.com
+:: api-analytics.prod.birdapp.com
 0.0.0.0 api-analytics.rozetka.com.ua
 :: api-analytics.rozetka.com.ua
 0.0.0.0 api-backup.viaxmr.com
@@ -8766,8 +8766,6 @@ ff02::3 ip6-allhosts
 :: api.fd.mob.com
 0.0.0.0 api.flygame.io
 :: api.flygame.io
-0.0.0.0 api.game.letvstore.com
-:: api.game.letvstore.com
 0.0.0.0 api.gameanalytics.com
 :: api.gameanalytics.com
 0.0.0.0 api.gameofwhales.com
@@ -8820,8 +8818,6 @@ ff02::3 ip6-allhosts
 :: api.linkz.net
 0.0.0.0 api.lwxs99.com
 :: api.lwxs99.com
-0.0.0.0 api.mediarithmics.com
-:: api.mediarithmics.com
 0.0.0.0 api.mediation.amberweather.com
 :: api.mediation.amberweather.com
 0.0.0.0 api.minero.cc
@@ -9554,6 +9550,8 @@ ff02::3 ip6-allhosts
 :: asecdn.w88media.com
 0.0.0.0 aserv.motorsgate.com
 :: aserv.motorsgate.com
+0.0.0.0 asg.phukienthoitranggiare.com
+:: asg.phukienthoitranggiare.com
 0.0.0.0 asgdfasad.mm-cgnews.com
 :: asgdfasad.mm-cgnews.com
 0.0.0.0 ashot.txxx.com
@@ -9892,6 +9890,8 @@ ff02::3 ip6-allhosts
 :: awsync.yandex.ru
 0.0.0.0 ax.120ask.com
 :: ax.120ask.com
+0.0.0.0 ax.ggfeng.com
+:: ax.ggfeng.com
 0.0.0.0 ax.idg.se
 :: ax.idg.se
 0.0.0.0 ax.ifeng.com
@@ -11282,10 +11282,6 @@ ff02::3 ip6-allhosts
 :: bfzikn.l-wine.ru
 0.0.0.0 bg.promo.skf.com
 :: bg.promo.skf.com
-0.0.0.0 bgl1dr1-a-fixed.sancharnet.in
-:: bgl1dr1-a-fixed.sancharnet.in
-0.0.0.0 bgl1pp1-a-fixed.sancharnet.in
-:: bgl1pp1-a-fixed.sancharnet.in
 0.0.0.0 bglog.bitauto.com
 :: bglog.bitauto.com
 0.0.0.0 bgrel.bonedmilfs.com
@@ -12094,6 +12090,8 @@ ff02::3 ip6-allhosts
 :: bxbiwo.beliani.ch
 0.0.0.0 by.bollore-logistics.com
 :: by.bollore-logistics.com
+0.0.0.0 by.dyq.cn
+:: by.dyq.cn
 0.0.0.0 by.mbai.cn
 :: by.mbai.cn
 0.0.0.0 by.tel.cdndm.com
@@ -12572,8 +12570,6 @@ ff02::3 ip6-allhosts
 :: c.za.msn.com
 0.0.0.0 c.zlongad.com
 :: c.zlongad.com
-0.0.0.0 c.zoepb.cn
-:: c.zoepb.cn
 0.0.0.0 c0.adalyser.com
 :: c0.adalyser.com
 0.0.0.0 c0012.brsimg.com
@@ -15692,8 +15688,6 @@ ff02::3 ip6-allhosts
 :: convsgmp.taboola.com
 0.0.0.0 cookie-bar.salessquad.co.uk
 :: cookie-bar.salessquad.co.uk
-0.0.0.0 cookie-matching.mediarithmics.com
-:: cookie-matching.mediarithmics.com
 0.0.0.0 cookie.aerostatonet.it
 :: cookie.aerostatonet.it
 0.0.0.0 cookie.consent.is
@@ -18226,6 +18220,8 @@ ff02::3 ip6-allhosts
 :: d9tnvwv7i2n85.cloudfront.net
 0.0.0.0 da.2000888.com
 :: da.2000888.com
+0.0.0.0 da.daji.com
+:: da.daji.com
 0.0.0.0 da.feedsportal.com
 :: da.feedsportal.com
 0.0.0.0 da.hornbach.at
@@ -22204,8 +22200,6 @@ ff02::3 ip6-allhosts
 :: events.lbesecapi.com
 0.0.0.0 events.matterport.com
 :: events.matterport.com
-0.0.0.0 events.mediarithmics.com
-:: events.mediarithmics.com
 0.0.0.0 events.medio.com
 :: events.medio.com
 0.0.0.0 events.mywd.com
@@ -22920,6 +22914,10 @@ ff02::3 ip6-allhosts
 :: flv-tool.pornravage.com
 0.0.0.0 flv.dotmore.com.tw
 :: flv.dotmore.com.tw
+0.0.0.0 fly.gentside.com
+:: fly.gentside.com
+0.0.0.0 fly.ohmymag.com
+:: fly.ohmymag.com
 0.0.0.0 flyingfish.jak-zrobic-strone.pl
 :: flyingfish.jak-zrobic-strone.pl
 0.0.0.0 fm.ipinyou.com
@@ -23192,8 +23190,6 @@ ff02::3 ip6-allhosts
 :: freedsipoints.co.uk
 0.0.0.0 freegift001.000webhostapp.com
 :: freegift001.000webhostapp.com
-0.0.0.0 freeipoduk.co.uk
-:: freeipoduk.co.uk
 0.0.0.0 freeminecraft.co.uk
 :: freeminecraft.co.uk
 0.0.0.0 freemoneymakingwebsite300.blogspot.com
@@ -32464,6 +32460,10 @@ ff02::3 ip6-allhosts
 :: log.api.zaloapp.com
 0.0.0.0 log.apk.v-mate.mobi
 :: log.apk.v-mate.mobi
+0.0.0.0 log.avlyun.com
+:: log.avlyun.com
+0.0.0.0 log.avlyun.sec.intl.miui.com
+:: log.avlyun.sec.intl.miui.com
 0.0.0.0 log.baodatviet.vn
 :: log.baodatviet.vn
 0.0.0.0 log.baodauthau.vn
@@ -35442,6 +35442,8 @@ ff02::3 ip6-allhosts
 :: mct.etherscan.com
 0.0.0.0 mct.paypay.ne.jp
 :: mct.paypay.ne.jp
+0.0.0.0 md.1drj.com
+:: md.1drj.com
 0.0.0.0 md.5.p2l.info
 :: md.5.p2l.info
 0.0.0.0 md.he9630.com
@@ -38602,12 +38604,8 @@ ff02::3 ip6-allhosts
 :: ncxxek.donedeal.ie
 0.0.0.0 nd.5.p2l.info
 :: nd.5.p2l.info
-0.0.0.0 nd11mx1-a-fixed.sancharnet.in
-:: nd11mx1-a-fixed.sancharnet.in
 0.0.0.0 ndeooc.bubbleroom.no
 :: ndeooc.bubbleroom.no
-0.0.0.0 ndl1mc1-a-fixed.sancharnet.in
-:: ndl1mc1-a-fixed.sancharnet.in
 0.0.0.0 ndl1pp1-a-fixed.sancharnet.in
 :: ndl1pp1-a-fixed.sancharnet.in
 0.0.0.0 ndnxln.alfaconcursos.com.br
@@ -38670,8 +38668,6 @@ ff02::3 ip6-allhosts
 :: net646.net.daraz.com
 0.0.0.0 netads.hotwired.com
 :: netads.hotwired.com
-0.0.0.0 netadsrv.iworld.com
-:: netadsrv.iworld.com
 0.0.0.0 netbotz.net.daraz.com
 :: netbotz.net.daraz.com
 0.0.0.0 netc.sfr.fr
@@ -40870,6 +40866,8 @@ ff02::3 ip6-allhosts
 :: panda.adsame.com
 0.0.0.0 panda.kdnet.net
 :: panda.kdnet.net
+0.0.0.0 pandg.tapad.com
+:: pandg.tapad.com
 0.0.0.0 panel-lib-ht-1.net.daraz.com
 :: panel-lib-ht-1.net.daraz.com
 0.0.0.0 panel.www.net.daraz.com
@@ -40900,8 +40898,6 @@ ff02::3 ip6-allhosts
 :: paopao2.qiyipic.com
 0.0.0.0 paopao3.qiyipic.com
 :: paopao3.qiyipic.com
-0.0.0.0 paosjc.biqubao.com
-:: paosjc.biqubao.com
 0.0.0.0 pap.qualityunit.com
 :: pap.qualityunit.com
 0.0.0.0 pap.zalando.de
@@ -41194,6 +41190,8 @@ ff02::3 ip6-allhosts
 :: pb3.pstatp.com
 0.0.0.0 pbd.sogou.com
 :: pbd.sogou.com
+0.0.0.0 pbjs.sskzlabs.com
+:: pbjs.sskzlabs.com
 0.0.0.0 pbox.no.photobox.com
 :: pbox.no.photobox.com
 0.0.0.0 pbox.photobox.be
@@ -42680,6 +42678,8 @@ ff02::3 ip6-allhosts
 :: prism.noordermeer.ch
 0.0.0.0 prism.pandora.tv
 :: prism.pandora.tv
+0.0.0.0 prisma-tr.prismamedia.com
+:: prisma-tr.prismamedia.com
 0.0.0.0 priv-car13.net.daraz.com
 :: priv-car13.net.daraz.com
 0.0.0.0 privacidade.api.milvus.com.br
@@ -44550,8 +44550,6 @@ ff02::3 ip6-allhosts
 :: reydrj.kozaczek.pl
 0.0.0.0 rffsds.fsastore.com
 :: rffsds.fsastore.com
-0.0.0.0 rfk.biglots.com
-:: rfk.biglots.com
 0.0.0.0 rflrlt.divano.ru
 :: rflrlt.divano.ru
 0.0.0.0 rg.yottos.com
@@ -52288,8 +52286,6 @@ ff02::3 ip6-allhosts
 :: stat.acca.it
 0.0.0.0 stat.adbana.com
 :: stat.adbana.com
-0.0.0.0 stat.adguard.com
-:: stat.adguard.com
 0.0.0.0 stat.adlabs.ru
 :: stat.adlabs.ru
 0.0.0.0 stat.adultium.com
@@ -55918,8 +55914,6 @@ ff02::3 ip6-allhosts
 :: timeserver.cnzz.net
 0.0.0.0 timeslogtn.timesnow.tv
 :: timeslogtn.timesnow.tv
-0.0.0.0 tinychinacdnweb.qiniu.com.w.kunlunno.com
-:: tinychinacdnweb.qiniu.com.w.kunlunno.com
 0.0.0.0 tippcom01.tipp24.com
 :: tippcom01.tipp24.com
 0.0.0.0 tips.logger.baofeng.com
@@ -59432,20 +59426,40 @@ ff02::3 ip6-allhosts
 :: us.a1.yimg.com
 0.0.0.0 us.adserver.yahoo.com
 :: us.adserver.yahoo.com
+0.0.0.0 us.b1.yimg.com
+:: us.b1.yimg.com
 0.0.0.0 us.bs.serving-sys.com
 :: us.bs.serving-sys.com
+0.0.0.0 us.c1.yimg.com
+:: us.c1.yimg.com
+0.0.0.0 us.f1.yimg.com
+:: us.f1.yimg.com
+0.0.0.0 us.g1.yimg.com
+:: us.g1.yimg.com
 0.0.0.0 us.l.qq.com
 :: us.l.qq.com
 0.0.0.0 us.moneroocean.stream
 :: us.moneroocean.stream
 0.0.0.0 us.onkyo.actonservice.com
 :: us.onkyo.actonservice.com
+0.0.0.0 us.r1.yimg.com
+:: us.r1.yimg.com
+0.0.0.0 us.t1.yimg.com
+:: us.t1.yimg.com
+0.0.0.0 us.u1.yimg.com
+:: us.u1.yimg.com
+0.0.0.0 us.v1.yimg.com
+:: us.v1.yimg.com
 0.0.0.0 us.vortex-win.data.microsoft.com
 :: us.vortex-win.data.microsoft.com
+0.0.0.0 us.x1.yimg.com
+:: us.x1.yimg.com
 0.0.0.0 us.xmlppcbuzz.com
 :: us.xmlppcbuzz.com
 0.0.0.0 us.y.atwola.com
 :: us.y.atwola.com
+0.0.0.0 us.y1.yimg.com
+:: us.y1.yimg.com
 0.0.0.0 usage.influxdata.com
 :: usage.influxdata.com
 0.0.0.0 usage.seibert-media.io
