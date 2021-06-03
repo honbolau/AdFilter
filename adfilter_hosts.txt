@@ -1,11 +1,11 @@
-# Checksum: MTYyMjYwMjM2OQo=
+# Checksum: MTYyMjY4NzI2MAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210602-0
-# TimeUpdated: 2021-06-02T02:52:49+00:00
+# Version: 1.1.8-20210603-0
+# TimeUpdated: 2021-06-03T02:27:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32038
+# Total: 32025
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -684,6 +684,8 @@ ff02::3 ip6-allhosts
 :: a.2-ns.emailvision.net.daraz.com
 0.0.0.0 a.20minutes.fr
 :: a.20minutes.fr
+0.0.0.0 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
+:: a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
 0.0.0.0 a.4aqq.com
 :: a.4aqq.com
 0.0.0.0 a.52wubi.com
@@ -1244,8 +1246,6 @@ ff02::3 ip6-allhosts
 :: a1.sumiaowang.com
 0.0.0.0 a1.twtym.com
 :: a1.twtym.com
-0.0.0.0 a1.zhanzhang.net
-:: a1.zhanzhang.net
 0.0.0.0 a11058.actonservice.com
 :: a11058.actonservice.com
 0.0.0.0 a11413003.actonservice.com
@@ -1308,8 +1308,6 @@ ff02::3 ip6-allhosts
 :: a16585.actonservice.com
 0.0.0.0 a16611.actonservice.com
 :: a16611.actonservice.com
-0.0.0.0 a1662.oadz.com
-:: a1662.oadz.com
 0.0.0.0 a16781.actonservice.com
 :: a16781.actonservice.com
 0.0.0.0 a17100.actonservice.com
@@ -2502,8 +2500,6 @@ ff02::3 ip6-allhosts
 :: ad.abum.com
 0.0.0.0 ad.accesstrade.vn
 :: ad.accesstrade.vn
-0.0.0.0 ad.aceplanet.co.kr
-:: ad.aceplanet.co.kr
 0.0.0.0 ad.ad-stir.com
 :: ad.ad-stir.com
 0.0.0.0 ad.adfurikun.jp
@@ -3030,8 +3026,6 @@ ff02::3 ip6-allhosts
 :: ad.period-calendar.com
 0.0.0.0 ad.ph-prt.tbn.ru
 :: ad.ph-prt.tbn.ru
-0.0.0.0 ad.phaserep.com
-:: ad.phaserep.com
 0.0.0.0 ad.phunuxuavanay.vn
 :: ad.phunuxuavanay.vn
 0.0.0.0 ad.pickple.net
@@ -3206,6 +3200,8 @@ ff02::3 ip6-allhosts
 :: ad.vkool.net
 0.0.0.0 ad.vrvm.com
 :: ad.vrvm.com
+0.0.0.0 ad.vurts.com
+:: ad.vurts.com
 0.0.0.0 ad.wang502.com
 :: ad.wang502.com
 0.0.0.0 ad.wappalyzer.com
@@ -3736,6 +3732,8 @@ ff02::3 ip6-allhosts
 :: adi2007.cnool.net
 0.0.0.0 adidm.idmnet.pl
 :: adidm.idmnet.pl
+0.0.0.0 adidm.supermedia.pl
+:: adidm.supermedia.pl
 0.0.0.0 adilk.ilikecomix.com
 :: adilk.ilikecomix.com
 0.0.0.0 adim.pinduoduo.com
@@ -4462,8 +4460,6 @@ ff02::3 ip6-allhosts
 :: ads.bcnewsgroup.com
 0.0.0.0 ads.beliefnet.com
 :: ads.beliefnet.com
-0.0.0.0 ads.bestads.me
-:: ads.bestads.me
 0.0.0.0 ads.betfair.com
 :: ads.betfair.com
 0.0.0.0 ads.bianca.com
@@ -6350,6 +6346,8 @@ ff02::3 ip6-allhosts
 :: adserver1.backbeatmedia.com
 0.0.0.0 adserver1.hookyouup.com
 :: adserver1.hookyouup.com
+0.0.0.0 adserver1.isohunt.com
+:: adserver1.isohunt.com
 0.0.0.0 adserver1.mediainsight.de
 :: adserver1.mediainsight.de
 0.0.0.0 adserver1.mindshare.de
@@ -6486,8 +6484,6 @@ ff02::3 ip6-allhosts
 :: adsrv.lua.pl
 0.0.0.0 adsrv.moebelmarkt.tv
 :: adsrv.moebelmarkt.tv
-0.0.0.0 adsrv.swidnica24.pl
-:: adsrv.swidnica24.pl
 0.0.0.0 adsrv2.swidnica24.pl
 :: adsrv2.swidnica24.pl
 0.0.0.0 adss.video.qq.com
@@ -10240,8 +10236,6 @@ ff02::3 ip6-allhosts
 :: b1-data.ads.heytapmobi.com
 0.0.0.0 b1.0430.com
 :: b1.0430.com
-0.0.0.0 b1.51scw.net
-:: b1.51scw.net
 0.0.0.0 b1.ads.oppomobile.com
 :: b1.ads.oppomobile.com
 0.0.0.0 b1.b2b168.com
@@ -10254,6 +10248,8 @@ ff02::3 ip6-allhosts
 :: b1.c1km4.com
 0.0.0.0 b1.fengdu100.com
 :: b1.fengdu100.com
+0.0.0.0 b1.qqjay.com
+:: b1.qqjay.com
 0.0.0.0 b1.xiao84.com
 :: b1.xiao84.com
 0.0.0.0 b13.penzainform.ru
@@ -11740,6 +11736,8 @@ ff02::3 ip6-allhosts
 :: br.fling.com
 0.0.0.0 br.naked.com
 :: br.naked.com
+0.0.0.0 br.rawcomm.net
+:: br.rawcomm.net
 0.0.0.0 br.realitykings.com
 :: br.realitykings.com
 0.0.0.0 br.rk.com
@@ -12904,8 +12902,6 @@ ff02::3 ip6-allhosts
 :: care.grainger.com
 0.0.0.0 care.petcureoncology.com
 :: care.petcureoncology.com
-0.0.0.0 careers.nchjobs.org
-:: careers.nchjobs.org
 0.0.0.0 careers.skywest.com
 :: careers.skywest.com
 0.0.0.0 carfax.sc.omtrdc.net
@@ -13110,8 +13106,6 @@ ff02::3 ip6-allhosts
 :: cdn-alliancegravity.s3.amazonaws.com
 0.0.0.0 cdn-api.admost.com
 :: cdn-api.admost.com
-0.0.0.0 cdn-b.notsy.io
-:: cdn-b.notsy.io
 0.0.0.0 cdn-bk.ligastavok.ru
 :: cdn-bk.ligastavok.ru
 0.0.0.0 cdn-bongdadem-net.cdn.ampproject.org
@@ -13382,8 +13376,6 @@ ff02::3 ip6-allhosts
 :: cdn.nimiq-network.com
 0.0.0.0 cdn.nimiq.com
 :: cdn.nimiq.com
-0.0.0.0 cdn.notsy.io
-:: cdn.notsy.io
 0.0.0.0 cdn.nsimg.net
 :: cdn.nsimg.net
 0.0.0.0 cdn.offcloud.com
@@ -14482,6 +14474,8 @@ ff02::3 ip6-allhosts
 :: clk.atdmt.com
 0.0.0.0 clk.boulanger.com
 :: clk.boulanger.com
+0.0.0.0 clk.cloudyisland.com
+:: clk.cloudyisland.com
 0.0.0.0 clk.dxpmedia.com
 :: clk.dxpmedia.com
 0.0.0.0 clk.gentags.net
@@ -20548,6 +20542,8 @@ ff02::3 ip6-allhosts
 :: e.itgovernance.co.uk
 0.0.0.0 e.itgovernance.eu
 :: e.itgovernance.eu
+0.0.0.0 e.k9wz7.cn
+:: e.k9wz7.cn
 0.0.0.0 e.kc-education.com
 :: e.kc-education.com
 0.0.0.0 e.kde.cz
@@ -22142,6 +22138,10 @@ ff02::3 ip6-allhosts
 :: eventos.lp.deloittecomunicacao.com.br
 0.0.0.0 events-collector.spot.im
 :: events-collector.spot.im
+0.0.0.0 events-eu.freshsuccess.com
+:: events-eu.freshsuccess.com
+0.0.0.0 events-us.freshsuccess.com
+:: events-us.freshsuccess.com
 0.0.0.0 events.air.tv
 :: events.air.tv
 0.0.0.0 events.apester.com
@@ -22950,8 +22950,6 @@ ff02::3 ip6-allhosts
 :: fnqhpf.marioberluchi.ru
 0.0.0.0 fo.iphonevip.cn
 :: fo.iphonevip.cn
-0.0.0.0 focusbaiduafp.allyes.com
-:: focusbaiduafp.allyes.com
 0.0.0.0 fog.pixual.co
 :: fog.pixual.co
 0.0.0.0 follow.vnay.vn
@@ -35442,8 +35440,6 @@ ff02::3 ip6-allhosts
 :: mct.etherscan.com
 0.0.0.0 mct.paypay.ne.jp
 :: mct.paypay.ne.jp
-0.0.0.0 md.1drj.com
-:: md.1drj.com
 0.0.0.0 md.5.p2l.info
 :: md.5.p2l.info
 0.0.0.0 md.he9630.com
@@ -59426,40 +59422,20 @@ ff02::3 ip6-allhosts
 :: us.a1.yimg.com
 0.0.0.0 us.adserver.yahoo.com
 :: us.adserver.yahoo.com
-0.0.0.0 us.b1.yimg.com
-:: us.b1.yimg.com
 0.0.0.0 us.bs.serving-sys.com
 :: us.bs.serving-sys.com
-0.0.0.0 us.c1.yimg.com
-:: us.c1.yimg.com
-0.0.0.0 us.f1.yimg.com
-:: us.f1.yimg.com
-0.0.0.0 us.g1.yimg.com
-:: us.g1.yimg.com
 0.0.0.0 us.l.qq.com
 :: us.l.qq.com
 0.0.0.0 us.moneroocean.stream
 :: us.moneroocean.stream
 0.0.0.0 us.onkyo.actonservice.com
 :: us.onkyo.actonservice.com
-0.0.0.0 us.r1.yimg.com
-:: us.r1.yimg.com
-0.0.0.0 us.t1.yimg.com
-:: us.t1.yimg.com
-0.0.0.0 us.u1.yimg.com
-:: us.u1.yimg.com
-0.0.0.0 us.v1.yimg.com
-:: us.v1.yimg.com
 0.0.0.0 us.vortex-win.data.microsoft.com
 :: us.vortex-win.data.microsoft.com
-0.0.0.0 us.x1.yimg.com
-:: us.x1.yimg.com
 0.0.0.0 us.xmlppcbuzz.com
 :: us.xmlppcbuzz.com
 0.0.0.0 us.y.atwola.com
 :: us.y.atwola.com
-0.0.0.0 us.y1.yimg.com
-:: us.y1.yimg.com
 0.0.0.0 usage.influxdata.com
 :: usage.influxdata.com
 0.0.0.0 usage.seibert-media.io
@@ -63308,8 +63284,6 @@ ff02::3 ip6-allhosts
 :: y.pzclw.cn
 0.0.0.0 y.unilz588.com
 :: y.unilz588.com
-0.0.0.0 y.zp22.cn
-:: y.zp22.cn
 0.0.0.0 y001.tianjimedia.com
 :: y001.tianjimedia.com
 0.0.0.0 y1.arte.tv
