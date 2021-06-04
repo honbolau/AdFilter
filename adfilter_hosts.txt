@@ -1,11 +1,11 @@
-# Checksum: MTYyMjY4NzI2MAo=
+# Checksum: MTYyMjc3MTg2Mgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210603-0
-# TimeUpdated: 2021-06-03T02:27:40+00:00
+# Version: 1.1.8-20210604-0
+# TimeUpdated: 2021-06-04T01:57:42+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32025
+# Total: 32018
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1428,8 +1428,6 @@ ff02::3 ip6-allhosts
 :: a29868.actonservice.com
 0.0.0.0 a2put.chinaz.com
 :: a2put.chinaz.com
-0.0.0.0 a3.ikafan.com
-:: a3.ikafan.com
 0.0.0.0 a3.img.static.youmi.net
 :: a3.img.static.youmi.net
 0.0.0.0 a3.jandan.net
@@ -3200,8 +3198,6 @@ ff02::3 ip6-allhosts
 :: ad.vkool.net
 0.0.0.0 ad.vrvm.com
 :: ad.vrvm.com
-0.0.0.0 ad.vurts.com
-:: ad.vurts.com
 0.0.0.0 ad.wang502.com
 :: ad.wang502.com
 0.0.0.0 ad.wappalyzer.com
@@ -3732,8 +3728,6 @@ ff02::3 ip6-allhosts
 :: adi2007.cnool.net
 0.0.0.0 adidm.idmnet.pl
 :: adidm.idmnet.pl
-0.0.0.0 adidm.supermedia.pl
-:: adidm.supermedia.pl
 0.0.0.0 adilk.ilikecomix.com
 :: adilk.ilikecomix.com
 0.0.0.0 adim.pinduoduo.com
@@ -6346,8 +6340,6 @@ ff02::3 ip6-allhosts
 :: adserver1.backbeatmedia.com
 0.0.0.0 adserver1.hookyouup.com
 :: adserver1.hookyouup.com
-0.0.0.0 adserver1.isohunt.com
-:: adserver1.isohunt.com
 0.0.0.0 adserver1.mediainsight.de
 :: adserver1.mediainsight.de
 0.0.0.0 adserver1.mindshare.de
@@ -7270,8 +7262,6 @@ ff02::3 ip6-allhosts
 :: al.newxue.com
 0.0.0.0 ala.durasite.net
 :: ala.durasite.net
-0.0.0.0 alb.reddit.com
-:: alb.reddit.com
 0.0.0.0 alchemist.go2cloud.org
 :: alchemist.go2cloud.org
 0.0.0.0 ald.aldautomotive.com
@@ -11736,8 +11726,6 @@ ff02::3 ip6-allhosts
 :: br.fling.com
 0.0.0.0 br.naked.com
 :: br.naked.com
-0.0.0.0 br.rawcomm.net
-:: br.rawcomm.net
 0.0.0.0 br.realitykings.com
 :: br.realitykings.com
 0.0.0.0 br.rk.com
@@ -14474,8 +14462,6 @@ ff02::3 ip6-allhosts
 :: clk.atdmt.com
 0.0.0.0 clk.boulanger.com
 :: clk.boulanger.com
-0.0.0.0 clk.cloudyisland.com
-:: clk.cloudyisland.com
 0.0.0.0 clk.dxpmedia.com
 :: clk.dxpmedia.com
 0.0.0.0 clk.gentags.net
@@ -18832,6 +18818,8 @@ ff02::3 ip6-allhosts
 :: dejavu.mlapps.com
 0.0.0.0 delb.mspaceads.com
 :: delb.mspaceads.com
+0.0.0.0 deliver.ads2.iid.jp
+:: deliver.ads2.iid.jp
 0.0.0.0 deliver.kuwo.cn
 :: deliver.kuwo.cn
 0.0.0.0 deliver.oztam.com.au
@@ -20542,8 +20530,6 @@ ff02::3 ip6-allhosts
 :: e.itgovernance.co.uk
 0.0.0.0 e.itgovernance.eu
 :: e.itgovernance.eu
-0.0.0.0 e.k9wz7.cn
-:: e.k9wz7.cn
 0.0.0.0 e.kc-education.com
 :: e.kc-education.com
 0.0.0.0 e.kde.cz
@@ -21804,8 +21790,6 @@ ff02::3 ip6-allhosts
 :: ens.nzz.ch
 0.0.0.0 ens.tagblatt.ch
 :: ens.tagblatt.ch
-0.0.0.0 ent1.12584.cn
-:: ent1.12584.cn
 0.0.0.0 ent1.qunchua.cn
 :: ent1.qunchua.cn
 0.0.0.0 ent1.qunchua.com
@@ -31094,8 +31078,6 @@ ff02::3 ip6-allhosts
 :: kfzntn.chinatimes.com
 0.0.0.0 kfzqoj.utkonos.ru
 :: kfzqoj.utkonos.ru
-0.0.0.0 kgmobilestat.kugou.com
-:: kgmobilestat.kugou.com
 0.0.0.0 kharid.isatice.com
 :: kharid.isatice.com
 0.0.0.0 khgayc.hackers.com
@@ -32574,6 +32556,8 @@ ff02::3 ip6-allhosts
 :: log.ltype.baofeng.com
 0.0.0.0 log.m.sm.cn
 :: log.m.sm.cn
+0.0.0.0 log.ma-jin.jp
+:: log.ma-jin.jp
 0.0.0.0 log.mappy.net
 :: log.mappy.net
 0.0.0.0 log.medietall.no
@@ -37344,8 +37328,6 @@ ff02::3 ip6-allhosts
 :: mfeed.newzfind.com
 0.0.0.0 mfg.endeavorb2b.com
 :: mfg.endeavorb2b.com
-0.0.0.0 mfkmyve.retrocoder.org
-:: mfkmyve.retrocoder.org
 0.0.0.0 mfm.video.qq.com
 :: mfm.video.qq.com
 0.0.0.0 mfp.deliver.ifeng.com
@@ -37808,6 +37790,8 @@ ff02::3 ip6-allhosts
 :: mo.spaces.ru
 0.0.0.0 mo.test.haloapps.com
 :: mo.test.haloapps.com
+0.0.0.0 mob10.cqjktj.com
+:: mob10.cqjktj.com
 0.0.0.0 mob26.jnjszl.com
 :: mob26.jnjszl.com
 0.0.0.0 mobaders.oss-cn-beijing.aliyuncs.com
@@ -39652,8 +39636,6 @@ ff02::3 ip6-allhosts
 :: oda.markitondemand.com
 0.0.0.0 odb.outbrain.com
 :: odb.outbrain.com
-0.0.0.0 odbierz-bony.ovp.pl
-:: odbierz-bony.ovp.pl
 0.0.0.0 odc.1und1.de
 :: odc.1und1.de
 0.0.0.0 odc.starwave.com
@@ -45180,8 +45162,6 @@ ff02::3 ip6-allhosts
 :: s.go.sohu.com
 0.0.0.0 s.goodkee.cn
 :: s.goodkee.cn
-0.0.0.0 s.guiheng.wang
-:: s.guiheng.wang
 0.0.0.0 s.h5king.com
 :: s.h5king.com
 0.0.0.0 s.haiyunx.com
@@ -52740,6 +52720,8 @@ ff02::3 ip6-allhosts
 :: static.mvot.vn
 0.0.0.0 static.novanet.vn
 :: static.novanet.vn
+0.0.0.0 static.nrelate.com
+:: static.nrelate.com
 0.0.0.0 static.parsely.com
 :: static.parsely.com
 0.0.0.0 static.prototypes.ru
@@ -57198,6 +57180,8 @@ ff02::3 ip6-allhosts
 :: track.msadcenter.zmmr.com
 0.0.0.0 track.msadcenter.zul.com
 :: track.msadcenter.zul.com
+0.0.0.0 track.msadcenter.zun.com
+:: track.msadcenter.zun.com
 0.0.0.0 track.msadcenter.zvjw.com
 :: track.msadcenter.zvjw.com
 0.0.0.0 track.msadcenter.zzv.com
@@ -59768,6 +59752,8 @@ ff02::3 ip6-allhosts
 :: v1.play.log.hunantv.com
 0.0.0.0 v1.res.log.hunantv.com
 :: v1.res.log.hunantv.com
+0.0.0.0 v1.taksh.cn
+:: v1.taksh.cn
 0.0.0.0 v1.ujian.cc
 :: v1.ujian.cc
 0.0.0.0 v12-r0566gbscjw.z.irs01.com

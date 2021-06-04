@@ -1,11 +1,11 @@
-# Checksum: MTYyMjY4NzI2MAo=
+# Checksum: MTYyMjc3MTg2Mgo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210603-0
-# TimeUpdated: 2021-06-03T02:27:40+00:00
+# Version: 1.1.8-20210604-0
+# TimeUpdated: 2021-06-04T01:57:42+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32025
+# Total: 32018
 DOMAIN,0.nextyourcontent.com,REJECT
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
@@ -712,7 +712,6 @@ DOMAIN,a29412.actonservice.com,REJECT
 DOMAIN,a29866.actonservice.com,REJECT
 DOMAIN,a29868.actonservice.com,REJECT
 DOMAIN,a2put.chinaz.com,REJECT
-DOMAIN,a3.ikafan.com,REJECT
 DOMAIN,a3.img.static.youmi.net,REJECT
 DOMAIN,a3.jandan.net,REJECT
 DOMAIN,a30667.actonservice.com,REJECT
@@ -1598,7 +1597,6 @@ DOMAIN,ad.vidver.to,REJECT
 DOMAIN,ad.virtual-nights.com,REJECT
 DOMAIN,ad.vkool.net,REJECT
 DOMAIN,ad.vrvm.com,REJECT
-DOMAIN,ad.vurts.com,REJECT
 DOMAIN,ad.wang502.com,REJECT
 DOMAIN,ad.wappalyzer.com,REJECT
 DOMAIN,ad.wavu.hu,REJECT
@@ -1864,7 +1862,6 @@ DOMAIN,adi.cnool.net,REJECT
 DOMAIN,adi.vcmedia.vn,REJECT
 DOMAIN,adi2007.cnool.net,REJECT
 DOMAIN,adidm.idmnet.pl,REJECT
-DOMAIN,adidm.supermedia.pl,REJECT
 DOMAIN,adilk.ilikecomix.com,REJECT
 DOMAIN,adim.pinduoduo.com,REJECT
 DOMAIN,adimage.blm.net,REJECT
@@ -3171,7 +3168,6 @@ DOMAIN,adserver.yahoo.com,REJECT
 DOMAIN,adserver1-images.backbeatmedia.com,REJECT
 DOMAIN,adserver1.backbeatmedia.com,REJECT
 DOMAIN,adserver1.hookyouup.com,REJECT
-DOMAIN,adserver1.isohunt.com,REJECT
 DOMAIN,adserver1.mediainsight.de,REJECT
 DOMAIN,adserver1.mindshare.de,REJECT
 DOMAIN,adserver1.sonymusiceurope.com,REJECT
@@ -3633,7 +3629,6 @@ DOMAIN,al.5.p2l.info,REJECT
 DOMAIN,al.autohome.com.cn,REJECT
 DOMAIN,al.newxue.com,REJECT
 DOMAIN,ala.durasite.net,REJECT
-DOMAIN,alb.reddit.com,REJECT
 DOMAIN,alchemist.go2cloud.org,REJECT
 DOMAIN,ald.aldautomotive.com,REJECT
 DOMAIN,alereinc.actonservice.com,REJECT
@@ -5866,7 +5861,6 @@ DOMAIN,br.blackfling.com,REJECT
 DOMAIN,br.email.lifesum.com,REJECT
 DOMAIN,br.fling.com,REJECT
 DOMAIN,br.naked.com,REJECT
-DOMAIN,br.rawcomm.net,REJECT
 DOMAIN,br.realitykings.com,REJECT
 DOMAIN,br.rk.com,REJECT
 DOMAIN,br.zettle.com,REJECT
@@ -7235,7 +7229,6 @@ DOMAIN,clk.about.com,REJECT
 DOMAIN,clk.addmt.com,REJECT
 DOMAIN,clk.atdmt.com,REJECT
 DOMAIN,clk.boulanger.com,REJECT
-DOMAIN,clk.cloudyisland.com,REJECT
 DOMAIN,clk.dxpmedia.com,REJECT
 DOMAIN,clk.gentags.net,REJECT
 DOMAIN,clk.madserving.com,REJECT
@@ -9414,6 +9407,7 @@ DOMAIN,degnsn.birebin.com,REJECT
 DOMAIN,dejavu.mercadolivre.com.br,REJECT
 DOMAIN,dejavu.mlapps.com,REJECT
 DOMAIN,delb.mspaceads.com,REJECT
+DOMAIN,deliver.ads2.iid.jp,REJECT
 DOMAIN,deliver.kuwo.cn,REJECT
 DOMAIN,deliver.oztam.com.au,REJECT
 DOMAIN,deliver.ptgncdn.com,REJECT
@@ -10269,7 +10263,6 @@ DOMAIN,e.ihais.com,REJECT
 DOMAIN,e.iruad.com,REJECT
 DOMAIN,e.itgovernance.co.uk,REJECT
 DOMAIN,e.itgovernance.eu,REJECT
-DOMAIN,e.k9wz7.cn,REJECT
 DOMAIN,e.kc-education.com,REJECT
 DOMAIN,e.kde.cz,REJECT
 DOMAIN,e.khuoy.com,REJECT
@@ -10900,7 +10893,6 @@ DOMAIN,enpresse.1.p2l.info,REJECT
 DOMAIN,ens.luzernerzeitung.ch,REJECT
 DOMAIN,ens.nzz.ch,REJECT
 DOMAIN,ens.tagblatt.ch,REJECT
-DOMAIN,ent1.12584.cn,REJECT
 DOMAIN,ent1.qunchua.cn,REJECT
 DOMAIN,ent1.qunchua.com,REJECT
 DOMAIN,enterprise.grab.com,REJECT
@@ -15545,7 +15537,6 @@ DOMAIN,kforce.actonservice.com,REJECT
 DOMAIN,kfzhph.bonprix.pl,REJECT
 DOMAIN,kfzntn.chinatimes.com,REJECT
 DOMAIN,kfzqoj.utkonos.ru,REJECT
-DOMAIN,kgmobilestat.kugou.com,REJECT
 DOMAIN,kharid.isatice.com,REJECT
 DOMAIN,khgayc.hackers.com,REJECT
 DOMAIN,khgtwn.reifendirekt.de,REJECT
@@ -16285,6 +16276,7 @@ DOMAIN,log.liusha.info,REJECT
 DOMAIN,log.logrocket.io,REJECT
 DOMAIN,log.ltype.baofeng.com,REJECT
 DOMAIN,log.m.sm.cn,REJECT
+DOMAIN,log.ma-jin.jp,REJECT
 DOMAIN,log.mappy.net,REJECT
 DOMAIN,log.medietall.no,REJECT
 DOMAIN,log.mix.sina.com.cn,REJECT
@@ -18670,7 +18662,6 @@ DOMAIN,mfa.themfacompanies.com,REJECT
 DOMAIN,mfan.iclick.com.cn,REJECT
 DOMAIN,mfeed.newzfind.com,REJECT
 DOMAIN,mfg.endeavorb2b.com,REJECT
-DOMAIN,mfkmyve.retrocoder.org,REJECT
 DOMAIN,mfm.video.qq.com,REJECT
 DOMAIN,mfp.deliver.ifeng.com,REJECT
 DOMAIN,mfqzlc.silver.com,REJECT
@@ -18902,6 +18893,7 @@ DOMAIN,mo.qitouch.cn,REJECT
 DOMAIN,mo.res.wpscdn.cn,REJECT
 DOMAIN,mo.spaces.ru,REJECT
 DOMAIN,mo.test.haloapps.com,REJECT
+DOMAIN,mob10.cqjktj.com,REJECT
 DOMAIN,mob26.jnjszl.com,REJECT
 DOMAIN,mobaders.oss-cn-beijing.aliyuncs.com,REJECT
 DOMAIN,mobads-logs.baidu.com,REJECT
@@ -19824,7 +19816,6 @@ DOMAIN,oci.dyn.com,REJECT
 DOMAIN,ocmxbu.hanatour.com,REJECT
 DOMAIN,oda.markitondemand.com,REJECT
 DOMAIN,odb.outbrain.com,REJECT
-DOMAIN,odbierz-bony.ovp.pl,REJECT
 DOMAIN,odc.1und1.de,REJECT
 DOMAIN,odc.starwave.com,REJECT
 DOMAIN,odc.weather.com,REJECT
@@ -22588,7 +22579,6 @@ DOMAIN,s.giaoducthoidai.vn,REJECT
 DOMAIN,s.glimesh.tv,REJECT
 DOMAIN,s.go.sohu.com,REJECT
 DOMAIN,s.goodkee.cn,REJECT
-DOMAIN,s.guiheng.wang,REJECT
 DOMAIN,s.h5king.com,REJECT
 DOMAIN,s.haiyunx.com,REJECT
 DOMAIN,s.hdsupplysolutions.com,REJECT
@@ -26368,6 +26358,7 @@ DOMAIN,static.mediav.com,REJECT
 DOMAIN,static.mntzm.com,REJECT
 DOMAIN,static.mvot.vn,REJECT
 DOMAIN,static.novanet.vn,REJECT
+DOMAIN,static.nrelate.com,REJECT
 DOMAIN,static.parsely.com,REJECT
 DOMAIN,static.prototypes.ru,REJECT
 DOMAIN,static.qysyyg.com,REJECT
@@ -28597,6 +28588,7 @@ DOMAIN,track.msadcenter.ybi.com,REJECT
 DOMAIN,track.msadcenter.zepw.com,REJECT
 DOMAIN,track.msadcenter.zmmr.com,REJECT
 DOMAIN,track.msadcenter.zul.com,REJECT
+DOMAIN,track.msadcenter.zun.com,REJECT
 DOMAIN,track.msadcenter.zvjw.com,REJECT
 DOMAIN,track.msadcenter.zzv.com,REJECT
 DOMAIN,track.mycliplister.com,REJECT
@@ -29882,6 +29874,7 @@ DOMAIN,v1.log.moji.com,REJECT
 DOMAIN,v1.phb123.com,REJECT
 DOMAIN,v1.play.log.hunantv.com,REJECT
 DOMAIN,v1.res.log.hunantv.com,REJECT
+DOMAIN,v1.taksh.cn,REJECT
 DOMAIN,v1.ujian.cc,REJECT
 DOMAIN,v12-r0566gbscjw.z.irs01.com,REJECT
 DOMAIN,v13-6173431.z.irs01.com,REJECT
