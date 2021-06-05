@@ -1,11 +1,11 @@
-# Checksum: MTYyMjc3MTg2Mgo=
+# Checksum: MTYyMjg1NzEzMAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210604-0
-# TimeUpdated: 2021-06-04T01:57:42+00:00
+# Version: 1.1.8-20210605-0
+# TimeUpdated: 2021-06-05T01:38:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32018
+# Total: 32020
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -222,6 +222,8 @@ ff02::3 ip6-allhosts
 :: 1178.shucong.com
 0.0.0.0 119.29.196.104.bc.googleusercontent.com
 :: 119.29.196.104.bc.googleusercontent.com
+0.0.0.0 12.beautifulero.com
+:: 12.beautifulero.com
 0.0.0.0 12.cookcai.com
 :: 12.cookcai.com
 0.0.0.0 1224.dxsbb.com
@@ -236,8 +238,6 @@ ff02::3 ip6-allhosts
 :: 123.sogoucdn.com
 0.0.0.0 1234.jjxgly.com
 :: 1234.jjxgly.com
-0.0.0.0 1234.zgxue.com
-:: 1234.zgxue.com
 0.0.0.0 123456798.2021zuixingg.com
 :: 123456798.2021zuixingg.com
 0.0.0.0 123counter.mycomputer.com
@@ -1234,8 +1234,6 @@ ff02::3 ip6-allhosts
 :: a1.peoplecdn.cn
 0.0.0.0 a1.q6u.com
 :: a1.q6u.com
-0.0.0.0 a1.qqjay.com
-:: a1.qqjay.com
 0.0.0.0 a1.qqtn.com
 :: a1.qqtn.com
 0.0.0.0 a1.security-next.com
@@ -3312,6 +3310,8 @@ ff02::3 ip6-allhosts
 :: ad1.eventmanager.co.kr
 0.0.0.0 ad1.kde.cz
 :: ad1.kde.cz
+0.0.0.0 ad1.lbn.ru
+:: ad1.lbn.ru
 0.0.0.0 ad1.nend.net
 :: ad1.nend.net
 0.0.0.0 ad1.pamedia.com.au
@@ -3358,6 +3358,8 @@ ff02::3 ip6-allhosts
 :: ad2.gammae.com
 0.0.0.0 ad2.iinfo.cz
 :: ad2.iinfo.cz
+0.0.0.0 ad2.lbn.ru
+:: ad2.lbn.ru
 0.0.0.0 ad2.linkwise.gr
 :: ad2.linkwise.gr
 0.0.0.0 ad2.lupa.cz
@@ -3384,6 +3386,8 @@ ff02::3 ip6-allhosts
 :: ad2017.meo4.info
 0.0.0.0 ad3.iinfo.cz
 :: ad3.iinfo.cz
+0.0.0.0 ad3.lbn.ru
+:: ad3.lbn.ru
 0.0.0.0 ad3.pamedia.com.au
 :: ad3.pamedia.com.au
 0.0.0.0 ad3.sina.com.cn
@@ -3392,6 +3396,8 @@ ff02::3 ip6-allhosts
 :: ad3.xrea.com
 0.0.0.0 ad4.bigmir.net
 :: ad4.bigmir.net
+0.0.0.0 ad4.lbn.ru
+:: ad4.lbn.ru
 0.0.0.0 ad4.sina.com.cn
 :: ad4.sina.com.cn
 0.0.0.0 ad4.speedbit.com
@@ -3402,6 +3408,8 @@ ff02::3 ip6-allhosts
 :: ad4game-a.akamaihd.net
 0.0.0.0 ad5.bigmir.net
 :: ad5.bigmir.net
+0.0.0.0 ad5.lbn.ru
+:: ad5.lbn.ru
 0.0.0.0 ad6.bigmir.net
 :: ad6.bigmir.net
 0.0.0.0 ad6.horvitznewspapers.net
@@ -5108,6 +5116,8 @@ ff02::3 ip6-allhosts
 :: ads.ncm.com
 0.0.0.0 ads.ndtv1.com
 :: ads.ndtv1.com
+0.0.0.0 ads.nerve.com
+:: ads.nerve.com
 0.0.0.0 ads.netbul.com
 :: ads.netbul.com
 0.0.0.0 ads.netlinkad.vn
@@ -7226,8 +7236,6 @@ ff02::3 ip6-allhosts
 :: ak.sascdn.com
 0.0.0.0 ak1.imgaft.com
 :: ak1.imgaft.com
-0.0.0.0 ak47.cooguo.com
-:: ak47.cooguo.com
 0.0.0.0 ak9.6895588.com
 :: ak9.6895588.com
 0.0.0.0 aka-cdn-ns.adtech.de
@@ -7884,6 +7892,8 @@ ff02::3 ip6-allhosts
 :: analytics.lunge.de
 0.0.0.0 analytics.mail-corp.com
 :: analytics.mail-corp.com
+0.0.0.0 analytics.maileon.com
+:: analytics.maileon.com
 0.0.0.0 analytics.mailmunch.co
 :: analytics.mailmunch.co
 0.0.0.0 analytics.mambaui.com
@@ -10286,6 +10296,8 @@ ff02::3 ip6-allhosts
 :: b666.penzainform.ru
 0.0.0.0 b6ft.zone-turf.fr
 :: b6ft.zone-turf.fr
+0.0.0.0 b97.yahoo.co.jp
+:: b97.yahoo.co.jp
 0.0.0.0 b9g4.nxwfhjvi.cn
 :: b9g4.nxwfhjvi.cn
 0.0.0.0 ba.ccm2.net
@@ -10440,8 +10452,6 @@ ff02::3 ip6-allhosts
 :: banner.clubdicecasino.com
 0.0.0.0 banner.consultant.ru
 :: banner.consultant.ru
-0.0.0.0 banner.cooguo.com
-:: banner.cooguo.com
 0.0.0.0 banner.cotedazurpalace.com
 :: banner.cotedazurpalace.com
 0.0.0.0 banner.dabi.ir
@@ -12890,6 +12900,8 @@ ff02::3 ip6-allhosts
 :: care.grainger.com
 0.0.0.0 care.petcureoncology.com
 :: care.petcureoncology.com
+0.0.0.0 careers.nchjobs.org
+:: careers.nchjobs.org
 0.0.0.0 careers.skywest.com
 :: careers.skywest.com
 0.0.0.0 carfax.sc.omtrdc.net
@@ -13504,8 +13516,6 @@ ff02::3 ip6-allhosts
 :: cdn1.srv.revdepo.com
 0.0.0.0 cdn1.tnkfactory.com
 :: cdn1.tnkfactory.com
-0.0.0.0 cdn1.xlightmedia.com
-:: cdn1.xlightmedia.com
 0.0.0.0 cdn11.contentabc.com
 :: cdn11.contentabc.com
 0.0.0.0 cdn1sitescout.edgesuite.net
@@ -15876,6 +15886,8 @@ ff02::3 ip6-allhosts
 :: count.video.sina.com.cn
 0.0.0.0 count.vrs.sohu.com
 :: count.vrs.sohu.com
+0.0.0.0 count.webstatistik-bw.de
+:: count.webstatistik-bw.de
 0.0.0.0 count.west263.com
 :: count.west263.com
 0.0.0.0 count.wk2.com
@@ -18832,6 +18844,8 @@ ff02::3 ip6-allhosts
 :: delivery-dev.thebloggernetwork.com
 0.0.0.0 delivery-pc.wasu.cn
 :: delivery-pc.wasu.cn
+0.0.0.0 delivery.bannerd.ru
+:: delivery.bannerd.ru
 0.0.0.0 delivery.contextads.live
 :: delivery.contextads.live
 0.0.0.0 delivery.dmkt-sp.jp
@@ -26110,6 +26124,8 @@ ff02::3 ip6-allhosts
 :: go.tippie.uiowa.edu
 0.0.0.0 go.tlv.com
 :: go.tlv.com
+0.0.0.0 go.tmrjmp.com
+:: go.tmrjmp.com
 0.0.0.0 go.tmx.com
 :: go.tmx.com
 0.0.0.0 go.tobiipro.com
@@ -26932,8 +26948,6 @@ ff02::3 ip6-allhosts
 :: headlines.sharethrough.com
 0.0.0.0 health.interamerican.gr
 :: health.interamerican.gr
-0.0.0.0 health1.12584.cn
-:: health1.12584.cn
 0.0.0.0 heartbeat.flickr.com
 :: heartbeat.flickr.com
 0.0.0.0 hedgehog.fightforthefuture.org
@@ -30466,8 +30480,6 @@ ff02::3 ip6-allhosts
 :: jpaasne.e.shifen.com
 0.0.0.0 jpaatr.astellas.jp
 :: jpaatr.astellas.jp
-0.0.0.0 jpg.cooguo.com
-:: jpg.cooguo.com
 0.0.0.0 jpg.inte.sogoucdn.com
 :: jpg.inte.sogoucdn.com
 0.0.0.0 jpg.mengbingyuan.com
@@ -44272,8 +44284,6 @@ ff02::3 ip6-allhosts
 :: reklama.mironet.cz
 0.0.0.0 reklama.onet.pl
 :: reklama.onet.pl
-0.0.0.0 reklama.reflektor.cz
-:: reklama.reflektor.cz
 0.0.0.0 reklame.unwired-i.net
 :: reklame.unwired-i.net
 0.0.0.0 reklamstore.cubecdn.net
@@ -52720,8 +52730,6 @@ ff02::3 ip6-allhosts
 :: static.mvot.vn
 0.0.0.0 static.novanet.vn
 :: static.novanet.vn
-0.0.0.0 static.nrelate.com
-:: static.nrelate.com
 0.0.0.0 static.parsely.com
 :: static.parsely.com
 0.0.0.0 static.prototypes.ru
@@ -57180,8 +57188,6 @@ ff02::3 ip6-allhosts
 :: track.msadcenter.zmmr.com
 0.0.0.0 track.msadcenter.zul.com
 :: track.msadcenter.zul.com
-0.0.0.0 track.msadcenter.zun.com
-:: track.msadcenter.zun.com
 0.0.0.0 track.msadcenter.zvjw.com
 :: track.msadcenter.zvjw.com
 0.0.0.0 track.msadcenter.zzv.com
@@ -59752,8 +59758,6 @@ ff02::3 ip6-allhosts
 :: v1.play.log.hunantv.com
 0.0.0.0 v1.res.log.hunantv.com
 :: v1.res.log.hunantv.com
-0.0.0.0 v1.taksh.cn
-:: v1.taksh.cn
 0.0.0.0 v1.ujian.cc
 :: v1.ujian.cc
 0.0.0.0 v12-r0566gbscjw.z.irs01.com

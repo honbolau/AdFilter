@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYyMjc3MTg2Mgo=
+# Checksum: MTYyMjg1NzEzMAo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210604-0
-# TimeUpdated: 2021-06-04T01:57:42+00:00
+# Version: 1.1.8-20210605-0
+# TimeUpdated: 2021-06-05T01:38:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32018
+# Total: 32020
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -110,6 +110,7 @@ payload:
   - DOMAIN,114-track.net.daraz.com
   - DOMAIN,1178.shucong.com
   - DOMAIN,119.29.196.104.bc.googleusercontent.com
+  - DOMAIN,12.beautifulero.com
   - DOMAIN,12.cookcai.com
   - DOMAIN,1224.dxsbb.com
   - DOMAIN,123.39jz.com
@@ -117,7 +118,6 @@ payload:
   - DOMAIN,123.sogou.com
   - DOMAIN,123.sogoucdn.com
   - DOMAIN,1234.jjxgly.com
-  - DOMAIN,1234.zgxue.com
   - DOMAIN,123456798.2021zuixingg.com
   - DOMAIN,123counter.mycomputer.com
   - DOMAIN,123seks.net.daraz.com
@@ -616,7 +616,6 @@ payload:
   - DOMAIN,a1.openxt.cn
   - DOMAIN,a1.peoplecdn.cn
   - DOMAIN,a1.q6u.com
-  - DOMAIN,a1.qqjay.com
   - DOMAIN,a1.qqtn.com
   - DOMAIN,a1.security-next.com
   - DOMAIN,a1.shusanqi.com
@@ -1655,6 +1654,7 @@ payload:
   - DOMAIN,ad1.emule-project.org
   - DOMAIN,ad1.eventmanager.co.kr
   - DOMAIN,ad1.kde.cz
+  - DOMAIN,ad1.lbn.ru
   - DOMAIN,ad1.nend.net
   - DOMAIN,ad1.pamedia.com.au
   - DOMAIN,ad1.popcap.com
@@ -1678,6 +1678,7 @@ payload:
   - DOMAIN,ad2.firehousezone.com
   - DOMAIN,ad2.gammae.com
   - DOMAIN,ad2.iinfo.cz
+  - DOMAIN,ad2.lbn.ru
   - DOMAIN,ad2.linkwise.gr
   - DOMAIN,ad2.lupa.cz
   - DOMAIN,ad2.nend.net
@@ -1691,15 +1692,18 @@ payload:
   - DOMAIN,ad2.zophar.net
   - DOMAIN,ad2017.meo4.info
   - DOMAIN,ad3.iinfo.cz
+  - DOMAIN,ad3.lbn.ru
   - DOMAIN,ad3.pamedia.com.au
   - DOMAIN,ad3.sina.com.cn
   - DOMAIN,ad3.xrea.com
   - DOMAIN,ad4.bigmir.net
+  - DOMAIN,ad4.lbn.ru
   - DOMAIN,ad4.sina.com.cn
   - DOMAIN,ad4.speedbit.com
   - DOMAIN,ad4989.co.kr
   - DOMAIN,ad4game-a.akamaihd.net
   - DOMAIN,ad5.bigmir.net
+  - DOMAIN,ad5.lbn.ru
   - DOMAIN,ad6.bigmir.net
   - DOMAIN,ad6.horvitznewspapers.net
   - DOMAIN,ad7.bigmir.net
@@ -2553,6 +2557,7 @@ payload:
   - DOMAIN,ads.nccwebs.com
   - DOMAIN,ads.ncm.com
   - DOMAIN,ads.ndtv1.com
+  - DOMAIN,ads.nerve.com
   - DOMAIN,ads.netbul.com
   - DOMAIN,ads.netlinkad.vn
   - DOMAIN,ads.networksolutions.com
@@ -3612,7 +3617,6 @@ payload:
   - DOMAIN,ak.sail-horizon.com
   - DOMAIN,ak.sascdn.com
   - DOMAIN,ak1.imgaft.com
-  - DOMAIN,ak47.cooguo.com
   - DOMAIN,ak9.6895588.com
   - DOMAIN,aka-cdn-ns.adtech.de
   - DOMAIN,aka-cdn-ns.adtechus.com
@@ -3941,6 +3945,7 @@ payload:
   - DOMAIN,analytics.loop-cloud.de
   - DOMAIN,analytics.lunge.de
   - DOMAIN,analytics.mail-corp.com
+  - DOMAIN,analytics.maileon.com
   - DOMAIN,analytics.mailmunch.co
   - DOMAIN,analytics.mambaui.com
   - DOMAIN,analytics.matchbin.com
@@ -5142,6 +5147,7 @@ payload:
   - DOMAIN,b4.solarporn.net
   - DOMAIN,b666.penzainform.ru
   - DOMAIN,b6ft.zone-turf.fr
+  - DOMAIN,b97.yahoo.co.jp
   - DOMAIN,b9g4.nxwfhjvi.cn
   - DOMAIN,ba.ccm2.net
   - DOMAIN,ba.commentcamarche.net
@@ -5219,7 +5225,6 @@ payload:
   - DOMAIN,banner.click-tt.de
   - DOMAIN,banner.clubdicecasino.com
   - DOMAIN,banner.consultant.ru
-  - DOMAIN,banner.cooguo.com
   - DOMAIN,banner.cotedazurpalace.com
   - DOMAIN,banner.dabi.ir
   - DOMAIN,banner.diamondclubcasino.com
@@ -6444,6 +6449,7 @@ payload:
   - DOMAIN,cards.virtuagirlhd.com
   - DOMAIN,care.grainger.com
   - DOMAIN,care.petcureoncology.com
+  - DOMAIN,careers.nchjobs.org
   - DOMAIN,careers.skywest.com
   - DOMAIN,carfax.sc.omtrdc.net
   - DOMAIN,caribou.color.io
@@ -6751,7 +6757,6 @@ payload:
   - DOMAIN,cdn1.res.nx5.com
   - DOMAIN,cdn1.srv.revdepo.com
   - DOMAIN,cdn1.tnkfactory.com
-  - DOMAIN,cdn1.xlightmedia.com
   - DOMAIN,cdn11.contentabc.com
   - DOMAIN,cdn1sitescout.edgesuite.net
   - DOMAIN,cdn2.ad-center.com
@@ -7937,6 +7942,7 @@ payload:
   - DOMAIN,count.taobao.com
   - DOMAIN,count.video.sina.com.cn
   - DOMAIN,count.vrs.sohu.com
+  - DOMAIN,count.webstatistik-bw.de
   - DOMAIN,count.west263.com
   - DOMAIN,count.wk2.com
   - DOMAIN,count.xxxssk.com
@@ -9415,6 +9421,7 @@ payload:
   - DOMAIN,delivery-cdn-cf.adswizz.com
   - DOMAIN,delivery-dev.thebloggernetwork.com
   - DOMAIN,delivery-pc.wasu.cn
+  - DOMAIN,delivery.bannerd.ru
   - DOMAIN,delivery.contextads.live
   - DOMAIN,delivery.dmkt-sp.jp
   - DOMAIN,delivery.maihehd.com
@@ -13054,6 +13061,7 @@ payload:
   - DOMAIN,go.tiempodev.com
   - DOMAIN,go.tippie.uiowa.edu
   - DOMAIN,go.tlv.com
+  - DOMAIN,go.tmrjmp.com
   - DOMAIN,go.tmx.com
   - DOMAIN,go.tobiipro.com
   - DOMAIN,go.tokyo-chumon.com
@@ -13465,7 +13473,6 @@ payload:
   - DOMAIN,he6e.lavieimmo.com
   - DOMAIN,headlines.sharethrough.com
   - DOMAIN,health.interamerican.gr
-  - DOMAIN,health1.12584.cn
   - DOMAIN,heartbeat.flickr.com
   - DOMAIN,hedgehog.fightforthefuture.org
   - DOMAIN,heimo.rrsdl.com
@@ -15232,7 +15239,6 @@ payload:
   - DOMAIN,jp.globalsign.marketing
   - DOMAIN,jpaasne.e.shifen.com
   - DOMAIN,jpaatr.astellas.jp
-  - DOMAIN,jpg.cooguo.com
   - DOMAIN,jpg.inte.sogoucdn.com
   - DOMAIN,jpg.mengbingyuan.com
   - DOMAIN,jpg1.oss-cn-beijing.aliyuncs.com
@@ -22135,7 +22141,6 @@ payload:
   - DOMAIN,reklama-cluster.tut.by
   - DOMAIN,reklama.mironet.cz
   - DOMAIN,reklama.onet.pl
-  - DOMAIN,reklama.reflektor.cz
   - DOMAIN,reklame.unwired-i.net
   - DOMAIN,reklamstore.cubecdn.net
   - DOMAIN,reklamy.sfd.pl
@@ -26359,7 +26364,6 @@ payload:
   - DOMAIN,static.mntzm.com
   - DOMAIN,static.mvot.vn
   - DOMAIN,static.novanet.vn
-  - DOMAIN,static.nrelate.com
   - DOMAIN,static.parsely.com
   - DOMAIN,static.prototypes.ru
   - DOMAIN,static.qysyyg.com
@@ -28589,7 +28593,6 @@ payload:
   - DOMAIN,track.msadcenter.zepw.com
   - DOMAIN,track.msadcenter.zmmr.com
   - DOMAIN,track.msadcenter.zul.com
-  - DOMAIN,track.msadcenter.zun.com
   - DOMAIN,track.msadcenter.zvjw.com
   - DOMAIN,track.msadcenter.zzv.com
   - DOMAIN,track.mycliplister.com
@@ -29875,7 +29878,6 @@ payload:
   - DOMAIN,v1.phb123.com
   - DOMAIN,v1.play.log.hunantv.com
   - DOMAIN,v1.res.log.hunantv.com
-  - DOMAIN,v1.taksh.cn
   - DOMAIN,v1.ujian.cc
   - DOMAIN,v12-r0566gbscjw.z.irs01.com
   - DOMAIN,v13-6173431.z.irs01.com

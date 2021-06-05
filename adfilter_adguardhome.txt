@@ -1,11 +1,11 @@
-! Checksum: MTYyMjc3MTg2Mgo=
+! Checksum: MTYyMjg1NzEzMAo=
 ! Title: Zhijie's Ad Filter for AdGuard Home (DNS-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.1.8-20210604-0
-! TimeUpdated: 2021-06-04T01:57:42+00:00
+! Version: 1.1.8-20210605-0
+! TimeUpdated: 2021-06-05T01:38:50+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 32018
+! Total: 32020
 |0.nextyourcontent.com^
 |0.r.msn.com^
 |0.up.qingdaonews.com^
@@ -109,6 +109,7 @@
 |114-track.net.daraz.com^
 |1178.shucong.com^
 |119.29.196.104.bc.googleusercontent.com^
+|12.beautifulero.com^
 |12.cookcai.com^
 |1224.dxsbb.com^
 |123.39jz.com^
@@ -116,7 +117,6 @@
 |123.sogou.com^
 |123.sogoucdn.com^
 |1234.jjxgly.com^
-|1234.zgxue.com^
 |123456798.2021zuixingg.com^
 |123counter.mycomputer.com^
 |123seks.net.daraz.com^
@@ -615,7 +615,6 @@
 |a1.openxt.cn^
 |a1.peoplecdn.cn^
 |a1.q6u.com^
-|a1.qqjay.com^
 |a1.qqtn.com^
 |a1.security-next.com^
 |a1.shusanqi.com^
@@ -1654,6 +1653,7 @@
 |ad1.emule-project.org^
 |ad1.eventmanager.co.kr^
 |ad1.kde.cz^
+|ad1.lbn.ru^
 |ad1.nend.net^
 |ad1.pamedia.com.au^
 |ad1.popcap.com^
@@ -1677,6 +1677,7 @@
 |ad2.firehousezone.com^
 |ad2.gammae.com^
 |ad2.iinfo.cz^
+|ad2.lbn.ru^
 |ad2.linkwise.gr^
 |ad2.lupa.cz^
 |ad2.nend.net^
@@ -1690,15 +1691,18 @@
 |ad2.zophar.net^
 |ad2017.meo4.info^
 |ad3.iinfo.cz^
+|ad3.lbn.ru^
 |ad3.pamedia.com.au^
 |ad3.sina.com.cn^
 |ad3.xrea.com^
 |ad4.bigmir.net^
+|ad4.lbn.ru^
 |ad4.sina.com.cn^
 |ad4.speedbit.com^
 |ad4989.co.kr^
 |ad4game-a.akamaihd.net^
 |ad5.bigmir.net^
+|ad5.lbn.ru^
 |ad6.bigmir.net^
 |ad6.horvitznewspapers.net^
 |ad7.bigmir.net^
@@ -2552,6 +2556,7 @@
 |ads.nccwebs.com^
 |ads.ncm.com^
 |ads.ndtv1.com^
+|ads.nerve.com^
 |ads.netbul.com^
 |ads.netlinkad.vn^
 |ads.networksolutions.com^
@@ -3611,7 +3616,6 @@
 |ak.sail-horizon.com^
 |ak.sascdn.com^
 |ak1.imgaft.com^
-|ak47.cooguo.com^
 |ak9.6895588.com^
 |aka-cdn-ns.adtech.de^
 |aka-cdn-ns.adtechus.com^
@@ -3940,6 +3944,7 @@
 |analytics.loop-cloud.de^
 |analytics.lunge.de^
 |analytics.mail-corp.com^
+|analytics.maileon.com^
 |analytics.mailmunch.co^
 |analytics.mambaui.com^
 |analytics.matchbin.com^
@@ -5141,6 +5146,7 @@
 |b4.solarporn.net^
 |b666.penzainform.ru^
 |b6ft.zone-turf.fr^
+|b97.yahoo.co.jp^
 |b9g4.nxwfhjvi.cn^
 |ba.ccm2.net^
 |ba.commentcamarche.net^
@@ -5218,7 +5224,6 @@
 |banner.click-tt.de^
 |banner.clubdicecasino.com^
 |banner.consultant.ru^
-|banner.cooguo.com^
 |banner.cotedazurpalace.com^
 |banner.dabi.ir^
 |banner.diamondclubcasino.com^
@@ -6443,6 +6448,7 @@
 |cards.virtuagirlhd.com^
 |care.grainger.com^
 |care.petcureoncology.com^
+|careers.nchjobs.org^
 |careers.skywest.com^
 |carfax.sc.omtrdc.net^
 |caribou.color.io^
@@ -6750,7 +6756,6 @@
 |cdn1.res.nx5.com^
 |cdn1.srv.revdepo.com^
 |cdn1.tnkfactory.com^
-|cdn1.xlightmedia.com^
 |cdn11.contentabc.com^
 |cdn1sitescout.edgesuite.net^
 |cdn2.ad-center.com^
@@ -7936,6 +7941,7 @@
 |count.taobao.com^
 |count.video.sina.com.cn^
 |count.vrs.sohu.com^
+|count.webstatistik-bw.de^
 |count.west263.com^
 |count.wk2.com^
 |count.xxxssk.com^
@@ -9414,6 +9420,7 @@
 |delivery-cdn-cf.adswizz.com^
 |delivery-dev.thebloggernetwork.com^
 |delivery-pc.wasu.cn^
+|delivery.bannerd.ru^
 |delivery.contextads.live^
 |delivery.dmkt-sp.jp^
 |delivery.maihehd.com^
@@ -13053,6 +13060,7 @@
 |go.tiempodev.com^
 |go.tippie.uiowa.edu^
 |go.tlv.com^
+|go.tmrjmp.com^
 |go.tmx.com^
 |go.tobiipro.com^
 |go.tokyo-chumon.com^
@@ -13464,7 +13472,6 @@
 |he6e.lavieimmo.com^
 |headlines.sharethrough.com^
 |health.interamerican.gr^
-|health1.12584.cn^
 |heartbeat.flickr.com^
 |hedgehog.fightforthefuture.org^
 |heimo.rrsdl.com^
@@ -15231,7 +15238,6 @@
 |jp.globalsign.marketing^
 |jpaasne.e.shifen.com^
 |jpaatr.astellas.jp^
-|jpg.cooguo.com^
 |jpg.inte.sogoucdn.com^
 |jpg.mengbingyuan.com^
 |jpg1.oss-cn-beijing.aliyuncs.com^
@@ -22134,7 +22140,6 @@
 |reklama-cluster.tut.by^
 |reklama.mironet.cz^
 |reklama.onet.pl^
-|reklama.reflektor.cz^
 |reklame.unwired-i.net^
 |reklamstore.cubecdn.net^
 |reklamy.sfd.pl^
@@ -26358,7 +26363,6 @@
 |static.mntzm.com^
 |static.mvot.vn^
 |static.novanet.vn^
-|static.nrelate.com^
 |static.parsely.com^
 |static.prototypes.ru^
 |static.qysyyg.com^
@@ -28588,7 +28592,6 @@
 |track.msadcenter.zepw.com^
 |track.msadcenter.zmmr.com^
 |track.msadcenter.zul.com^
-|track.msadcenter.zun.com^
 |track.msadcenter.zvjw.com^
 |track.msadcenter.zzv.com^
 |track.mycliplister.com^
@@ -29874,7 +29877,6 @@
 |v1.phb123.com^
 |v1.play.log.hunantv.com^
 |v1.res.log.hunantv.com^
-|v1.taksh.cn^
 |v1.ujian.cc^
 |v12-r0566gbscjw.z.irs01.com^
 |v13-6173431.z.irs01.com^
