@@ -1,11 +1,11 @@
-# Checksum: MTYyMjg1NzEzMAo=
+# Checksum: MTYyMjk0MjgzNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210605-0
-# TimeUpdated: 2021-06-05T01:38:50+00:00
+# Version: 1.1.8-20210606-0
+# TimeUpdated: 2021-06-06T01:27:16+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32020
+# Total: 32021
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2868,6 +2868,8 @@ ff02::3 ip6-allhosts
 :: ad.kisscartoon.su
 0.0.0.0 ad.kmib.co.kr
 :: ad.kmib.co.kr
+0.0.0.0 ad.kodansha.pub
+:: ad.kodansha.pub
 0.0.0.0 ad.koreadaily.com
 :: ad.koreadaily.com
 0.0.0.0 ad.krutilka.ru
@@ -3222,8 +3224,6 @@ ff02::3 ip6-allhosts
 :: ad.winrar.com.cn
 0.0.0.0 ad.woman.mynavi.jp
 :: ad.woman.mynavi.jp
-0.0.0.0 ad.woolworths.com.au
-:: ad.woolworths.com.au
 0.0.0.0 ad.wretch.cc
 :: ad.wretch.cc
 0.0.0.0 ad.wsod.com
@@ -5116,8 +5116,6 @@ ff02::3 ip6-allhosts
 :: ads.ncm.com
 0.0.0.0 ads.ndtv1.com
 :: ads.ndtv1.com
-0.0.0.0 ads.nerve.com
-:: ads.nerve.com
 0.0.0.0 ads.netbul.com
 :: ads.netbul.com
 0.0.0.0 ads.netlinkad.vn
@@ -12166,6 +12164,8 @@ ff02::3 ip6-allhosts
 :: c.authorizationns.emailvision.net.daraz.com
 0.0.0.0 c.autohome.com.cn
 :: c.autohome.com.cn
+0.0.0.0 c.bannerflow.net
+:: c.bannerflow.net
 0.0.0.0 c.be.msn.com
 :: c.be.msn.com
 0.0.0.0 c.betrad.com
@@ -16714,6 +16714,8 @@ ff02::3 ip6-allhosts
 :: css.asitend.com
 0.0.0.0 css.bloggerads.net
 :: css.bloggerads.net
+0.0.0.0 css.huvmi.com
+:: css.huvmi.com
 0.0.0.0 cstats.sankakucomplex.com
 :: cstats.sankakucomplex.com
 0.0.0.0 cstm.baidu.com
@@ -18844,8 +18846,6 @@ ff02::3 ip6-allhosts
 :: delivery-dev.thebloggernetwork.com
 0.0.0.0 delivery-pc.wasu.cn
 :: delivery-pc.wasu.cn
-0.0.0.0 delivery.bannerd.ru
-:: delivery.bannerd.ru
 0.0.0.0 delivery.contextads.live
 :: delivery.contextads.live
 0.0.0.0 delivery.dmkt-sp.jp
@@ -20458,8 +20458,6 @@ ff02::3 ip6-allhosts
 :: e.ad.xiaomi.com
 0.0.0.0 e.ailix.cn
 :: e.ailix.cn
-0.0.0.0 e.aiyyu.com
-:: e.aiyyu.com
 0.0.0.0 e.apsalar.com
 :: e.apsalar.com
 0.0.0.0 e.apxyz.com
@@ -25590,6 +25588,8 @@ ff02::3 ip6-allhosts
 :: go.movementontheground.com
 0.0.0.0 go.movingintelligence.com
 :: go.movingintelligence.com
+0.0.0.0 go.mshago.com
+:: go.mshago.com
 0.0.0.0 go.mtasolutions.com
 :: go.mtasolutions.com
 0.0.0.0 go.mudoudou.net
@@ -30050,6 +30050,8 @@ ff02::3 ip6-allhosts
 :: itx5.smartadserver.com
 0.0.0.0 iu.juzi.cn
 :: iu.juzi.cn
+0.0.0.0 iusacell-movil.com.mx
+:: iusacell-movil.com.mx
 0.0.0.0 iv.doubleclick.net
 :: iv.doubleclick.net
 0.0.0.0 ivbxao.roastmarket.de
@@ -33016,8 +33018,6 @@ ff02::3 ip6-allhosts
 :: lp.ncdownloader.com
 0.0.0.0 lp.rev.com
 :: lp.rev.com
-0.0.0.0 lp.sexyadults.eu
-:: lp.sexyadults.eu
 0.0.0.0 lp.sophos.com
 :: lp.sophos.com
 0.0.0.0 lp.startapp.com
@@ -38894,8 +38894,6 @@ ff02::3 ip6-allhosts
 :: nexstep.zdworks.com
 0.0.0.0 nextclick.com.ru
 :: nextclick.com.ru
-0.0.0.0 nextclick.com.ua
-:: nextclick.com.ua
 0.0.0.0 nextel-ringtone.spb.su
 :: nextel-ringtone.spb.su
 0.0.0.0 nf.5.p2l.info
@@ -38948,6 +38946,8 @@ ff02::3 ip6-allhosts
 :: ng3.ads.warnerbros.com
 0.0.0.0 ngads.go.com
 :: ngads.go.com
+0.0.0.0 nginfo.industrialinfo.com
+:: nginfo.industrialinfo.com
 0.0.0.0 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 :: nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 0.0.0.0 nginx.r-dw-1.net.daraz.com
@@ -39582,6 +39582,8 @@ ff02::3 ip6-allhosts
 :: oascentral.law.com
 0.0.0.0 oascentral.lycos.com
 :: oascentral.lycos.com
+0.0.0.0 oascentral.nerve.com
+:: oascentral.nerve.com
 0.0.0.0 oascentral.newsmax.com
 :: oascentral.newsmax.com
 0.0.0.0 oascentral.rcrnews.com
@@ -42142,6 +42144,8 @@ ff02::3 ip6-allhosts
 :: plausible.prod.sketch.com
 0.0.0.0 plausible.promlabs.com
 :: plausible.promlabs.com
+0.0.0.0 plausible.punchfork.com
+:: plausible.punchfork.com
 0.0.0.0 plausible.regex.help
 :: plausible.regex.help
 0.0.0.0 plausible.resilienz-kongress.de
@@ -42538,6 +42542,8 @@ ff02::3 ip6-allhosts
 :: pp.promocionesfarma.com
 0.0.0.0 pp.teksty-pesenok.ru
 :: pp.teksty-pesenok.ru
+0.0.0.0 pp2.dhzw.org
+:: pp2.dhzw.org
 0.0.0.0 pp2.pptv.com
 :: pp2.pptv.com
 0.0.0.0 pplpiq.pricerunner.se
@@ -44870,8 +44876,6 @@ ff02::3 ip6-allhosts
 :: rtb.com.ru
 0.0.0.0 rtb.gumgum.com
 :: rtb.gumgum.com
-0.0.0.0 rtb.kds.media
-:: rtb.kds.media
 0.0.0.0 rtb.mts.ru
 :: rtb.mts.ru
 0.0.0.0 rtb.pclick.yahoo.com
@@ -45382,6 +45386,8 @@ ff02::3 ip6-allhosts
 :: s1.kuaibaopay.com
 0.0.0.0 s1.leshi123.cc
 :: s1.leshi123.cc
+0.0.0.0 s1.qiqutt.cn
+:: s1.qiqutt.cn
 0.0.0.0 s1.qiuyi.cn
 :: s1.qiuyi.cn
 0.0.0.0 s1.s8tu.com
@@ -47828,8 +47834,6 @@ ff02::3 ip6-allhosts
 :: sfxl.com.cn
 0.0.0.0 sg-cdn.effectivemeasure.net
 :: sg-cdn.effectivemeasure.net
-0.0.0.0 sg.lansweeps.click
-:: sg.lansweeps.click
 0.0.0.0 sg.yimg.com
 :: sg.yimg.com
 0.0.0.0 sg01.rayjump.com
@@ -52498,6 +52502,8 @@ ff02::3 ip6-allhosts
 :: stat.valica.it
 0.0.0.0 stat.videonow.ru
 :: stat.videonow.ru
+0.0.0.0 stat.vulkanvegas.com
+:: stat.vulkanvegas.com
 0.0.0.0 stat.web-regie.com
 :: stat.web-regie.com
 0.0.0.0 stat.webevolutis.com
@@ -59806,8 +59812,6 @@ ff02::3 ip6-allhosts
 :: v8push.pinsightmedia.com
 0.0.0.0 va.5.p2l.info
 :: va.5.p2l.info
-0.0.0.0 va.gxpan.cn
-:: va.gxpan.cn
 0.0.0.0 va.videojj.com
 :: va.videojj.com
 0.0.0.0 vadif.net.daraz.com
@@ -60058,8 +60062,6 @@ ff02::3 ip6-allhosts
 :: video-stats.video.google.com
 0.0.0.0 video.begun.ru
 :: video.begun.ru
-0.0.0.0 video.cooguo.com
-:: video.cooguo.com
 0.0.0.0 video.cynogage.com
 :: video.cynogage.com
 0.0.0.0 video.da.mgtv.com
@@ -60294,6 +60296,8 @@ ff02::3 ip6-allhosts
 :: vmgihu.gelatopique.com
 0.0.0.0 vmindhls.tc.qq.com
 :: vmindhls.tc.qq.com
+0.0.0.0 vms-players.minutemediaservices.com
+:: vms-players.minutemediaservices.com
 0.0.0.0 vmstats.varrando.com
 :: vmstats.varrando.com
 0.0.0.0 vmsxzx.buienradar.nl
@@ -61226,6 +61230,8 @@ ff02::3 ip6-allhosts
 :: widget.faphouse.com
 0.0.0.0 widget.feedot-lawyer.ru
 :: widget.feedot-lawyer.ru
+0.0.0.0 widget.gleamjs.io
+:: widget.gleamjs.io
 0.0.0.0 widget.headlines.pw
 :: widget.headlines.pw
 0.0.0.0 widget.jobberman.com
@@ -61308,8 +61314,6 @@ ff02::3 ip6-allhosts
 :: widgets.planeta.ru
 0.0.0.0 widgets.prisjakt.nu
 :: widgets.prisjakt.nu
-0.0.0.0 widgets.privateproperty.com.ng
-:: widgets.privateproperty.com.ng
 0.0.0.0 widgets.progrids.com
 :: widgets.progrids.com
 0.0.0.0 widgets.solaramerica.org
@@ -62922,8 +62926,6 @@ ff02::3 ip6-allhosts
 :: x.castanet.net
 0.0.0.0 x.clearbit.com
 :: x.clearbit.com
-0.0.0.0 x.clearbitjs.com
-:: x.clearbitjs.com
 0.0.0.0 x.da.hunantv.com
 :: x.da.hunantv.com
 0.0.0.0 x.da.mgtv.com
