@@ -1,11 +1,11 @@
-# Checksum: MTYyMjk0MjgzNgo=
+# Checksum: MTYyMzAyOTM3Mgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210606-0
-# TimeUpdated: 2021-06-06T01:27:16+00:00
+# Version: 1.1.8-20210607-0
+# TimeUpdated: 2021-06-07T01:29:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32021
+# Total: 32013
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -994,8 +994,6 @@ ff02::3 ip6-allhosts
 :: a.sayloving.com
 0.0.0.0 a.sepyra.com
 :: a.sepyra.com
-0.0.0.0 a.shenchuang.com
-:: a.shenchuang.com
 0.0.0.0 a.skcript.com
 :: a.skcript.com
 0.0.0.0 a.skins-ns.emailvision.net.daraz.com
@@ -5018,6 +5016,8 @@ ff02::3 ip6-allhosts
 :: ads.lycos.com
 0.0.0.0 ads.ma7.tv
 :: ads.ma7.tv
+0.0.0.0 ads.macnews.de
+:: ads.macnews.de
 0.0.0.0 ads.magnetic.is
 :: ads.magnetic.is
 0.0.0.0 ads.mail3x.com
@@ -8654,8 +8654,6 @@ ff02::3 ip6-allhosts
 :: api.ads.watchabc.go.com
 0.0.0.0 api.adtimaserver.vn
 :: api.adtimaserver.vn
-0.0.0.0 api.adv.ott.cibntv.net
-:: api.adv.ott.cibntv.net
 0.0.0.0 api.adxpand.com
 :: api.adxpand.com
 0.0.0.0 api.aiclk.com
@@ -9304,8 +9302,6 @@ ff02::3 ip6-allhosts
 :: apps.net.daraz.com
 0.0.0.0 apps.outfit7.com
 :: apps.outfit7.com
-0.0.0.0 apps.poln.co
-:: apps.poln.co
 0.0.0.0 apps.print-mo.net.daraz.com
 :: apps.print-mo.net.daraz.com
 0.0.0.0 apps.thinkdigital.ro
@@ -13510,8 +13506,6 @@ ff02::3 ip6-allhosts
 :: cdn1.lp.saboom.com
 0.0.0.0 cdn1.pebx.pl
 :: cdn1.pebx.pl
-0.0.0.0 cdn1.res.nx5.com
-:: cdn1.res.nx5.com
 0.0.0.0 cdn1.srv.revdepo.com
 :: cdn1.srv.revdepo.com
 0.0.0.0 cdn1.tnkfactory.com
@@ -13904,6 +13898,8 @@ ff02::3 ip6-allhosts
 :: ci.intuit.com
 0.0.0.0 ci.r-ln-1.net.daraz.com
 :: ci.r-ln-1.net.daraz.com
+0.0.0.0 cialis-levitra-viagra.com.cn
+:: cialis-levitra-viagra.com.cn
 0.0.0.0 cialis-store.shengen.ru
 :: cialis-store.shengen.ru
 0.0.0.0 cialis.1.p2l.info
@@ -14232,8 +14228,6 @@ ff02::3 ip6-allhosts
 :: click.tianyaui.com
 0.0.0.0 click.tiara.daum.net
 :: click.tiara.daum.net
-0.0.0.0 click.tiara.kakao.com
-:: click.tiara.kakao.com
 0.0.0.0 click.transactional.carousell.com
 :: click.transactional.carousell.com
 0.0.0.0 click.tv.repubblica.it
@@ -19648,8 +19642,6 @@ ff02::3 ip6-allhosts
 :: dm.sanwen8.com
 0.0.0.0 dm.sb580.com
 :: dm.sb580.com
-0.0.0.0 dm.sg92.com
-:: dm.sg92.com
 0.0.0.0 dm.taobaojuhuasuan.cn
 :: dm.taobaojuhuasuan.cn
 0.0.0.0 dm.toutiao.com
@@ -20570,8 +20562,6 @@ ff02::3 ip6-allhosts
 :: e.nchet.com
 0.0.0.0 e.nexac.com
 :: e.nexac.com
-0.0.0.0 e.oq7d6b.cn
-:: e.oq7d6b.cn
 0.0.0.0 e.plerv.com
 :: e.plerv.com
 0.0.0.0 e.poonscn.com
@@ -20588,8 +20578,6 @@ ff02::3 ip6-allhosts
 :: e.qxfly.com
 0.0.0.0 e.replacementdevicelawsuit.com
 :: e.replacementdevicelawsuit.com
-0.0.0.0 e.ricpt.com
-:: e.ricpt.com
 0.0.0.0 e.sanitwealth.com
 :: e.sanitwealth.com
 0.0.0.0 e.sogou.com
@@ -22352,8 +22340,6 @@ ff02::3 ip6-allhosts
 :: explore.agilent.com
 0.0.0.0 explore.aic-allianz.com
 :: explore.aic-allianz.com
-0.0.0.0 explore.amd.com
-:: explore.amd.com
 0.0.0.0 explore.att.com
 :: explore.att.com
 0.0.0.0 explore.code3esg.com
@@ -23822,6 +23808,8 @@ ff02::3 ip6-allhosts
 :: gemini.yahoo.com
 0.0.0.0 gemius.mgr.consensu.org
 :: gemius.mgr.consensu.org
+0.0.0.0 gen-hydrocodone.polybuild.ru
+:: gen-hydrocodone.polybuild.ru
 0.0.0.0 gen.alicdn.com
 :: gen.alicdn.com
 0.0.0.0 geo.battle.net
@@ -27562,6 +27550,8 @@ ff02::3 ip6-allhosts
 :: hydra.alibaba.com
 0.0.0.0 hydra.net.daraz.com
 :: hydra.net.daraz.com
+0.0.0.0 hydro.polybuild.ru
+:: hydro.polybuild.ru
 0.0.0.0 hydrocodone-buy-online.blogspot.com
 :: hydrocodone-buy-online.blogspot.com
 0.0.0.0 hydrocodone.shengen.ru
@@ -28180,6 +28170,8 @@ ff02::3 ip6-allhosts
 :: imagzine.oppomobile.com
 0.0.0.0 imc.l.qq.com
 :: imc.l.qq.com
+0.0.0.0 imd.petit.lv
+:: imd.petit.lv
 0.0.0.0 imdns.hpplay.cn
 :: imdns.hpplay.cn
 0.0.0.0 imedia.bokecc.com
@@ -30634,8 +30626,6 @@ ff02::3 ip6-allhosts
 :: js.idgdmgroup.com.cn
 0.0.0.0 js.jianbaimei.com
 :: js.jianbaimei.com
-0.0.0.0 js.jianbihuadq.com
-:: js.jianbihuadq.com
 0.0.0.0 js.keywordsconnect.com
 :: js.keywordsconnect.com
 0.0.0.0 js.lovexia.top
@@ -31122,6 +31112,8 @@ ff02::3 ip6-allhosts
 :: kio.quanliyouxi.cn
 0.0.0.0 kirbyrisk.actonservice.com
 :: kirbyrisk.actonservice.com
+0.0.0.0 kiskegyed.creatorword.com
+:: kiskegyed.creatorword.com
 0.0.0.0 kit.sakurahorikiri.co.jp
 :: kit.sakurahorikiri.co.jp
 0.0.0.0 kitchen.juicer.cc
@@ -33180,8 +33172,6 @@ ff02::3 ip6-allhosts
 :: lynx.sbstjn.com
 0.0.0.0 lyxfra.shopee.com.my
 :: lyxfra.shopee.com.my
-0.0.0.0 lz.chaelc.com
-:: lz.chaelc.com
 0.0.0.0 lz.whafwl.com
 :: lz.whafwl.com
 0.0.0.0 lzrljv.tradera.com
@@ -33534,6 +33524,8 @@ ff02::3 ip6-allhosts
 :: m.oipeirates.online
 0.0.0.0 m.openv.tv
 :: m.openv.tv
+0.0.0.0 m.panda.voiceads.cn
+:: m.panda.voiceads.cn
 0.0.0.0 m.phonthing.com
 :: m.phonthing.com
 0.0.0.0 m.pieaa.com
@@ -33552,8 +33544,6 @@ ff02::3 ip6-allhosts
 :: m.premier.info.shutterstock.com
 0.0.0.0 m.pubgorg.xyz
 :: m.pubgorg.xyz
-0.0.0.0 m.puooi.com
-:: m.puooi.com
 0.0.0.0 m.q671e.cn
 :: m.q671e.cn
 0.0.0.0 m.qcw.com
@@ -33572,8 +33562,6 @@ ff02::3 ip6-allhosts
 :: m.quxiangkeji.cn
 0.0.0.0 m.reachmax.cn
 :: m.reachmax.cn
-0.0.0.0 m.ricpt.com
-:: m.ricpt.com
 0.0.0.0 m.rrsdl.com
 :: m.rrsdl.com
 0.0.0.0 m.sanitwealth.com
@@ -33632,8 +33620,6 @@ ff02::3 ip6-allhosts
 :: m.uocb.cn
 0.0.0.0 m.uw45o.cn
 :: m.uw45o.cn
-0.0.0.0 m.vaxyz.com
-:: m.vaxyz.com
 0.0.0.0 m.vchiy.com
 :: m.vchiy.com
 0.0.0.0 m.verpt.com
@@ -37680,8 +37666,6 @@ ff02::3 ip6-allhosts
 :: mm.365dmp.com
 0.0.0.0 mm.analytics.blue
 :: mm.analytics.blue
-0.0.0.0 mm.anqu.com
-:: mm.anqu.com
 0.0.0.0 mm.jbzj.com
 :: mm.jbzj.com
 0.0.0.0 mm.melia.com
@@ -37784,8 +37768,6 @@ ff02::3 ip6-allhosts
 :: mo.aaaw.xyz
 0.0.0.0 mo.baidu.com
 :: mo.baidu.com
-0.0.0.0 mo.bsxr.com.cn
-:: mo.bsxr.com.cn
 0.0.0.0 mo.ccch.xyz
 :: mo.ccch.xyz
 0.0.0.0 mo.haloapps.cn
@@ -38328,8 +38310,6 @@ ff02::3 ip6-allhosts
 :: mws.adsage.com
 0.0.0.0 mwshqx.swing2sleep.de
 :: mwshqx.swing2sleep.de
-0.0.0.0 mx.browsermine.com
-:: mx.browsermine.com
 0.0.0.0 mx.carfax.com
 :: mx.carfax.com
 0.0.0.0 mx.nimiq.com
@@ -39240,6 +39220,8 @@ ff02::3 ip6-allhosts
 :: nrjcur.pomelofashion.com
 0.0.0.0 ns.5.p2l.info
 :: ns.5.p2l.info
+0.0.0.0 ns.huawei.com.cn
+:: ns.huawei.com.cn
 0.0.0.0 ns.nint.ac.cn
 :: ns.nint.ac.cn
 0.0.0.0 ns.rvmkitt.com
@@ -41094,6 +41076,8 @@ ff02::3 ip6-allhosts
 :: partnersuccess.cisco.com
 0.0.0.0 partnersuccessmetrics.cisco.com
 :: partnersuccessmetrics.cisco.com
+0.0.0.0 partnerwebsites.mistermedia.nl
+:: partnerwebsites.mistermedia.nl
 0.0.0.0 partnerx.bethub.io
 :: partnerx.bethub.io
 0.0.0.0 partnerzyapi.ceneo.pl
@@ -41534,6 +41518,8 @@ ff02::3 ip6-allhosts
 :: phonograph2.voxmedia.com
 0.0.0.0 phorm.co.uk
 :: phorm.co.uk
+0.0.0.0 phorm.com.mx
+:: phorm.com.mx
 0.0.0.0 photo-ads.zaloapp.com
 :: photo-ads.zaloapp.com
 0.0.0.0 photo.backerbiotech.cn
@@ -43728,8 +43714,6 @@ ff02::3 ip6-allhosts
 :: qstore.inner.api.sj.360.cn
 0.0.0.0 qtb.biquter.xyz
 :: qtb.biquter.xyz
-0.0.0.0 qto.reprintingstakeholder.com
-:: qto.reprintingstakeholder.com
 0.0.0.0 qtorzy.mothercare.ae
 :: qtorzy.mothercare.ae
 0.0.0.0 quangcao.24h.com.vn
@@ -44112,6 +44096,8 @@ ff02::3 ip6-allhosts
 :: readyupdate.thelatestmostreadytocontentgetnowfast.top
 0.0.0.0 real-fitness2019.real-fitness.jp
 :: real-fitness2019.real-fitness.jp
+0.0.0.0 real.attico-mos.ru
+:: real.attico-mos.ru
 0.0.0.0 realclick.co.kr
 :: realclick.co.kr
 0.0.0.0 realestate.spin.pm
@@ -45094,8 +45080,6 @@ ff02::3 ip6-allhosts
 :: s.beop.io
 0.0.0.0 s.beopinion.com
 :: s.beopinion.com
-0.0.0.0 s.bigbolz.com
-:: s.bigbolz.com
 0.0.0.0 s.bl-1.com
 :: s.bl-1.com
 0.0.0.0 s.blinds.ca
