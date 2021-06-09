@@ -1,11 +1,11 @@
-# Checksum: MTYyMzExNTU2Ngo=
+# Checksum: MTYyMzIwMDcyMAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210608-0
-# TimeUpdated: 2021-06-08T01:26:06+00:00
+# Version: 1.1.8-20210609-0
+# TimeUpdated: 2021-06-09T01:05:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32147
+# Total: 32142
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2870,8 +2870,6 @@ ff02::3 ip6-allhosts
 :: ad.kisscartoon.su
 0.0.0.0 ad.kmib.co.kr
 :: ad.kmib.co.kr
-0.0.0.0 ad.kodansha.pub
-:: ad.kodansha.pub
 0.0.0.0 ad.koreadaily.com
 :: ad.koreadaily.com
 0.0.0.0 ad.krutilka.ru
@@ -3742,8 +3740,6 @@ ff02::3 ip6-allhosts
 :: adi2007.cnool.net
 0.0.0.0 adidm.idmnet.pl
 :: adidm.idmnet.pl
-0.0.0.0 adidm.supermedia.pl
-:: adidm.supermedia.pl
 0.0.0.0 adilk.ilikecomix.com
 :: adilk.ilikecomix.com
 0.0.0.0 adim.pinduoduo.com
@@ -5024,8 +5020,6 @@ ff02::3 ip6-allhosts
 :: ads.lycos.com
 0.0.0.0 ads.ma7.tv
 :: ads.ma7.tv
-0.0.0.0 ads.macnews.de
-:: ads.macnews.de
 0.0.0.0 ads.magnetic.is
 :: ads.magnetic.is
 0.0.0.0 ads.mail3x.com
@@ -5132,8 +5126,6 @@ ff02::3 ip6-allhosts
 :: ads.networksolutions.com
 0.0.0.0 ads.networkwcs.net
 :: ads.networkwcs.net
-0.0.0.0 ads.newcitynet.com
-:: ads.newcitynet.com
 0.0.0.0 ads.newmedia.cz
 :: ads.newmedia.cz
 0.0.0.0 ads.newsint.co.uk
@@ -5282,6 +5274,8 @@ ff02::3 ip6-allhosts
 :: ads.pressdemo.com
 0.0.0.0 ads.pricescan.com
 :: ads.pricescan.com
+0.0.0.0 ads.priel.co.kr
+:: ads.priel.co.kr
 0.0.0.0 ads.primissima.it
 :: ads.primissima.it
 0.0.0.0 ads.printscr.com
@@ -6960,6 +6954,8 @@ ff02::3 ip6-allhosts
 :: affiliate-script-pr.firebaseapp.com
 0.0.0.0 affiliate.1800flowers.com
 :: affiliate.1800flowers.com
+0.0.0.0 affiliate.a4dtracker.com
+:: affiliate.a4dtracker.com
 0.0.0.0 affiliate.astraweb.com
 :: affiliate.astraweb.com
 0.0.0.0 affiliate.baazee.com
@@ -10820,8 +10816,6 @@ ff02::3 ip6-allhosts
 :: bcli.flash-xxx.com
 0.0.0.0 bcob.uncc.edu
 :: bcob.uncc.edu
-0.0.0.0 bcode.zhantai.com
-:: bcode.zhantai.com
 0.0.0.0 bcp.crwdcntrl.net
 :: bcp.crwdcntrl.net
 0.0.0.0 bcytwb.student.com
@@ -11082,8 +11076,6 @@ ff02::3 ip6-allhosts
 :: beacon.squixa.net
 0.0.0.0 beacon.statful.com
 :: beacon.statful.com
-0.0.0.0 beacon.thred.woven.com
-:: beacon.thred.woven.com
 0.0.0.0 beacon.tingyun.com
 :: beacon.tingyun.com
 0.0.0.0 beacon.toyota.co.jp
@@ -11498,6 +11490,8 @@ ff02::3 ip6-allhosts
 :: blogad02.myweb.hinet.net
 0.0.0.0 bloggergreetbox.googlecode.com
 :: bloggergreetbox.googlecode.com
+0.0.0.0 blogparts.dgpot.com
+:: blogparts.dgpot.com
 0.0.0.0 blogparts.gcolle.net
 :: blogparts.gcolle.net
 0.0.0.0 blogroll.livedoor.net
@@ -12180,8 +12174,6 @@ ff02::3 ip6-allhosts
 :: c.europewest-ns.emailvision.net.daraz.com
 0.0.0.0 c.f1zd.com
 :: c.f1zd.com
-0.0.0.0 c.fedsdq.com
-:: c.fedsdq.com
 0.0.0.0 c.fi.msn.com
 :: c.fi.msn.com
 0.0.0.0 c.fr.msn.com
@@ -12494,8 +12486,6 @@ ff02::3 ip6-allhosts
 :: c.x.oanda.com
 0.0.0.0 c.xbjcgs.cn
 :: c.xbjcgs.cn
-0.0.0.0 c.xdygw.com.cn
-:: c.xdygw.com.cn
 0.0.0.0 c.xiaobaipan.com
 :: c.xiaobaipan.com
 0.0.0.0 c.xlhwzx.cn
@@ -14166,8 +14156,6 @@ ff02::3 ip6-allhosts
 :: click.tianyaui.com
 0.0.0.0 click.tiara.daum.net
 :: click.tiara.daum.net
-0.0.0.0 click.tiara.kakao.com
-:: click.tiara.kakao.com
 0.0.0.0 click.transactional.carousell.com
 :: click.transactional.carousell.com
 0.0.0.0 click.tv.repubblica.it
@@ -18200,6 +18188,8 @@ ff02::3 ip6-allhosts
 :: daima.yuzhulin.com
 0.0.0.0 daima1.18tzx.com
 :: daima1.18tzx.com
+0.0.0.0 daizhangguanjia.com.cn
+:: daizhangguanjia.com.cn
 0.0.0.0 dal9hkyfi0m0n.cloudfront.net
 :: dal9hkyfi0m0n.cloudfront.net
 0.0.0.0 daliantong.com.cn
@@ -18990,8 +18980,6 @@ ff02::3 ip6-allhosts
 :: df09rp0cm6rp6.cloudfront.net
 0.0.0.0 df0pmigc8xs70.cloudfront.net
 :: df0pmigc8xs70.cloudfront.net
-0.0.0.0 df666.pzhttaax.cn
-:: df666.pzhttaax.cn
 0.0.0.0 df7ok8j6on3a4.cloudfront.net
 :: df7ok8j6on3a4.cloudfront.net
 0.0.0.0 dfad.dfdaily.com
@@ -20326,6 +20314,8 @@ ff02::3 ip6-allhosts
 :: e-vcdn.anthill.vn
 0.0.0.0 e-wei.com.cn
 :: e-wei.com.cn
+0.0.0.0 e.2l06k.cn
+:: e.2l06k.cn
 0.0.0.0 e.53trya.cn
 :: e.53trya.cn
 0.0.0.0 e.60sk.ru
@@ -20662,6 +20652,8 @@ ff02::3 ip6-allhosts
 :: easytimes.unaux.com
 0.0.0.0 eatp.evztib.xyz
 :: eatp.evztib.xyz
+0.0.0.0 eatps.web.aol.com
+:: eatps.web.aol.com
 0.0.0.0 eaus2watcab01.blob.core.windows.net
 :: eaus2watcab01.blob.core.windows.net
 0.0.0.0 eaus2watcab02.blob.core.windows.net
@@ -26962,8 +26954,6 @@ ff02::3 ip6-allhosts
 :: hit.8digits.com
 0.0.0.0 hit.acstat.com
 :: hit.acstat.com
-0.0.0.0 hit.copesa.cl
-:: hit.copesa.cl
 0.0.0.0 hit.darmoweliczniki.pl
 :: hit.darmoweliczniki.pl
 0.0.0.0 hit.demirorenteknoloji.com
@@ -28462,8 +28452,6 @@ ff02::3 ip6-allhosts
 :: inbound.veem.com
 0.0.0.0 independence.americanportfolios.com
 :: independence.americanportfolios.com
-0.0.0.0 index.woai310.com
-:: index.woai310.com
 0.0.0.0 indieclick.3janecdn.com
 :: indieclick.3janecdn.com
 0.0.0.0 industry.promo.skf.com
@@ -30102,8 +30090,6 @@ ff02::3 ip6-allhosts
 :: jb.dianshu119.com
 0.0.0.0 jb.ecar168.cn
 :: jb.ecar168.cn
-0.0.0.0 jb.mbaidu.top
-:: jb.mbaidu.top
 0.0.0.0 jbezdi.ilsole24ore.com
 :: jbezdi.ilsole24ore.com
 0.0.0.0 jbttdl.beautycarechoices.com
@@ -33004,8 +32990,6 @@ ff02::3 ip6-allhosts
 :: m.53trya.cn
 0.0.0.0 m.58xs.tw
 :: m.58xs.tw
-0.0.0.0 m.5d63b.cn
-:: m.5d63b.cn
 0.0.0.0 m.5vst8h.cn
 :: m.5vst8h.cn
 0.0.0.0 m.62mao.com
@@ -33468,8 +33452,6 @@ ff02::3 ip6-allhosts
 :: m.xt2d.cn
 0.0.0.0 m.xxkio.com
 :: m.xxkio.com
-0.0.0.0 m.y195j.cn
-:: m.y195j.cn
 0.0.0.0 m.yalayi.com
 :: m.yalayi.com
 0.0.0.0 m.yanjunbo.com
@@ -37160,8 +37142,6 @@ ff02::3 ip6-allhosts
 :: metricsinfo.edc.ca
 0.0.0.0 metricss.bibliotheek.nl
 :: metricss.bibliotheek.nl
-0.0.0.0 metricssecure.luna.com
-:: metricssecure.luna.com
 0.0.0.0 metricssecure.northwesternmutual.com
 :: metricssecure.northwesternmutual.com
 0.0.0.0 metrika.lookmovie.io
@@ -38432,6 +38412,8 @@ ff02::3 ip6-allhosts
 :: nd.5.p2l.info
 0.0.0.0 ndeooc.bubbleroom.no
 :: ndeooc.bubbleroom.no
+0.0.0.0 ndl1mx1-a-fixed.sancharnet.in
+:: ndl1mx1-a-fixed.sancharnet.in
 0.0.0.0 ndl1pp1-a-fixed.sancharnet.in
 :: ndl1pp1-a-fixed.sancharnet.in
 0.0.0.0 ndnxln.alfaconcursos.com.br
@@ -38780,6 +38762,10 @@ ff02::3 ip6-allhosts
 :: ng3.ads.warnerbros.com
 0.0.0.0 ngads.go.com
 :: ngads.go.com
+0.0.0.0 ngc1.nsm-corp.com
+:: ngc1.nsm-corp.com
+0.0.0.0 ngegas.files.im
+:: ngegas.files.im
 0.0.0.0 nginfo.industrialinfo.com
 :: nginfo.industrialinfo.com
 0.0.0.0 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
@@ -39424,8 +39410,6 @@ ff02::3 ip6-allhosts
 :: oascentral.law.com
 0.0.0.0 oascentral.lycos.com
 :: oascentral.lycos.com
-0.0.0.0 oascentral.nerve.com
-:: oascentral.nerve.com
 0.0.0.0 oascentral.newsmax.com
 :: oascentral.newsmax.com
 0.0.0.0 oascentral.rcrnews.com
@@ -40788,6 +40772,8 @@ ff02::3 ip6-allhosts
 :: partner-ts.groupon.de
 0.0.0.0 partner-ts.groupon.fr
 :: partner-ts.groupon.fr
+0.0.0.0 partner-ts.groupon.net
+:: partner-ts.groupon.net
 0.0.0.0 partner-ts.groupon.nl
 :: partner-ts.groupon.nl
 0.0.0.0 partner-ts.groupon.pl
@@ -41170,6 +41156,8 @@ ff02::3 ip6-allhosts
 :: pelis24.com.es
 0.0.0.0 pemskb.unitedcinemas.jp
 :: pemskb.unitedcinemas.jp
+0.0.0.0 pengenanu.files.im
+:: pengenanu.files.im
 0.0.0.0 penguin.craftpeak.io
 :: penguin.craftpeak.io
 0.0.0.0 penguinmember.newzgames.com
@@ -41350,8 +41338,6 @@ ff02::3 ip6-allhosts
 :: phonograph2.voxmedia.com
 0.0.0.0 phorm.co.uk
 :: phorm.co.uk
-0.0.0.0 phorm.com.mx
-:: phorm.com.mx
 0.0.0.0 photo-ads.zaloapp.com
 :: photo-ads.zaloapp.com
 0.0.0.0 photo.backerbiotech.cn
@@ -42888,8 +42874,6 @@ ff02::3 ip6-allhosts
 :: ptracker.nurturehq.com
 0.0.0.0 ptrads.mp3.com
 :: ptrads.mp3.com
-0.0.0.0 ptreklamcrv.com.tr
-:: ptreklamcrv.com.tr
 0.0.0.0 ptsc.shoplocal.com
 :: ptsc.shoplocal.com
 0.0.0.0 ptuwqr.mueblesdecasa.net
@@ -43268,6 +43252,8 @@ ff02::3 ip6-allhosts
 :: q.s.cr-nielsen.com
 0.0.0.0 q1.yyxwzx.com
 :: q1.yyxwzx.com
+0.0.0.0 q1scv.vov0.com
+:: q1scv.vov0.com
 0.0.0.0 qa.origin.globalredirector.gwsweb.net.daraz.com
 :: qa.origin.globalredirector.gwsweb.net.daraz.com
 0.0.0.0 qa2.na.sandbox.gwsweb.net.daraz.com
@@ -44546,8 +44532,6 @@ ff02::3 ip6-allhosts
 :: rsotku.mitsui-shopping-park.com
 0.0.0.0 rss.dtiserv.com
 :: rss.dtiserv.com
-0.0.0.0 rss.tmgrup.com.tr
-:: rss.tmgrup.com.tr
 0.0.0.0 rst.pornyhd.com
 :: rst.pornyhd.com
 0.0.0.0 rst2.y3600.cn
@@ -45950,6 +45934,8 @@ ff02::3 ip6-allhosts
 :: sappmetrics.sprint.com
 0.0.0.0 sar.66.ru
 :: sar.66.ru
+0.0.0.0 sas.nsm-corp.com
+:: sas.nsm-corp.com
 0.0.0.0 sasc.solidworks.com
 :: sasc.solidworks.com
 0.0.0.0 sass.cryptaloot.pro
@@ -47926,6 +47912,8 @@ ff02::3 ip6-allhosts
 :: sjh.baidu.com
 0.0.0.0 sjremetrics.java.com
 :: sjremetrics.java.com
+0.0.0.0 sjy-stone.com.cn
+:: sjy-stone.com.cn
 0.0.0.0 sjyskm.litres.ru
 :: sjyskm.litres.ru
 0.0.0.0 sk.5.p2l.info
@@ -57230,8 +57218,6 @@ ff02::3 ip6-allhosts
 :: track.msadcenter.krt.com
 0.0.0.0 track.msadcenter.llu.com
 :: track.msadcenter.llu.com
-0.0.0.0 track.msadcenter.ltp.com
-:: track.msadcenter.ltp.com
 0.0.0.0 track.msadcenter.lyv.com
 :: track.msadcenter.lyv.com
 0.0.0.0 track.msadcenter.mazp.com
@@ -59558,10 +59544,14 @@ ff02::3 ip6-allhosts
 :: us.gn.com
 0.0.0.0 us.l.qq.com
 :: us.l.qq.com
+0.0.0.0 us.l1.yimg.com
+:: us.l1.yimg.com
 0.0.0.0 us.moneroocean.stream
 :: us.moneroocean.stream
 0.0.0.0 us.onkyo.actonservice.com
 :: us.onkyo.actonservice.com
+0.0.0.0 us.q1.yimg.com
+:: us.q1.yimg.com
 0.0.0.0 us.vortex-win.data.microsoft.com
 :: us.vortex-win.data.microsoft.com
 0.0.0.0 us.xmlppcbuzz.com
