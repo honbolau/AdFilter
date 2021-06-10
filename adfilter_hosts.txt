@@ -1,11 +1,11 @@
-# Checksum: MTYyMzIwMDcyMAo=
+# Checksum: MTYyMzI4NzAzNQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210609-0
-# TimeUpdated: 2021-06-09T01:05:20+00:00
+# Version: 1.1.8-20210610-0
+# TimeUpdated: 2021-06-10T01:03:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32142
+# Total: 32133
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -488,8 +488,6 @@ ff02::3 ip6-allhosts
 :: 5c.com.cn
 0.0.0.0 5ijo.01net.com
 :: 5ijo.01net.com
-0.0.0.0 5jcom.com.cn
-:: 5jcom.com.cn
 0.0.0.0 5y9nfpes.52pk.com
 :: 5y9nfpes.52pk.com
 0.0.0.0 5yrra.deshuangwang.cn
@@ -1522,6 +1520,8 @@ ff02::3 ip6-allhosts
 :: a44182.actonservice.com
 0.0.0.0 a44233.actonservice.com
 :: a44233.actonservice.com
+0.0.0.0 a4xo-eng.spankbang.com
+:: a4xo-eng.spankbang.com
 0.0.0.0 a5.overclockers.ua
 :: a5.overclockers.ua
 0.0.0.0 a6.codejumps.com
@@ -2552,6 +2552,8 @@ ff02::3 ip6-allhosts
 :: ad.arklm.com
 0.0.0.0 ad.atdmt.com
 :: ad.atdmt.com
+0.0.0.0 ad.atown.jp
+:: ad.atown.jp
 0.0.0.0 ad.aucfan.com
 :: ad.aucfan.com
 0.0.0.0 ad.auditude.com
@@ -3008,6 +3010,8 @@ ff02::3 ip6-allhosts
 :: ad.org.vn
 0.0.0.0 ad.oujdacity.net
 :: ad.oujdacity.net
+0.0.0.0 ad.ourgame.com
+:: ad.ourgame.com
 0.0.0.0 ad.outsidehub.com
 :: ad.outsidehub.com
 0.0.0.0 ad.outstream.today
@@ -3198,6 +3202,8 @@ ff02::3 ip6-allhosts
 :: ad.vkool.net
 0.0.0.0 ad.vrvm.com
 :: ad.vrvm.com
+0.0.0.0 ad.vurts.com
+:: ad.vurts.com
 0.0.0.0 ad.wang502.com
 :: ad.wang502.com
 0.0.0.0 ad.wappalyzer.com
@@ -5120,6 +5126,8 @@ ff02::3 ip6-allhosts
 :: ads.ndtv1.com
 0.0.0.0 ads.netbul.com
 :: ads.netbul.com
+0.0.0.0 ads.nethaber.com
+:: ads.nethaber.com
 0.0.0.0 ads.netlinkad.vn
 :: ads.netlinkad.vn
 0.0.0.0 ads.networksolutions.com
@@ -5226,8 +5234,6 @@ ff02::3 ip6-allhosts
 :: ads.phim47.com
 0.0.0.0 ads.phimhp.com
 :: ads.phimhp.com
-0.0.0.0 ads.phimvang.org
-:: ads.phimvang.org
 0.0.0.0 ads.phpclasses.org
 :: ads.phpclasses.org
 0.0.0.0 ads.phunuonline.com.vn
@@ -7488,8 +7494,6 @@ ff02::3 ip6-allhosts
 :: analyse.weather.com.cn
 0.0.0.0 analysis.120ask.com
 :: analysis.120ask.com
-0.0.0.0 analysis.afreecatv.com
-:: analysis.afreecatv.com
 0.0.0.0 analysis.fc2.com
 :: analysis.fc2.com
 0.0.0.0 analysis.polarisoffice.com
@@ -11990,6 +11994,8 @@ ff02::3 ip6-allhosts
 :: buypaxilonline.7h.com
 0.0.0.0 buyphentermineonline.7h.com
 :: buyphentermineonline.7h.com
+0.0.0.0 buyviagra.polybuild.ru
+:: buyviagra.polybuild.ru
 0.0.0.0 buyvicodinonline.veryweird.com
 :: buyvicodinonline.veryweird.com
 0.0.0.0 buzz.give5.pl
@@ -15708,8 +15714,6 @@ ff02::3 ip6-allhosts
 :: corporate.mattamyhomes.com
 0.0.0.0 corporateforms.americanexpress.com
 :: corporateforms.americanexpress.com
-0.0.0.0 corporatemarketing.smu.edu.sg
-:: corporatemarketing.smu.edu.sg
 0.0.0.0 corpr-es-1.net.daraz.com
 :: corpr-es-1.net.daraz.com
 0.0.0.0 corto.www.wp.pl
@@ -22042,6 +22046,8 @@ ff02::3 ip6-allhosts
 :: events.ingatlan.com
 0.0.0.0 events.jianshu.io
 :: events.jianshu.io
+0.0.0.0 events.jokerly.com
+:: events.jokerly.com
 0.0.0.0 events.jora.com
 :: events.jora.com
 0.0.0.0 events.jotform.com
@@ -22920,8 +22926,6 @@ ff02::3 ip6-allhosts
 :: fpb8.esce.fr
 0.0.0.0 fpbb.aizhan.com
 :: fpbb.aizhan.com
-0.0.0.0 fpbbdx1.51240.com
-:: fpbbdx1.51240.com
 0.0.0.0 fpbcode.onlinedown.net
 :: fpbcode.onlinedown.net
 0.0.0.0 fpbjiansuo.mn586.com
@@ -23904,8 +23908,6 @@ ff02::3 ip6-allhosts
 :: gg.gao7.com
 0.0.0.0 gg.huangye88.com
 :: gg.huangye88.com
-0.0.0.0 gg.jkmeishi.com
-:: gg.jkmeishi.com
 0.0.0.0 gg.meitu.com
 :: gg.meitu.com
 0.0.0.0 gg.miued.com
@@ -32358,8 +32360,6 @@ ff02::3 ip6-allhosts
 :: log.mp3.zing.vn
 0.0.0.0 log.mpns.hunantv.com
 :: log.mpns.hunantv.com
-0.0.0.0 log.music.baidu.com
-:: log.music.baidu.com
 0.0.0.0 log.netsoft2012.com
 :: log.netsoft2012.com
 0.0.0.0 log.news.zing.vn
@@ -33002,12 +33002,12 @@ ff02::3 ip6-allhosts
 :: m.937920.com
 0.0.0.0 m.958so.cn
 :: m.958so.cn
+0.0.0.0 m.967nd.cn
+:: m.967nd.cn
 0.0.0.0 m.96mob.com
 :: m.96mob.com
 0.0.0.0 m.97tuk.cn
 :: m.97tuk.cn
-0.0.0.0 m.9r48f.cn
-:: m.9r48f.cn
 0.0.0.0 m.achuc.com
 :: m.achuc.com
 0.0.0.0 m.acmgloballab.com
@@ -38412,8 +38412,6 @@ ff02::3 ip6-allhosts
 :: nd.5.p2l.info
 0.0.0.0 ndeooc.bubbleroom.no
 :: ndeooc.bubbleroom.no
-0.0.0.0 ndl1mx1-a-fixed.sancharnet.in
-:: ndl1mx1-a-fixed.sancharnet.in
 0.0.0.0 ndl1pp1-a-fixed.sancharnet.in
 :: ndl1pp1-a-fixed.sancharnet.in
 0.0.0.0 ndnxln.alfaconcursos.com.br
@@ -38766,8 +38764,6 @@ ff02::3 ip6-allhosts
 :: ngc1.nsm-corp.com
 0.0.0.0 ngegas.files.im
 :: ngegas.files.im
-0.0.0.0 nginfo.industrialinfo.com
-:: nginfo.industrialinfo.com
 0.0.0.0 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 :: nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 0.0.0.0 nginx.r-dw-1.net.daraz.com
@@ -40772,8 +40768,6 @@ ff02::3 ip6-allhosts
 :: partner-ts.groupon.de
 0.0.0.0 partner-ts.groupon.fr
 :: partner-ts.groupon.fr
-0.0.0.0 partner-ts.groupon.net
-:: partner-ts.groupon.net
 0.0.0.0 partner-ts.groupon.nl
 :: partner-ts.groupon.nl
 0.0.0.0 partner-ts.groupon.pl
@@ -41934,8 +41928,6 @@ ff02::3 ip6-allhosts
 :: plausible.prod.sketch.com
 0.0.0.0 plausible.promlabs.com
 :: plausible.promlabs.com
-0.0.0.0 plausible.punchfork.com
-:: plausible.punchfork.com
 0.0.0.0 plausible.rachel.systems
 :: plausible.rachel.systems
 0.0.0.0 plausible.regex.help
@@ -43252,8 +43244,6 @@ ff02::3 ip6-allhosts
 :: q.s.cr-nielsen.com
 0.0.0.0 q1.yyxwzx.com
 :: q1.yyxwzx.com
-0.0.0.0 q1scv.vov0.com
-:: q1scv.vov0.com
 0.0.0.0 qa.origin.globalredirector.gwsweb.net.daraz.com
 :: qa.origin.globalredirector.gwsweb.net.daraz.com
 0.0.0.0 qa2.na.sandbox.gwsweb.net.daraz.com
@@ -43684,8 +43674,6 @@ ff02::3 ip6-allhosts
 :: rav4.wn052ucd.online
 0.0.0.0 raybte.7days.ru
 :: raybte.7days.ru
-0.0.0.0 rayfilead.roxcdn.com
-:: rayfilead.roxcdn.com
 0.0.0.0 rayli.adsame.com
 :: rayli.adsame.com
 0.0.0.0 rayli.com.cn
@@ -46454,6 +46442,8 @@ ff02::3 ip6-allhosts
 :: sdk.zadn.vn
 0.0.0.0 sdk.zsdfm.com
 :: sdk.zsdfm.com
+0.0.0.0 sdkapi.netmera.com
+:: sdkapi.netmera.com
 0.0.0.0 sdkapp.mobile.sina.cn
 :: sdkapp.mobile.sina.cn
 0.0.0.0 sdkapp.uve.weibo.com
@@ -47912,8 +47902,6 @@ ff02::3 ip6-allhosts
 :: sjh.baidu.com
 0.0.0.0 sjremetrics.java.com
 :: sjremetrics.java.com
-0.0.0.0 sjy-stone.com.cn
-:: sjy-stone.com.cn
 0.0.0.0 sjyskm.litres.ru
 :: sjyskm.litres.ru
 0.0.0.0 sk.5.p2l.info
@@ -52420,8 +52408,6 @@ ff02::3 ip6-allhosts
 :: stat.ouedkniss.com
 0.0.0.0 stat.pchome.net
 :: stat.pchome.net
-0.0.0.0 stat.pladform.ru
-:: stat.pladform.ru
 0.0.0.0 stat.ppstream.com
 :: stat.ppstream.com
 0.0.0.0 stat.pravmir.ru
@@ -55184,8 +55170,6 @@ ff02::3 ip6-allhosts
 :: t4.a.market.xiaomi.com
 0.0.0.0 t4.agrantsem.com
 :: t4.agrantsem.com
-0.0.0.0 t5.51maiwanju.com
-:: t5.51maiwanju.com
 0.0.0.0 t5.a.market.xiaomi.com
 :: t5.a.market.xiaomi.com
 0.0.0.0 t6.51maiwanju.com
@@ -57118,6 +57102,8 @@ ff02::3 ip6-allhosts
 :: track.edu-info.jp
 0.0.0.0 track.effiliation.com
 :: track.effiliation.com
+0.0.0.0 track.elpais.com.uy
+:: track.elpais.com.uy
 0.0.0.0 track.engagesciences.com
 :: track.engagesciences.com
 0.0.0.0 track.es.sitebro.net
@@ -59544,14 +59530,10 @@ ff02::3 ip6-allhosts
 :: us.gn.com
 0.0.0.0 us.l.qq.com
 :: us.l.qq.com
-0.0.0.0 us.l1.yimg.com
-:: us.l1.yimg.com
 0.0.0.0 us.moneroocean.stream
 :: us.moneroocean.stream
 0.0.0.0 us.onkyo.actonservice.com
 :: us.onkyo.actonservice.com
-0.0.0.0 us.q1.yimg.com
-:: us.q1.yimg.com
 0.0.0.0 us.vortex-win.data.microsoft.com
 :: us.vortex-win.data.microsoft.com
 0.0.0.0 us.xmlppcbuzz.com

@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYyMzIwMDcyMAo=
+# Checksum: MTYyMzI4NzAzNQo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210609-0
-# TimeUpdated: 2021-06-09T01:05:20+00:00
+# Version: 1.1.8-20210610-0
+# TimeUpdated: 2021-06-10T01:03:55+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32142
+# Total: 32133
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -243,7 +243,6 @@ payload:
   - DOMAIN,5aac971e.qivsod.com
   - DOMAIN,5c.com.cn
   - DOMAIN,5ijo.01net.com
-  - DOMAIN,5jcom.com.cn
   - DOMAIN,5y9nfpes.52pk.com
   - DOMAIN,5yrra.deshuangwang.cn
   - DOMAIN,6165.rapidforum.com
@@ -760,6 +759,7 @@ payload:
   - DOMAIN,a44130.actonservice.com
   - DOMAIN,a44182.actonservice.com
   - DOMAIN,a44233.actonservice.com
+  - DOMAIN,a4xo-eng.spankbang.com
   - DOMAIN,a5.overclockers.ua
   - DOMAIN,a6.codejumps.com
   - DOMAIN,a6.wechatpu.com
@@ -1275,6 +1275,7 @@ payload:
   - DOMAIN,ad.apsalar.com
   - DOMAIN,ad.arklm.com
   - DOMAIN,ad.atdmt.com
+  - DOMAIN,ad.atown.jp
   - DOMAIN,ad.aucfan.com
   - DOMAIN,ad.auditude.com
   - DOMAIN,ad.batanga.com
@@ -1503,6 +1504,7 @@ payload:
   - DOMAIN,ad.openmultimedia.biz
   - DOMAIN,ad.org.vn
   - DOMAIN,ad.oujdacity.net
+  - DOMAIN,ad.ourgame.com
   - DOMAIN,ad.outsidehub.com
   - DOMAIN,ad.outstream.today
   - DOMAIN,ad.oyy.ru
@@ -1598,6 +1600,7 @@ payload:
   - DOMAIN,ad.virtual-nights.com
   - DOMAIN,ad.vkool.net
   - DOMAIN,ad.vrvm.com
+  - DOMAIN,ad.vurts.com
   - DOMAIN,ad.wang502.com
   - DOMAIN,ad.wappalyzer.com
   - DOMAIN,ad.wavu.hu
@@ -2559,6 +2562,7 @@ payload:
   - DOMAIN,ads.ncm.com
   - DOMAIN,ads.ndtv1.com
   - DOMAIN,ads.netbul.com
+  - DOMAIN,ads.nethaber.com
   - DOMAIN,ads.netlinkad.vn
   - DOMAIN,ads.networksolutions.com
   - DOMAIN,ads.networkwcs.net
@@ -2612,7 +2616,6 @@ payload:
   - DOMAIN,ads.pfl.ua
   - DOMAIN,ads.phim47.com
   - DOMAIN,ads.phimhp.com
-  - DOMAIN,ads.phimvang.org
   - DOMAIN,ads.phpclasses.org
   - DOMAIN,ads.phunuonline.com.vn
   - DOMAIN,ads.phunusuckhoe.vn
@@ -3743,7 +3746,6 @@ payload:
   - DOMAIN,analyse.bcovery.com
   - DOMAIN,analyse.weather.com.cn
   - DOMAIN,analysis.120ask.com
-  - DOMAIN,analysis.afreecatv.com
   - DOMAIN,analysis.fc2.com
   - DOMAIN,analysis.polarisoffice.com
   - DOMAIN,analytic-client.playful-fairies.com
@@ -5994,6 +5996,7 @@ payload:
   - DOMAIN,buylortabonline.7h.com
   - DOMAIN,buypaxilonline.7h.com
   - DOMAIN,buyphentermineonline.7h.com
+  - DOMAIN,buyviagra.polybuild.ru
   - DOMAIN,buyvicodinonline.veryweird.com
   - DOMAIN,buzz.give5.pl
   - DOMAIN,buzzard.donotresearch.net
@@ -7853,7 +7856,6 @@ payload:
   - DOMAIN,corporate.averydennison.com
   - DOMAIN,corporate.mattamyhomes.com
   - DOMAIN,corporateforms.americanexpress.com
-  - DOMAIN,corporatemarketing.smu.edu.sg
   - DOMAIN,corpr-es-1.net.daraz.com
   - DOMAIN,corto.www.wp.pl
   - DOMAIN,corus.hb-api.omtrdc.net
@@ -11020,6 +11022,7 @@ payload:
   - DOMAIN,events.il.fi
   - DOMAIN,events.ingatlan.com
   - DOMAIN,events.jianshu.io
+  - DOMAIN,events.jokerly.com
   - DOMAIN,events.jora.com
   - DOMAIN,events.jotform.com
   - DOMAIN,events.launchdarkly.com
@@ -11459,7 +11462,6 @@ payload:
   - DOMAIN,fpb1.tabuzhe.com
   - DOMAIN,fpb8.esce.fr
   - DOMAIN,fpbb.aizhan.com
-  - DOMAIN,fpbbdx1.51240.com
   - DOMAIN,fpbcode.onlinedown.net
   - DOMAIN,fpbjiansuo.mn586.com
   - DOMAIN,fpc.attcenter.com
@@ -11951,7 +11953,6 @@ payload:
   - DOMAIN,gg.egouz.com
   - DOMAIN,gg.gao7.com
   - DOMAIN,gg.huangye88.com
-  - DOMAIN,gg.jkmeishi.com
   - DOMAIN,gg.meitu.com
   - DOMAIN,gg.miued.com
   - DOMAIN,gg.qucaigg.com
@@ -16178,7 +16179,6 @@ payload:
   - DOMAIN,log.moviebox.baofeng.com
   - DOMAIN,log.mp3.zing.vn
   - DOMAIN,log.mpns.hunantv.com
-  - DOMAIN,log.music.baidu.com
   - DOMAIN,log.netsoft2012.com
   - DOMAIN,log.news.zing.vn
   - DOMAIN,log.newsvine.com
@@ -16500,9 +16500,9 @@ payload:
   - DOMAIN,m.6z1gf.cn
   - DOMAIN,m.937920.com
   - DOMAIN,m.958so.cn
+  - DOMAIN,m.967nd.cn
   - DOMAIN,m.96mob.com
   - DOMAIN,m.97tuk.cn
-  - DOMAIN,m.9r48f.cn
   - DOMAIN,m.achuc.com
   - DOMAIN,m.acmgloballab.com
   - DOMAIN,m.ad.zhangyue.com
@@ -19205,7 +19205,6 @@ payload:
   - DOMAIN,ncxxek.donedeal.ie
   - DOMAIN,nd.5.p2l.info
   - DOMAIN,ndeooc.bubbleroom.no
-  - DOMAIN,ndl1mx1-a-fixed.sancharnet.in
   - DOMAIN,ndl1pp1-a-fixed.sancharnet.in
   - DOMAIN,ndnxln.alfaconcursos.com.br
   - DOMAIN,ne.1rtb.com
@@ -19382,7 +19381,6 @@ payload:
   - DOMAIN,ngads.go.com
   - DOMAIN,ngc1.nsm-corp.com
   - DOMAIN,ngegas.files.im
-  - DOMAIN,nginfo.industrialinfo.com
   - DOMAIN,nginx-auction-prd-gcp.adsx.unityads.unity3d.com
   - DOMAIN,nginx.r-dw-1.net.daraz.com
   - DOMAIN,nginx.yancancook.net.daraz.com
@@ -20385,7 +20383,6 @@ payload:
   - DOMAIN,partner-ts.groupon.com
   - DOMAIN,partner-ts.groupon.de
   - DOMAIN,partner-ts.groupon.fr
-  - DOMAIN,partner-ts.groupon.net
   - DOMAIN,partner-ts.groupon.nl
   - DOMAIN,partner-ts.groupon.pl
   - DOMAIN,partner.accesstrade.vn
@@ -20966,7 +20963,6 @@ payload:
   - DOMAIN,plausible.play.date
   - DOMAIN,plausible.prod.sketch.com
   - DOMAIN,plausible.promlabs.com
-  - DOMAIN,plausible.punchfork.com
   - DOMAIN,plausible.rachel.systems
   - DOMAIN,plausible.regex.help
   - DOMAIN,plausible.resilienz-kongress.de
@@ -21625,7 +21621,6 @@ payload:
   - DOMAIN,q.qsmdeyz.cn
   - DOMAIN,q.s.cr-nielsen.com
   - DOMAIN,q1.yyxwzx.com
-  - DOMAIN,q1scv.vov0.com
   - DOMAIN,qa.origin.globalredirector.gwsweb.net.daraz.com
   - DOMAIN,qa2.na.sandbox.gwsweb.net.daraz.com
   - DOMAIN,qa3.na.sandbox.gwsweb.net.daraz.com
@@ -21841,7 +21836,6 @@ payload:
   - DOMAIN,ratings.lycos.com
   - DOMAIN,rav4.wn052ucd.online
   - DOMAIN,raybte.7days.ru
-  - DOMAIN,rayfilead.roxcdn.com
   - DOMAIN,rayli.adsame.com
   - DOMAIN,rayli.com.cn
   - DOMAIN,razor.arnes.si
@@ -23226,6 +23220,7 @@ payload:
   - DOMAIN,sdk.tf.360.cn
   - DOMAIN,sdk.zadn.vn
   - DOMAIN,sdk.zsdfm.com
+  - DOMAIN,sdkapi.netmera.com
   - DOMAIN,sdkapp.mobile.sina.cn
   - DOMAIN,sdkapp.uve.weibo.com
   - DOMAIN,sdkauth.hpplay.cn
@@ -23955,7 +23950,6 @@ payload:
   - DOMAIN,sjbtn.appfh.com
   - DOMAIN,sjh.baidu.com
   - DOMAIN,sjremetrics.java.com
-  - DOMAIN,sjy-stone.com.cn
   - DOMAIN,sjyskm.litres.ru
   - DOMAIN,sk.5.p2l.info
   - DOMAIN,skadnetwork.singular.net
@@ -26209,7 +26203,6 @@ payload:
   - DOMAIN,stat.nyheter24.se
   - DOMAIN,stat.ouedkniss.com
   - DOMAIN,stat.pchome.net
-  - DOMAIN,stat.pladform.ru
   - DOMAIN,stat.ppstream.com
   - DOMAIN,stat.pravmir.ru
   - DOMAIN,stat.prawo.pl
@@ -27591,7 +27584,6 @@ payload:
   - DOMAIN,t38uu.k42jvw.com
   - DOMAIN,t4.a.market.xiaomi.com
   - DOMAIN,t4.agrantsem.com
-  - DOMAIN,t5.51maiwanju.com
   - DOMAIN,t5.a.market.xiaomi.com
   - DOMAIN,t6.51maiwanju.com
   - DOMAIN,t6.a.market.xiaomi.com
@@ -28558,6 +28550,7 @@ payload:
   - DOMAIN,track.docusign.jp
   - DOMAIN,track.edu-info.jp
   - DOMAIN,track.effiliation.com
+  - DOMAIN,track.elpais.com.uy
   - DOMAIN,track.engagesciences.com
   - DOMAIN,track.es.sitebro.net
   - DOMAIN,track.exclusivecpa.com
@@ -29771,10 +29764,8 @@ payload:
   - DOMAIN,us.bs.serving-sys.com
   - DOMAIN,us.gn.com
   - DOMAIN,us.l.qq.com
-  - DOMAIN,us.l1.yimg.com
   - DOMAIN,us.moneroocean.stream
   - DOMAIN,us.onkyo.actonservice.com
-  - DOMAIN,us.q1.yimg.com
   - DOMAIN,us.vortex-win.data.microsoft.com
   - DOMAIN,us.xmlppcbuzz.com
   - DOMAIN,us.y.atwola.com
