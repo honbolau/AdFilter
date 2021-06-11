@@ -1,11 +1,11 @@
-# Checksum: MTYyMzI4NzAzNQo=
+# Checksum: MTYyMzM3MzA3OAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210610-0
-# TimeUpdated: 2021-06-10T01:03:55+00:00
+# Version: 1.1.8-20210611-0
+# TimeUpdated: 2021-06-11T00:57:58+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32133
+# Total: 32138
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -814,6 +814,8 @@ ff02::3 ip6-allhosts
 :: a.e7009.com
 0.0.0.0 a.ecook.cn
 :: a.ecook.cn
+0.0.0.0 a.electerious.com
+:: a.electerious.com
 0.0.0.0 a.epinv.com
 :: a.epinv.com
 0.0.0.0 a.eporner.com
@@ -1258,8 +1260,6 @@ ff02::3 ip6-allhosts
 :: a13678.actonservice.com
 0.0.0.0 a13709.actonservice.com
 :: a13709.actonservice.com
-0.0.0.0 a1410.oadz.com
-:: a1410.oadz.com
 0.0.0.0 a14338.actonservice.com
 :: a14338.actonservice.com
 0.0.0.0 a14374.actonservice.com
@@ -2204,6 +2204,8 @@ ff02::3 ip6-allhosts
 :: ac.dun.163yun.com
 0.0.0.0 ac.express.de
 :: ac.express.de
+0.0.0.0 ac.miovp.com
+:: ac.miovp.com
 0.0.0.0 ac.mmstat.com
 :: ac.mmstat.com
 0.0.0.0 ac.mz-web.de
@@ -3202,8 +3204,6 @@ ff02::3 ip6-allhosts
 :: ad.vkool.net
 0.0.0.0 ad.vrvm.com
 :: ad.vrvm.com
-0.0.0.0 ad.vurts.com
-:: ad.vurts.com
 0.0.0.0 ad.wang502.com
 :: ad.wang502.com
 0.0.0.0 ad.wappalyzer.com
@@ -5126,8 +5126,6 @@ ff02::3 ip6-allhosts
 :: ads.ndtv1.com
 0.0.0.0 ads.netbul.com
 :: ads.netbul.com
-0.0.0.0 ads.nethaber.com
-:: ads.nethaber.com
 0.0.0.0 ads.netlinkad.vn
 :: ads.netlinkad.vn
 0.0.0.0 ads.networksolutions.com
@@ -11028,6 +11026,8 @@ ff02::3 ip6-allhosts
 :: beacon.aimtell.com
 0.0.0.0 beacon.carfax.com
 :: beacon.carfax.com
+0.0.0.0 beacon.digima.com
+:: beacon.digima.com
 0.0.0.0 beacon.ehow.com
 :: beacon.ehow.com
 0.0.0.0 beacon.errorception.com
@@ -11116,6 +11116,10 @@ ff02::3 ip6-allhosts
 :: beak.bd.313.nl
 0.0.0.0 beak.bigdata.dpgmmservices.nl
 :: beak.bigdata.dpgmmservices.nl
+0.0.0.0 beam-ws.giraffe360.com
+:: beam-ws.giraffe360.com
+0.0.0.0 beam.giraffe360.com
+:: beam.giraffe360.com
 0.0.0.0 beam.mjhlifesciences.com
 :: beam.mjhlifesciences.com
 0.0.0.0 beam.remp.impresa.pt
@@ -11994,8 +11998,6 @@ ff02::3 ip6-allhosts
 :: buypaxilonline.7h.com
 0.0.0.0 buyphentermineonline.7h.com
 :: buyphentermineonline.7h.com
-0.0.0.0 buyviagra.polybuild.ru
-:: buyviagra.polybuild.ru
 0.0.0.0 buyvicodinonline.veryweird.com
 :: buyvicodinonline.veryweird.com
 0.0.0.0 buzz.give5.pl
@@ -12136,8 +12138,6 @@ ff02::3 ip6-allhosts
 :: c.caijing123.com
 0.0.0.0 c.cl.msn.com
 :: c.cl.msn.com
-0.0.0.0 c.cloudwp.io
-:: c.cloudwp.io
 0.0.0.0 c.cnstats.ru
 :: c.cnstats.ru
 0.0.0.0 c.cnzz.com
@@ -13380,8 +13380,6 @@ ff02::3 ip6-allhosts
 :: cdn.tekoapis.com
 0.0.0.0 cdn.tianmidian.com
 :: cdn.tianmidian.com
-0.0.0.0 cdn.tinglian.com
-:: cdn.tinglian.com
 0.0.0.0 cdn.tpmedia.online
 :: cdn.tpmedia.online
 0.0.0.0 cdn.trafficexchangelist.com
@@ -16376,6 +16374,8 @@ ff02::3 ip6-allhosts
 :: crashlyticsreports-pa.googleapis.com
 0.0.0.0 crayfish.fansubbing.com
 :: crayfish.fansubbing.com
+0.0.0.0 crayfish.thingelstad.com
+:: crayfish.thingelstad.com
 0.0.0.0 crayon.meishichina.com
 :: crayon.meishichina.com
 0.0.0.0 cre-dp.sina.cn
@@ -16820,8 +16820,6 @@ ff02::3 ip6-allhosts
 :: d.administratorsns.emailvision.net.daraz.com
 0.0.0.0 d.admx.baixing.com
 :: d.admx.baixing.com
-0.0.0.0 d.adrolays.de
-:: d.adrolays.de
 0.0.0.0 d.adroll.com
 :: d.adroll.com
 0.0.0.0 d.agkn.com
@@ -20448,8 +20446,6 @@ ff02::3 ip6-allhosts
 :: e.nexac.com
 0.0.0.0 e.oaktreemobility.co.uk
 :: e.oaktreemobility.co.uk
-0.0.0.0 e.plerv.com
-:: e.plerv.com
 0.0.0.0 e.poonscn.com
 :: e.poonscn.com
 0.0.0.0 e.puooi.com
@@ -20656,8 +20652,6 @@ ff02::3 ip6-allhosts
 :: easytimes.unaux.com
 0.0.0.0 eatp.evztib.xyz
 :: eatp.evztib.xyz
-0.0.0.0 eatps.web.aol.com
-:: eatps.web.aol.com
 0.0.0.0 eaus2watcab01.blob.core.windows.net
 :: eaus2watcab01.blob.core.windows.net
 0.0.0.0 eaus2watcab02.blob.core.windows.net
@@ -21240,8 +21234,6 @@ ff02::3 ip6-allhosts
 :: eltlio.boribori.co.kr
 0.0.0.0 eluhep.bosco.ru
 :: eluhep.bosco.ru
-0.0.0.0 eluoyi.xbiquge6.com
-:: eluoyi.xbiquge6.com
 0.0.0.0 em.baidu.com
 :: em.baidu.com
 0.0.0.0 em.getsimpleprints.com
@@ -21724,6 +21716,8 @@ ff02::3 ip6-allhosts
 :: eqs.intuit.com
 0.0.0.0 eqx.smartadserver.com
 :: eqx.smartadserver.com
+0.0.0.0 er.5ykj.cn
+:: er.5ykj.cn
 0.0.0.0 er.5ykj.com
 :: er.5ykj.com
 0.0.0.0 er.mmi.bemobile.ua
@@ -22338,6 +22332,8 @@ ff02::3 ip6-allhosts
 :: f3.souid.com
 0.0.0.0 f5.dfcwg.com
 :: f5.dfcwg.com
+0.0.0.0 f5.mtqys.com
+:: f5.mtqys.com
 0.0.0.0 f7ds.liberation.fr
 :: f7ds.liberation.fr
 0.0.0.0 f8phvntohv.tpetry.me
@@ -22416,8 +22412,12 @@ ff02::3 ip6-allhosts
 :: fastcounter.linkexchange.net
 0.0.0.0 fatads.toldya.com
 :: fatads.toldya.com
+0.0.0.0 fathom.app.silverbeak.com
+:: fathom.app.silverbeak.com
 0.0.0.0 fathom.status.im
 :: fathom.status.im
+0.0.0.0 fathom.tdvm.net
+:: fathom.tdvm.net
 0.0.0.0 faucet.nimiq-network.com
 :: faucet.nimiq-network.com
 0.0.0.0 fav.simba.taobao.com
@@ -31418,8 +31418,6 @@ ff02::3 ip6-allhosts
 :: lcs.naver.jp
 0.0.0.0 lcscompanies.lcsnet.com
 :: lcscompanies.lcsnet.com
-0.0.0.0 ld.kuaigames.com
-:: ld.kuaigames.com
 0.0.0.0 ld.mediaget.com
 :: ld.mediaget.com
 0.0.0.0 ld.za9mnx.com
@@ -31684,8 +31682,6 @@ ff02::3 ip6-allhosts
 :: license.lumion3d.net
 0.0.0.0 license2.bluesoleil.com
 :: license2.bluesoleil.com
-0.0.0.0 licensing.bitmovin.com
-:: licensing.bitmovin.com
 0.0.0.0 licensinginsights.ascap.com
 :: licensinginsights.ascap.com
 0.0.0.0 life.e0575.com
@@ -33452,6 +33448,8 @@ ff02::3 ip6-allhosts
 :: m.xt2d.cn
 0.0.0.0 m.xxkio.com
 :: m.xxkio.com
+0.0.0.0 m.y195j.cn
+:: m.y195j.cn
 0.0.0.0 m.yalayi.com
 :: m.yalayi.com
 0.0.0.0 m.yanjunbo.com
@@ -41916,6 +41914,8 @@ ff02::3 ip6-allhosts
 :: plausible.nova.app
 0.0.0.0 plausible.nubemia.com
 :: plausible.nubemia.com
+0.0.0.0 plausible.nuqu.org
+:: plausible.nuqu.org
 0.0.0.0 plausible.panic.com
 :: plausible.panic.com
 0.0.0.0 plausible.pgmustard.com
@@ -41958,6 +41958,8 @@ ff02::3 ip6-allhosts
 :: plausible.vaughanesports.org
 0.0.0.0 plausible.zorin.com
 :: plausible.zorin.com
+0.0.0.0 plausibleio.workers.dev
+:: plausibleio.workers.dev
 0.0.0.0 plavix.shengen.ru
 :: plavix.shengen.ru
 0.0.0.0 play-poker-free.forsearch.net
@@ -42448,6 +42450,8 @@ ff02::3 ip6-allhosts
 :: privacy.outdoorsg.com
 0.0.0.0 privacy.selbst.de
 :: privacy.selbst.de
+0.0.0.0 privacyfriendly.brainbits.in
+:: privacyfriendly.brainbits.in
 0.0.0.0 privacypolicy.trgr.be
 :: privacypolicy.trgr.be
 0.0.0.0 privacyportal.fatergroup.com
@@ -42766,6 +42770,8 @@ ff02::3 ip6-allhosts
 :: proxy-pol-1.inf.nimiq.network
 0.0.0.0 proxy-pol-2.inf.nimiq.network
 :: proxy-pol-2.inf.nimiq.network
+0.0.0.0 proxy.dzeio.com
+:: proxy.dzeio.com
 0.0.0.0 proxy.multikonline.ru
 :: proxy.multikonline.ru
 0.0.0.0 proxy.nullrefexcep.com
@@ -44908,8 +44914,6 @@ ff02::3 ip6-allhosts
 :: s.kenh14.vn
 0.0.0.0 s.kma1.biz
 :: s.kma1.biz
-0.0.0.0 s.komoona.com
-:: s.komoona.com
 0.0.0.0 s.krzyzanowskim.com
 :: s.krzyzanowskim.com
 0.0.0.0 s.l.fastapi.net
@@ -45578,8 +45582,6 @@ ff02::3 ip6-allhosts
 :: sadobemetrics.la-z-boy.com
 0.0.0.0 sadv.dadapro.com
 :: sadv.dadapro.com
-0.0.0.0 safe-aisle.jointreport-switch.com
-:: safe-aisle.jointreport-switch.com
 0.0.0.0 safe.hyperpaysys.com
 :: safe.hyperpaysys.com
 0.0.0.0 safe.nimiq.com
@@ -53038,8 +53040,6 @@ ff02::3 ip6-allhosts
 :: stats.clickability.com
 0.0.0.0 stats.clickforknowledge.com
 :: stats.clickforknowledge.com
-0.0.0.0 stats.cloudwp.io
-:: stats.cloudwp.io
 0.0.0.0 stats.cmcigroup.com
 :: stats.cmcigroup.com
 0.0.0.0 stats.cn.ronghub.com
@@ -53050,6 +53050,8 @@ ff02::3 ip6-allhosts
 :: stats.code-it-studio.de
 0.0.0.0 stats.cohere.so
 :: stats.cohere.so
+0.0.0.0 stats.comovee.com
+:: stats.comovee.com
 0.0.0.0 stats.computecmedia.de
 :: stats.computecmedia.de
 0.0.0.0 stats.concierge.com
@@ -53342,6 +53344,8 @@ ff02::3 ip6-allhosts
 :: stats.itweb.co.za
 0.0.0.0 stats.ivankahl.com
 :: stats.ivankahl.com
+0.0.0.0 stats.jacksellwood.com
+:: stats.jacksellwood.com
 0.0.0.0 stats.jackwhiting.co.uk
 :: stats.jackwhiting.co.uk
 0.0.0.0 stats.jansix.at
@@ -53500,6 +53504,8 @@ ff02::3 ip6-allhosts
 :: stats.nota.md
 0.0.0.0 stats.nothingbutnylon.com
 :: stats.nothingbutnylon.com
+0.0.0.0 stats.nrcaknights.com
+:: stats.nrcaknights.com
 0.0.0.0 stats.nymag.com
 :: stats.nymag.com
 0.0.0.0 stats.nytecomics.com
@@ -53738,6 +53744,8 @@ ff02::3 ip6-allhosts
 :: stats.stylight.it
 0.0.0.0 stats.sublimesecurity.com
 :: stats.sublimesecurity.com
+0.0.0.0 stats.suenicholls.com
+:: stats.suenicholls.com
 0.0.0.0 stats.suite101.com
 :: stats.suite101.com
 0.0.0.0 stats.svenadolph.net
@@ -53798,6 +53806,8 @@ ff02::3 ip6-allhosts
 :: stats.travroulette.org
 0.0.0.0 stats.tresor.one
 :: stats.tresor.one
+0.0.0.0 stats.trimbles.ie
+:: stats.trimbles.ie
 0.0.0.0 stats.tripsnag.com
 :: stats.tripsnag.com
 0.0.0.0 stats.tubecalculator.co.uk
@@ -53928,6 +53938,8 @@ ff02::3 ip6-allhosts
 :: stats.yourfone.de
 0.0.0.0 stats.zaloapp.com
 :: stats.zaloapp.com
+0.0.0.0 stats.zeitimpuls.at
+:: stats.zeitimpuls.at
 0.0.0.0 stats.zmags.com
 :: stats.zmags.com
 0.0.0.0 stats.zotabox.com
@@ -54794,8 +54806,6 @@ ff02::3 ip6-allhosts
 :: syycwa.barcelo.com
 0.0.0.0 szakms.bygghemma.se
 :: szakms.bygghemma.se
-0.0.0.0 szb.aiyole.com
-:: szb.aiyole.com
 0.0.0.0 szlong.weixin.qq.com
 :: szlong.weixin.qq.com
 0.0.0.0 szqhtv.princesspolly.com

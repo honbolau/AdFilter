@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYyMzI4NzAzNQo=
+# Checksum: MTYyMzM3MzA3OAo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210610-0
-# TimeUpdated: 2021-06-10T01:03:55+00:00
+# Version: 1.1.8-20210611-0
+# TimeUpdated: 2021-06-11T00:57:58+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32133
+# Total: 32138
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -406,6 +406,7 @@ payload:
   - DOMAIN,a.dyjqd.com
   - DOMAIN,a.e7009.com
   - DOMAIN,a.ecook.cn
+  - DOMAIN,a.electerious.com
   - DOMAIN,a.epinv.com
   - DOMAIN,a.eporner.com
   - DOMAIN,a.evergage.com
@@ -628,7 +629,6 @@ payload:
   - DOMAIN,a13605.actonservice.com
   - DOMAIN,a13678.actonservice.com
   - DOMAIN,a13709.actonservice.com
-  - DOMAIN,a1410.oadz.com
   - DOMAIN,a14338.actonservice.com
   - DOMAIN,a14374.actonservice.com
   - DOMAIN,a14518.actonservice.com
@@ -1101,6 +1101,7 @@ payload:
   - DOMAIN,ac.berlinonline.de
   - DOMAIN,ac.dun.163yun.com
   - DOMAIN,ac.express.de
+  - DOMAIN,ac.miovp.com
   - DOMAIN,ac.mmstat.com
   - DOMAIN,ac.mz-web.de
   - DOMAIN,ac.rnm.ca
@@ -1600,7 +1601,6 @@ payload:
   - DOMAIN,ad.virtual-nights.com
   - DOMAIN,ad.vkool.net
   - DOMAIN,ad.vrvm.com
-  - DOMAIN,ad.vurts.com
   - DOMAIN,ad.wang502.com
   - DOMAIN,ad.wappalyzer.com
   - DOMAIN,ad.wavu.hu
@@ -2562,7 +2562,6 @@ payload:
   - DOMAIN,ads.ncm.com
   - DOMAIN,ads.ndtv1.com
   - DOMAIN,ads.netbul.com
-  - DOMAIN,ads.nethaber.com
   - DOMAIN,ads.netlinkad.vn
   - DOMAIN,ads.networksolutions.com
   - DOMAIN,ads.networkwcs.net
@@ -5513,6 +5512,7 @@ payload:
   - DOMAIN,beacon.affil.walmart.com
   - DOMAIN,beacon.aimtell.com
   - DOMAIN,beacon.carfax.com
+  - DOMAIN,beacon.digima.com
   - DOMAIN,beacon.ehow.com
   - DOMAIN,beacon.errorception.com
   - DOMAIN,beacon.examiner.com
@@ -5557,6 +5557,8 @@ payload:
   - DOMAIN,beagle.prod.tda.link
   - DOMAIN,beak.bd.313.nl
   - DOMAIN,beak.bigdata.dpgmmservices.nl
+  - DOMAIN,beam-ws.giraffe360.com
+  - DOMAIN,beam.giraffe360.com
   - DOMAIN,beam.mjhlifesciences.com
   - DOMAIN,beam.remp.impresa.pt
   - DOMAIN,beam.remp.nv.ua
@@ -5996,7 +5998,6 @@ payload:
   - DOMAIN,buylortabonline.7h.com
   - DOMAIN,buypaxilonline.7h.com
   - DOMAIN,buyphentermineonline.7h.com
-  - DOMAIN,buyviagra.polybuild.ru
   - DOMAIN,buyvicodinonline.veryweird.com
   - DOMAIN,buzz.give5.pl
   - DOMAIN,buzzard.donotresearch.net
@@ -6067,7 +6068,6 @@ payload:
   - DOMAIN,c.ca.msn.com
   - DOMAIN,c.caijing123.com
   - DOMAIN,c.cl.msn.com
-  - DOMAIN,c.cloudwp.io
   - DOMAIN,c.cnstats.ru
   - DOMAIN,c.cnzz.com
   - DOMAIN,c.code222.com
@@ -6689,7 +6689,6 @@ payload:
   - DOMAIN,cdn.teads.tv
   - DOMAIN,cdn.tekoapis.com
   - DOMAIN,cdn.tianmidian.com
-  - DOMAIN,cdn.tinglian.com
   - DOMAIN,cdn.tpmedia.online
   - DOMAIN,cdn.trafficexchangelist.com
   - DOMAIN,cdn.trafficforce.com
@@ -8187,6 +8186,7 @@ payload:
   - DOMAIN,crashlytics.163.com
   - DOMAIN,crashlyticsreports-pa.googleapis.com
   - DOMAIN,crayfish.fansubbing.com
+  - DOMAIN,crayfish.thingelstad.com
   - DOMAIN,crayon.meishichina.com
   - DOMAIN,cre-dp.sina.cn
   - DOMAIN,cre.dp.sina.cn
@@ -8409,7 +8409,6 @@ payload:
   - DOMAIN,d.8181zx.com
   - DOMAIN,d.administratorsns.emailvision.net.daraz.com
   - DOMAIN,d.admx.baixing.com
-  - DOMAIN,d.adrolays.de
   - DOMAIN,d.adroll.com
   - DOMAIN,d.agkn.com
   - DOMAIN,d.annarbor.com
@@ -10223,7 +10222,6 @@ payload:
   - DOMAIN,e.nchet.com
   - DOMAIN,e.nexac.com
   - DOMAIN,e.oaktreemobility.co.uk
-  - DOMAIN,e.plerv.com
   - DOMAIN,e.poonscn.com
   - DOMAIN,e.puooi.com
   - DOMAIN,e.q671e.cn
@@ -10327,7 +10325,6 @@ payload:
   - DOMAIN,easynews.adsame.com
   - DOMAIN,easytimes.unaux.com
   - DOMAIN,eatp.evztib.xyz
-  - DOMAIN,eatps.web.aol.com
   - DOMAIN,eaus2watcab01.blob.core.windows.net
   - DOMAIN,eaus2watcab02.blob.core.windows.net
   - DOMAIN,eavs02.eqifa.com
@@ -10619,7 +10616,6 @@ payload:
   - DOMAIN,els298548211.medtronic.com
   - DOMAIN,eltlio.boribori.co.kr
   - DOMAIN,eluhep.bosco.ru
-  - DOMAIN,eluoyi.xbiquge6.com
   - DOMAIN,em.baidu.com
   - DOMAIN,em.getsimpleprints.com
   - DOMAIN,em.touchtunes.com
@@ -10861,6 +10857,7 @@ payload:
   - DOMAIN,eqnan.megaseries.biz
   - DOMAIN,eqs.intuit.com
   - DOMAIN,eqx.smartadserver.com
+  - DOMAIN,er.5ykj.cn
   - DOMAIN,er.5ykj.com
   - DOMAIN,er.mmi.bemobile.ua
   - DOMAIN,erate.co.il
@@ -11168,6 +11165,7 @@ payload:
   - DOMAIN,f2.p0y.cn
   - DOMAIN,f3.souid.com
   - DOMAIN,f5.dfcwg.com
+  - DOMAIN,f5.mtqys.com
   - DOMAIN,f7ds.liberation.fr
   - DOMAIN,f8phvntohv.tpetry.me
   - DOMAIN,f99.265958.com
@@ -11207,7 +11205,9 @@ payload:
   - DOMAIN,fastclick.com.edgesuite.net
   - DOMAIN,fastcounter.linkexchange.net
   - DOMAIN,fatads.toldya.com
+  - DOMAIN,fathom.app.silverbeak.com
   - DOMAIN,fathom.status.im
+  - DOMAIN,fathom.tdvm.net
   - DOMAIN,faucet.nimiq-network.com
   - DOMAIN,fav.simba.taobao.com
   - DOMAIN,favor1.fractal.jp
@@ -15708,7 +15708,6 @@ payload:
   - DOMAIN,lcs.modoo.at
   - DOMAIN,lcs.naver.jp
   - DOMAIN,lcscompanies.lcsnet.com
-  - DOMAIN,ld.kuaigames.com
   - DOMAIN,ld.mediaget.com
   - DOMAIN,ld.za9mnx.com
   - DOMAIN,ldckmk.divarese.com.tr
@@ -15841,7 +15840,6 @@ payload:
   - DOMAIN,license.lumion3d.com
   - DOMAIN,license.lumion3d.net
   - DOMAIN,license2.bluesoleil.com
-  - DOMAIN,licensing.bitmovin.com
   - DOMAIN,licensinginsights.ascap.com
   - DOMAIN,life.e0575.com
   - DOMAIN,life.html5.qq.com
@@ -16725,6 +16723,7 @@ payload:
   - DOMAIN,m.xsjjjc.cn
   - DOMAIN,m.xt2d.cn
   - DOMAIN,m.xxkio.com
+  - DOMAIN,m.y195j.cn
   - DOMAIN,m.yalayi.com
   - DOMAIN,m.yanjunbo.com
   - DOMAIN,m.yaoboshiks.cn
@@ -20957,6 +20956,7 @@ payload:
   - DOMAIN,plausible.notiontweet.app
   - DOMAIN,plausible.nova.app
   - DOMAIN,plausible.nubemia.com
+  - DOMAIN,plausible.nuqu.org
   - DOMAIN,plausible.panic.com
   - DOMAIN,plausible.pgmustard.com
   - DOMAIN,plausible.phuctm97.com
@@ -20978,6 +20978,7 @@ payload:
   - DOMAIN,plausible.test.sketch.com
   - DOMAIN,plausible.vaughanesports.org
   - DOMAIN,plausible.zorin.com
+  - DOMAIN,plausibleio.workers.dev
   - DOMAIN,plavix.shengen.ru
   - DOMAIN,play-poker-free.forsearch.net
   - DOMAIN,play.alt.indigital.lt
@@ -21223,6 +21224,7 @@ payload:
   - DOMAIN,privacy.clion.agency
   - DOMAIN,privacy.outdoorsg.com
   - DOMAIN,privacy.selbst.de
+  - DOMAIN,privacyfriendly.brainbits.in
   - DOMAIN,privacypolicy.trgr.be
   - DOMAIN,privacyportal.fatergroup.com
   - DOMAIN,privatestats.whatsapp.net
@@ -21382,6 +21384,7 @@ payload:
   - DOMAIN,proxy-mob-cld.alicdn.com
   - DOMAIN,proxy-pol-1.inf.nimiq.network
   - DOMAIN,proxy-pol-2.inf.nimiq.network
+  - DOMAIN,proxy.dzeio.com
   - DOMAIN,proxy.multikonline.ru
   - DOMAIN,proxy.nullrefexcep.com
   - DOMAIN,proxy.vidazoo.com
@@ -22453,7 +22456,6 @@ payload:
   - DOMAIN,s.justblinds.com
   - DOMAIN,s.kenh14.vn
   - DOMAIN,s.kma1.biz
-  - DOMAIN,s.komoona.com
   - DOMAIN,s.krzyzanowskim.com
   - DOMAIN,s.l.fastapi.net
   - DOMAIN,s.l8l9.com
@@ -22788,7 +22790,6 @@ payload:
   - DOMAIN,sadobemetrics.dr.dk
   - DOMAIN,sadobemetrics.la-z-boy.com
   - DOMAIN,sadv.dadapro.com
-  - DOMAIN,safe-aisle.jointreport-switch.com
   - DOMAIN,safe.hyperpaysys.com
   - DOMAIN,safe.nimiq.com
   - DOMAIN,safe.ucweb.com
@@ -26518,12 +26519,12 @@ payload:
   - DOMAIN,stats.clear-media.com
   - DOMAIN,stats.clickability.com
   - DOMAIN,stats.clickforknowledge.com
-  - DOMAIN,stats.cloudwp.io
   - DOMAIN,stats.cmcigroup.com
   - DOMAIN,stats.cn.ronghub.com
   - DOMAIN,stats.cocounion.com
   - DOMAIN,stats.code-it-studio.de
   - DOMAIN,stats.cohere.so
+  - DOMAIN,stats.comovee.com
   - DOMAIN,stats.computecmedia.de
   - DOMAIN,stats.concierge.com
   - DOMAIN,stats.console.dev
@@ -26670,6 +26671,7 @@ payload:
   - DOMAIN,stats.itsol.it
   - DOMAIN,stats.itweb.co.za
   - DOMAIN,stats.ivankahl.com
+  - DOMAIN,stats.jacksellwood.com
   - DOMAIN,stats.jackwhiting.co.uk
   - DOMAIN,stats.jansix.at
   - DOMAIN,stats.jatan.space
@@ -26749,6 +26751,7 @@ payload:
   - DOMAIN,stats.norton.com
   - DOMAIN,stats.nota.md
   - DOMAIN,stats.nothingbutnylon.com
+  - DOMAIN,stats.nrcaknights.com
   - DOMAIN,stats.nymag.com
   - DOMAIN,stats.nytecomics.com
   - DOMAIN,stats.olark.com
@@ -26868,6 +26871,7 @@ payload:
   - DOMAIN,stats.studypages.com
   - DOMAIN,stats.stylight.it
   - DOMAIN,stats.sublimesecurity.com
+  - DOMAIN,stats.suenicholls.com
   - DOMAIN,stats.suite101.com
   - DOMAIN,stats.svenadolph.net
   - DOMAIN,stats.tamdiem247.com
@@ -26898,6 +26902,7 @@ payload:
   - DOMAIN,stats.travelsnag.com
   - DOMAIN,stats.travroulette.org
   - DOMAIN,stats.tresor.one
+  - DOMAIN,stats.trimbles.ie
   - DOMAIN,stats.tripsnag.com
   - DOMAIN,stats.tubecalculator.co.uk
   - DOMAIN,stats.tunt.lv
@@ -26963,6 +26968,7 @@ payload:
   - DOMAIN,stats.yourdallashandyman.com
   - DOMAIN,stats.yourfone.de
   - DOMAIN,stats.zaloapp.com
+  - DOMAIN,stats.zeitimpuls.at
   - DOMAIN,stats.zmags.com
   - DOMAIN,stats.zotabox.com
   - DOMAIN,stats01.20min.ch
@@ -27396,7 +27402,6 @@ payload:
   - DOMAIN,syxgsq.com.cn
   - DOMAIN,syycwa.barcelo.com
   - DOMAIN,szakms.bygghemma.se
-  - DOMAIN,szb.aiyole.com
   - DOMAIN,szlong.weixin.qq.com
   - DOMAIN,szqhtv.princesspolly.com
   - DOMAIN,szupertanacsok.blog.hu
