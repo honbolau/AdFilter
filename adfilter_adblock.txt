@@ -1,11 +1,11 @@
-! Checksum: MTYyMzM3MzA3OAo=
+! Checksum: MTYyMzQ1OTIwNAo=
 ! Title: Zhijie's Ad Filter for Adblock (WEB-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.1.8-20210611-0
-! TimeUpdated: 2021-06-11T00:57:58+00:00
+! Version: 1.1.8-20210612-0
+! TimeUpdated: 2021-06-12T00:53:24+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 32138
+! Total: 32129
 ||0.nextyourcontent.com^
 ||0.r.msn.com^
 ||0.up.qingdaonews.com^
@@ -102,6 +102,7 @@
 ||105-45.net.daraz.com^
 ||1080872514.rsc.cdn77.org^
 ||11.96131.com.cn^
+||11.yiqig.cn^
 ||111g.yiqig.cn^
 ||114-track.net.daraz.com^
 ||1178.shucong.com^
@@ -428,6 +429,7 @@
 ||a.hstrck.com^
 ||a.imgso.cn^
 ||a.jaz-hotel.com^
+||a.jjqyk.com^
 ||a.jyeoo.com^
 ||a.kidstaff.net^
 ||a.klaviyo.com^
@@ -760,6 +762,7 @@
 ||a44233.actonservice.com^
 ||a4xo-eng.spankbang.com^
 ||a5.overclockers.ua^
+||a5xo-eng.spankbang.com^
 ||a6.codejumps.com^
 ||a6.wechatpu.com^
 ||a647dbrbqs.tumblr.com^
@@ -917,7 +920,6 @@
 ||ab.dydab.com^
 ||ab.gaoguang.com^
 ||ab.hysdknb.com^
-||ab.meishiba.com.cn^
 ||ab.pincai.com^
 ||abakus.freenet.de^
 ||abbott.vo.llnwd.net^
@@ -1350,7 +1352,6 @@
 ||ad.everytime.kr^
 ||ad.exyws.org^
 ||ad.facetpo40.pl^
-||ad.favod.net^
 ||ad.filmweb.pl^
 ||ad.flipboard.com^
 ||ad.floq.jp^
@@ -1400,6 +1401,7 @@
 ||ad.hyena.cz^
 ||ad.hzyoka.com^
 ||ad.icheck.com.vn^
+||ad.iconadserver.com^
 ||ad.iinfo.cz^
 ||ad.ikonke.com^
 ||ad.ilove.ch^
@@ -1656,7 +1658,6 @@
 ||ad1.emule-project.org^
 ||ad1.eventmanager.co.kr^
 ||ad1.kde.cz^
-||ad1.lbn.ru^
 ||ad1.nend.net^
 ||ad1.pamedia.com.au^
 ||ad1.popcap.com^
@@ -1680,7 +1681,6 @@
 ||ad2.firehousezone.com^
 ||ad2.gammae.com^
 ||ad2.iinfo.cz^
-||ad2.lbn.ru^
 ||ad2.linkwise.gr^
 ||ad2.lupa.cz^
 ||ad2.nend.net^
@@ -1694,18 +1694,15 @@
 ||ad2.zophar.net^
 ||ad2017.meo4.info^
 ||ad3.iinfo.cz^
-||ad3.lbn.ru^
 ||ad3.pamedia.com.au^
 ||ad3.sina.com.cn^
 ||ad3.xrea.com^
 ||ad4.bigmir.net^
-||ad4.lbn.ru^
 ||ad4.sina.com.cn^
 ||ad4.speedbit.com^
 ||ad4989.co.kr^
 ||ad4game-a.akamaihd.net^
 ||ad5.bigmir.net^
-||ad5.lbn.ru^
 ||ad6.bigmir.net^
 ||ad6.horvitznewspapers.net^
 ||ad7.bigmir.net^
@@ -2089,6 +2086,7 @@
 ||adpass.co.uk^
 ||adpic.chinadaily.com.cn^
 ||adpick.co.kr^
+||adpingpong1.co.kr^
 ||adplatform.vrtcal.com^
 ||adplex.co.kr^
 ||adplexmedia.adk2.co^
@@ -2107,6 +2105,7 @@
 ||adq.chinaso.com^
 ||adr.alltorrents.net^
 ||adraker-dev.azureedge.net^
+||adremote.pathfinder.com^
 ||adreq.vivo.com.cn^
 ||adres.myaora.net^
 ||adriver-sync.rutarget.ru^
@@ -2229,6 +2228,7 @@
 ||ads.baocantho.com.vn^
 ||ads.baodatviet.vn^
 ||ads.baotainguyenmoitruong.vn^
+||ads.battle.net^
 ||ads.bauerpublishing.com^
 ||ads.bb59.ru^
 ||ads.bcnewsgroup.com^
@@ -2679,7 +2679,6 @@
 ||ads.rubiconproject.com^
 ||ads.ruralpress.com^
 ||ads.rzb.ir^
-||ads.sabah.com.tr^
 ||ads.sacbee.com^
 ||ads.sahandar.com^
 ||ads.sapo.pt^
@@ -2765,6 +2764,7 @@
 ||ads.traderonline.com^
 ||ads.traffichunt.com^
 ||ads.trafficjunky.net^
+||ads.traffikings.com^
 ||ads.travelaudience.com^
 ||ads.tremorhub.com^
 ||ads.tripod.com^
@@ -3176,6 +3176,7 @@
 ||adserver1-images.backbeatmedia.com^
 ||adserver1.backbeatmedia.com^
 ||adserver1.hookyouup.com^
+||adserver1.isohunt.com^
 ||adserver1.mediainsight.de^
 ||adserver1.mindshare.de^
 ||adserver1.sonymusiceurope.com^
@@ -3215,7 +3216,6 @@
 ||adshownew.it168.com^
 ||adshows.21cn.com^
 ||adshunter.fra1.digitaloceanspaces.com^
-||adsim.sabah.com.tr^
 ||adsimg.kompas.com^
 ||adsin.zhangyoubao.com^
 ||adskeeper.co.uk^
@@ -3442,6 +3442,7 @@
 ||adz.rashflash.com^
 ||adzerk.s3.amazonaws.com^
 ||adzmoney.linkyqueen.ga^
+||adzone.stltoday.com^
 ||adzone.temp.co.za^
 ||ae.bdstatic.com^
 ||ae4.ifeng.com^
@@ -6614,7 +6615,6 @@
 ||cdn.freejax.com^
 ||cdn.freelac.com^
 ||cdn.freshmarketer.com^
-||cdn.geedarkihr.cn^
 ||cdn.hauleddes.com^
 ||cdn.hbplatform.com^
 ||cdn.hdat.xyz^
@@ -7854,6 +7854,7 @@
 ||corporate.averydennison.com^
 ||corporate.mattamyhomes.com^
 ||corporateforms.americanexpress.com^
+||corporatemarketing.smu.edu.sg^
 ||corpr-es-1.net.daraz.com^
 ||corto.www.wp.pl^
 ||corus.hb-api.omtrdc.net^
@@ -8145,7 +8146,6 @@
 ||cpro.bdrmb.cn^
 ||cpro.cr173.com^
 ||cpro.fangtoo.com^
-||cpro.xixiliya.cn^
 ||cpro.zhidao.baidu.com^
 ||cpro.zol.com.cn^
 ||cpro2.baidustatic.com^
@@ -9387,7 +9387,6 @@
 ||demkc32bq01ah.cloudfront.net^
 ||demo-r-ht-2.net.daraz.com^
 ||demo.adsame.com^
-||demo.jointreport-switch.com^
 ||demo.keeper.io^
 ||demo.lib-oa-2.net.daraz.com^
 ||demo.nimiq.com^
@@ -11943,7 +11942,6 @@
 ||gg.0598yu.com^
 ||gg.51cto.com^
 ||gg.amblrgg.live^
-||gg.anqu.com^
 ||gg.blueidea.com^
 ||gg.btnk024.com^
 ||gg.caixin.com^
@@ -13976,7 +13974,6 @@
 ||image.hpplay.cn^
 ||image.kfw.de^
 ||image.mdr.de^
-||image.p4p.sogou.com^
 ||image.ptmind.com^
 ||image.sector.sk^
 ||image.yigao.com^
@@ -15130,7 +15127,6 @@
 ||jkupqe.brialdi.ru^
 ||jldnserror1.wo.com.cn^
 ||jldnserror2.wo.com.cn^
-||jldnserror3.wo.com.cn^
 ||jldnserror4.wo.com.cn^
 ||jldnserror5.wo.com.cn^
 ||jldtlh.fashionnova.com^
@@ -16001,7 +15997,6 @@
 ||linuxpark.adtech.fr^
 ||linuxpark.adtech.us^
 ||lio8.destinia.com.pa^
-||lishi.yxbao.com^
 ||lishi1.yxbao.com^
 ||list.z.qingting.fm^
 ||listas1.net.daraz.com^
@@ -21152,7 +21147,6 @@
 ||poweradvertising.co.uk^
 ||powercount.jswelt.de^
 ||poweredby.jads.co^
-||powersearch.us.com^
 ||poxywh.majorano.com.br^
 ||pp.awmplus.com^
 ||pp.free.fr^
@@ -22436,7 +22430,6 @@
 ||s.go.sohu.com^
 ||s.goodkee.cn^
 ||s.h5king.com^
-||s.haiyunx.com^
 ||s.hdsupplysolutions.com^
 ||s.hnhgw.cn^
 ||s.holder.com.ua^
@@ -23175,11 +23168,9 @@
 ||sddnserror1.wo.com.cn^
 ||sddnserror2.wo.com.cn^
 ||sddnserror3.wo.com.cn^
-||sddnserror4.wo.com.cn^
 ||sddnserror5.wo.com.cn^
 ||sddnserror6.wo.com.cn^
 ||sddnserror7.wo.com.cn^
-||sddnserror8.wo.com.cn^
 ||sddnserror9.wo.com.cn^
 ||sdfp.snssdk.com^
 ||sdfsf.freecontent.date^
@@ -25881,7 +25872,6 @@
 ||ssp.4hw.com.cn^
 ||ssp.adriver.ru^
 ||ssp.cibn.starschina.com^
-||ssp.daxueshengqiandai.com^
 ||ssp.imedia.cz^
 ||ssp.kdnet.net^
 ||ssp.kss.ksyun.com^
@@ -26500,7 +26490,6 @@
 ||stats.briskoda.net^
 ||stats.bungeefit.co.uk^
 ||stats.buysellads.com^
-||stats.buzzea.com^
 ||stats.c0cc.com^
 ||stats.cafepress.com^
 ||stats.canalblog.com^
@@ -27545,6 +27534,7 @@
 ||t.signaletre.com^
 ||t.signauxdeux.com^
 ||t.silvinst.com^
+||t.simply-hentai.com^
 ||t.singular.net^
 ||t.sj.qq.com^
 ||t.smile.eu^
@@ -28922,6 +28912,7 @@
 ||tracking.drivercenter.eu^
 ||tracking.drsfostersmith.com^
 ||tracking.drum.io^
+||tracking.dsmmadvantage.com^
 ||tracking.easyzic.com^
 ||tracking.ecookie.fr^
 ||tracking.edb.gov.sg^

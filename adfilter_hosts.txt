@@ -1,11 +1,11 @@
-# Checksum: MTYyMzM3MzA3OAo=
+# Checksum: MTYyMzQ1OTIwNAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210611-0
-# TimeUpdated: 2021-06-11T00:57:58+00:00
+# Version: 1.1.8-20210612-0
+# TimeUpdated: 2021-06-12T00:53:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32138
+# Total: 32129
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -208,6 +208,8 @@ ff02::3 ip6-allhosts
 :: 1080872514.rsc.cdn77.org
 0.0.0.0 11.96131.com.cn
 :: 11.96131.com.cn
+0.0.0.0 11.yiqig.cn
+:: 11.yiqig.cn
 0.0.0.0 111g.yiqig.cn
 :: 111g.yiqig.cn
 0.0.0.0 114-track.net.daraz.com
@@ -860,6 +862,8 @@ ff02::3 ip6-allhosts
 :: a.imgso.cn
 0.0.0.0 a.jaz-hotel.com
 :: a.jaz-hotel.com
+0.0.0.0 a.jjqyk.com
+:: a.jjqyk.com
 0.0.0.0 a.jyeoo.com
 :: a.jyeoo.com
 0.0.0.0 a.kidstaff.net
@@ -1524,6 +1528,8 @@ ff02::3 ip6-allhosts
 :: a4xo-eng.spankbang.com
 0.0.0.0 a5.overclockers.ua
 :: a5.overclockers.ua
+0.0.0.0 a5xo-eng.spankbang.com
+:: a5xo-eng.spankbang.com
 0.0.0.0 a6.codejumps.com
 :: a6.codejumps.com
 0.0.0.0 a6.wechatpu.com
@@ -1838,8 +1844,6 @@ ff02::3 ip6-allhosts
 :: ab.gaoguang.com
 0.0.0.0 ab.hysdknb.com
 :: ab.hysdknb.com
-0.0.0.0 ab.meishiba.com.cn
-:: ab.meishiba.com.cn
 0.0.0.0 ab.pincai.com
 :: ab.pincai.com
 0.0.0.0 abakus.freenet.de
@@ -2704,8 +2708,6 @@ ff02::3 ip6-allhosts
 :: ad.exyws.org
 0.0.0.0 ad.facetpo40.pl
 :: ad.facetpo40.pl
-0.0.0.0 ad.favod.net
-:: ad.favod.net
 0.0.0.0 ad.filmweb.pl
 :: ad.filmweb.pl
 0.0.0.0 ad.flipboard.com
@@ -2804,6 +2806,8 @@ ff02::3 ip6-allhosts
 :: ad.hzyoka.com
 0.0.0.0 ad.icheck.com.vn
 :: ad.icheck.com.vn
+0.0.0.0 ad.iconadserver.com
+:: ad.iconadserver.com
 0.0.0.0 ad.iinfo.cz
 :: ad.iinfo.cz
 0.0.0.0 ad.ikonke.com
@@ -3316,8 +3320,6 @@ ff02::3 ip6-allhosts
 :: ad1.eventmanager.co.kr
 0.0.0.0 ad1.kde.cz
 :: ad1.kde.cz
-0.0.0.0 ad1.lbn.ru
-:: ad1.lbn.ru
 0.0.0.0 ad1.nend.net
 :: ad1.nend.net
 0.0.0.0 ad1.pamedia.com.au
@@ -3364,8 +3366,6 @@ ff02::3 ip6-allhosts
 :: ad2.gammae.com
 0.0.0.0 ad2.iinfo.cz
 :: ad2.iinfo.cz
-0.0.0.0 ad2.lbn.ru
-:: ad2.lbn.ru
 0.0.0.0 ad2.linkwise.gr
 :: ad2.linkwise.gr
 0.0.0.0 ad2.lupa.cz
@@ -3392,8 +3392,6 @@ ff02::3 ip6-allhosts
 :: ad2017.meo4.info
 0.0.0.0 ad3.iinfo.cz
 :: ad3.iinfo.cz
-0.0.0.0 ad3.lbn.ru
-:: ad3.lbn.ru
 0.0.0.0 ad3.pamedia.com.au
 :: ad3.pamedia.com.au
 0.0.0.0 ad3.sina.com.cn
@@ -3402,8 +3400,6 @@ ff02::3 ip6-allhosts
 :: ad3.xrea.com
 0.0.0.0 ad4.bigmir.net
 :: ad4.bigmir.net
-0.0.0.0 ad4.lbn.ru
-:: ad4.lbn.ru
 0.0.0.0 ad4.sina.com.cn
 :: ad4.sina.com.cn
 0.0.0.0 ad4.speedbit.com
@@ -3414,8 +3410,6 @@ ff02::3 ip6-allhosts
 :: ad4game-a.akamaihd.net
 0.0.0.0 ad5.bigmir.net
 :: ad5.bigmir.net
-0.0.0.0 ad5.lbn.ru
-:: ad5.lbn.ru
 0.0.0.0 ad6.bigmir.net
 :: ad6.bigmir.net
 0.0.0.0 ad6.horvitznewspapers.net
@@ -4182,6 +4176,8 @@ ff02::3 ip6-allhosts
 :: adpic.chinadaily.com.cn
 0.0.0.0 adpick.co.kr
 :: adpick.co.kr
+0.0.0.0 adpingpong1.co.kr
+:: adpingpong1.co.kr
 0.0.0.0 adplatform.vrtcal.com
 :: adplatform.vrtcal.com
 0.0.0.0 adplex.co.kr
@@ -4218,6 +4214,8 @@ ff02::3 ip6-allhosts
 :: adr.alltorrents.net
 0.0.0.0 adraker-dev.azureedge.net
 :: adraker-dev.azureedge.net
+0.0.0.0 adremote.pathfinder.com
+:: adremote.pathfinder.com
 0.0.0.0 adreq.vivo.com.cn
 :: adreq.vivo.com.cn
 0.0.0.0 adres.myaora.net
@@ -4462,6 +4460,8 @@ ff02::3 ip6-allhosts
 :: ads.baodatviet.vn
 0.0.0.0 ads.baotainguyenmoitruong.vn
 :: ads.baotainguyenmoitruong.vn
+0.0.0.0 ads.battle.net
+:: ads.battle.net
 0.0.0.0 ads.bauerpublishing.com
 :: ads.bauerpublishing.com
 0.0.0.0 ads.bb59.ru
@@ -5362,8 +5362,6 @@ ff02::3 ip6-allhosts
 :: ads.ruralpress.com
 0.0.0.0 ads.rzb.ir
 :: ads.rzb.ir
-0.0.0.0 ads.sabah.com.tr
-:: ads.sabah.com.tr
 0.0.0.0 ads.sacbee.com
 :: ads.sacbee.com
 0.0.0.0 ads.sahandar.com
@@ -5534,6 +5532,8 @@ ff02::3 ip6-allhosts
 :: ads.traffichunt.com
 0.0.0.0 ads.trafficjunky.net
 :: ads.trafficjunky.net
+0.0.0.0 ads.traffikings.com
+:: ads.traffikings.com
 0.0.0.0 ads.travelaudience.com
 :: ads.travelaudience.com
 0.0.0.0 ads.tremorhub.com
@@ -6356,6 +6356,8 @@ ff02::3 ip6-allhosts
 :: adserver1.backbeatmedia.com
 0.0.0.0 adserver1.hookyouup.com
 :: adserver1.hookyouup.com
+0.0.0.0 adserver1.isohunt.com
+:: adserver1.isohunt.com
 0.0.0.0 adserver1.mediainsight.de
 :: adserver1.mediainsight.de
 0.0.0.0 adserver1.mindshare.de
@@ -6434,8 +6436,6 @@ ff02::3 ip6-allhosts
 :: adshows.21cn.com
 0.0.0.0 adshunter.fra1.digitaloceanspaces.com
 :: adshunter.fra1.digitaloceanspaces.com
-0.0.0.0 adsim.sabah.com.tr
-:: adsim.sabah.com.tr
 0.0.0.0 adsimg.kompas.com
 :: adsimg.kompas.com
 0.0.0.0 adsin.zhangyoubao.com
@@ -6888,6 +6888,8 @@ ff02::3 ip6-allhosts
 :: adzerk.s3.amazonaws.com
 0.0.0.0 adzmoney.linkyqueen.ga
 :: adzmoney.linkyqueen.ga
+0.0.0.0 adzone.stltoday.com
+:: adzone.stltoday.com
 0.0.0.0 adzone.temp.co.za
 :: adzone.temp.co.za
 0.0.0.0 ae.bdstatic.com
@@ -13232,8 +13234,6 @@ ff02::3 ip6-allhosts
 :: cdn.freelac.com
 0.0.0.0 cdn.freshmarketer.com
 :: cdn.freshmarketer.com
-0.0.0.0 cdn.geedarkihr.cn
-:: cdn.geedarkihr.cn
 0.0.0.0 cdn.hauleddes.com
 :: cdn.hauleddes.com
 0.0.0.0 cdn.hbplatform.com
@@ -15712,6 +15712,8 @@ ff02::3 ip6-allhosts
 :: corporate.mattamyhomes.com
 0.0.0.0 corporateforms.americanexpress.com
 :: corporateforms.americanexpress.com
+0.0.0.0 corporatemarketing.smu.edu.sg
+:: corporatemarketing.smu.edu.sg
 0.0.0.0 corpr-es-1.net.daraz.com
 :: corpr-es-1.net.daraz.com
 0.0.0.0 corto.www.wp.pl
@@ -16294,8 +16296,6 @@ ff02::3 ip6-allhosts
 :: cpro.cr173.com
 0.0.0.0 cpro.fangtoo.com
 :: cpro.fangtoo.com
-0.0.0.0 cpro.xixiliya.cn
-:: cpro.xixiliya.cn
 0.0.0.0 cpro.zhidao.baidu.com
 :: cpro.zhidao.baidu.com
 0.0.0.0 cpro.zol.com.cn
@@ -18778,8 +18778,6 @@ ff02::3 ip6-allhosts
 :: demo-r-ht-2.net.daraz.com
 0.0.0.0 demo.adsame.com
 :: demo.adsame.com
-0.0.0.0 demo.jointreport-switch.com
-:: demo.jointreport-switch.com
 0.0.0.0 demo.keeper.io
 :: demo.keeper.io
 0.0.0.0 demo.lib-oa-2.net.daraz.com
@@ -23890,8 +23888,6 @@ ff02::3 ip6-allhosts
 :: gg.51cto.com
 0.0.0.0 gg.amblrgg.live
 :: gg.amblrgg.live
-0.0.0.0 gg.anqu.com
-:: gg.anqu.com
 0.0.0.0 gg.blueidea.com
 :: gg.blueidea.com
 0.0.0.0 gg.btnk024.com
@@ -27956,8 +27952,6 @@ ff02::3 ip6-allhosts
 :: image.kfw.de
 0.0.0.0 image.mdr.de
 :: image.mdr.de
-0.0.0.0 image.p4p.sogou.com
-:: image.p4p.sogou.com
 0.0.0.0 image.ptmind.com
 :: image.ptmind.com
 0.0.0.0 image.sector.sk
@@ -30264,8 +30258,6 @@ ff02::3 ip6-allhosts
 :: jldnserror1.wo.com.cn
 0.0.0.0 jldnserror2.wo.com.cn
 :: jldnserror2.wo.com.cn
-0.0.0.0 jldnserror3.wo.com.cn
-:: jldnserror3.wo.com.cn
 0.0.0.0 jldnserror4.wo.com.cn
 :: jldnserror4.wo.com.cn
 0.0.0.0 jldnserror5.wo.com.cn
@@ -32006,8 +31998,6 @@ ff02::3 ip6-allhosts
 :: linuxpark.adtech.us
 0.0.0.0 lio8.destinia.com.pa
 :: lio8.destinia.com.pa
-0.0.0.0 lishi.yxbao.com
-:: lishi.yxbao.com
 0.0.0.0 lishi1.yxbao.com
 :: lishi1.yxbao.com
 0.0.0.0 list.z.qingting.fm
@@ -42308,8 +42298,6 @@ ff02::3 ip6-allhosts
 :: powercount.jswelt.de
 0.0.0.0 poweredby.jads.co
 :: poweredby.jads.co
-0.0.0.0 powersearch.us.com
-:: powersearch.us.com
 0.0.0.0 poxywh.majorano.com.br
 :: poxywh.majorano.com.br
 0.0.0.0 pp.awmplus.com
@@ -44876,8 +44864,6 @@ ff02::3 ip6-allhosts
 :: s.goodkee.cn
 0.0.0.0 s.h5king.com
 :: s.h5king.com
-0.0.0.0 s.haiyunx.com
-:: s.haiyunx.com
 0.0.0.0 s.hdsupplysolutions.com
 :: s.hdsupplysolutions.com
 0.0.0.0 s.hnhgw.cn
@@ -46354,16 +46340,12 @@ ff02::3 ip6-allhosts
 :: sddnserror2.wo.com.cn
 0.0.0.0 sddnserror3.wo.com.cn
 :: sddnserror3.wo.com.cn
-0.0.0.0 sddnserror4.wo.com.cn
-:: sddnserror4.wo.com.cn
 0.0.0.0 sddnserror5.wo.com.cn
 :: sddnserror5.wo.com.cn
 0.0.0.0 sddnserror6.wo.com.cn
 :: sddnserror6.wo.com.cn
 0.0.0.0 sddnserror7.wo.com.cn
 :: sddnserror7.wo.com.cn
-0.0.0.0 sddnserror8.wo.com.cn
-:: sddnserror8.wo.com.cn
 0.0.0.0 sddnserror9.wo.com.cn
 :: sddnserror9.wo.com.cn
 0.0.0.0 sdfp.snssdk.com
@@ -51766,8 +51748,6 @@ ff02::3 ip6-allhosts
 :: ssp.adriver.ru
 0.0.0.0 ssp.cibn.starschina.com
 :: ssp.cibn.starschina.com
-0.0.0.0 ssp.daxueshengqiandai.com
-:: ssp.daxueshengqiandai.com
 0.0.0.0 ssp.imedia.cz
 :: ssp.imedia.cz
 0.0.0.0 ssp.kdnet.net
@@ -53004,8 +52984,6 @@ ff02::3 ip6-allhosts
 :: stats.bungeefit.co.uk
 0.0.0.0 stats.buysellads.com
 :: stats.buysellads.com
-0.0.0.0 stats.buzzea.com
-:: stats.buzzea.com
 0.0.0.0 stats.c0cc.com
 :: stats.c0cc.com
 0.0.0.0 stats.cafepress.com
@@ -55094,6 +55072,8 @@ ff02::3 ip6-allhosts
 :: t.signauxdeux.com
 0.0.0.0 t.silvinst.com
 :: t.silvinst.com
+0.0.0.0 t.simply-hentai.com
+:: t.simply-hentai.com
 0.0.0.0 t.singular.net
 :: t.singular.net
 0.0.0.0 t.sj.qq.com
@@ -57848,6 +57828,8 @@ ff02::3 ip6-allhosts
 :: tracking.drsfostersmith.com
 0.0.0.0 tracking.drum.io
 :: tracking.drum.io
+0.0.0.0 tracking.dsmmadvantage.com
+:: tracking.dsmmadvantage.com
 0.0.0.0 tracking.easyzic.com
 :: tracking.easyzic.com
 0.0.0.0 tracking.ecookie.fr
