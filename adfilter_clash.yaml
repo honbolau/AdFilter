@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYyNDQwOTQ2Mwo=
+# Checksum: MTYyNDQ5NTU1MQo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210623-0
-# TimeUpdated: 2021-06-23T00:51:03+00:00
+# Version: 1.1.8-20210624-0
+# TimeUpdated: 2021-06-24T00:45:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 31811
+# Total: 31808
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -537,7 +537,6 @@ payload:
   - DOMAIN,a.xuezizhai.com
   - DOMAIN,a.xywy.com
   - DOMAIN,a.xzzsjz.com
-  - DOMAIN,a.yangshengtang123.com
   - DOMAIN,a.yellowurl.cn
   - DOMAIN,a.yixie8.com
   - DOMAIN,a.yjbys.com
@@ -3269,12 +3268,14 @@ payload:
   - DOMAIN,adtest.theonion.com
   - DOMAIN,adtg.widerplanet.com
   - DOMAIN,adtima-common.zadn.vn
+  - DOMAIN,adtima-common.zascdn.me
   - DOMAIN,adtima-media-td.zadn.vn
   - DOMAIN,adtima-media.zadn.vn
   - DOMAIN,adtima-media.zascdn.me
   - DOMAIN,adtima-static-td.zadn.vn
   - DOMAIN,adtima-static.zadn.vn
   - DOMAIN,adtima-static.zascdn.me
+  - DOMAIN,adtima-video.zadn.vn
   - DOMAIN,adtima-video.zascdn.me
   - DOMAIN,adtima.net.vn
   - DOMAIN,adtm.chip.de
@@ -3369,6 +3370,7 @@ payload:
   - DOMAIN,advertising.hiasys.com
   - DOMAIN,advertising.illinimedia.com
   - DOMAIN,advertising.lycos.com
+  - DOMAIN,advertising.online-media24.de
   - DOMAIN,advertising.paltalk.com
   - DOMAIN,advertising.wellpack.fr
   - DOMAIN,advertpay-vip-ssl.xunlei.com
@@ -4316,7 +4318,6 @@ payload:
   - DOMAIN,api.adnsafe.org
   - DOMAIN,api.ads.watchabc.go.com
   - DOMAIN,api.adtimaserver.vn
-  - DOMAIN,api.adv.ott.cibntv.net
   - DOMAIN,api.adxpand.com
   - DOMAIN,api.aiclk.com
   - DOMAIN,api.airpush.com
@@ -5467,7 +5468,6 @@ payload:
   - DOMAIN,bdgg.qjy168.com
   - DOMAIN,bdgg.youbian.com
   - DOMAIN,bdimg.share.baidu.com
-  - DOMAIN,bdj.tianya.cn
   - DOMAIN,bdjiaoben.wmxa.cn
   - DOMAIN,bdjj.bzr99.com
   - DOMAIN,bdjs.120askimages.com
@@ -6325,7 +6325,6 @@ payload:
   - DOMAIN,cads.scalemonk.com
   - DOMAIN,cadvv.heraldm.com
   - DOMAIN,cadvv.koreaherald.com
-  - DOMAIN,cafe-log.myshoplus.com
   - DOMAIN,cahf4eed.mooo.com
   - DOMAIN,caing.adsame.com
   - DOMAIN,caixin.adsame.com
@@ -8578,6 +8577,7 @@ payload:
   - DOMAIN,d138am4hd4ke4y.cloudfront.net
   - DOMAIN,d13jhr4vol1304.cloudfront.net
   - DOMAIN,d13k7prax1yi04.cloudfront.net
+  - DOMAIN,d13nu0oomnx5ti.cloudfront.net
   - DOMAIN,d140sbu1b1m3h0.cloudfront.net
   - DOMAIN,d141wsrw9m4as6.cloudfront.net
   - DOMAIN,d145tbca0156xf.cloudfront.net
@@ -9256,7 +9256,6 @@ payload:
   - DOMAIN,databank.yoyi.com.cn
   - DOMAIN,datacapture.serving-sys.com
   - DOMAIN,datacar40.net.daraz.com
-  - DOMAIN,datacollector-drru.dt.hicloud.com
   - DOMAIN,datadog-service.mvfglobal.com
   - DOMAIN,dataf.ads.oppomobile.com
   - DOMAIN,dataflow.biliapi.com
@@ -9812,7 +9811,6 @@ payload:
   - DOMAIN,dm1.yongkao.com
   - DOMAIN,dm1.zjydt.com
   - DOMAIN,dm50.jkyd.net
-  - DOMAIN,dm50.yxlady.com
   - DOMAIN,dm7gsepi27zsx.cloudfront.net
   - DOMAIN,dmacore.kejet.com
   - DOMAIN,dmacore.kejet.net
@@ -10360,7 +10358,6 @@ payload:
   - DOMAIN,easynews.adsame.com
   - DOMAIN,easytimes.unaux.com
   - DOMAIN,eatp.evztib.xyz
-  - DOMAIN,eatps.web.aol.com
   - DOMAIN,eaus2watcab01.blob.core.windows.net
   - DOMAIN,eaus2watcab02.blob.core.windows.net
   - DOMAIN,eavs02.eqifa.com
@@ -13329,7 +13326,6 @@ payload:
   - DOMAIN,hakuba.janis.or.jp
   - DOMAIN,hal.courrierinternational.com
   - DOMAIN,haleytest.aotest.com
-  - DOMAIN,halleberrynude.ca.tt
   - DOMAIN,hallmarkcom.hb.omtrdc.net
   - DOMAIN,halo4.console2pc.info
   - DOMAIN,handycam.alicdn.com
@@ -15183,7 +15179,6 @@ payload:
   - DOMAIN,jkcontrols.co.uk
   - DOMAIN,jke1.jianke.com
   - DOMAIN,jknarp.kakaku.com
-  - DOMAIN,jldnserror1.wo.com.cn
   - DOMAIN,jldnserror5.wo.com.cn
   - DOMAIN,jldtlh.fashionnova.com
   - DOMAIN,jln3.clstudios.com
@@ -15419,7 +15414,6 @@ payload:
   - DOMAIN,jump1.pszyzxh.org
   - DOMAIN,jumpluna.58.com
   - DOMAIN,juniper.starleaf.com
-  - DOMAIN,jur.unn.ac.ru
   - DOMAIN,jurassicpark.newzgames.com
   - DOMAIN,juxiao.adsmogo.net
   - DOMAIN,juxiao.mediav.com
@@ -16243,6 +16237,7 @@ payload:
   - DOMAIN,log.particlenews.com
   - DOMAIN,log.perfecttitspics.com
   - DOMAIN,log.pinterest.com
+  - DOMAIN,log.plo.vn
   - DOMAIN,log.popin.cc
   - DOMAIN,log.prezi.com
   - DOMAIN,log.propermessage.io
@@ -18854,6 +18849,7 @@ payload:
   - DOMAIN,mo.5.p2l.info
   - DOMAIN,mo.aaaw.xyz
   - DOMAIN,mo.baidu.com
+  - DOMAIN,mo.bsxr.com.cn
   - DOMAIN,mo.ccch.xyz
   - DOMAIN,mo.haloapps.cn
   - DOMAIN,mo.kugou.com
@@ -19141,6 +19137,7 @@ payload:
   - DOMAIN,my.leadpages.net
   - DOMAIN,my.mobfox.com
   - DOMAIN,my.movex.co.uk
+  - DOMAIN,my.my-hr.cn
   - DOMAIN,my.prahs.com
   - DOMAIN,my.putlocker.to
   - DOMAIN,my.shymilftube.com
@@ -19431,6 +19428,7 @@ payload:
   - DOMAIN,nginx.r-dw-1.net.daraz.com
   - DOMAIN,nginx.yancancook.net.daraz.com
   - DOMAIN,ngtraveler.com.cn
+  - DOMAIN,nh-cdn.sgp1.cdn.digitaloceanspaces.com
   - DOMAIN,nh.5.p2l.info
   - DOMAIN,nhkonline.hb.omtrdc.net
   - DOMAIN,nhkoze.saneibd.com
@@ -19858,6 +19856,7 @@ payload:
   - DOMAIN,om.venere.com
   - DOMAIN,om.vrbo.com
   - DOMAIN,om843se.txxx.com
+  - DOMAIN,omarketer.viettelpost.vn
   - DOMAIN,ometrics.netapp.com
   - DOMAIN,ometrics.warnerbros.com
   - DOMAIN,omg.esprit-click.com
@@ -19994,6 +19993,7 @@ payload:
   - DOMAIN,one.fanuc.eu
   - DOMAIN,one.impact-ad.jp
   - DOMAIN,one.lg.ua
+  - DOMAIN,one.toumppk.cn
   - DOMAIN,onefeed.co.uk
   - DOMAIN,onepush.query.yahoo.com
   - DOMAIN,oneroof.co.nz
@@ -21090,6 +21090,7 @@ payload:
   - DOMAIN,plugin.me2day.net
   - DOMAIN,plugin.mediavoice.com
   - DOMAIN,plugin.mobopay.baidu.com
+  - DOMAIN,plugins.soclminer.com.br
   - DOMAIN,pluralsight.hb.omtrdc.net
   - DOMAIN,plus.pornoshara.tv
   - DOMAIN,plusone.google.com
@@ -23207,7 +23208,6 @@ payload:
   - DOMAIN,sddan.mgr.consensu.org
   - DOMAIN,sddnserror1.wo.com.cn
   - DOMAIN,sddnserror2.wo.com.cn
-  - DOMAIN,sddnserror3.wo.com.cn
   - DOMAIN,sddnserror6.wo.com.cn
   - DOMAIN,sddnserror7.wo.com.cn
   - DOMAIN,sddnserror9.wo.com.cn
@@ -23377,7 +23377,6 @@ payload:
   - DOMAIN,secure.east2pony.com
   - DOMAIN,secure.emeu0circ.com
   - DOMAIN,secure.etym6cero.com
-  - DOMAIN,secure.everydayhealth.com
   - DOMAIN,secure.fastclick.net
   - DOMAIN,secure.fear7calk.com
   - DOMAIN,secure.feed5baby.com
@@ -26921,7 +26920,6 @@ payload:
   - DOMAIN,stop-smoking.1.p2l.info
   - DOMAIN,storage.29293.com
   - DOMAIN,storage.icorp.ro
-  - DOMAIN,storage.onlinetv.media
   - DOMAIN,storage.trafic.ro
   - DOMAIN,store-stc.zdn.vn
   - DOMAIN,store.iqiyi.com
@@ -31461,7 +31459,6 @@ payload:
   - DOMAIN,y.pzclw.cn
   - DOMAIN,y.unilz588.com
   - DOMAIN,y001.tianjimedia.com
-  - DOMAIN,y0utube.com.mx
   - DOMAIN,y1.arte.tv
   - DOMAIN,y1.spreton.com
   - DOMAIN,y3.ifengimg.com

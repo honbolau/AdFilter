@@ -1,11 +1,11 @@
-# Checksum: MTYyNDQwOTQ2Mwo=
+# Checksum: MTYyNDQ5NTU1MQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210623-0
-# TimeUpdated: 2021-06-23T00:51:03+00:00
+# Version: 1.1.8-20210624-0
+# TimeUpdated: 2021-06-24T00:45:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 31811
+# Total: 31808
 DOMAIN,0.nextyourcontent.com,REJECT
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
@@ -536,7 +536,6 @@ DOMAIN,a.xlpu.cc,REJECT
 DOMAIN,a.xuezizhai.com,REJECT
 DOMAIN,a.xywy.com,REJECT
 DOMAIN,a.xzzsjz.com,REJECT
-DOMAIN,a.yangshengtang123.com,REJECT
 DOMAIN,a.yellowurl.cn,REJECT
 DOMAIN,a.yixie8.com,REJECT
 DOMAIN,a.yjbys.com,REJECT
@@ -3268,12 +3267,14 @@ DOMAIN,adtest.adwo.com,REJECT
 DOMAIN,adtest.theonion.com,REJECT
 DOMAIN,adtg.widerplanet.com,REJECT
 DOMAIN,adtima-common.zadn.vn,REJECT
+DOMAIN,adtima-common.zascdn.me,REJECT
 DOMAIN,adtima-media-td.zadn.vn,REJECT
 DOMAIN,adtima-media.zadn.vn,REJECT
 DOMAIN,adtima-media.zascdn.me,REJECT
 DOMAIN,adtima-static-td.zadn.vn,REJECT
 DOMAIN,adtima-static.zadn.vn,REJECT
 DOMAIN,adtima-static.zascdn.me,REJECT
+DOMAIN,adtima-video.zadn.vn,REJECT
 DOMAIN,adtima-video.zascdn.me,REJECT
 DOMAIN,adtima.net.vn,REJECT
 DOMAIN,adtm.chip.de,REJECT
@@ -3368,6 +3369,7 @@ DOMAIN,advertising.dushu.io,REJECT
 DOMAIN,advertising.hiasys.com,REJECT
 DOMAIN,advertising.illinimedia.com,REJECT
 DOMAIN,advertising.lycos.com,REJECT
+DOMAIN,advertising.online-media24.de,REJECT
 DOMAIN,advertising.paltalk.com,REJECT
 DOMAIN,advertising.wellpack.fr,REJECT
 DOMAIN,advertpay-vip-ssl.xunlei.com,REJECT
@@ -4315,7 +4317,6 @@ DOMAIN,api.adnet.mob.com,REJECT
 DOMAIN,api.adnsafe.org,REJECT
 DOMAIN,api.ads.watchabc.go.com,REJECT
 DOMAIN,api.adtimaserver.vn,REJECT
-DOMAIN,api.adv.ott.cibntv.net,REJECT
 DOMAIN,api.adxpand.com,REJECT
 DOMAIN,api.aiclk.com,REJECT
 DOMAIN,api.airpush.com,REJECT
@@ -5466,7 +5467,6 @@ DOMAIN,bdg-analytics.appspot.com,REJECT
 DOMAIN,bdgg.qjy168.com,REJECT
 DOMAIN,bdgg.youbian.com,REJECT
 DOMAIN,bdimg.share.baidu.com,REJECT
-DOMAIN,bdj.tianya.cn,REJECT
 DOMAIN,bdjiaoben.wmxa.cn,REJECT
 DOMAIN,bdjj.bzr99.com,REJECT
 DOMAIN,bdjs.120askimages.com,REJECT
@@ -6324,7 +6324,6 @@ DOMAIN,cadreon.s3.amazonaws.com,REJECT
 DOMAIN,cads.scalemonk.com,REJECT
 DOMAIN,cadvv.heraldm.com,REJECT
 DOMAIN,cadvv.koreaherald.com,REJECT
-DOMAIN,cafe-log.myshoplus.com,REJECT
 DOMAIN,cahf4eed.mooo.com,REJECT
 DOMAIN,caing.adsame.com,REJECT
 DOMAIN,caixin.adsame.com,REJECT
@@ -8577,6 +8576,7 @@ DOMAIN,d12ysuoljjyfqa.cloudfront.net,REJECT
 DOMAIN,d138am4hd4ke4y.cloudfront.net,REJECT
 DOMAIN,d13jhr4vol1304.cloudfront.net,REJECT
 DOMAIN,d13k7prax1yi04.cloudfront.net,REJECT
+DOMAIN,d13nu0oomnx5ti.cloudfront.net,REJECT
 DOMAIN,d140sbu1b1m3h0.cloudfront.net,REJECT
 DOMAIN,d141wsrw9m4as6.cloudfront.net,REJECT
 DOMAIN,d145tbca0156xf.cloudfront.net,REJECT
@@ -9255,7 +9255,6 @@ DOMAIN,databank.air.yoyi.com.cn,REJECT
 DOMAIN,databank.yoyi.com.cn,REJECT
 DOMAIN,datacapture.serving-sys.com,REJECT
 DOMAIN,datacar40.net.daraz.com,REJECT
-DOMAIN,datacollector-drru.dt.hicloud.com,REJECT
 DOMAIN,datadog-service.mvfglobal.com,REJECT
 DOMAIN,dataf.ads.oppomobile.com,REJECT
 DOMAIN,dataflow.biliapi.com,REJECT
@@ -9811,7 +9810,6 @@ DOMAIN,dm1.tom61.com,REJECT
 DOMAIN,dm1.yongkao.com,REJECT
 DOMAIN,dm1.zjydt.com,REJECT
 DOMAIN,dm50.jkyd.net,REJECT
-DOMAIN,dm50.yxlady.com,REJECT
 DOMAIN,dm7gsepi27zsx.cloudfront.net,REJECT
 DOMAIN,dmacore.kejet.com,REJECT
 DOMAIN,dmacore.kejet.net,REJECT
@@ -10359,7 +10357,6 @@ DOMAIN,eastprint-mo.net.daraz.com,REJECT
 DOMAIN,easynews.adsame.com,REJECT
 DOMAIN,easytimes.unaux.com,REJECT
 DOMAIN,eatp.evztib.xyz,REJECT
-DOMAIN,eatps.web.aol.com,REJECT
 DOMAIN,eaus2watcab01.blob.core.windows.net,REJECT
 DOMAIN,eaus2watcab02.blob.core.windows.net,REJECT
 DOMAIN,eavs02.eqifa.com,REJECT
@@ -13328,7 +13325,6 @@ DOMAIN,haitaoad.nosdn.127.net,REJECT
 DOMAIN,hakuba.janis.or.jp,REJECT
 DOMAIN,hal.courrierinternational.com,REJECT
 DOMAIN,haleytest.aotest.com,REJECT
-DOMAIN,halleberrynude.ca.tt,REJECT
 DOMAIN,hallmarkcom.hb.omtrdc.net,REJECT
 DOMAIN,halo4.console2pc.info,REJECT
 DOMAIN,handycam.alicdn.com,REJECT
@@ -15182,7 +15178,6 @@ DOMAIN,jjjj.getui.vip,REJECT
 DOMAIN,jkcontrols.co.uk,REJECT
 DOMAIN,jke1.jianke.com,REJECT
 DOMAIN,jknarp.kakaku.com,REJECT
-DOMAIN,jldnserror1.wo.com.cn,REJECT
 DOMAIN,jldnserror5.wo.com.cn,REJECT
 DOMAIN,jldtlh.fashionnova.com,REJECT
 DOMAIN,jln3.clstudios.com,REJECT
@@ -15418,7 +15413,6 @@ DOMAIN,jump.sproutsocial.com,REJECT
 DOMAIN,jump1.pszyzxh.org,REJECT
 DOMAIN,jumpluna.58.com,REJECT
 DOMAIN,juniper.starleaf.com,REJECT
-DOMAIN,jur.unn.ac.ru,REJECT
 DOMAIN,jurassicpark.newzgames.com,REJECT
 DOMAIN,juxiao.adsmogo.net,REJECT
 DOMAIN,juxiao.mediav.com,REJECT
@@ -16242,6 +16236,7 @@ DOMAIN,log.p2p.hunantv.com,REJECT
 DOMAIN,log.particlenews.com,REJECT
 DOMAIN,log.perfecttitspics.com,REJECT
 DOMAIN,log.pinterest.com,REJECT
+DOMAIN,log.plo.vn,REJECT
 DOMAIN,log.popin.cc,REJECT
 DOMAIN,log.prezi.com,REJECT
 DOMAIN,log.propermessage.io,REJECT
@@ -18853,6 +18848,7 @@ DOMAIN,mnxlyo.kinoteatr.ru,REJECT
 DOMAIN,mo.5.p2l.info,REJECT
 DOMAIN,mo.aaaw.xyz,REJECT
 DOMAIN,mo.baidu.com,REJECT
+DOMAIN,mo.bsxr.com.cn,REJECT
 DOMAIN,mo.ccch.xyz,REJECT
 DOMAIN,mo.haloapps.cn,REJECT
 DOMAIN,mo.kugou.com,REJECT
@@ -19140,6 +19136,7 @@ DOMAIN,my.iheartradio.com,REJECT
 DOMAIN,my.leadpages.net,REJECT
 DOMAIN,my.mobfox.com,REJECT
 DOMAIN,my.movex.co.uk,REJECT
+DOMAIN,my.my-hr.cn,REJECT
 DOMAIN,my.prahs.com,REJECT
 DOMAIN,my.putlocker.to,REJECT
 DOMAIN,my.shymilftube.com,REJECT
@@ -19430,6 +19427,7 @@ DOMAIN,nginx-auction-prd-gcp.adsx.unityads.unity3d.com,REJECT
 DOMAIN,nginx.r-dw-1.net.daraz.com,REJECT
 DOMAIN,nginx.yancancook.net.daraz.com,REJECT
 DOMAIN,ngtraveler.com.cn,REJECT
+DOMAIN,nh-cdn.sgp1.cdn.digitaloceanspaces.com,REJECT
 DOMAIN,nh.5.p2l.info,REJECT
 DOMAIN,nhkonline.hb.omtrdc.net,REJECT
 DOMAIN,nhkoze.saneibd.com,REJECT
@@ -19857,6 +19855,7 @@ DOMAIN,om.travelocity.com,REJECT
 DOMAIN,om.venere.com,REJECT
 DOMAIN,om.vrbo.com,REJECT
 DOMAIN,om843se.txxx.com,REJECT
+DOMAIN,omarketer.viettelpost.vn,REJECT
 DOMAIN,ometrics.netapp.com,REJECT
 DOMAIN,ometrics.warnerbros.com,REJECT
 DOMAIN,omg.esprit-click.com,REJECT
@@ -19993,6 +19992,7 @@ DOMAIN,one.apu.ac.jp,REJECT
 DOMAIN,one.fanuc.eu,REJECT
 DOMAIN,one.impact-ad.jp,REJECT
 DOMAIN,one.lg.ua,REJECT
+DOMAIN,one.toumppk.cn,REJECT
 DOMAIN,onefeed.co.uk,REJECT
 DOMAIN,onepush.query.yahoo.com,REJECT
 DOMAIN,oneroof.co.nz,REJECT
@@ -21089,6 +21089,7 @@ DOMAIN,plugin.2easydroid.com,REJECT
 DOMAIN,plugin.me2day.net,REJECT
 DOMAIN,plugin.mediavoice.com,REJECT
 DOMAIN,plugin.mobopay.baidu.com,REJECT
+DOMAIN,plugins.soclminer.com.br,REJECT
 DOMAIN,pluralsight.hb.omtrdc.net,REJECT
 DOMAIN,plus.pornoshara.tv,REJECT
 DOMAIN,plusone.google.com,REJECT
@@ -23206,7 +23207,6 @@ DOMAIN,sdd.hi1718.com,REJECT
 DOMAIN,sddan.mgr.consensu.org,REJECT
 DOMAIN,sddnserror1.wo.com.cn,REJECT
 DOMAIN,sddnserror2.wo.com.cn,REJECT
-DOMAIN,sddnserror3.wo.com.cn,REJECT
 DOMAIN,sddnserror6.wo.com.cn,REJECT
 DOMAIN,sddnserror7.wo.com.cn,REJECT
 DOMAIN,sddnserror9.wo.com.cn,REJECT
@@ -23376,7 +23376,6 @@ DOMAIN,secure.dsp.com,REJECT
 DOMAIN,secure.east2pony.com,REJECT
 DOMAIN,secure.emeu0circ.com,REJECT
 DOMAIN,secure.etym6cero.com,REJECT
-DOMAIN,secure.everydayhealth.com,REJECT
 DOMAIN,secure.fastclick.net,REJECT
 DOMAIN,secure.fear7calk.com,REJECT
 DOMAIN,secure.feed5baby.com,REJECT
@@ -26920,7 +26919,6 @@ DOMAIN,stone2.directprimal.com,REJECT
 DOMAIN,stop-smoking.1.p2l.info,REJECT
 DOMAIN,storage.29293.com,REJECT
 DOMAIN,storage.icorp.ro,REJECT
-DOMAIN,storage.onlinetv.media,REJECT
 DOMAIN,storage.trafic.ro,REJECT
 DOMAIN,store-stc.zdn.vn,REJECT
 DOMAIN,store.iqiyi.com,REJECT
@@ -31460,7 +31458,6 @@ DOMAIN,y.one.impact-ad.jp,REJECT
 DOMAIN,y.pzclw.cn,REJECT
 DOMAIN,y.unilz588.com,REJECT
 DOMAIN,y001.tianjimedia.com,REJECT
-DOMAIN,y0utube.com.mx,REJECT
 DOMAIN,y1.arte.tv,REJECT
 DOMAIN,y1.spreton.com,REJECT
 DOMAIN,y3.ifengimg.com,REJECT

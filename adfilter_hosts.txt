@@ -1,11 +1,11 @@
-# Checksum: MTYyNDQwOTQ2Mwo=
+# Checksum: MTYyNDQ5NTU1MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210623-0
-# TimeUpdated: 2021-06-23T00:51:03+00:00
+# Version: 1.1.8-20210624-0
+# TimeUpdated: 2021-06-24T00:45:51+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 31811
+# Total: 31808
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1076,8 +1076,6 @@ ff02::3 ip6-allhosts
 :: a.xywy.com
 0.0.0.0 a.xzzsjz.com
 :: a.xzzsjz.com
-0.0.0.0 a.yangshengtang123.com
-:: a.yangshengtang123.com
 0.0.0.0 a.yellowurl.cn
 :: a.yellowurl.cn
 0.0.0.0 a.yixie8.com
@@ -6540,6 +6538,8 @@ ff02::3 ip6-allhosts
 :: adtg.widerplanet.com
 0.0.0.0 adtima-common.zadn.vn
 :: adtima-common.zadn.vn
+0.0.0.0 adtima-common.zascdn.me
+:: adtima-common.zascdn.me
 0.0.0.0 adtima-media-td.zadn.vn
 :: adtima-media-td.zadn.vn
 0.0.0.0 adtima-media.zadn.vn
@@ -6552,6 +6552,8 @@ ff02::3 ip6-allhosts
 :: adtima-static.zadn.vn
 0.0.0.0 adtima-static.zascdn.me
 :: adtima-static.zascdn.me
+0.0.0.0 adtima-video.zadn.vn
+:: adtima-video.zadn.vn
 0.0.0.0 adtima-video.zascdn.me
 :: adtima-video.zascdn.me
 0.0.0.0 adtima.net.vn
@@ -6740,6 +6742,8 @@ ff02::3 ip6-allhosts
 :: advertising.illinimedia.com
 0.0.0.0 advertising.lycos.com
 :: advertising.lycos.com
+0.0.0.0 advertising.online-media24.de
+:: advertising.online-media24.de
 0.0.0.0 advertising.paltalk.com
 :: advertising.paltalk.com
 0.0.0.0 advertising.wellpack.fr
@@ -8634,8 +8638,6 @@ ff02::3 ip6-allhosts
 :: api.ads.watchabc.go.com
 0.0.0.0 api.adtimaserver.vn
 :: api.adtimaserver.vn
-0.0.0.0 api.adv.ott.cibntv.net
-:: api.adv.ott.cibntv.net
 0.0.0.0 api.adxpand.com
 :: api.adxpand.com
 0.0.0.0 api.aiclk.com
@@ -10936,8 +10938,6 @@ ff02::3 ip6-allhosts
 :: bdgg.youbian.com
 0.0.0.0 bdimg.share.baidu.com
 :: bdimg.share.baidu.com
-0.0.0.0 bdj.tianya.cn
-:: bdj.tianya.cn
 0.0.0.0 bdjiaoben.wmxa.cn
 :: bdjiaoben.wmxa.cn
 0.0.0.0 bdjj.bzr99.com
@@ -12652,8 +12652,6 @@ ff02::3 ip6-allhosts
 :: cadvv.heraldm.com
 0.0.0.0 cadvv.koreaherald.com
 :: cadvv.koreaherald.com
-0.0.0.0 cafe-log.myshoplus.com
-:: cafe-log.myshoplus.com
 0.0.0.0 cahf4eed.mooo.com
 :: cahf4eed.mooo.com
 0.0.0.0 caing.adsame.com
@@ -17158,6 +17156,8 @@ ff02::3 ip6-allhosts
 :: d13jhr4vol1304.cloudfront.net
 0.0.0.0 d13k7prax1yi04.cloudfront.net
 :: d13k7prax1yi04.cloudfront.net
+0.0.0.0 d13nu0oomnx5ti.cloudfront.net
+:: d13nu0oomnx5ti.cloudfront.net
 0.0.0.0 d140sbu1b1m3h0.cloudfront.net
 :: d140sbu1b1m3h0.cloudfront.net
 0.0.0.0 d141wsrw9m4as6.cloudfront.net
@@ -18514,8 +18514,6 @@ ff02::3 ip6-allhosts
 :: datacapture.serving-sys.com
 0.0.0.0 datacar40.net.daraz.com
 :: datacar40.net.daraz.com
-0.0.0.0 datacollector-drru.dt.hicloud.com
-:: datacollector-drru.dt.hicloud.com
 0.0.0.0 datadog-service.mvfglobal.com
 :: datadog-service.mvfglobal.com
 0.0.0.0 dataf.ads.oppomobile.com
@@ -19626,8 +19624,6 @@ ff02::3 ip6-allhosts
 :: dm1.zjydt.com
 0.0.0.0 dm50.jkyd.net
 :: dm50.jkyd.net
-0.0.0.0 dm50.yxlady.com
-:: dm50.yxlady.com
 0.0.0.0 dm7gsepi27zsx.cloudfront.net
 :: dm7gsepi27zsx.cloudfront.net
 0.0.0.0 dmacore.kejet.com
@@ -20722,8 +20718,6 @@ ff02::3 ip6-allhosts
 :: easytimes.unaux.com
 0.0.0.0 eatp.evztib.xyz
 :: eatp.evztib.xyz
-0.0.0.0 eatps.web.aol.com
-:: eatps.web.aol.com
 0.0.0.0 eaus2watcab01.blob.core.windows.net
 :: eaus2watcab01.blob.core.windows.net
 0.0.0.0 eaus2watcab02.blob.core.windows.net
@@ -26660,8 +26654,6 @@ ff02::3 ip6-allhosts
 :: hal.courrierinternational.com
 0.0.0.0 haleytest.aotest.com
 :: haleytest.aotest.com
-0.0.0.0 halleberrynude.ca.tt
-:: halleberrynude.ca.tt
 0.0.0.0 hallmarkcom.hb.omtrdc.net
 :: hallmarkcom.hb.omtrdc.net
 0.0.0.0 halo4.console2pc.info
@@ -30368,8 +30360,6 @@ ff02::3 ip6-allhosts
 :: jke1.jianke.com
 0.0.0.0 jknarp.kakaku.com
 :: jknarp.kakaku.com
-0.0.0.0 jldnserror1.wo.com.cn
-:: jldnserror1.wo.com.cn
 0.0.0.0 jldnserror5.wo.com.cn
 :: jldnserror5.wo.com.cn
 0.0.0.0 jldtlh.fashionnova.com
@@ -30840,8 +30830,6 @@ ff02::3 ip6-allhosts
 :: jumpluna.58.com
 0.0.0.0 juniper.starleaf.com
 :: juniper.starleaf.com
-0.0.0.0 jur.unn.ac.ru
-:: jur.unn.ac.ru
 0.0.0.0 jurassicpark.newzgames.com
 :: jurassicpark.newzgames.com
 0.0.0.0 juxiao.adsmogo.net
@@ -32488,6 +32476,8 @@ ff02::3 ip6-allhosts
 :: log.perfecttitspics.com
 0.0.0.0 log.pinterest.com
 :: log.pinterest.com
+0.0.0.0 log.plo.vn
+:: log.plo.vn
 0.0.0.0 log.popin.cc
 :: log.popin.cc
 0.0.0.0 log.prezi.com
@@ -37710,6 +37700,8 @@ ff02::3 ip6-allhosts
 :: mo.aaaw.xyz
 0.0.0.0 mo.baidu.com
 :: mo.baidu.com
+0.0.0.0 mo.bsxr.com.cn
+:: mo.bsxr.com.cn
 0.0.0.0 mo.ccch.xyz
 :: mo.ccch.xyz
 0.0.0.0 mo.haloapps.cn
@@ -38284,6 +38276,8 @@ ff02::3 ip6-allhosts
 :: my.mobfox.com
 0.0.0.0 my.movex.co.uk
 :: my.movex.co.uk
+0.0.0.0 my.my-hr.cn
+:: my.my-hr.cn
 0.0.0.0 my.prahs.com
 :: my.prahs.com
 0.0.0.0 my.putlocker.to
@@ -38864,6 +38858,8 @@ ff02::3 ip6-allhosts
 :: nginx.yancancook.net.daraz.com
 0.0.0.0 ngtraveler.com.cn
 :: ngtraveler.com.cn
+0.0.0.0 nh-cdn.sgp1.cdn.digitaloceanspaces.com
+:: nh-cdn.sgp1.cdn.digitaloceanspaces.com
 0.0.0.0 nh.5.p2l.info
 :: nh.5.p2l.info
 0.0.0.0 nhkonline.hb.omtrdc.net
@@ -39718,6 +39714,8 @@ ff02::3 ip6-allhosts
 :: om.vrbo.com
 0.0.0.0 om843se.txxx.com
 :: om843se.txxx.com
+0.0.0.0 omarketer.viettelpost.vn
+:: omarketer.viettelpost.vn
 0.0.0.0 ometrics.netapp.com
 :: ometrics.netapp.com
 0.0.0.0 ometrics.warnerbros.com
@@ -39990,6 +39988,8 @@ ff02::3 ip6-allhosts
 :: one.impact-ad.jp
 0.0.0.0 one.lg.ua
 :: one.lg.ua
+0.0.0.0 one.toumppk.cn
+:: one.toumppk.cn
 0.0.0.0 onefeed.co.uk
 :: onefeed.co.uk
 0.0.0.0 onepush.query.yahoo.com
@@ -42182,6 +42182,8 @@ ff02::3 ip6-allhosts
 :: plugin.mediavoice.com
 0.0.0.0 plugin.mobopay.baidu.com
 :: plugin.mobopay.baidu.com
+0.0.0.0 plugins.soclminer.com.br
+:: plugins.soclminer.com.br
 0.0.0.0 pluralsight.hb.omtrdc.net
 :: pluralsight.hb.omtrdc.net
 0.0.0.0 plus.pornoshara.tv
@@ -46416,8 +46418,6 @@ ff02::3 ip6-allhosts
 :: sddnserror1.wo.com.cn
 0.0.0.0 sddnserror2.wo.com.cn
 :: sddnserror2.wo.com.cn
-0.0.0.0 sddnserror3.wo.com.cn
-:: sddnserror3.wo.com.cn
 0.0.0.0 sddnserror6.wo.com.cn
 :: sddnserror6.wo.com.cn
 0.0.0.0 sddnserror7.wo.com.cn
@@ -46756,8 +46756,6 @@ ff02::3 ip6-allhosts
 :: secure.emeu0circ.com
 0.0.0.0 secure.etym6cero.com
 :: secure.etym6cero.com
-0.0.0.0 secure.everydayhealth.com
-:: secure.everydayhealth.com
 0.0.0.0 secure.fastclick.net
 :: secure.fastclick.net
 0.0.0.0 secure.fear7calk.com
@@ -53844,8 +53842,6 @@ ff02::3 ip6-allhosts
 :: storage.29293.com
 0.0.0.0 storage.icorp.ro
 :: storage.icorp.ro
-0.0.0.0 storage.onlinetv.media
-:: storage.onlinetv.media
 0.0.0.0 storage.trafic.ro
 :: storage.trafic.ro
 0.0.0.0 store-stc.zdn.vn
@@ -62924,8 +62920,6 @@ ff02::3 ip6-allhosts
 :: y.unilz588.com
 0.0.0.0 y001.tianjimedia.com
 :: y001.tianjimedia.com
-0.0.0.0 y0utube.com.mx
-:: y0utube.com.mx
 0.0.0.0 y1.arte.tv
 :: y1.arte.tv
 0.0.0.0 y1.spreton.com
