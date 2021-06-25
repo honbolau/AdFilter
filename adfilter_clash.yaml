@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYyNDQ5NTU1MQo=
+# Checksum: MTYyNDU4Mjk4Nwo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210624-0
-# TimeUpdated: 2021-06-24T00:45:51+00:00
+# Version: 1.1.8-20210625-0
+# TimeUpdated: 2021-06-25T01:03:07+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 31808
+# Total: 31815
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -22,6 +22,7 @@ payload:
   - DOMAIN,009.0x1f4b0.com
   - DOMAIN,01.creativecdn.com
   - DOMAIN,01.gxso.net
+  - DOMAIN,01.yd-jun.com
   - DOMAIN,01daa.lutci.com
   - DOMAIN,0202.com.tw
   - DOMAIN,0512pifa.com.cn
@@ -229,6 +230,7 @@ payload:
   - DOMAIN,50.net.daraz.com
   - DOMAIN,50bots.nullrefexcep.com
   - DOMAIN,518.sdinfo.net
+  - DOMAIN,51check.com.cn
   - DOMAIN,51juejinjie.com.cn
   - DOMAIN,51posuiji.org.cn
   - DOMAIN,526d.uunice.com
@@ -297,6 +299,7 @@ payload:
   - DOMAIN,822.dlads.cn
   - DOMAIN,829331534d183e7d1f6a-8d91cc88b27b979d0ea53a10ce8855ec.r96.cf5.rackcdn.com
   - DOMAIN,8574dnj3yzjace8c8io6zr9u3n.hop.clickbank.net
+  - DOMAIN,88.yunqishi.net
   - DOMAIN,88.yunqishi8.com
   - DOMAIN,888.tv.sohu.com
   - DOMAIN,8av.mm-cg.co
@@ -5169,7 +5172,6 @@ payload:
   - DOMAIN,baichuan.baidu.com
   - DOMAIN,baid1.okooo.com
   - DOMAIN,baidu.dsp.tansuotv.com
-  - DOMAIN,baidu1.codejie.net
   - DOMAIN,baidu1.weather.com.cn
   - DOMAIN,baidua1.cardbaobao.com
   - DOMAIN,baidua2.cardbaobao.com
@@ -5713,7 +5715,6 @@ payload:
   - DOMAIN,bjdnserror1.wo.com.cn
   - DOMAIN,bjdnserror2.wo.com.cn
   - DOMAIN,bjdnserror3.wo.com.cn
-  - DOMAIN,bjdnserror6.wo.com.cn
   - DOMAIN,bjfbac.hyundaivaudreuil.com
   - DOMAIN,bjhjw.com.cn
   - DOMAIN,bjs.9669.cn
@@ -5988,6 +5989,7 @@ payload:
   - DOMAIN,buy-valium.hut1.ru
   - DOMAIN,buy-viagra.aca.ru
   - DOMAIN,buy-vicodin-online.supersite.fr
+  - DOMAIN,buy-vicodin.dd.vu
   - DOMAIN,buy-vicodin.hut1.ru
   - DOMAIN,buy-vicodin.iscool.nl
   - DOMAIN,buy-xanax.aztecaonline.net
@@ -8155,7 +8157,6 @@ payload:
   - DOMAIN,countly.stackvaults.com
   - DOMAIN,countpage.sznews.com
   - DOMAIN,countpvn.light.fang.com
-  - DOMAIN,countt.51yes.com
   - DOMAIN,countubn.light.soufun.com
   - DOMAIN,countvoncount.goguardian.com
   - DOMAIN,couponcp-a.akamaihd.net
@@ -8870,6 +8871,7 @@ payload:
   - DOMAIN,d2u1npnnqecmpq.cloudfront.net
   - DOMAIN,d2uap9jskdzp2.cloudfront.net
   - DOMAIN,d2uepos3ef6db0.cloudfront.net
+  - DOMAIN,d2uhnetoehh304.cloudfront.net
   - DOMAIN,d2ul07mfd59d8q.cloudfront.net
   - DOMAIN,d2uy8iq3fi50kh.cloudfront.net
   - DOMAIN,d2uzayf7r4rh08.cloudfront.net
@@ -9130,7 +9132,6 @@ payload:
   - DOMAIN,dailyvideo.securejoin.com
   - DOMAIN,daima.dsxdn.com
   - DOMAIN,daima.jiazhao.com
-  - DOMAIN,daima.jiduan.cc
   - DOMAIN,daima.youbian.com
   - DOMAIN,daima.ysdui.com
   - DOMAIN,daima.yuzhulin.com
@@ -9272,6 +9273,7 @@ payload:
   - DOMAIN,datum.blockchair.io
   - DOMAIN,dawnguard.dlcodes.com
   - DOMAIN,dax3x3wqpt2q3.cloudfront.net
+  - DOMAIN,db.xiaoshuofuwuqi.com
   - DOMAIN,db.xmrpool.net
   - DOMAIN,db1.fuz.cc
   - DOMAIN,db2.fuz.cc
@@ -10118,6 +10120,7 @@ payload:
   - DOMAIN,durdcn.doglobal.net
   - DOMAIN,durst-group.actonservice.com
   - DOMAIN,duu8lzqdm8tsz.cloudfront.net
+  - DOMAIN,duuw.nm.ru
   - DOMAIN,duzt6rhr7wo8p.cloudfront.net
   - DOMAIN,dv.chemie.de
   - DOMAIN,dv0uonokej56p.cloudfront.net
@@ -11631,6 +11634,7 @@ payload:
   - DOMAIN,future-hawk-content.co.uk
   - DOMAIN,future-price.co.uk
   - DOMAIN,future.uwindsor.ca
+  - DOMAIN,fvid.atm.youku.com
   - DOMAIN,fvpsgi.niceonesa.com
   - DOMAIN,fw.adsafeprotected.com
   - DOMAIN,fw.vpon.com
@@ -13359,7 +13363,6 @@ payload:
   - DOMAIN,hbaazk.bukalapak.com
   - DOMAIN,hbads.eboz.com
   - DOMAIN,hbadz.eboz.com
-  - DOMAIN,hbdnserror1.wo.com.cn
   - DOMAIN,hbdnserror3.wo.com.cn
   - DOMAIN,hbdnserror4.wo.com.cn
   - DOMAIN,hbdnserror7.wo.com.cn
@@ -13393,6 +13396,7 @@ payload:
   - DOMAIN,he6e.lavieimmo.com
   - DOMAIN,headlines.sharethrough.com
   - DOMAIN,health.interamerican.gr
+  - DOMAIN,healthclicks.co.uk
   - DOMAIN,healthy.spartanburgregional.com
   - DOMAIN,heartbeat.flickr.com
   - DOMAIN,hedgehog.fightforthefuture.org
@@ -14895,6 +14899,7 @@ payload:
   - DOMAIN,intertech.co.jp
   - DOMAIN,interworksmedia.co.kr
   - DOMAIN,intext-a.akamaihd.net
+  - DOMAIN,intextlinks.idg.zone
   - DOMAIN,intf.cnzz.com
   - DOMAIN,intg.snapchat.com
   - DOMAIN,intimznaki.tomsk.ru
@@ -15933,7 +15938,6 @@ payload:
   - DOMAIN,link.hey.mypostcard.com
   - DOMAIN,link.hitachi-hightech.com
   - DOMAIN,link.informer.com
-  - DOMAIN,link.jiduan.cc
   - DOMAIN,link.kdkmoments.com
   - DOMAIN,link.kogan.com
   - DOMAIN,link.link.ru
@@ -16108,7 +16112,6 @@ payload:
   - DOMAIN,lmwap.awtks.com
   - DOMAIN,ln.ameba.jp
   - DOMAIN,lnads.osdn.com
-  - DOMAIN,lndnserror1.wo.com.cn
   - DOMAIN,lndnserror2.wo.com.cn
   - DOMAIN,lndnserror4.wo.com.cn
   - DOMAIN,lndnserror6.wo.com.cn
@@ -16695,6 +16698,7 @@ payload:
   - DOMAIN,m.ocenp.com
   - DOMAIN,m.oipeirates.online
   - DOMAIN,m.openv.tv
+  - DOMAIN,m.panda.voiceads.cn
   - DOMAIN,m.phonthing.com
   - DOMAIN,m.photoshelter.com
   - DOMAIN,m.pieaa.com
@@ -16763,6 +16767,7 @@ payload:
   - DOMAIN,m.xsjjjc.cn
   - DOMAIN,m.xt2d.cn
   - DOMAIN,m.xxkio.com
+  - DOMAIN,m.y195j.cn
   - DOMAIN,m.yalayi.com
   - DOMAIN,m.yanjunbo.com
   - DOMAIN,m.yaoboshiks.cn
@@ -16929,7 +16934,6 @@ payload:
   - DOMAIN,mangler4.generals.ea.com
   - DOMAIN,mango.seloger.com
   - DOMAIN,manila-1.xmrpool.net
-  - DOMAIN,manuaisadultos.com.br
   - DOMAIN,manuel.theonion.com
   - DOMAIN,mao1.jsnovel.com
   - DOMAIN,map.dxpmedia.com
@@ -20121,6 +20125,7 @@ payload:
   - DOMAIN,osm-onead.cdn.hinet.net
   - DOMAIN,oss-asq-static.11222.cn
   - DOMAIN,osupdateservice.yunos.com
+  - DOMAIN,ot.jizy.cn
   - DOMAIN,ot.obi-italia.it
   - DOMAIN,ot.obi.at
   - DOMAIN,ot.obi.ch
@@ -20850,6 +20855,7 @@ payload:
   - DOMAIN,pixel.blog.hu
   - DOMAIN,pixel.carambo.la
   - DOMAIN,pixel.cdnwidget.com
+  - DOMAIN,pixel.chotot.com
   - DOMAIN,pixel.condenastdigital.com
   - DOMAIN,pixel.cpex.cz
   - DOMAIN,pixel.digitru.st
@@ -21668,6 +21674,7 @@ payload:
   - DOMAIN,q.qo26.com
   - DOMAIN,q.qsmdeyz.cn
   - DOMAIN,q.s.cr-nielsen.com
+  - DOMAIN,q.tvnet.lv
   - DOMAIN,q1.yyxwzx.com
   - DOMAIN,qa.origin.globalredirector.gwsweb.net.daraz.com
   - DOMAIN,qa2.na.sandbox.gwsweb.net.daraz.com

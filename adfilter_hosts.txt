@@ -1,11 +1,11 @@
-# Checksum: MTYyNDQ5NTU1MQo=
+# Checksum: MTYyNDU4Mjk4Nwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210624-0
-# TimeUpdated: 2021-06-24T00:45:51+00:00
+# Version: 1.1.8-20210625-0
+# TimeUpdated: 2021-06-25T01:03:07+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 31808
+# Total: 31815
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -46,6 +46,8 @@ ff02::3 ip6-allhosts
 :: 01.creativecdn.com
 0.0.0.0 01.gxso.net
 :: 01.gxso.net
+0.0.0.0 01.yd-jun.com
+:: 01.yd-jun.com
 0.0.0.0 01daa.lutci.com
 :: 01daa.lutci.com
 0.0.0.0 0202.com.tw
@@ -460,6 +462,8 @@ ff02::3 ip6-allhosts
 :: 50bots.nullrefexcep.com
 0.0.0.0 518.sdinfo.net
 :: 518.sdinfo.net
+0.0.0.0 51check.com.cn
+:: 51check.com.cn
 0.0.0.0 51juejinjie.com.cn
 :: 51juejinjie.com.cn
 0.0.0.0 51posuiji.org.cn
@@ -596,6 +600,8 @@ ff02::3 ip6-allhosts
 :: 829331534d183e7d1f6a-8d91cc88b27b979d0ea53a10ce8855ec.r96.cf5.rackcdn.com
 0.0.0.0 8574dnj3yzjace8c8io6zr9u3n.hop.clickbank.net
 :: 8574dnj3yzjace8c8io6zr9u3n.hop.clickbank.net
+0.0.0.0 88.yunqishi.net
+:: 88.yunqishi.net
 0.0.0.0 88.yunqishi8.com
 :: 88.yunqishi8.com
 0.0.0.0 888.tv.sohu.com
@@ -10340,8 +10346,6 @@ ff02::3 ip6-allhosts
 :: baid1.okooo.com
 0.0.0.0 baidu.dsp.tansuotv.com
 :: baidu.dsp.tansuotv.com
-0.0.0.0 baidu1.codejie.net
-:: baidu1.codejie.net
 0.0.0.0 baidu1.weather.com.cn
 :: baidu1.weather.com.cn
 0.0.0.0 baidua1.cardbaobao.com
@@ -11428,8 +11432,6 @@ ff02::3 ip6-allhosts
 :: bjdnserror2.wo.com.cn
 0.0.0.0 bjdnserror3.wo.com.cn
 :: bjdnserror3.wo.com.cn
-0.0.0.0 bjdnserror6.wo.com.cn
-:: bjdnserror6.wo.com.cn
 0.0.0.0 bjfbac.hyundaivaudreuil.com
 :: bjfbac.hyundaivaudreuil.com
 0.0.0.0 bjhjw.com.cn
@@ -11978,6 +11980,8 @@ ff02::3 ip6-allhosts
 :: buy-viagra.aca.ru
 0.0.0.0 buy-vicodin-online.supersite.fr
 :: buy-vicodin-online.supersite.fr
+0.0.0.0 buy-vicodin.dd.vu
+:: buy-vicodin.dd.vu
 0.0.0.0 buy-vicodin.hut1.ru
 :: buy-vicodin.hut1.ru
 0.0.0.0 buy-vicodin.iscool.nl
@@ -16312,8 +16316,6 @@ ff02::3 ip6-allhosts
 :: countpage.sznews.com
 0.0.0.0 countpvn.light.fang.com
 :: countpvn.light.fang.com
-0.0.0.0 countt.51yes.com
-:: countt.51yes.com
 0.0.0.0 countubn.light.soufun.com
 :: countubn.light.soufun.com
 0.0.0.0 countvoncount.goguardian.com
@@ -17742,6 +17744,8 @@ ff02::3 ip6-allhosts
 :: d2uap9jskdzp2.cloudfront.net
 0.0.0.0 d2uepos3ef6db0.cloudfront.net
 :: d2uepos3ef6db0.cloudfront.net
+0.0.0.0 d2uhnetoehh304.cloudfront.net
+:: d2uhnetoehh304.cloudfront.net
 0.0.0.0 d2ul07mfd59d8q.cloudfront.net
 :: d2ul07mfd59d8q.cloudfront.net
 0.0.0.0 d2uy8iq3fi50kh.cloudfront.net
@@ -18262,8 +18266,6 @@ ff02::3 ip6-allhosts
 :: daima.dsxdn.com
 0.0.0.0 daima.jiazhao.com
 :: daima.jiazhao.com
-0.0.0.0 daima.jiduan.cc
-:: daima.jiduan.cc
 0.0.0.0 daima.youbian.com
 :: daima.youbian.com
 0.0.0.0 daima.ysdui.com
@@ -18546,6 +18548,8 @@ ff02::3 ip6-allhosts
 :: dawnguard.dlcodes.com
 0.0.0.0 dax3x3wqpt2q3.cloudfront.net
 :: dax3x3wqpt2q3.cloudfront.net
+0.0.0.0 db.xiaoshuofuwuqi.com
+:: db.xiaoshuofuwuqi.com
 0.0.0.0 db.xmrpool.net
 :: db.xmrpool.net
 0.0.0.0 db1.fuz.cc
@@ -20238,6 +20242,8 @@ ff02::3 ip6-allhosts
 :: durst-group.actonservice.com
 0.0.0.0 duu8lzqdm8tsz.cloudfront.net
 :: duu8lzqdm8tsz.cloudfront.net
+0.0.0.0 duuw.nm.ru
+:: duuw.nm.ru
 0.0.0.0 duzt6rhr7wo8p.cloudfront.net
 :: duzt6rhr7wo8p.cloudfront.net
 0.0.0.0 dv.chemie.de
@@ -23264,6 +23270,8 @@ ff02::3 ip6-allhosts
 :: future-price.co.uk
 0.0.0.0 future.uwindsor.ca
 :: future.uwindsor.ca
+0.0.0.0 fvid.atm.youku.com
+:: fvid.atm.youku.com
 0.0.0.0 fvpsgi.niceonesa.com
 :: fvpsgi.niceonesa.com
 0.0.0.0 fw.adsafeprotected.com
@@ -26720,8 +26728,6 @@ ff02::3 ip6-allhosts
 :: hbads.eboz.com
 0.0.0.0 hbadz.eboz.com
 :: hbadz.eboz.com
-0.0.0.0 hbdnserror1.wo.com.cn
-:: hbdnserror1.wo.com.cn
 0.0.0.0 hbdnserror3.wo.com.cn
 :: hbdnserror3.wo.com.cn
 0.0.0.0 hbdnserror4.wo.com.cn
@@ -26788,6 +26794,8 @@ ff02::3 ip6-allhosts
 :: headlines.sharethrough.com
 0.0.0.0 health.interamerican.gr
 :: health.interamerican.gr
+0.0.0.0 healthclicks.co.uk
+:: healthclicks.co.uk
 0.0.0.0 healthy.spartanburgregional.com
 :: healthy.spartanburgregional.com
 0.0.0.0 heartbeat.flickr.com
@@ -29792,6 +29800,8 @@ ff02::3 ip6-allhosts
 :: interworksmedia.co.kr
 0.0.0.0 intext-a.akamaihd.net
 :: intext-a.akamaihd.net
+0.0.0.0 intextlinks.idg.zone
+:: intextlinks.idg.zone
 0.0.0.0 intf.cnzz.com
 :: intf.cnzz.com
 0.0.0.0 intg.snapchat.com
@@ -31868,8 +31878,6 @@ ff02::3 ip6-allhosts
 :: link.hitachi-hightech.com
 0.0.0.0 link.informer.com
 :: link.informer.com
-0.0.0.0 link.jiduan.cc
-:: link.jiduan.cc
 0.0.0.0 link.kdkmoments.com
 :: link.kdkmoments.com
 0.0.0.0 link.kogan.com
@@ -32218,8 +32226,6 @@ ff02::3 ip6-allhosts
 :: ln.ameba.jp
 0.0.0.0 lnads.osdn.com
 :: lnads.osdn.com
-0.0.0.0 lndnserror1.wo.com.cn
-:: lndnserror1.wo.com.cn
 0.0.0.0 lndnserror2.wo.com.cn
 :: lndnserror2.wo.com.cn
 0.0.0.0 lndnserror4.wo.com.cn
@@ -33392,6 +33398,8 @@ ff02::3 ip6-allhosts
 :: m.oipeirates.online
 0.0.0.0 m.openv.tv
 :: m.openv.tv
+0.0.0.0 m.panda.voiceads.cn
+:: m.panda.voiceads.cn
 0.0.0.0 m.phonthing.com
 :: m.phonthing.com
 0.0.0.0 m.photoshelter.com
@@ -33528,6 +33536,8 @@ ff02::3 ip6-allhosts
 :: m.xt2d.cn
 0.0.0.0 m.xxkio.com
 :: m.xxkio.com
+0.0.0.0 m.y195j.cn
+:: m.y195j.cn
 0.0.0.0 m.yalayi.com
 :: m.yalayi.com
 0.0.0.0 m.yanjunbo.com
@@ -33860,8 +33870,6 @@ ff02::3 ip6-allhosts
 :: mango.seloger.com
 0.0.0.0 manila-1.xmrpool.net
 :: manila-1.xmrpool.net
-0.0.0.0 manuaisadultos.com.br
-:: manuaisadultos.com.br
 0.0.0.0 manuel.theonion.com
 :: manuel.theonion.com
 0.0.0.0 mao1.jsnovel.com
@@ -40244,6 +40252,8 @@ ff02::3 ip6-allhosts
 :: oss-asq-static.11222.cn
 0.0.0.0 osupdateservice.yunos.com
 :: osupdateservice.yunos.com
+0.0.0.0 ot.jizy.cn
+:: ot.jizy.cn
 0.0.0.0 ot.obi-italia.it
 :: ot.obi-italia.it
 0.0.0.0 ot.obi.at
@@ -41702,6 +41712,8 @@ ff02::3 ip6-allhosts
 :: pixel.carambo.la
 0.0.0.0 pixel.cdnwidget.com
 :: pixel.cdnwidget.com
+0.0.0.0 pixel.chotot.com
+:: pixel.chotot.com
 0.0.0.0 pixel.condenastdigital.com
 :: pixel.condenastdigital.com
 0.0.0.0 pixel.cpex.cz
@@ -43338,6 +43350,8 @@ ff02::3 ip6-allhosts
 :: q.qsmdeyz.cn
 0.0.0.0 q.s.cr-nielsen.com
 :: q.s.cr-nielsen.com
+0.0.0.0 q.tvnet.lv
+:: q.tvnet.lv
 0.0.0.0 q1.yyxwzx.com
 :: q1.yyxwzx.com
 0.0.0.0 qa.origin.globalredirector.gwsweb.net.daraz.com
