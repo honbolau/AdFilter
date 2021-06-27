@@ -1,11 +1,11 @@
-# Checksum: MTYyNDY2ODk1NAo=
+# Checksum: MTYyNDc1NTg3NAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210626-0
-# TimeUpdated: 2021-06-26T00:55:54+00:00
+# Version: 1.1.8-20210627-0
+# TimeUpdated: 2021-06-27T01:04:34+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 31796
+# Total: 31789
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -8636,6 +8636,8 @@ ff02::3 ip6-allhosts
 :: api.adtimaserver.vn
 0.0.0.0 api.adxpand.com
 :: api.adxpand.com
+0.0.0.0 api.afdback.ppsimg.com
+:: api.afdback.ppsimg.com
 0.0.0.0 api.aiclk.com
 :: api.aiclk.com
 0.0.0.0 api.airpush.com
@@ -16288,6 +16290,8 @@ ff02::3 ip6-allhosts
 :: counters.auctiva.com
 0.0.0.0 counters.freewebs.com
 :: counters.freewebs.com
+0.0.0.0 counters.gigya.com
+:: counters.gigya.com
 0.0.0.0 counters.honesty.com
 :: counters.honesty.com
 0.0.0.0 countess.twitch.tv
@@ -16326,8 +16330,6 @@ ff02::3 ip6-allhosts
 :: cp.efo.cc
 0.0.0.0 cp.europort.jp
 :: cp.europort.jp
-0.0.0.0 cp.greenxf.cn
-:: cp.greenxf.cn
 0.0.0.0 cp.gs307.com
 :: cp.gs307.com
 0.0.0.0 cp.jfcdns.com
@@ -17066,8 +17068,6 @@ ff02::3 ip6-allhosts
 :: d.wi-fi.ru
 0.0.0.0 d.xingshangnet.com
 :: d.xingshangnet.com
-0.0.0.0 d.xinshipu.com
-:: d.xinshipu.com
 0.0.0.0 d.xitongtiandi.net
 :: d.xitongtiandi.net
 0.0.0.0 d.yjbys.com
@@ -19576,8 +19576,6 @@ ff02::3 ip6-allhosts
 :: dm.lianzhixiu.com
 0.0.0.0 dm.linternaute.com
 :: dm.linternaute.com
-0.0.0.0 dm.ppzuowen.com
-:: dm.ppzuowen.com
 0.0.0.0 dm.pstatp.com
 :: dm.pstatp.com
 0.0.0.0 dm.sanwen8.com
@@ -20402,8 +20400,6 @@ ff02::3 ip6-allhosts
 :: e.beckmancoulter.com
 0.0.0.0 e.bsnnk.com
 :: e.bsnnk.com
-0.0.0.0 e.cdfzcz.com
-:: e.cdfzcz.com
 0.0.0.0 e.cdntlz.cn
 :: e.cdntlz.cn
 0.0.0.0 e.chenyonghua.cn
@@ -22130,6 +22126,8 @@ ff02::3 ip6-allhosts
 :: events.medio.com
 0.0.0.0 events.mywd.com
 :: events.mywd.com
+0.0.0.0 events.newsroom.bi
+:: events.newsroom.bi
 0.0.0.0 events.ocdn.eu
 :: events.ocdn.eu
 0.0.0.0 events.onet.pl
@@ -22356,8 +22354,6 @@ ff02::3 ip6-allhosts
 :: f-log-test.grammarly.io
 0.0.0.0 f-mobilevideo.blogspot.com
 :: f-mobilevideo.blogspot.com
-0.0.0.0 f-trak.rumahkerennn.com
-:: f-trak.rumahkerennn.com
 0.0.0.0 f.asdfzxcv1312.com
 :: f.asdfzxcv1312.com
 0.0.0.0 f.aty.sohu.com
@@ -27062,8 +27058,6 @@ ff02::3 ip6-allhosts
 :: hnnuaa.willhaben.at
 0.0.0.0 hntxyc.schadeautos.nl
 :: hntxyc.schadeautos.nl
-0.0.0.0 hnwlyy.com.cn
-:: hnwlyy.com.cn
 0.0.0.0 hnytrd.ssfshop.com
 :: hnytrd.ssfshop.com
 0.0.0.0 hoaqzs.manier.ro
@@ -27394,6 +27388,8 @@ ff02::3 ip6-allhosts
 :: hz.miercn.com
 0.0.0.0 hz.mmstat.com
 :: hz.mmstat.com
+0.0.0.0 hz.shouyoutv.com
+:: hz.shouyoutv.com
 0.0.0.0 hz1.lanmei80.com
 :: hz1.lanmei80.com
 0.0.0.0 hzdaye.m.zwdu.com
@@ -33148,8 +33144,6 @@ ff02::3 ip6-allhosts
 :: m.bndbddt.top
 0.0.0.0 m.bsnnk.com
 :: m.bsnnk.com
-0.0.0.0 m.cdfzcz.com
-:: m.cdfzcz.com
 0.0.0.0 m.cdntlz.cn
 :: m.cdntlz.cn
 0.0.0.0 m.cdxtny.cn
@@ -37696,6 +37690,8 @@ ff02::3 ip6-allhosts
 :: mo.spaces.ru
 0.0.0.0 mo.test.haloapps.com
 :: mo.test.haloapps.com
+0.0.0.0 mo.zvygzatj.cn
+:: mo.zvygzatj.cn
 0.0.0.0 mob26.jnjszl.com
 :: mob26.jnjszl.com
 0.0.0.0 mobaders.oss-cn-beijing.aliyuncs.com
@@ -38428,8 +38424,6 @@ ff02::3 ip6-allhosts
 :: nautilus-car21.net.daraz.com
 0.0.0.0 nave.foone.com.br
 :: nave.foone.com.br
-0.0.0.0 naviog.pp.ua
-:: naviog.pp.ua
 0.0.0.0 navis.pp.ua
 :: navis.pp.ua
 0.0.0.0 nb.5.p2l.info
@@ -38804,8 +38798,6 @@ ff02::3 ip6-allhosts
 :: nfdnserror6.wo.com.cn
 0.0.0.0 nfdnserror7.wo.com.cn
 :: nfdnserror7.wo.com.cn
-0.0.0.0 nfdnserror8.wo.com.cn
-:: nfdnserror8.wo.com.cn
 0.0.0.0 nfreya.net.daraz.com
 :: nfreya.net.daraz.com
 0.0.0.0 nfused.eobuv.com.ua
@@ -41502,6 +41494,8 @@ ff02::3 ip6-allhosts
 :: pic1.59wd.com
 0.0.0.0 pic1.97jut.com
 :: pic1.97jut.com
+0.0.0.0 pic1.dianshu119.com
+:: pic1.dianshu119.com
 0.0.0.0 pic183025.images9999.com
 :: pic183025.images9999.com
 0.0.0.0 pic2.97jut.com
@@ -42104,8 +42098,6 @@ ff02::3 ip6-allhosts
 :: play.xmr.101010.pl
 0.0.0.0 play1.videos.videos.vidto.me
 :: play1.videos.videos.vidto.me
-0.0.0.0 play1.videos.vidto.me
-:: play1.videos.vidto.me
 0.0.0.0 player-feedback-v1.glomex.com
 :: player-feedback-v1.glomex.com
 0.0.0.0 player-telemetry.vimeo.com
@@ -44892,8 +44884,6 @@ ff02::3 ip6-allhosts
 :: s.h5king.com
 0.0.0.0 s.hdsupplysolutions.com
 :: s.hdsupplysolutions.com
-0.0.0.0 s.hnhgw.cn
-:: s.hnhgw.cn
 0.0.0.0 s.holder.com.ua
 :: s.holder.com.ua
 0.0.0.0 s.homedy.com
@@ -46416,6 +46406,8 @@ ff02::3 ip6-allhosts
 :: sdk-orion.appboy.com
 0.0.0.0 sdk.adtiming.com
 :: sdk.adtiming.com
+0.0.0.0 sdk.api.bjshcw.com
+:: sdk.api.bjshcw.com
 0.0.0.0 sdk.api.gamex.mobile.youku.com
 :: sdk.api.gamex.mobile.youku.com
 0.0.0.0 sdk.api.oaid.wocloud.cn
@@ -51108,8 +51100,6 @@ ff02::3 ip6-allhosts
 :: spigte.shopee.tw
 0.0.0.0 spinbox.freedom.com
 :: spinbox.freedom.com
-0.0.0.0 spinbox.maccentral.com
-:: spinbox.maccentral.com
 0.0.0.0 spinbox.techtracker.com
 :: spinbox.techtracker.com
 0.0.0.0 spinbox.versiontracker.com
@@ -53442,8 +53432,6 @@ ff02::3 ip6-allhosts
 :: stats.shoutout.so
 0.0.0.0 stats.sim.de
 :: stats.sim.de
-0.0.0.0 stats.simplecss.org
-:: stats.simplecss.org
 0.0.0.0 stats.simplytel.de
 :: stats.simplytel.de
 0.0.0.0 stats.sirdata.com
@@ -62894,8 +62882,6 @@ ff02::3 ip6-allhosts
 :: y.pzclw.cn
 0.0.0.0 y.unilz588.com
 :: y.unilz588.com
-0.0.0.0 y.zp22.cn
-:: y.zp22.cn
 0.0.0.0 y001.tianjimedia.com
 :: y001.tianjimedia.com
 0.0.0.0 y1.arte.tv
