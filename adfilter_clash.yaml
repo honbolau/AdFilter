@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYyNDc1NTg3NAo=
+# Checksum: MTYyNDg0MTk1Mgo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210627-0
-# TimeUpdated: 2021-06-27T01:04:34+00:00
+# Version: 1.1.8-20210628-0
+# TimeUpdated: 2021-06-28T00:59:12+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 31789
+# Total: 31768
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -230,7 +230,6 @@ payload:
   - DOMAIN,50.net.daraz.com
   - DOMAIN,50bots.nullrefexcep.com
   - DOMAIN,518.sdinfo.net
-  - DOMAIN,51check.com.cn
   - DOMAIN,51juejinjie.com.cn
   - DOMAIN,51posuiji.org.cn
   - DOMAIN,526d.uunice.com
@@ -4132,7 +4131,6 @@ payload:
   - DOMAIN,analytics.videocloud.top
   - DOMAIN,analytics.vietnamfinance.vn
   - DOMAIN,analytics.villagehouse.jp
-  - DOMAIN,analytics.virginmobileusa.com
   - DOMAIN,analytics.vnpt.vn
   - DOMAIN,analytics.vnreview.vn
   - DOMAIN,analytics.vodafone.co.uk
@@ -5221,7 +5219,6 @@ payload:
   - DOMAIN,banner.icmedia.eu
   - DOMAIN,banner.img.co.za
   - DOMAIN,banner.immowelt.de
-  - DOMAIN,banner.interich.com
   - DOMAIN,banner.inyourpocket.com
   - DOMAIN,banner.itweb.co.za
   - DOMAIN,banner.kanald.com.tr
@@ -5384,7 +5381,6 @@ payload:
   - DOMAIN,bb2.ifeng.com
   - DOMAIN,bbbb.goace.jp
   - DOMAIN,bbbihe.vertbaudet.es
-  - DOMAIN,bbcc.yxlady.com
   - DOMAIN,bbcdn.go.cz.bbelements.com
   - DOMAIN,bbdm.051661.com
   - DOMAIN,bbn.gzblogger.cn
@@ -6900,7 +6896,6 @@ payload:
   - DOMAIN,cheetah.songrender.com
   - DOMAIN,cheezwhiz.z9.web.core.windows.net
   - DOMAIN,chelseafc.hb.omtrdc.net
-  - DOMAIN,chengjie168.com.cn
   - DOMAIN,cherryhi.app.ur.gcion.com
   - DOMAIN,chevalierusa.actonservice.com
   - DOMAIN,chickadee.getreplybox.com
@@ -8144,7 +8139,6 @@ payload:
   - DOMAIN,counters.auctionwatch.com
   - DOMAIN,counters.auctiva.com
   - DOMAIN,counters.freewebs.com
-  - DOMAIN,counters.gigya.com
   - DOMAIN,counters.honesty.com
   - DOMAIN,countess.twitch.tv
   - DOMAIN,countimages.cnool.net
@@ -8771,7 +8765,6 @@ payload:
   - DOMAIN,d29i6o40xcgdai.cloudfront.net
   - DOMAIN,d29qt51jeyi6xb.cloudfront.net
   - DOMAIN,d2a945og79nayl.cloudfront.net
-  - DOMAIN,d2as12kgjg8gw5.cloudfront.net
   - DOMAIN,d2au4l2o128joe.cloudfront.net
   - DOMAIN,d2axgrpnciinw7.cloudfront.net
   - DOMAIN,d2b7n13v8adl6f.cloudfront.net
@@ -11072,6 +11065,7 @@ payload:
   - DOMAIN,events.reclamefolder.nl
   - DOMAIN,events.reddit.com
   - DOMAIN,events.redditmedia.com
+  - DOMAIN,events.sd-nbb.de
   - DOMAIN,events.shareably.net
   - DOMAIN,events.sk.ht
   - DOMAIN,events.splash-screen.net
@@ -13058,7 +13052,6 @@ payload:
   - DOMAIN,go.webhose.io
   - DOMAIN,go.wecharge.com
   - DOMAIN,go.wernerco.com
-  - DOMAIN,go.weskiii.com
   - DOMAIN,go.westshorehome.com
   - DOMAIN,go.wfpusa.org
   - DOMAIN,go.whatfix.com
@@ -13525,7 +13518,6 @@ payload:
   - DOMAIN,hnbutton.appspot.com
   - DOMAIN,hndnserror1.wo.com.cn
   - DOMAIN,hndnserror3.wo.com.cn
-  - DOMAIN,hndnserror5.wo.com.cn
   - DOMAIN,hnnuaa.willhaben.at
   - DOMAIN,hntxyc.schadeautos.nl
   - DOMAIN,hnytrd.ssfshop.com
@@ -13693,7 +13685,6 @@ payload:
   - DOMAIN,hz.hzhongjianfund.com
   - DOMAIN,hz.miercn.com
   - DOMAIN,hz.mmstat.com
-  - DOMAIN,hz.shouyoutv.com
   - DOMAIN,hz1.lanmei80.com
   - DOMAIN,hzdaye.m.zwdu.com
   - DOMAIN,hzdmacore.kejet.net
@@ -15227,7 +15218,6 @@ payload:
   - DOMAIN,js.133u.com
   - DOMAIN,js.1688988.com
   - DOMAIN,js.2011.8684.com
-  - DOMAIN,js.23yy.com
   - DOMAIN,js.263y.com
   - DOMAIN,js.4hw.com.cn
   - DOMAIN,js.5068.com
@@ -16662,7 +16652,6 @@ payload:
   - DOMAIN,m.mfufanj.cn
   - DOMAIN,m.mgogo.com
   - DOMAIN,m.miaoxinqipei.com
-  - DOMAIN,m.mightiger.net
   - DOMAIN,m.miricommunity.net
   - DOMAIN,m.momozha.top
   - DOMAIN,m.moonuiux.top
@@ -16716,7 +16705,6 @@ payload:
   - DOMAIN,m.tansuotv.com
   - DOMAIN,m.themee.cn
   - DOMAIN,m.tianhaichen.top
-  - DOMAIN,m.tiojk.com
   - DOMAIN,m.track.ad.xiaomi.com
   - DOMAIN,m.trb.com
   - DOMAIN,m.tsgyg.cn
@@ -16749,7 +16737,6 @@ payload:
   - DOMAIN,m.xsjjjc.cn
   - DOMAIN,m.xt2d.cn
   - DOMAIN,m.xxkio.com
-  - DOMAIN,m.y195j.cn
   - DOMAIN,m.yalayi.com
   - DOMAIN,m.yanjunbo.com
   - DOMAIN,m.yaoboshiks.cn
@@ -16776,7 +16763,6 @@ payload:
   - DOMAIN,m1.27com.com
   - DOMAIN,m1.51kaowang.com
   - DOMAIN,m1.81312.com
-  - DOMAIN,m1.asklib.com
   - DOMAIN,m1.baidu.com
   - DOMAIN,m1.dxsbb.com
   - DOMAIN,m1.extrutor.org
@@ -16830,7 +16816,6 @@ payload:
   - DOMAIN,ma.vivivit.com
   - DOMAIN,ma.vorkers.com
   - DOMAIN,ma.wp.pl
-  - DOMAIN,ma2.meishij.net
   - DOMAIN,mac-alert-information-getting-errors.s3-website-us-west-2.amazonaws.com
   - DOMAIN,mac-osx.message-warning.net
   - DOMAIN,macaxpower.com.br
@@ -18257,7 +18242,6 @@ payload:
   - DOMAIN,metrics.makemytrip.com
   - DOMAIN,metrics.mamypoko.com
   - DOMAIN,metrics.manheim.com
-  - DOMAIN,metrics.marcus.com
   - DOMAIN,metrics.marksandspencer.com
   - DOMAIN,metrics.marriott.com
   - DOMAIN,metrics.mastercard.com
@@ -18844,7 +18828,6 @@ payload:
   - DOMAIN,mo.res.wpscdn.cn
   - DOMAIN,mo.spaces.ru
   - DOMAIN,mo.test.haloapps.com
-  - DOMAIN,mo.zvygzatj.cn
   - DOMAIN,mob26.jnjszl.com
   - DOMAIN,mobaders.oss-cn-beijing.aliyuncs.com
   - DOMAIN,mobads-logs.baidu.com
@@ -19396,7 +19379,6 @@ payload:
   - DOMAIN,nfdnserror17.wo.com.cn
   - DOMAIN,nfdnserror3.wo.com.cn
   - DOMAIN,nfdnserror5.wo.com.cn
-  - DOMAIN,nfdnserror6.wo.com.cn
   - DOMAIN,nfdnserror7.wo.com.cn
   - DOMAIN,nfreya.net.daraz.com
   - DOMAIN,nfused.eobuv.com.ua
@@ -20174,7 +20156,6 @@ payload:
   - DOMAIN,ozone.10jqka.com.cn
   - DOMAIN,p-l.play.aiseet.atianqi.com
   - DOMAIN,p.37see.com
-  - DOMAIN,p.7060.la
   - DOMAIN,p.99mssj.com
   - DOMAIN,p.abcache.com
   - DOMAIN,p.adsymptotic.com
@@ -22544,6 +22525,7 @@ payload:
   - DOMAIN,s1.irs03.com
   - DOMAIN,s1.kuaibaopay.com
   - DOMAIN,s1.leshi123.cc
+  - DOMAIN,s1.pipishu.com
   - DOMAIN,s1.qiqutt.cn
   - DOMAIN,s1.qiuyi.cn
   - DOMAIN,s1.s8tu.com
@@ -23015,6 +22997,7 @@ payload:
   - DOMAIN,sbsaustralia.hb.omtrdc.net
   - DOMAIN,sbttlj.togetter.com
   - DOMAIN,sbvxlj.quincaillerie.pro
+  - DOMAIN,sbw.ysjweb.com
   - DOMAIN,sbx.pagesjaunes.fr
   - DOMAIN,sbxelb.bonprix.ro
   - DOMAIN,sby1.madeindesign.de
@@ -24030,7 +24013,6 @@ payload:
   - DOMAIN,smart2.allocine.fr
   - DOMAIN,smartad.10010.com
   - DOMAIN,smartbroker.efscle.com
-  - DOMAIN,smartpixel.auditorius.ru
   - DOMAIN,smatning.volkswagen.se
   - DOMAIN,smatrix.hbo.com
   - DOMAIN,smb.info.shutterstock.com
@@ -26216,7 +26198,6 @@ payload:
   - DOMAIN,static.kameleoon.com
   - DOMAIN,static.karte.io
   - DOMAIN,static.kibboko.com
-  - DOMAIN,static.l3.cdn.adsucks.com
   - DOMAIN,static.lalaping.com
   - DOMAIN,static.linkz.net
   - DOMAIN,static.live.nagezan.net
@@ -26738,7 +26719,6 @@ payload:
   - DOMAIN,stats.steuer-soldaten.de
   - DOMAIN,stats.strawberry.rocks
   - DOMAIN,stats.streamhub.io
-  - DOMAIN,stats.stronglifts.com
   - DOMAIN,stats.studypages.com
   - DOMAIN,stats.stylight.it
   - DOMAIN,stats.sublimesecurity.com
@@ -27207,6 +27187,7 @@ payload:
   - DOMAIN,symbio.actonservice.com
   - DOMAIN,syn.verticalacuity.com
   - DOMAIN,synad.nuffnang.com.sg
+  - DOMAIN,synad2.nuffnang.com.cn
   - DOMAIN,sync-dsp.ad-m.asia
   - DOMAIN,sync-tm.everesttech.net
   - DOMAIN,sync.1dmp.io
@@ -30067,7 +30048,6 @@ payload:
   - DOMAIN,vt.5.p2l.info
   - DOMAIN,vt.ipinyou.com
   - DOMAIN,vtf2f.banque-casino.fr
-  - DOMAIN,vtrack.vht.com.vn
   - DOMAIN,vtt.zwda.com
   - DOMAIN,vttics.world.co.jp
   - DOMAIN,vudjof.tiu.ru
@@ -31446,7 +31426,6 @@ payload:
   - DOMAIN,y3.ifengimg.com
   - DOMAIN,y66xvgo5i.chuimg.com
   - DOMAIN,yab-adimages.s3.amazonaws.com
-  - DOMAIN,yaba.org.cn
   - DOMAIN,yad.pandafilms.best
   - DOMAIN,yads.c.yimg.jp
   - DOMAIN,yads.yahoo.co.jp
