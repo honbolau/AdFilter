@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYyNDkyODEyMgo=
+# Checksum: MTYyNTAxNDg0Nwo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210629-0
-# TimeUpdated: 2021-06-29T00:55:22+00:00
+# Version: 1.1.8-20210630-0
+# TimeUpdated: 2021-06-30T01:00:47+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 31855
+# Total: 31845
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -324,6 +324,7 @@ payload:
   - DOMAIN,9857064.hello.spriggy.com.au
   - DOMAIN,9857064.notice.spriggy.com.au
   - DOMAIN,9990.spqsd.com
+  - DOMAIN,99js.rxys.com
   - DOMAIN,9kz9cttz76.antonsten.com
   - DOMAIN,9lks.piratebayproxies.cc
   - DOMAIN,a-ad.adwo.com
@@ -1261,6 +1262,7 @@ payload:
   - DOMAIN,ad.ad-stir.com
   - DOMAIN,ad.adfurikun.jp
   - DOMAIN,ad.adhouyi.cn
+  - DOMAIN,ad.adixs.co.kr
   - DOMAIN,ad.admitad.com
   - DOMAIN,ad.adriver.ru
   - DOMAIN,ad.advst.cp33.ott.cibntv.net
@@ -1336,6 +1338,7 @@ payload:
   - DOMAIN,ad.doganburda.com
   - DOMAIN,ad.domainfactory.de
   - DOMAIN,ad.donanimhaber.com
+  - DOMAIN,ad.doubanio.com
   - DOMAIN,ad.doubleclick.net
   - DOMAIN,ad.doublemax.net
   - DOMAIN,ad.download.cnet.com
@@ -3053,6 +3056,7 @@ payload:
   - DOMAIN,adserver.bizland-inc.net
   - DOMAIN,adserver.bluereactor.com
   - DOMAIN,adserver.break-even.it
+  - DOMAIN,adserver.buttonware.net
   - DOMAIN,adserver.cams.com
   - DOMAIN,adserver.cantv.net
   - DOMAIN,adserver.cdnstream.com
@@ -3243,6 +3247,7 @@ payload:
   - DOMAIN,adspaces.ero-advertising.com
   - DOMAIN,adspot.tfgapps.com
   - DOMAIN,adsrv.deviantart.com
+  - DOMAIN,adsrv.heraldtribune.com
   - DOMAIN,adsrv.iol.co.za
   - DOMAIN,adsrv.lua.pl
   - DOMAIN,adsrv.moebelmarkt.tv
@@ -3783,7 +3788,6 @@ payload:
   - DOMAIN,analytics-production.hapyak.com
   - DOMAIN,analytics-proxy.springboard.com
   - DOMAIN,analytics-scripts.cablelabs.com
-  - DOMAIN,analytics-sdk.yle.fi
   - DOMAIN,analytics-secure.dollargeneral.com
   - DOMAIN,analytics-server.gimbal.com
   - DOMAIN,analytics-sg.tiktok.com
@@ -4334,6 +4338,7 @@ payload:
   - DOMAIN,api.adnsafe.org
   - DOMAIN,api.ads.watchabc.go.com
   - DOMAIN,api.adtimaserver.vn
+  - DOMAIN,api.adv.ott.cibntv.net
   - DOMAIN,api.adxpand.com
   - DOMAIN,api.afdback.ppsimg.com
   - DOMAIN,api.aiclk.com
@@ -4749,6 +4754,7 @@ payload:
   - DOMAIN,as.nidongme.com
   - DOMAIN,as.payback.it
   - DOMAIN,as.rollingstone.de
+  - DOMAIN,as.saechsische.de
   - DOMAIN,as.sexad.net
   - DOMAIN,as.sinahk.net
   - DOMAIN,as.stylebook.de
@@ -5411,7 +5417,6 @@ payload:
   - DOMAIN,bbbihe.vertbaudet.es
   - DOMAIN,bbcdn.go.cz.bbelements.com
   - DOMAIN,bbdm.051661.com
-  - DOMAIN,bbn.gzblogger.cn
   - DOMAIN,bbn.img.com.ua
   - DOMAIN,bbnn.999xs.com
   - DOMAIN,bbsimages.zkxf119.com
@@ -6342,6 +6347,7 @@ payload:
   - DOMAIN,caing.adsame.com
   - DOMAIN,caixin.adsame.com
   - DOMAIN,cal.meizu.com
+  - DOMAIN,calameo-beacon.global.ssl.fastly.net
   - DOMAIN,calendar.rodim.ru
   - DOMAIN,call-tracking.co.uk
   - DOMAIN,callofduty.freegiveaway.us
@@ -6791,7 +6797,6 @@ payload:
   - DOMAIN,cds1287.lon.llnw.net
   - DOMAIN,cds1289.lon.llnw.net
   - DOMAIN,cds1293.lon.llnw.net
-  - DOMAIN,cds1307.lon.llnw.net
   - DOMAIN,cds177.dus.llnw.net
   - DOMAIN,cds308.lcy.llnw.net
   - DOMAIN,cds310.lcy.llnw.net
@@ -7295,6 +7300,7 @@ payload:
   - DOMAIN,clubpenguinmembershiphack.newzgames.com
   - DOMAIN,clumsyninjahack.goblogz.net
   - DOMAIN,cluster.adultworld.com
+  - DOMAIN,cluster.awmdelivery.com
   - DOMAIN,cluster.chart.dk
   - DOMAIN,clvk.viki.io
   - DOMAIN,cm-exchange.toast.com
@@ -7423,7 +7429,6 @@ payload:
   - DOMAIN,cnllif.mycs.com
   - DOMAIN,cnn.dyn.cnn.com
   - DOMAIN,cnn.hb.omtrdc.net
-  - DOMAIN,cnpc.infzm.com
   - DOMAIN,cns-service.actonservice.com
   - DOMAIN,cnstats.cdev.eu
   - DOMAIN,cnt.3dmy.net
@@ -9131,6 +9136,7 @@ payload:
   - DOMAIN,damxx.net.daraz.com
   - DOMAIN,dan.mgr.consensu.org
   - DOMAIN,danger-phentermine.allforyourlife.com
+  - DOMAIN,dangrancha.com.cn
   - DOMAIN,dante.vl.ru
   - DOMAIN,dap.digitalgov.gov
   - DOMAIN,dap.pagechoice.net
@@ -10239,7 +10245,6 @@ payload:
   - DOMAIN,e.kzwsh.cn
   - DOMAIN,e.lndjj.com
   - DOMAIN,e.miaoxinqipei.com
-  - DOMAIN,e.mightiger.net
   - DOMAIN,e.nbkbgd.cn
   - DOMAIN,e.nchet.com
   - DOMAIN,e.nexac.com
@@ -12351,7 +12356,6 @@ payload:
   - DOMAIN,go.emails.discoveryplus.com
   - DOMAIN,go.emersonautomation.com
   - DOMAIN,go.enverus.com
-  - DOMAIN,go.envestnet.com
   - DOMAIN,go.epiqglobal.com
   - DOMAIN,go.epiqsystems.com
   - DOMAIN,go.equifax.com
@@ -13469,7 +13473,6 @@ payload:
   - DOMAIN,hkqrpk.ozon.ru
   - DOMAIN,hktracker.hankookilbo.com
   - DOMAIN,hl.kuzu.com
-  - DOMAIN,hljdnserror1.wo.com.cn
   - DOMAIN,hljdnserror3.wo.com.cn
   - DOMAIN,hljdnserror4.wo.com.cn
   - DOMAIN,hljdnserror5.wo.com.cn
@@ -13493,7 +13496,6 @@ payload:
   - DOMAIN,hnbhcu.kassir.ru
   - DOMAIN,hnbutton.appspot.com
   - DOMAIN,hndnserror1.wo.com.cn
-  - DOMAIN,hndnserror3.wo.com.cn
   - DOMAIN,hnnuaa.willhaben.at
   - DOMAIN,hnpgjp.cyclemarket.jp
   - DOMAIN,hntxyc.schadeautos.nl
@@ -15526,7 +15528,6 @@ payload:
   - DOMAIN,l.m.naver.com
   - DOMAIN,l.minisplat.cn
   - DOMAIN,l.msdl.naver.com
-  - DOMAIN,l.niiblo.jp
   - DOMAIN,l.ohmyad.co
   - DOMAIN,l.player.ooyala.com
   - DOMAIN,l.popin.cc
@@ -16435,7 +16436,6 @@ payload:
   - DOMAIN,m.clkservice.youdao.com
   - DOMAIN,m.cocounion.com
   - DOMAIN,m.coenr.com
-  - DOMAIN,m.cqolg.cn
   - DOMAIN,m.cudaojia.com
   - DOMAIN,m.cuoss.com
   - DOMAIN,m.d8qu.com
@@ -19242,14 +19242,12 @@ payload:
   - DOMAIN,nextclick.com.ru
   - DOMAIN,nextel-ringtone.spb.su
   - DOMAIN,nf.5.p2l.info
-  - DOMAIN,nfdnserror10.wo.com.cn
   - DOMAIN,nfdnserror11.wo.com.cn
   - DOMAIN,nfdnserror13.wo.com.cn
   - DOMAIN,nfdnserror15.wo.com.cn
   - DOMAIN,nfdnserror17.wo.com.cn
   - DOMAIN,nfdnserror3.wo.com.cn
   - DOMAIN,nfdnserror5.wo.com.cn
-  - DOMAIN,nfdnserror7.wo.com.cn
   - DOMAIN,nfl.hb.omtrdc.net
   - DOMAIN,nfreya.net.daraz.com
   - DOMAIN,nfused.eobuv.com.ua
@@ -19437,7 +19435,6 @@ payload:
   - DOMAIN,ns2.idsviviotech.net.daraz.com
   - DOMAIN,ns2.k8s-devcl.bellsouth.net.daraz.com
   - DOMAIN,ns2.k8s-prod.cl.bellsouth.net.daraz.com
-  - DOMAIN,ns2.lalibco.com
   - DOMAIN,ns2.orgcl.bellsouth.net.daraz.com
   - DOMAIN,ns2.proxy-viviotech.net.daraz.com
   - DOMAIN,ns2.srcips.com
@@ -19557,7 +19554,6 @@ payload:
   - DOMAIN,oascentral.eastbayexpress.com
   - DOMAIN,oascentral.fashionmagazine.com
   - DOMAIN,oascentral.freedom.com
-  - DOMAIN,oascentral.g4techtv.com
   - DOMAIN,oascentral.gigex.com
   - DOMAIN,oascentral.hollywood.com
   - DOMAIN,oascentral.itbusiness.ca
@@ -19565,7 +19561,6 @@ payload:
   - DOMAIN,oascentral.lycos.com
   - DOMAIN,oascentral.newsmax.com
   - DOMAIN,oascentral.redherring.com
-  - DOMAIN,oascentral.scientificamerican.com
   - DOMAIN,oascentral.theonion.com
   - DOMAIN,oascentral.theonionavclub.com
   - DOMAIN,oascentral.thephoenix.com
@@ -19811,7 +19806,6 @@ payload:
   - DOMAIN,oms.snnow.ca
   - DOMAIN,oms.todaysparent.com
   - DOMAIN,oms.tsc.ca
-  - DOMAIN,oms.venere.com
   - DOMAIN,oms.wsj.com
   - DOMAIN,oms1.sportsnet.ca
   - DOMAIN,omt.honda.com
@@ -21674,6 +21668,7 @@ payload:
   - DOMAIN,r.w.inmobi.com
   - DOMAIN,r.whytoss.com
   - DOMAIN,r.youmi.net
+  - DOMAIN,r.z2.fm
   - DOMAIN,r.zlongad.com
   - DOMAIN,r01.3dwwwgame.com
   - DOMAIN,r01.g1c5.com
@@ -22789,7 +22784,6 @@ payload:
   - DOMAIN,sanalytics.mopo.de
   - DOMAIN,sanalytics.myfsloan.com
   - DOMAIN,sanalytics.mz-web.de
-  - DOMAIN,sanalytics.nba.com
   - DOMAIN,sanalytics.ncaa.com
   - DOMAIN,sanalytics.powernewz.ch
   - DOMAIN,sanalytics.proactiv.com
@@ -23068,7 +23062,6 @@ payload:
   - DOMAIN,sddnserror1.wo.com.cn
   - DOMAIN,sddnserror2.wo.com.cn
   - DOMAIN,sddnserror6.wo.com.cn
-  - DOMAIN,sddnserror7.wo.com.cn
   - DOMAIN,sddnserror9.wo.com.cn
   - DOMAIN,sdfp.snssdk.com
   - DOMAIN,sdfsf.freecontent.date
@@ -26532,7 +26525,6 @@ payload:
   - DOMAIN,stats.menn.blog
   - DOMAIN,stats.merriam-webster.com
   - DOMAIN,stats.mesenvies.fr
-  - DOMAIN,stats.metrozendodo.fr
   - DOMAIN,stats.miarroba.info
   - DOMAIN,stats.mikepenz.dev
   - DOMAIN,stats.millanusa.com
@@ -27263,7 +27255,6 @@ payload:
   - DOMAIN,t.eharmony.com
   - DOMAIN,t.enbw.com
   - DOMAIN,t.etraveli.com
-  - DOMAIN,t.fatcatstar.com
   - DOMAIN,t.felmat.net
   - DOMAIN,t.festo.com
   - DOMAIN,t.fileplaneta.com
@@ -27342,7 +27333,6 @@ payload:
   - DOMAIN,t.smile.eu
   - DOMAIN,t.spot.im
   - DOMAIN,t.supermario.xyz
-  - DOMAIN,t.targetuse.com
   - DOMAIN,t.trafmag.com
   - DOMAIN,t.tzcccm.com
   - DOMAIN,t.uc.cn
