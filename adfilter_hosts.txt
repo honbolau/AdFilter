@@ -1,11 +1,11 @@
-# Checksum: MTYyNTEwMTI3NAo=
+# Checksum: MTYyNTE4NzQ1Mgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210701-0
-# TimeUpdated: 2021-07-01T01:01:14+00:00
+# Version: 1.1.8-20210702-0
+# TimeUpdated: 2021-07-02T00:57:32+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 31835
+# Total: 31838
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5220,6 +5220,8 @@ ff02::3 ip6-allhosts
 :: ads.passiontimes.hk
 0.0.0.0 ads.paxnet.co.kr
 :: ads.paxnet.co.kr
+0.0.0.0 ads.paymonex.net
+:: ads.paymonex.net
 0.0.0.0 ads.pcccdongduong.vn
 :: ads.pcccdongduong.vn
 0.0.0.0 ads.peel.com
@@ -6036,8 +6038,6 @@ ff02::3 ip6-allhosts
 :: adserve.mizzenmedia.com
 0.0.0.0 adserve.podaddies.com
 :: adserve.podaddies.com
-0.0.0.0 adserve.profit-smart.com
-:: adserve.profit-smart.com
 0.0.0.0 adserve.shopzilla.com
 :: adserve.shopzilla.com
 0.0.0.0 adserve.viaarena.com
@@ -7362,6 +7362,8 @@ ff02::3 ip6-allhosts
 :: alogs.umeng.com
 0.0.0.0 alogs.umengcloud.com
 :: alogs.umengcloud.com
+0.0.0.0 alogus.umeng.com
+:: alogus.umeng.com
 0.0.0.0 alp1.drimki.fr
 :: alp1.drimki.fr
 0.0.0.0 alpaca.reclaimthenet.org
@@ -12660,8 +12662,6 @@ ff02::3 ip6-allhosts
 :: cache.sellwild.com
 0.0.0.0 cache.send.microadinc.com
 :: cache.send.microadinc.com
-0.0.0.0 cache.soloth.com
-:: cache.soloth.com
 0.0.0.0 cache.xw126.com
 :: cache.xw126.com
 0.0.0.0 cache1.value-domain.com
@@ -15804,8 +15804,6 @@ ff02::3 ip6-allhosts
 :: cougar.igtools.app
 0.0.0.0 count.1133.cc
 :: count.1133.cc
-0.0.0.0 count.51yes.com
-:: count.51yes.com
 0.0.0.0 count.612.com
 :: count.612.com
 0.0.0.0 count.asnetworks.de
@@ -17540,8 +17538,6 @@ ff02::3 ip6-allhosts
 :: d2a945og79nayl.cloudfront.net
 0.0.0.0 d2au4l2o128joe.cloudfront.net
 :: d2au4l2o128joe.cloudfront.net
-0.0.0.0 d2axgrpnciinw7.cloudfront.net
-:: d2axgrpnciinw7.cloudfront.net
 0.0.0.0 d2b7n13v8adl6f.cloudfront.net
 :: d2b7n13v8adl6f.cloudfront.net
 0.0.0.0 d2bbvl6dq48fa6.cloudfront.net
@@ -17776,6 +17772,8 @@ ff02::3 ip6-allhosts
 :: d2zjd612oq0w0l.cloudfront.net
 0.0.0.0 d2zm90ue88koyl.cloudfront.net
 :: d2zm90ue88koyl.cloudfront.net
+0.0.0.0 d2znr2yi078d75.cloudfront.net
+:: d2znr2yi078d75.cloudfront.net
 0.0.0.0 d2zur9cc2gf1tx.cloudfront.net
 :: d2zur9cc2gf1tx.cloudfront.net
 0.0.0.0 d3.mobaders.com
@@ -18808,6 +18806,8 @@ ff02::3 ip6-allhosts
 :: delivery.satr.jp
 0.0.0.0 delivery.senvangvn.com
 :: delivery.senvangvn.com
+0.0.0.0 delivery.sexyxxx.biz
+:: delivery.sexyxxx.biz
 0.0.0.0 delivery.smashing.services
 :: delivery.smashing.services
 0.0.0.0 delivery.swid.switchads.com
@@ -21812,6 +21812,8 @@ ff02::3 ip6-allhosts
 :: err.taobao.com
 0.0.0.0 errlog.umeng.com
 :: errlog.umeng.com
+0.0.0.0 errlogos.umeng.com
+:: errlogos.umeng.com
 0.0.0.0 error.videonow.ru
 :: error.videonow.ru
 0.0.0.0 errorcode.logger.baofeng.com
@@ -22446,6 +22448,8 @@ ff02::3 ip6-allhosts
 :: fairfaxmedia.sharedcount.com
 0.0.0.0 fairy.wfairyg.com
 :: fairy.wfairyg.com
+0.0.0.0 fame.web24news.com
+:: fame.web24news.com
 0.0.0.0 famvir.1.p2l.info
 :: famvir.1.p2l.info
 0.0.0.0 fancydigital.com.cn
@@ -23090,6 +23094,8 @@ ff02::3 ip6-allhosts
 :: free-money.host.sk
 0.0.0.0 free-torrents.eu.org
 :: free-torrents.eu.org
+0.0.0.0 free-virus-scan.100gal.net
+:: free-virus-scan.100gal.net
 0.0.0.0 free.aol.com
 :: free.aol.com
 0.0.0.0 free.easyphotoedit.com
@@ -23164,6 +23170,8 @@ ff02::3 ip6-allhosts
 :: fs-uc-nearme-com-cn.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 fs.uc.nearme.com.cn
 :: fs.uc.nearme.com.cn
+0.0.0.0 fsb-russia.dtdns.net
+:: fsb-russia.dtdns.net
 0.0.0.0 fsegfy.lepoint.fr
 :: fsegfy.lepoint.fr
 0.0.0.0 fsi.seek.intel.com
@@ -26940,8 +26948,6 @@ ff02::3 ip6-allhosts
 :: hktracker.hankookilbo.com
 0.0.0.0 hl.kuzu.com
 :: hl.kuzu.com
-0.0.0.0 hljdnserror3.wo.com.cn
-:: hljdnserror3.wo.com.cn
 0.0.0.0 hljdnserror4.wo.com.cn
 :: hljdnserror4.wo.com.cn
 0.0.0.0 hljdnserror5.wo.com.cn
@@ -30580,6 +30586,8 @@ ff02::3 ip6-allhosts
 :: jumpluna.58.com
 0.0.0.0 juniper.starleaf.com
 :: juniper.starleaf.com
+0.0.0.0 jur.unn.ac.ru
+:: jur.unn.ac.ru
 0.0.0.0 jurassicpark.newzgames.com
 :: jurassicpark.newzgames.com
 0.0.0.0 juxiao.adsmogo.net
@@ -30734,6 +30742,8 @@ ff02::3 ip6-allhosts
 :: kaxlfq.testingwithtestcafe.com
 0.0.0.0 kbd1.kpns.ijinshan.com
 :: kbd1.kpns.ijinshan.com
+0.0.0.0 kbd2.kpns.ijinshan.com
+:: kbd2.kpns.ijinshan.com
 0.0.0.0 kbn.korben.info
 :: kbn.korben.info
 0.0.0.0 kbnetworkz.s3.amazonaws.com
@@ -32448,6 +32458,8 @@ ff02::3 ip6-allhosts
 :: logs.thethaovanhoa.vn
 0.0.0.0 logs.upnono.com
 :: logs.upnono.com
+0.0.0.0 logs.viadata.store
+:: logs.viadata.store
 0.0.0.0 logs.vmixcore.com
 :: logs.vmixcore.com
 0.0.0.0 logs1.reatimes.vn
@@ -38486,8 +38498,6 @@ ff02::3 ip6-allhosts
 :: nfdnserror17.wo.com.cn
 0.0.0.0 nfdnserror3.wo.com.cn
 :: nfdnserror3.wo.com.cn
-0.0.0.0 nfdnserror5.wo.com.cn
-:: nfdnserror5.wo.com.cn
 0.0.0.0 nfl.hb.omtrdc.net
 :: nfl.hb.omtrdc.net
 0.0.0.0 nfreya.net.daraz.com
@@ -38514,8 +38524,6 @@ ff02::3 ip6-allhosts
 :: nginx.yancancook.net.daraz.com
 0.0.0.0 ngtraveler.com.cn
 :: ngtraveler.com.cn
-0.0.0.0 nh-cdn.sgp1.cdn.digitaloceanspaces.com
-:: nh-cdn.sgp1.cdn.digitaloceanspaces.com
 0.0.0.0 nh.5.p2l.info
 :: nh.5.p2l.info
 0.0.0.0 nhkonline.hb.omtrdc.net
@@ -38556,8 +38564,6 @@ ff02::3 ip6-allhosts
 :: nj.t.bcsp2p.baidu.com
 0.0.0.0 njnlih.realitatea.net
 :: njnlih.realitatea.net
-0.0.0.0 njs.msypr.com
-:: njs.msypr.com
 0.0.0.0 njs.reliancevalve.com
 :: njs.reliancevalve.com
 0.0.0.0 njtwub.schneider.de
@@ -41942,6 +41948,8 @@ ff02::3 ip6-allhosts
 :: pop.code.mytanwan.com
 0.0.0.0 pop.code.poyang.cn
 :: pop.code.poyang.cn
+0.0.0.0 pop.dojo.cc
+:: pop.dojo.cc
 0.0.0.0 pop.redirect.adsjudo.com
 :: pop.redirect.adsjudo.com
 0.0.0.0 pop.turnik.su
@@ -47348,6 +47356,8 @@ ff02::3 ip6-allhosts
 :: sgg.southcn.com
 0.0.0.0 sgnxcn.omni7.jp
 :: sgnxcn.omni7.jp
+0.0.0.0 sgp1.cdn.digitaloceanspaces.com
+:: sgp1.cdn.digitaloceanspaces.com
 0.0.0.0 sgphctileh-a.akamaihd.net
 :: sgphctileh-a.akamaihd.net
 0.0.0.0 sgs001.adtech.fr
@@ -54190,8 +54200,6 @@ ff02::3 ip6-allhosts
 :: sxcdn6.now.sh
 0.0.0.0 sxdnserror1.wo.com.cn
 :: sxdnserror1.wo.com.cn
-0.0.0.0 sxdnserror2.wo.com.cn
-:: sxdnserror2.wo.com.cn
 0.0.0.0 sxdnserror3.wo.com.cn
 :: sxdnserror3.wo.com.cn
 0.0.0.0 sxdnserror4.wo.com.cn
@@ -55120,8 +55128,6 @@ ff02::3 ip6-allhosts
 :: te.cleveland.net
 0.0.0.0 te.creation-l.de
 :: te.creation-l.de
-0.0.0.0 te.dailypress.com
-:: te.dailypress.com
 0.0.0.0 te.frankonia.de
 :: te.frankonia.de
 0.0.0.0 te.heine.de
@@ -55780,8 +55786,6 @@ ff02::3 ip6-allhosts
 :: tokei.upstract.com
 0.0.0.0 token.rubiconproject.com
 :: token.rubiconproject.com
-0.0.0.0 tom.allyes.com
-:: tom.allyes.com
 0.0.0.0 tomsonguitars.co.uk
 :: tomsonguitars.co.uk
 0.0.0.0 tongj.xilu.com
@@ -58034,6 +58038,8 @@ ff02::3 ip6-allhosts
 :: tracy.sadv.dadapro.com
 0.0.0.0 trade.koudaitong.com
 :: trade.koudaitong.com
+0.0.0.0 trade.mtime.com
+:: trade.mtime.com
 0.0.0.0 tradecraft.s.llnwi.net
 :: tradecraft.s.llnwi.net
 0.0.0.0 tradedoubler.sonvideopro.com
@@ -59412,8 +59418,6 @@ ff02::3 ip6-allhosts
 :: v1.play.log.hunantv.com
 0.0.0.0 v1.res.log.hunantv.com
 :: v1.res.log.hunantv.com
-0.0.0.0 v1.taksh.cn
-:: v1.taksh.cn
 0.0.0.0 v1.ujian.cc
 :: v1.ujian.cc
 0.0.0.0 v1.wphonelife.com
@@ -62592,6 +62596,8 @@ ff02::3 ip6-allhosts
 :: x.weather.com
 0.0.0.0 x.xxyxmdq.cn
 :: x.xxyxmdq.cn
+0.0.0.0 x0.ifengimg.com
+:: x0.ifengimg.com
 0.0.0.0 x01.aidata.io
 :: x01.aidata.io
 0.0.0.0 x0r.urlgalleries.net
