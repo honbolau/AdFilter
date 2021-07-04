@@ -1,11 +1,11 @@
-# Checksum: MTYyNTI3MzgwMwo=
+# Checksum: MTYyNTM2MDM0Ngo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210703-0
-# TimeUpdated: 2021-07-03T00:56:43+00:00
+# Version: 1.1.8-20210704-0
+# TimeUpdated: 2021-07-04T00:59:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 31855
+# Total: 31856
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -208,8 +208,6 @@ ff02::3 ip6-allhosts
 :: 11.96131.com.cn
 0.0.0.0 11.yiqig.cn
 :: 11.yiqig.cn
-0.0.0.0 111g.yiqig.cn
-:: 111g.yiqig.cn
 0.0.0.0 114-track.net.daraz.com
 :: 114-track.net.daraz.com
 0.0.0.0 1178.shucong.com
@@ -412,6 +410,8 @@ ff02::3 ip6-allhosts
 :: 33b.b33r.net
 0.0.0.0 360fenxi.mediav.com
 :: 360fenxi.mediav.com
+0.0.0.0 360vip.front99.com
+:: 360vip.front99.com
 0.0.0.0 377d936c10e6811f484c-6402e46c712497f58e3f77a59f47bbd5.r17.cf2.rackcdn.com
 :: 377d936c10e6811f484c-6402e46c712497f58e3f77a59f47bbd5.r17.cf2.rackcdn.com
 0.0.0.0 380.bu2z.com
@@ -6376,6 +6376,8 @@ ff02::3 ip6-allhosts
 :: adserver2.mindshare.de
 0.0.0.0 adserver9.contextad.com
 :: adserver9.contextad.com
+0.0.0.0 adserverb.conjelco.com
+:: adserverb.conjelco.com
 0.0.0.0 adservetx.media.net
 :: adservetx.media.net
 0.0.0.0 adservex.media.net
@@ -7460,6 +7462,8 @@ ff02::3 ip6-allhosts
 :: amradmin.5173.com
 0.0.0.0 ams.lenovomm.com
 :: ams.lenovomm.com
+0.0.0.0 ams900.goo.ne.jp
+:: ams900.goo.ne.jp
 0.0.0.0 amx.ltaome.cn
 :: amx.ltaome.cn
 0.0.0.0 amz.steamprices.com
@@ -13416,8 +13420,6 @@ ff02::3 ip6-allhosts
 :: cdn.sports-streams-online.club
 0.0.0.0 cdn.sports-streams-online.xyz
 :: cdn.sports-streams-online.xyz
-0.0.0.0 cdn.static-cnt.bid
-:: cdn.static-cnt.bid
 0.0.0.0 cdn.steambets.net
 :: cdn.steambets.net
 0.0.0.0 cdn.steepto.com
@@ -13500,6 +13502,8 @@ ff02::3 ip6-allhosts
 :: cdn1.srv.revdepo.com
 0.0.0.0 cdn1.tnkfactory.com
 :: cdn1.tnkfactory.com
+0.0.0.0 cdn1.xlightmedia.com
+:: cdn1.xlightmedia.com
 0.0.0.0 cdn11.contentabc.com
 :: cdn11.contentabc.com
 0.0.0.0 cdn1sitescout.edgesuite.net
@@ -15696,6 +15700,8 @@ ff02::3 ip6-allhosts
 :: cookies.gardena.net
 0.0.0.0 cookies.innershed.co.uk
 :: cookies.innershed.co.uk
+0.0.0.0 cookies.joneslanglasalle.co.jp
+:: cookies.joneslanglasalle.co.jp
 0.0.0.0 cookies.leadplace.fr
 :: cookies.leadplace.fr
 0.0.0.0 cookies.livepartners.com
@@ -15718,6 +15724,8 @@ ff02::3 ip6-allhosts
 :: cookietracking.eatonpowersource.com
 0.0.0.0 cookiex.ngd.yahoo.com
 :: cookiex.ngd.yahoo.com
+0.0.0.0 cooleefbaldw.uk.to
+:: cooleefbaldw.uk.to
 0.0.0.0 coolertracks.emailroi.com
 :: coolertracks.emailroi.com
 0.0.0.0 coolnovelties.co.uk
@@ -19436,6 +19444,8 @@ ff02::3 ip6-allhosts
 :: djsoo8p407d6p.cloudfront.net
 0.0.0.0 djv99sxoqpv11.cloudfront.net
 :: djv99sxoqpv11.cloudfront.net
+0.0.0.0 djvalve.com.cn
+:: djvalve.com.cn
 0.0.0.0 djwf0dl2q9i99.cloudfront.net
 :: djwf0dl2q9i99.cloudfront.net
 0.0.0.0 djz9es32qen64.cloudfront.net
@@ -20494,6 +20504,8 @@ ff02::3 ip6-allhosts
 :: e.nexac.com
 0.0.0.0 e.oaktreemobility.co.uk
 :: e.oaktreemobility.co.uk
+0.0.0.0 e.picbr.com
+:: e.picbr.com
 0.0.0.0 e.poonscn.com
 :: e.poonscn.com
 0.0.0.0 e.qq.com
@@ -20546,8 +20558,6 @@ ff02::3 ip6-allhosts
 :: e.xkqpco.com.com
 0.0.0.0 e.xxkio.com
 :: e.xxkio.com
-0.0.0.0 e.zkwsdf.com
-:: e.zkwsdf.com
 0.0.0.0 e1c.curtisswrightds.com
 :: e1c.curtisswrightds.com
 0.0.0.0 e2.hazeldenbettyford.org
@@ -23130,8 +23140,6 @@ ff02::3 ip6-allhosts
 :: freemoneymakingwebsite300.blogspot.com
 0.0.0.0 freenetflix.dlcodes.com
 :: freenetflix.dlcodes.com
-0.0.0.0 freepayasyougotopupuk.co.uk
-:: freepayasyougotopupuk.co.uk
 0.0.0.0 freepsncodes.deephack.com
 :: freepsncodes.deephack.com
 0.0.0.0 freesteamcodes.gripbuilds.com
@@ -24022,8 +24030,6 @@ ff02::3 ip6-allhosts
 :: gg86.pinggu.org
 0.0.0.0 gg8888.cnfol.com
 :: gg8888.cnfol.com
-0.0.0.0 ggb.douguo.com
-:: ggb.douguo.com
 0.0.0.0 ggcode.2345.com
 :: ggcode.2345.com
 0.0.0.0 ggdata1.cnr.cn
@@ -30084,8 +30090,6 @@ ff02::3 ip6-allhosts
 :: jiaoben.ganji.cn
 0.0.0.0 jiaoben.jucanw.com
 :: jiaoben.jucanw.com
-0.0.0.0 jiaoben.webkaka.com
-:: jiaoben.webkaka.com
 0.0.0.0 jiaoben.xinshipu.cn
 :: jiaoben.xinshipu.cn
 0.0.0.0 jiayi1.oss-cn-shanghai.aliyuncs.com
@@ -30226,8 +30230,6 @@ ff02::3 ip6-allhosts
 :: jrlt.beacon.qq.com
 0.0.0.0 jrnrgc.kitchenshop.ro
 :: jrnrgc.kitchenshop.ro
-0.0.0.0 jrpt.jrptweb.org
-:: jrpt.jrptweb.org
 0.0.0.0 js-1.pchome.net
 :: js-1.pchome.net
 0.0.0.0 js-apac-ss.ysm.yahoo.com
@@ -31068,8 +31070,6 @@ ff02::3 ip6-allhosts
 :: l.msdl.naver.com
 0.0.0.0 l.namjai.cc
 :: l.namjai.cc
-0.0.0.0 l.naturum.ne.jp
-:: l.naturum.ne.jp
 0.0.0.0 l.ohmyad.co
 :: l.ohmyad.co
 0.0.0.0 l.osakazine.net
@@ -33042,6 +33042,8 @@ ff02::3 ip6-allhosts
 :: m.lengren.com.cn
 0.0.0.0 m.lesanmo.top
 :: m.lesanmo.top
+0.0.0.0 m.llaoz.com
+:: m.llaoz.com
 0.0.0.0 m.lolvsdota.cn
 :: m.lolvsdota.cn
 0.0.0.0 m.louisan.cn
@@ -33238,6 +33240,8 @@ ff02::3 ip6-allhosts
 :: m.xt2d.cn
 0.0.0.0 m.xxkio.com
 :: m.xxkio.com
+0.0.0.0 m.y195j.cn
+:: m.y195j.cn
 0.0.0.0 m.yalayi.com
 :: m.yalayi.com
 0.0.0.0 m.yanjunbo.com
@@ -37978,6 +37982,8 @@ ff02::3 ip6-allhosts
 :: my.xtremelashes.com
 0.0.0.0 my2.hizliizlefilm.net
 :: my2.hizliizlefilm.net
+0.0.0.0 my2.teknoter.com
+:: my2.teknoter.com
 0.0.0.0 myad.toocle.com
 :: myad.toocle.com
 0.0.0.0 myads.telkomsel.com
@@ -38506,8 +38512,6 @@ ff02::3 ip6-allhosts
 :: nf.5.p2l.info
 0.0.0.0 nfdnserror11.wo.com.cn
 :: nfdnserror11.wo.com.cn
-0.0.0.0 nfdnserror13.wo.com.cn
-:: nfdnserror13.wo.com.cn
 0.0.0.0 nfdnserror15.wo.com.cn
 :: nfdnserror15.wo.com.cn
 0.0.0.0 nfdnserror17.wo.com.cn
@@ -46054,6 +46058,8 @@ ff02::3 ip6-allhosts
 :: scripts.psyma.com
 0.0.0.0 scripts.verticalacuity.com
 :: scripts.verticalacuity.com
+0.0.0.0 scrooge.channelcincinnati.com
+:: scrooge.channelcincinnati.com
 0.0.0.0 scrooge.nbc11.com
 :: scrooge.nbc11.com
 0.0.0.0 scrooge.nbc4.com
@@ -55388,8 +55394,6 @@ ff02::3 ip6-allhosts
 :: texas-holdem.shengen.ru
 0.0.0.0 texoay.svyaznoy.travel
 :: texoay.svyaznoy.travel
-0.0.0.0 text-link-ads.ientry.com
-:: text-link-ads.ientry.com
 0.0.0.0 text.benefitsatwork.be
 :: text.benefitsatwork.be
 0.0.0.0 text.benefitsatwork.ch
@@ -57884,8 +57888,6 @@ ff02::3 ip6-allhosts
 :: tracking.ssab.se
 0.0.0.0 tracking.stampready.net
 :: tracking.stampready.net
-0.0.0.0 tracking.statravel.de
-:: tracking.statravel.de
 0.0.0.0 tracking.stemcell.com
 :: tracking.stemcell.com
 0.0.0.0 tracking.style24.it
@@ -60866,8 +60868,6 @@ ff02::3 ip6-allhosts
 :: wh.giftd.tech
 0.0.0.0 whale.gdebrauwer.dev
 :: whale.gdebrauwer.dev
-0.0.0.0 whenupgrade.yourmainsourceforcontentprepared.win
-:: whenupgrade.yourmainsourceforcontentprepared.win
 0.0.0.0 wheswl.isaleti.com
 :: wheswl.isaleti.com
 0.0.0.0 whfpbc.99.com.cn
@@ -62586,6 +62586,8 @@ ff02::3 ip6-allhosts
 :: x.892155.com
 0.0.0.0 x.adnet.qq.com
 :: x.adnet.qq.com
+0.0.0.0 x.aigobook.com
+:: x.aigobook.com
 0.0.0.0 x.allabout.co.jp
 :: x.allabout.co.jp
 0.0.0.0 x.appbaqend.com
