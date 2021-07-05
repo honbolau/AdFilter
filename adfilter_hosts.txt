@@ -1,11 +1,11 @@
-# Checksum: MTYyNTM2MDM0Ngo=
+# Checksum: MTYyNTQ0NjY2NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210704-0
-# TimeUpdated: 2021-07-04T00:59:06+00:00
+# Version: 1.1.8-20210705-0
+# TimeUpdated: 2021-07-05T00:57:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 31856
+# Total: 31850
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -116,8 +116,6 @@ ff02::3 ip6-allhosts
 :: 1.i999d.cn
 0.0.0.0 1.idc100.com
 :: 1.idc100.com
-0.0.0.0 1.ideng.com
-:: 1.ideng.com
 0.0.0.0 1.iqeq.com.cn
 :: 1.iqeq.com.cn
 0.0.0.0 1.isanxia.com
@@ -1536,8 +1534,6 @@ ff02::3 ip6-allhosts
 :: a44251.actonservice.com
 0.0.0.0 a5.overclockers.ua
 :: a5.overclockers.ua
-0.0.0.0 a5xo-eng.spankbang.com
-:: a5xo-eng.spankbang.com
 0.0.0.0 a6.codejumps.com
 :: a6.codejumps.com
 0.0.0.0 a6.wechatpu.com
@@ -4578,6 +4574,8 @@ ff02::3 ip6-allhosts
 :: ads.channel4.com
 0.0.0.0 ads.cheabit.com
 :: ads.cheabit.com
+0.0.0.0 ads.checkm8.co.za
+:: ads.checkm8.co.za
 0.0.0.0 ads.chinadaily.com.cn
 :: ads.chinadaily.com.cn
 0.0.0.0 ads.chumcity.com
@@ -5196,6 +5194,8 @@ ff02::3 ip6-allhosts
 :: ads.oneway.mobi
 0.0.0.0 ads.online.ie
 :: ads.online.ie
+0.0.0.0 ads.onlineathens.com
+:: ads.onlineathens.com
 0.0.0.0 ads.open.pl
 :: ads.open.pl
 0.0.0.0 ads.opensubtitles.org
@@ -5822,6 +5822,8 @@ ff02::3 ip6-allhosts
 :: ads2.collegeclub.com
 0.0.0.0 ads2.contentabc.com
 :: ads2.contentabc.com
+0.0.0.0 ads2.emeraldcoast.com
+:: ads2.emeraldcoast.com
 0.0.0.0 ads2.evz.ro
 :: ads2.evz.ro
 0.0.0.0 ads2.femmefab.nl
@@ -6122,6 +6124,8 @@ ff02::3 ip6-allhosts
 :: adserver.clix.pt
 0.0.0.0 adserver.co.il
 :: adserver.co.il
+0.0.0.0 adserver.conjelco.com
+:: adserver.conjelco.com
 0.0.0.0 adserver.corusradionetwork.com
 :: adserver.corusradionetwork.com
 0.0.0.0 adserver.creative-asia.com
@@ -6286,6 +6290,10 @@ ff02::3 ip6-allhosts
 :: adserver.radio-canada.ca
 0.0.0.0 adserver.rhombusads.com
 :: adserver.rhombusads.com
+0.0.0.0 adserver.sabc.co.za
+:: adserver.sabc.co.za
+0.0.0.0 adserver.sabcnews.co.za
+:: adserver.sabcnews.co.za
 0.0.0.0 adserver.sanomawsoy.fi
 :: adserver.sanomawsoy.fi
 0.0.0.0 adserver.sciflicks.com
@@ -6376,8 +6384,6 @@ ff02::3 ip6-allhosts
 :: adserver2.mindshare.de
 0.0.0.0 adserver9.contextad.com
 :: adserver9.contextad.com
-0.0.0.0 adserverb.conjelco.com
-:: adserverb.conjelco.com
 0.0.0.0 adservetx.media.net
 :: adservetx.media.net
 0.0.0.0 adservex.media.net
@@ -13502,8 +13508,6 @@ ff02::3 ip6-allhosts
 :: cdn1.srv.revdepo.com
 0.0.0.0 cdn1.tnkfactory.com
 :: cdn1.tnkfactory.com
-0.0.0.0 cdn1.xlightmedia.com
-:: cdn1.xlightmedia.com
 0.0.0.0 cdn11.contentabc.com
 :: cdn11.contentabc.com
 0.0.0.0 cdn1sitescout.edgesuite.net
@@ -15724,8 +15728,6 @@ ff02::3 ip6-allhosts
 :: cookietracking.eatonpowersource.com
 0.0.0.0 cookiex.ngd.yahoo.com
 :: cookiex.ngd.yahoo.com
-0.0.0.0 cooleefbaldw.uk.to
-:: cooleefbaldw.uk.to
 0.0.0.0 coolertracks.emailroi.com
 :: coolertracks.emailroi.com
 0.0.0.0 coolnovelties.co.uk
@@ -17072,8 +17074,6 @@ ff02::3 ip6-allhosts
 :: d.wi-fi.ru
 0.0.0.0 d.xingshangnet.com
 :: d.xingshangnet.com
-0.0.0.0 d.xitongtiandi.net
-:: d.xitongtiandi.net
 0.0.0.0 d.yjbys.com
 :: d.yjbys.com
 0.0.0.0 d.yoyi.tv
@@ -20504,8 +20504,6 @@ ff02::3 ip6-allhosts
 :: e.nexac.com
 0.0.0.0 e.oaktreemobility.co.uk
 :: e.oaktreemobility.co.uk
-0.0.0.0 e.picbr.com
-:: e.picbr.com
 0.0.0.0 e.poonscn.com
 :: e.poonscn.com
 0.0.0.0 e.qq.com
@@ -29758,8 +29756,6 @@ ff02::3 ip6-allhosts
 :: ismpnb.pureda.co.kr
 0.0.0.0 isocket-creatives.s3.amazonaws.com
 :: isocket-creatives.s3.amazonaws.com
-0.0.0.0 isu.weidianyuedu.com
-:: isu.weidianyuedu.com
 0.0.0.0 isub.snssdk.com
 :: isub.snssdk.com
 0.0.0.0 isuzu.actonservice.com
@@ -30120,8 +30116,6 @@ ff02::3 ip6-allhosts
 :: jke1.jianke.com
 0.0.0.0 jknarp.kakaku.com
 :: jknarp.kakaku.com
-0.0.0.0 jldnserror5.wo.com.cn
-:: jldnserror5.wo.com.cn
 0.0.0.0 jldtlh.fashionnova.com
 :: jldtlh.fashionnova.com
 0.0.0.0 jln3.clstudios.com
@@ -30586,8 +30580,6 @@ ff02::3 ip6-allhosts
 :: jumpluna.58.com
 0.0.0.0 juniper.starleaf.com
 :: juniper.starleaf.com
-0.0.0.0 jur.unn.ac.ru
-:: jur.unn.ac.ru
 0.0.0.0 jurassicpark.newzgames.com
 :: jurassicpark.newzgames.com
 0.0.0.0 juxiao.adsmogo.net
@@ -31058,8 +31050,6 @@ ff02::3 ip6-allhosts
 :: l.kscmt.cn
 0.0.0.0 l.ksxcxb.cn
 :: l.ksxcxb.cn
-0.0.0.0 l.kyo2.jp
-:: l.kyo2.jp
 0.0.0.0 l.m.naver.com
 :: l.m.naver.com
 0.0.0.0 l.minisplat.cn
@@ -33042,8 +33032,6 @@ ff02::3 ip6-allhosts
 :: m.lengren.com.cn
 0.0.0.0 m.lesanmo.top
 :: m.lesanmo.top
-0.0.0.0 m.llaoz.com
-:: m.llaoz.com
 0.0.0.0 m.lolvsdota.cn
 :: m.lolvsdota.cn
 0.0.0.0 m.louisan.cn
@@ -41156,8 +41144,6 @@ ff02::3 ip6-allhosts
 :: pi.unox.com
 0.0.0.0 pic.0597kk.com
 :: pic.0597kk.com
-0.0.0.0 pic.51yes.com
-:: pic.51yes.com
 0.0.0.0 pic.aihaogou.com.cn
 :: pic.aihaogou.com.cn
 0.0.0.0 pic.bdyxzx.com
@@ -46058,8 +46044,6 @@ ff02::3 ip6-allhosts
 :: scripts.psyma.com
 0.0.0.0 scripts.verticalacuity.com
 :: scripts.verticalacuity.com
-0.0.0.0 scrooge.channelcincinnati.com
-:: scrooge.channelcincinnati.com
 0.0.0.0 scrooge.nbc11.com
 :: scrooge.nbc11.com
 0.0.0.0 scrooge.nbc4.com
@@ -50330,6 +50314,8 @@ ff02::3 ip6-allhosts
 :: smon.loc.gov
 0.0.0.0 smonitor.com.br
 :: smonitor.com.br
+0.0.0.0 smp.tus.ac.jp
+:: smp.tus.ac.jp
 0.0.0.0 smpl.hit.ppdb.pl
 :: smpl.hit.ppdb.pl
 0.0.0.0 smpop.icfcdn.com
@@ -52398,8 +52384,6 @@ ff02::3 ip6-allhosts
 :: static1.kewaishu.info
 0.0.0.0 static1.searchbox.baidu.com
 :: static1.searchbox.baidu.com
-0.0.0.0 static2.ero2you.com
-:: static2.ero2you.com
 0.0.0.0 static2.freebitco.in
 :: static2.freebitco.in
 0.0.0.0 static3.freebitco.in
@@ -56948,8 +56932,12 @@ ff02::3 ip6-allhosts
 :: track.ra.icast.cn
 0.0.0.0 track.readdsp.com
 :: track.readdsp.com
+0.0.0.0 track.realtimeboard.com
+:: track.realtimeboard.com
 0.0.0.0 track.recreativ.ru
 :: track.recreativ.ru
+0.0.0.0 track.robee.tech
+:: track.robee.tech
 0.0.0.0 track.roomster.com
 :: track.roomster.com
 0.0.0.0 track.rundschau-online.de
@@ -60494,8 +60482,6 @@ ff02::3 ip6-allhosts
 :: wddnff.bonprix.cz
 0.0.0.0 wdfhbx.zdpeanut.com
 :: wdfhbx.zdpeanut.com
-0.0.0.0 wdfhl.weidianyuedu.com
-:: wdfhl.weidianyuedu.com
 0.0.0.0 wdig.vo.llnwd.net
 :: wdig.vo.llnwd.net
 0.0.0.0 wdm.map24.com
@@ -60792,6 +60778,8 @@ ff02::3 ip6-allhosts
 :: webwise.bt.com
 0.0.0.0 weby.aaas.org
 :: weby.aaas.org
+0.0.0.0 weebvivian72.uk.to
+:: weebvivian72.uk.to
 0.0.0.0 weight-loss.1.p2l.info
 :: weight-loss.1.p2l.info
 0.0.0.0 weight-loss.3.p2l.info
@@ -61868,8 +61856,6 @@ ff02::3 ip6-allhosts
 :: www-sadobe.anabuki-community.com
 0.0.0.0 www-smt.daiichisankyo-hc.co.jp
 :: www-smt.daiichisankyo-hc.co.jp
-0.0.0.0 www-stats-so.f-secure.com
-:: www-stats-so.f-secure.com
 0.0.0.0 www08.kentaku.co.jp
 :: www08.kentaku.co.jp
 0.0.0.0 www1.acemetrix.com
@@ -62842,6 +62828,8 @@ ff02::3 ip6-allhosts
 :: xoomer.alice.it
 0.0.0.0 xothl.gbcnvip15.com
 :: xothl.gbcnvip15.com
+0.0.0.0 xoxo5-eng.spankbang.com
+:: xoxo5-eng.spankbang.com
 0.0.0.0 xpu.samsungelectronics.com
 :: xpu.samsungelectronics.com
 0.0.0.0 xqtcur.kirklands.com

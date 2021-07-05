@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYyNTM2MDM0Ngo=
+# Checksum: MTYyNTQ0NjY2NQo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210704-0
-# TimeUpdated: 2021-07-04T00:59:06+00:00
+# Version: 1.1.8-20210705-0
+# TimeUpdated: 2021-07-05T00:57:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 31856
+# Total: 31850
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -57,7 +57,6 @@ payload:
   - DOMAIN,1.hysou.com
   - DOMAIN,1.i999d.cn
   - DOMAIN,1.idc100.com
-  - DOMAIN,1.ideng.com
   - DOMAIN,1.iqeq.com.cn
   - DOMAIN,1.isanxia.com
   - DOMAIN,1.iugis.com
@@ -767,7 +766,6 @@ payload:
   - DOMAIN,a44233.actonservice.com
   - DOMAIN,a44251.actonservice.com
   - DOMAIN,a5.overclockers.ua
-  - DOMAIN,a5xo-eng.spankbang.com
   - DOMAIN,a6.codejumps.com
   - DOMAIN,a6.wechatpu.com
   - DOMAIN,a647dbrbqs.tumblr.com
@@ -2288,6 +2286,7 @@ payload:
   - DOMAIN,ads.champs-elysees.com
   - DOMAIN,ads.channel4.com
   - DOMAIN,ads.cheabit.com
+  - DOMAIN,ads.checkm8.co.za
   - DOMAIN,ads.chinadaily.com.cn
   - DOMAIN,ads.chumcity.com
   - DOMAIN,ads.cineville.nl
@@ -2597,6 +2596,7 @@ payload:
   - DOMAIN,ads.oneplace.com
   - DOMAIN,ads.oneway.mobi
   - DOMAIN,ads.online.ie
+  - DOMAIN,ads.onlineathens.com
   - DOMAIN,ads.open.pl
   - DOMAIN,ads.opensubtitles.org
   - DOMAIN,ads.optusnet.com.au
@@ -2910,6 +2910,7 @@ payload:
   - DOMAIN,ads2.collegclub.com
   - DOMAIN,ads2.collegeclub.com
   - DOMAIN,ads2.contentabc.com
+  - DOMAIN,ads2.emeraldcoast.com
   - DOMAIN,ads2.evz.ro
   - DOMAIN,ads2.femmefab.nl
   - DOMAIN,ads2.gamecity.net
@@ -3060,6 +3061,7 @@ payload:
   - DOMAIN,adserver.click4cash.de
   - DOMAIN,adserver.clix.pt
   - DOMAIN,adserver.co.il
+  - DOMAIN,adserver.conjelco.com
   - DOMAIN,adserver.corusradionetwork.com
   - DOMAIN,adserver.creative-asia.com
   - DOMAIN,adserver.creativeinspire.com
@@ -3142,6 +3144,8 @@ payload:
   - DOMAIN,adserver.proteinos.com
   - DOMAIN,adserver.radio-canada.ca
   - DOMAIN,adserver.rhombusads.com
+  - DOMAIN,adserver.sabc.co.za
+  - DOMAIN,adserver.sabcnews.co.za
   - DOMAIN,adserver.sanomawsoy.fi
   - DOMAIN,adserver.sciflicks.com
   - DOMAIN,adserver.scr.sk
@@ -3187,7 +3191,6 @@ payload:
   - DOMAIN,adserver2.mediainsight.de
   - DOMAIN,adserver2.mindshare.de
   - DOMAIN,adserver9.contextad.com
-  - DOMAIN,adserverb.conjelco.com
   - DOMAIN,adservetx.media.net
   - DOMAIN,adservex.media.net
   - DOMAIN,adservice.google.ca
@@ -6750,7 +6753,6 @@ payload:
   - DOMAIN,cdn1.pebx.pl
   - DOMAIN,cdn1.srv.revdepo.com
   - DOMAIN,cdn1.tnkfactory.com
-  - DOMAIN,cdn1.xlightmedia.com
   - DOMAIN,cdn11.contentabc.com
   - DOMAIN,cdn1sitescout.edgesuite.net
   - DOMAIN,cdn2.ad-center.com
@@ -7861,7 +7863,6 @@ payload:
   - DOMAIN,cookies.unidadeditorial.es
   - DOMAIN,cookietracking.eatonpowersource.com
   - DOMAIN,cookiex.ngd.yahoo.com
-  - DOMAIN,cooleefbaldw.uk.to
   - DOMAIN,coolertracks.emailroi.com
   - DOMAIN,coolnovelties.co.uk
   - DOMAIN,coop.pop.baofeng.com
@@ -8535,7 +8536,6 @@ payload:
   - DOMAIN,d.v2.ns.emailvision.net.daraz.com
   - DOMAIN,d.wi-fi.ru
   - DOMAIN,d.xingshangnet.com
-  - DOMAIN,d.xitongtiandi.net
   - DOMAIN,d.yjbys.com
   - DOMAIN,d.yoyi.tv
   - DOMAIN,d.ziyuanm.com
@@ -10251,7 +10251,6 @@ payload:
   - DOMAIN,e.nchet.com
   - DOMAIN,e.nexac.com
   - DOMAIN,e.oaktreemobility.co.uk
-  - DOMAIN,e.picbr.com
   - DOMAIN,e.poonscn.com
   - DOMAIN,e.qq.com
   - DOMAIN,e.qxfly.com
@@ -14878,7 +14877,6 @@ payload:
   - DOMAIN,islfwt.glamira.co.za
   - DOMAIN,ismpnb.pureda.co.kr
   - DOMAIN,isocket-creatives.s3.amazonaws.com
-  - DOMAIN,isu.weidianyuedu.com
   - DOMAIN,isub.snssdk.com
   - DOMAIN,isuzu.actonservice.com
   - DOMAIN,isyaux.dr-4ten.com
@@ -15059,7 +15057,6 @@ payload:
   - DOMAIN,jkcontrols.co.uk
   - DOMAIN,jke1.jianke.com
   - DOMAIN,jknarp.kakaku.com
-  - DOMAIN,jldnserror5.wo.com.cn
   - DOMAIN,jldtlh.fashionnova.com
   - DOMAIN,jln3.clstudios.com
   - DOMAIN,jm1.xiao89.com
@@ -15292,7 +15289,6 @@ payload:
   - DOMAIN,jump1.pszyzxh.org
   - DOMAIN,jumpluna.58.com
   - DOMAIN,juniper.starleaf.com
-  - DOMAIN,jur.unn.ac.ru
   - DOMAIN,jurassicpark.newzgames.com
   - DOMAIN,juxiao.adsmogo.net
   - DOMAIN,juxiao.mediav.com
@@ -15528,7 +15524,6 @@ payload:
   - DOMAIN,l.junglekouen.com
   - DOMAIN,l.kscmt.cn
   - DOMAIN,l.ksxcxb.cn
-  - DOMAIN,l.kyo2.jp
   - DOMAIN,l.m.naver.com
   - DOMAIN,l.minisplat.cn
   - DOMAIN,l.miyachan.cc
@@ -16520,7 +16515,6 @@ payload:
   - DOMAIN,m.laoqu123.com
   - DOMAIN,m.lengren.com.cn
   - DOMAIN,m.lesanmo.top
-  - DOMAIN,m.llaoz.com
   - DOMAIN,m.lolvsdota.cn
   - DOMAIN,m.louisan.cn
   - DOMAIN,m.lousivency.com.cn
@@ -20577,7 +20571,6 @@ payload:
   - DOMAIN,pi.technik3d.com
   - DOMAIN,pi.unox.com
   - DOMAIN,pic.0597kk.com
-  - DOMAIN,pic.51yes.com
   - DOMAIN,pic.aihaogou.com.cn
   - DOMAIN,pic.bdyxzx.com
   - DOMAIN,pic.bloggerads.net
@@ -23028,7 +23021,6 @@ payload:
   - DOMAIN,scripts.mrpiracy.xyz
   - DOMAIN,scripts.psyma.com
   - DOMAIN,scripts.verticalacuity.com
-  - DOMAIN,scrooge.channelcincinnati.com
   - DOMAIN,scrooge.nbc11.com
   - DOMAIN,scrooge.nbc4.com
   - DOMAIN,scrooge.nbcsandiego.com
@@ -25164,6 +25156,7 @@ payload:
   - DOMAIN,smon.congress.gov
   - DOMAIN,smon.loc.gov
   - DOMAIN,smonitor.com.br
+  - DOMAIN,smp.tus.ac.jp
   - DOMAIN,smpl.hit.ppdb.pl
   - DOMAIN,smpop.icfcdn.com
   - DOMAIN,smr.nuro.jp
@@ -26198,7 +26191,6 @@ payload:
   - DOMAIN,static1.freebitco.in
   - DOMAIN,static1.kewaishu.info
   - DOMAIN,static1.searchbox.baidu.com
-  - DOMAIN,static2.ero2you.com
   - DOMAIN,static2.freebitco.in
   - DOMAIN,static3.freebitco.in
   - DOMAIN,static4.freebitco.in
@@ -28473,7 +28465,9 @@ payload:
   - DOMAIN,track.qoof.com
   - DOMAIN,track.ra.icast.cn
   - DOMAIN,track.readdsp.com
+  - DOMAIN,track.realtimeboard.com
   - DOMAIN,track.recreativ.ru
+  - DOMAIN,track.robee.tech
   - DOMAIN,track.roomster.com
   - DOMAIN,track.rundschau-online.de
   - DOMAIN,track.saygames.io
@@ -30246,7 +30240,6 @@ payload:
   - DOMAIN,wdads.sx.atl.publicus.com
   - DOMAIN,wddnff.bonprix.cz
   - DOMAIN,wdfhbx.zdpeanut.com
-  - DOMAIN,wdfhl.weidianyuedu.com
   - DOMAIN,wdig.vo.llnwd.net
   - DOMAIN,wdm.map24.com
   - DOMAIN,wdr9.inseec.com
@@ -30395,6 +30388,7 @@ payload:
   - DOMAIN,webwidgetz.duckdns.org
   - DOMAIN,webwise.bt.com
   - DOMAIN,weby.aaas.org
+  - DOMAIN,weebvivian72.uk.to
   - DOMAIN,weight-loss.1.p2l.info
   - DOMAIN,weight-loss.3.p2l.info
   - DOMAIN,weight-loss.4.p2l.info
@@ -30933,7 +30927,6 @@ payload:
   - DOMAIN,www-sadobe.384.co.jp
   - DOMAIN,www-sadobe.anabuki-community.com
   - DOMAIN,www-smt.daiichisankyo-hc.co.jp
-  - DOMAIN,www-stats-so.f-secure.com
   - DOMAIN,www08.kentaku.co.jp
   - DOMAIN,www1.acemetrix.com
   - DOMAIN,www1.amigo2.ne.jp
@@ -31420,6 +31413,7 @@ payload:
   - DOMAIN,xohhed.macway.com
   - DOMAIN,xoomer.alice.it
   - DOMAIN,xothl.gbcnvip15.com
+  - DOMAIN,xoxo5-eng.spankbang.com
   - DOMAIN,xpu.samsungelectronics.com
   - DOMAIN,xqtcur.kirklands.com
   - DOMAIN,xray.jebe.renren.com
