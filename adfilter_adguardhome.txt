@@ -1,11 +1,11 @@
-! Checksum: MTYyNTUzMzI1MQo=
+! Checksum: MTYyNTYxOTYyNQo=
 ! Title: Zhijie's Ad Filter for AdGuard Home (DNS-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.1.8-20210706-0
-! TimeUpdated: 2021-07-06T01:00:51+00:00
+! Version: 1.1.8-20210707-0
+! TimeUpdated: 2021-07-07T01:00:25+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 32626
+! Total: 32620
 |0.nextyourcontent.com^
 |0.r.msn.com^
 |0.up.qingdaonews.com^
@@ -396,6 +396,7 @@
 |a.consumer.net^
 |a.csfd.cz^
 |a.dangdang.com^
+|a.ddli.jp^
 |a.denik.cz^
 |a.diaoyu.cn^
 |a.dirtyasmr.com^
@@ -1474,6 +1475,7 @@
 |ad.doubleclick.net^
 |ad.doublemax.net^
 |ad.download.cnet.com^
+|ad.download.net^
 |ad.dslr-forum.de^
 |ad.duapps.com^
 |ad.duga.jp^
@@ -1823,6 +1825,7 @@
 |ad2.nend.net^
 |ad2.netriota.hu^
 |ad2.nmm.de^
+|ad2.parom.hu^
 |ad2.sina.com.cn^
 |ad2.thisisgame.com^
 |ad2.xrea.com^
@@ -2478,6 +2481,7 @@
 |ads.dogusdigital.com^
 |ads.doit.com.cn^
 |ads.domeus.com^
+|ads.dontpanicmedia.com^
 |ads.doublemax.net^
 |ads.drf.com^
 |ads.dtpnetwork.biz^
@@ -2509,6 +2513,7 @@
 |ads.expekt.com^
 |ads.fairfax.com.au^
 |ads.farakav.com^
+|ads.fark.com^
 |ads.faxo.com^
 |ads.feedly.com^
 |ads.feelingtouch.com^
@@ -2654,6 +2659,7 @@
 |ads.lycos.com^
 |ads.ma7.tv^
 |ads.magnetic.is^
+|ads.mail.com^
 |ads.mail3x.com^
 |ads.mariuana.it^
 |ads.marry.vn^
@@ -3208,6 +3214,7 @@
 |adserver.diariodosertao.com.br^
 |adserver.digitoday.com^
 |adserver.directforce.com^
+|adserver.dotcommedia.de^
 |adserver.dotmusic.com^
 |adserver.echdk.pl^
 |adserver.ekokatu.com^
@@ -3437,7 +3444,6 @@
 |adtm.chip.de^
 |adtmrs.delti.com^
 |adtrack.appcpi.net^
-|adtrack.enlightent.cn^
 |adtrack.king.com^
 |adtrack.ucweb.com^
 |adtracking.vinden.nl^
@@ -4406,7 +4412,6 @@
 |aorta.clickagy.com^
 |aos-creative.prf.hn^
 |aos.prf.hn^
-|aos.wall.youmi.net^
 |ap.ad-feed.com^
 |ap.cpatrk.net^
 |ap.delfi.ee^
@@ -5324,6 +5329,7 @@
 |b666.penzainform.ru^
 |b6ft.zone-turf.fr^
 |b90.yahoo.co.jp^
+|b92.yahoo.co.jp^
 |b97.yahoo.co.jp^
 |b9g4.nxwfhjvi.cn^
 |ba.ccm2.net^
@@ -7049,6 +7055,7 @@
 |ceuswatcab02.blob.core.windows.net^
 |cf-ads.pinger.com^
 |cf-eba.everytime.kr^
+|cf-native.karte.io^
 |cf.cdn.inmobi.com^
 |cf.zaiyunli.cn^
 |cf8d.stat.gw.youmi.net^
@@ -7212,7 +7219,6 @@
 |click.a-ads.com^
 |click.aabacosmallbusiness.com^
 |click.aaptiv.com^
-|click.abctrack.bid^
 |click.ad1.ru^
 |click.admaster.com.cn^
 |click.adpile.net^
@@ -7315,6 +7321,7 @@
 |click.uve.mobile.sina.cn^
 |click.uve.weibo.com^
 |click.vgnett.no^
+|click.vieon.vn^
 |click.voc.com.cn^
 |click.yhd.com^
 |click.zmctrack.net^
@@ -9932,7 +9939,6 @@
 |djs.baomihua.com^
 |djsoo8p407d6p.cloudfront.net^
 |djv99sxoqpv11.cloudfront.net^
-|djvalve.com.cn^
 |djwf0dl2q9i99.cloudfront.net^
 |djz9es32qen64.cloudfront.net^
 |dk-ekstrabladet.vp.videoplaza.tv^
@@ -10131,7 +10137,6 @@
 |dolphin.deliver.ifeng.com^
 |dolphin.maybe.co^
 |domain.aishengji.com^
-|dominas.femdomina.ru^
 |donate.crypto-webminer.com^
 |donkey.bahr.dev^
 |donkey.routinehub.co^
@@ -11439,7 +11444,6 @@
 |fair.sogou.com^
 |fairfaxmedia.sharedcount.com^
 |fairy.wfairyg.com^
-|fame.web24news.com^
 |famvir.1.p2l.info^
 |fancydigital.com.cn^
 |fancyrat.flatuicolors.com^
@@ -11598,7 +11602,6 @@
 |finanzcheck.product.fidormarket.com^
 |finch.koronasporing.no^
 |finding.hardwareheaven.com^
-|findnsave.idahostatesman.com^
 |finema-net.cdn.ampproject.org^
 |finley.finleyusa.com^
 |finndelbilder.blob.core.windows.net^
@@ -14111,7 +14114,6 @@
 |images.tyyjzs.cn^
 |images1.1133.cc^
 |images1.test.de^
-|images2.laih.com^
 |images8.gaotie.cn^
 |imageserv.adtech.fr^
 |imageserv.adtech.us^
@@ -15208,7 +15210,6 @@
 |itx5-publicidad.smartadserver.com^
 |itx5.smartadserver.com^
 |iu.juzi.cn^
-|iusacell-movil.com.mx^
 |ivcbrasil.org.br^
 |ivcxpw.kogan.com^
 |ivdsxn.atimes.co.jp^
@@ -15337,6 +15338,7 @@
 |jfm4.pop.baofeng.net^
 |jfmxly.digitalhorizon.it^
 |jfp6.destinia.de^
+|jg.bjpengyi.com^
 |jg0c.sfr.fr^
 |jgl.microad.net^
 |jgwmbo.h2opurificadores.com.br^
@@ -15834,28 +15836,19 @@
 |l.fairblocker.com^
 |l.fancyapi.com^
 |l.fastapi.net^
-|l.ffsagami.com^
 |l.ffx.io^
 |l.glrcy.cn^
 |l.gm.mob.com^
-|l.ikora.tv^
-|l.junglekouen.com^
 |l.kscmt.cn^
 |l.ksxcxb.cn^
 |l.m.naver.com^
 |l.minisplat.cn^
-|l.miyachan.cc^
 |l.msdl.naver.com^
-|l.namjai.cc^
 |l.ohmyad.co^
-|l.osakazine.net^
 |l.player.ooyala.com^
 |l.popin.cc^
-|l.sagafan.jp^
 |l.sharethis.com^
 |l.support.canva.com^
-|l.tamaliver.jp^
-|l.tenkomori.tv^
 |l.thumbtack.com^
 |l.typesquare.com^
 |l.ujian.cc^
@@ -16290,7 +16283,6 @@
 |lm1.tuliu.com^
 |lmavci.eloquii.com^
 |lmbsy.qq.com^
-|lmdknj.xxbiquge.net^
 |lmfjmq.smaryu.com^
 |lmnqof.littletoncoin.com^
 |lmvc1.vivatechnology.com^
@@ -16661,6 +16653,8 @@
 |lphgse.bcc.nl^
 |lpipua.kcar.com^
 |lplxiaohu.m.biqubao.com^
+|lps.qantas.com^
+|lptag.liveperson.net^
 |lpzxed.em.com.br^
 |lqbz.junsw.com^
 |lqpzdi.coppel.com^
@@ -16823,7 +16817,6 @@
 |m.enjuk.com^
 |m.ensts.cn^
 |m.evergage.com^
-|m.exusr.com^
 |m.fcuit.com^
 |m.fdoun.com^
 |m.feipaihehuoren.cn^
@@ -16906,7 +16899,6 @@
 |m.ocenp.com^
 |m.oipeirates.online^
 |m.openv.tv^
-|m.panda.voiceads.cn^
 |m.phonthing.com^
 |m.photoshelter.com^
 |m.pieaa.com^
@@ -16974,7 +16966,6 @@
 |m.xsjjjc.cn^
 |m.xt2d.cn^
 |m.xxkio.com^
-|m.y195j.cn^
 |m.yalayi.com^
 |m.yanjunbo.com^
 |m.yaoboshiks.cn^
@@ -19562,7 +19553,6 @@
 |my.usq.edu.au^
 |my.xtremelashes.com^
 |my2.hizliizlefilm.net^
-|my2.teknoter.com^
 |myad.toocle.com^
 |myads.telkomsel.com^
 |mybbc-analytics.files.bbci.co.uk^
@@ -21300,6 +21290,7 @@
 |ping.chartbeat.net^
 |ping.cloud.tencent.com^
 |ping.dozuki.com^
+|ping.hashnode.com^
 |ping.hellobar.com^
 |ping.hungama.com^
 |ping.pinyin.sogou.com^
@@ -22042,6 +22033,7 @@
 |pub.se.360.cn^
 |pub.sheknows.com^
 |pub.sitetag.us^
+|pub.toku-tag.jp^
 |pub.vacanceo.com^
 |pub.web.sapo.io^
 |pub2.webmanagercenter.com^
@@ -22991,7 +22983,6 @@
 |s-vop.sundaysky.com^
 |s-yoolk-banner-assets.yoolk.com^
 |s-yoolk-billboard-assets.yoolk.com^
-|s.051352.com^
 |s.17173cdn.com^
 |s.35kds.com^
 |s.360.cn^
@@ -23766,6 +23757,7 @@
 |scribe.ttwitter.com^
 |scribe.twitter.com^
 |scribe.wongnai.com^
+|script-ad.mobadme.jp^
 |script-bd.baixing.net^
 |script.crazyegg.com^
 |script.opentracker.net^
@@ -26800,7 +26792,6 @@
 |stat.myshows.me^
 |stat.nate.com^
 |stat.novinky.cz^
-|stat.novostimira.com^
 |stat.nyheter24.se^
 |stat.ouedkniss.com^
 |stat.pchome.net^
@@ -26830,6 +26821,7 @@
 |stat.tf.360.cn^
 |stat.thestartmagazine.com^
 |stat.tianya.cn^
+|stat.tiara.daum.net^
 |stat.tildacdn.com^
 |stat.timedg.com^
 |stat.titan.imgo.tv^
@@ -27917,7 +27909,6 @@
 |sxdnserror1.wo.com.cn^
 |sxdnserror3.wo.com.cn^
 |sxdnserror4.wo.com.cn^
-|sxdnserror5.wo.com.cn^
 |sxdnserror6.wo.com.cn^
 |sxgbln.adzuna.nl^
 |sxjeyg.21vek.by^
@@ -30744,6 +30735,7 @@
 |vidkomsis.blogspot.com^
 |vidoza.net.daraz.com^
 |vidstat.taboola.com^
+|vieon-tracking.vieon.vn^
 |view-prod.ad.singular.net^
 |view.admaster.com.cn^
 |view.atdmt.com^
@@ -31764,6 +31756,7 @@
 |www1.cmitsolutions.com^
 |www1.drwilsons.com^
 |www1.explorance.com^
+|www1.firesavez6.com^
 |www1.g100companies.com^
 |www1.kawasaki-motors.com^
 |www1.mcsrentalsoftware.com^
@@ -32164,6 +32157,7 @@
 |xf.xyu.tv^
 |xfn6.monaco.edu^
 |xfolbv.yourrent2own.com^
+|xg.tjwmtrw.cn^
 |xggayd.thecolouredhouse.nl^
 |xhqpgt.skullpig.com^
 |xiamiss.wap.xsbiquge.com^
