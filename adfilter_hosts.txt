@@ -1,11 +1,11 @@
-# Checksum: MTYyNTYxOTYyNQo=
+# Checksum: MTYyNTcwNTg1Nwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210707-0
-# TimeUpdated: 2021-07-07T01:00:25+00:00
+# Version: 1.1.8-20210708-0
+# TimeUpdated: 2021-07-08T00:57:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32620
+# Total: 32626
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -378,6 +378,8 @@ ff02::3 ip6-allhosts
 :: 2beon.co.kr
 0.0.0.0 2efj.up.coop
 :: 2efj.up.coop
+0.0.0.0 2j.qhgbkr.cn
+:: 2j.qhgbkr.cn
 0.0.0.0 2tty.overstappen.nl
 :: 2tty.overstappen.nl
 0.0.0.0 2tu.qucaigg.com
@@ -2954,8 +2956,6 @@ ff02::3 ip6-allhosts
 :: ad.doublemax.net
 0.0.0.0 ad.download.cnet.com
 :: ad.download.cnet.com
-0.0.0.0 ad.download.net
-:: ad.download.net
 0.0.0.0 ad.dslr-forum.de
 :: ad.dslr-forum.de
 0.0.0.0 ad.duapps.com
@@ -3432,6 +3432,8 @@ ff02::3 ip6-allhosts
 :: ad.tatatimes.com
 0.0.0.0 ad.technoratimedia.com
 :: ad.technoratimedia.com
+0.0.0.0 ad.tehno-rating.ru
+:: ad.tehno-rating.ru
 0.0.0.0 ad.tempstaff.co.jp
 :: ad.tempstaff.co.jp
 0.0.0.0 ad.tencentmusic.com
@@ -3654,8 +3656,6 @@ ff02::3 ip6-allhosts
 :: ad2.netriota.hu
 0.0.0.0 ad2.nmm.de
 :: ad2.nmm.de
-0.0.0.0 ad2.parom.hu
-:: ad2.parom.hu
 0.0.0.0 ad2.sina.com.cn
 :: ad2.sina.com.cn
 0.0.0.0 ad2.thisisgame.com
@@ -4966,8 +4966,6 @@ ff02::3 ip6-allhosts
 :: ads.doit.com.cn
 0.0.0.0 ads.domeus.com
 :: ads.domeus.com
-0.0.0.0 ads.dontpanicmedia.com
-:: ads.dontpanicmedia.com
 0.0.0.0 ads.doublemax.net
 :: ads.doublemax.net
 0.0.0.0 ads.drf.com
@@ -5030,8 +5028,6 @@ ff02::3 ip6-allhosts
 :: ads.fairfax.com.au
 0.0.0.0 ads.farakav.com
 :: ads.farakav.com
-0.0.0.0 ads.fark.com
-:: ads.fark.com
 0.0.0.0 ads.faxo.com
 :: ads.faxo.com
 0.0.0.0 ads.feedly.com
@@ -5322,8 +5318,6 @@ ff02::3 ip6-allhosts
 :: ads.ma7.tv
 0.0.0.0 ads.magnetic.is
 :: ads.magnetic.is
-0.0.0.0 ads.mail.com
-:: ads.mail.com
 0.0.0.0 ads.mail3x.com
 :: ads.mail3x.com
 0.0.0.0 ads.mariuana.it
@@ -6432,8 +6426,6 @@ ff02::3 ip6-allhosts
 :: adserver.digitoday.com
 0.0.0.0 adserver.directforce.com
 :: adserver.directforce.com
-0.0.0.0 adserver.dotcommedia.de
-:: adserver.dotcommedia.de
 0.0.0.0 adserver.dotmusic.com
 :: adserver.dotmusic.com
 0.0.0.0 adserver.echdk.pl
@@ -8988,8 +8980,6 @@ ff02::3 ip6-allhosts
 :: api.ads.watchabc.go.com
 0.0.0.0 api.adtimaserver.vn
 :: api.adtimaserver.vn
-0.0.0.0 api.adv.ott.cibntv.net
-:: api.adv.ott.cibntv.net
 0.0.0.0 api.adxpand.com
 :: api.adxpand.com
 0.0.0.0 api.afdback.ppsimg.com
@@ -9576,6 +9566,8 @@ ff02::3 ip6-allhosts
 :: appimg.0575bbs.com
 0.0.0.0 apple-support-online.s3-website-us-west-2.amazonaws.com
 :: apple-support-online.s3-website-us-west-2.amazonaws.com
+0.0.0.0 apple.com-web-security-analysis.win
+:: apple.com-web-security-analysis.win
 0.0.0.0 apple.www.letv.com
 :: apple.www.letv.com
 0.0.0.0 appleld.apple.com.t5j2kdkc88dd2m423-verif.info
@@ -11818,8 +11810,6 @@ ff02::3 ip6-allhosts
 :: bjdata.ads.oppomobile.com
 0.0.0.0 bjdnserror1.wo.com.cn
 :: bjdnserror1.wo.com.cn
-0.0.0.0 bjdnserror2.wo.com.cn
-:: bjdnserror2.wo.com.cn
 0.0.0.0 bjdnserror3.wo.com.cn
 :: bjdnserror3.wo.com.cn
 0.0.0.0 bjfbac.hyundaivaudreuil.com
@@ -12600,6 +12590,8 @@ ff02::3 ip6-allhosts
 :: c.documentsns.emailvision.net.daraz.com
 0.0.0.0 c.dpgmedia.net
 :: c.dpgmedia.net
+0.0.0.0 c.drawenjoy.cn
+:: c.drawenjoy.cn
 0.0.0.0 c.duomai.com
 :: c.duomai.com
 0.0.0.0 c.effectivemeasure.net
@@ -12674,6 +12666,8 @@ ff02::3 ip6-allhosts
 :: c.lianwangtech.com
 0.0.0.0 c.lxanimation.cn
 :: c.lxanimation.cn
+0.0.0.0 c.lxtvb.cn
+:: c.lxtvb.cn
 0.0.0.0 c.media-dl.co
 :: c.media-dl.co
 0.0.0.0 c.medialytics.com
@@ -12696,6 +12690,8 @@ ff02::3 ip6-allhosts
 :: c.my.msn.com
 0.0.0.0 c.netu.tv
 :: c.netu.tv
+0.0.0.0 c.njcengpianwang.cn
+:: c.njcengpianwang.cn
 0.0.0.0 c.nkzker.cn
 :: c.nkzker.cn
 0.0.0.0 c.nl.msn.com
@@ -19102,8 +19098,6 @@ ff02::3 ip6-allhosts
 :: dd.iask.cn
 0.0.0.0 dd.lendup.com
 :: dd.lendup.com
-0.0.0.0 dd.nytimes.com
-:: dd.nytimes.com
 0.0.0.0 dd1.diymianmo.com
 :: dd1.diymianmo.com
 0.0.0.0 dd1.freep.cn
@@ -22954,6 +22948,8 @@ ff02::3 ip6-allhosts
 :: fazphz.theiconic.com.au
 0.0.0.0 fb.37cs.com
 :: fb.37cs.com
+0.0.0.0 fb.cxjju.cn
+:: fb.cxjju.cn
 0.0.0.0 fbapi.guguread.com
 :: fbapi.guguread.com
 0.0.0.0 fbmjc.39yst.com
@@ -24606,6 +24602,8 @@ ff02::3 ip6-allhosts
 :: girlownedbypolicelike.blogspot.com
 0.0.0.0 gist-lib-oa-1.net.daraz.com
 :: gist-lib-oa-1.net.daraz.com
+0.0.0.0 git.jnjcxx.com
+:: git.jnjcxx.com
 0.0.0.0 github.global.ssl.fastly.net.daraz.com
 :: github.global.ssl.fastly.net.daraz.com
 0.0.0.0 githubbadge.appspot.com
@@ -26834,6 +26832,8 @@ ff02::3 ip6-allhosts
 :: h.sora.yoyi.com.cn
 0.0.0.0 h.txt2017.com
 :: h.txt2017.com
+0.0.0.0 h.yosjob.cn
+:: h.yosjob.cn
 0.0.0.0 h0.t.hubspotemail.net
 :: h0.t.hubspotemail.net
 0.0.0.0 h00c.sfr.fr
@@ -26972,8 +26972,6 @@ ff02::3 ip6-allhosts
 :: hbads.eboz.com
 0.0.0.0 hbadz.eboz.com
 :: hbadz.eboz.com
-0.0.0.0 hbdnserror3.wo.com.cn
-:: hbdnserror3.wo.com.cn
 0.0.0.0 hbdnserror7.wo.com.cn
 :: hbdnserror7.wo.com.cn
 0.0.0.0 hbid.ams3.cdn.digitaloceanspaces.com
@@ -28660,6 +28658,8 @@ ff02::3 ip6-allhosts
 :: indieclick.3janecdn.com
 0.0.0.0 industry.promo.skf.com
 :: industry.promo.skf.com
+0.0.0.0 indy.fjmu.edu.cn
+:: indy.fjmu.edu.cn
 0.0.0.0 inf.clickpay.com
 :: inf.clickpay.com
 0.0.0.0 inf.wqa.ru
@@ -31478,6 +31478,8 @@ ff02::3 ip6-allhosts
 :: knfjhy.echo.msk.ru
 0.0.0.0 knicks.jd.com
 :: knicks.jd.com
+0.0.0.0 knight.economist.com
+:: knight.economist.com
 0.0.0.0 knjybs.luminis-films.com
 :: knjybs.luminis-films.com
 0.0.0.0 knorzj.wearfigs.com
@@ -37322,6 +37324,8 @@ ff02::3 ip6-allhosts
 :: metrics.mizuno.jp
 0.0.0.0 metrics.mlive.com
 :: metrics.mlive.com
+0.0.0.0 metrics.mms.mavenapps.net
+:: metrics.mms.mavenapps.net
 0.0.0.0 metrics.modcloth.com
 :: metrics.modcloth.com
 0.0.0.0 metrics.moneymart.ca
@@ -39286,8 +39290,6 @@ ff02::3 ip6-allhosts
 :: nautilus-car21.net.daraz.com
 0.0.0.0 nave.foone.com.br
 :: nave.foone.com.br
-0.0.0.0 navis.pp.ua
-:: navis.pp.ua
 0.0.0.0 nb.5.p2l.info
 :: nb.5.p2l.info
 0.0.0.0 nb.myspace.com
@@ -39698,8 +39700,6 @@ ff02::3 ip6-allhosts
 :: nginx.r-dw-1.net.daraz.com
 0.0.0.0 nginx.yancancook.net.daraz.com
 :: nginx.yancancook.net.daraz.com
-0.0.0.0 ngtraveler.com.cn
-:: ngtraveler.com.cn
 0.0.0.0 nh.5.p2l.info
 :: nh.5.p2l.info
 0.0.0.0 nhkonline.hb.omtrdc.net
@@ -40270,6 +40270,8 @@ ff02::3 ip6-allhosts
 :: oas.benchmark.fr
 0.0.0.0 oas.dn.se
 :: oas.dn.se
+0.0.0.0 oas.guardian.co.uk
+:: oas.guardian.co.uk
 0.0.0.0 oas.publicitas.ch
 :: oas.publicitas.ch
 0.0.0.0 oas.repubblica.it
@@ -41082,6 +41084,10 @@ ff02::3 ip6-allhosts
 :: orbidder.otto.de
 0.0.0.0 orbit.lun.ua
 :: orbit.lun.ua
+0.0.0.0 order-hydrocodone.polybuild.ru
+:: order-hydrocodone.polybuild.ru
+0.0.0.0 order-valium.polybuild.ru
+:: order-valium.polybuild.ru
 0.0.0.0 oregonstate.actonservice.com
 :: oregonstate.actonservice.com
 0.0.0.0 orencia.pflexads.com
@@ -42854,6 +42860,8 @@ ff02::3 ip6-allhosts
 :: pkc5.hardrockhoteltenerife.com
 0.0.0.0 pkimbc.bestsecret.com
 :: pkimbc.bestsecret.com
+0.0.0.0 pks1c.cxmygp.xyz
+:: pks1c.cxmygp.xyz
 0.0.0.0 pkt.urmovs.com
 :: pkt.urmovs.com
 0.0.0.0 pl.1feed.app
@@ -43134,16 +43142,12 @@ ff02::3 ip6-allhosts
 :: play.traffpartners.com
 0.0.0.0 play.video2.stream.vidzi.tv
 :: play.video2.stream.vidzi.tv
-0.0.0.0 play.videos.videos.vidto.me
-:: play.videos.videos.vidto.me
 0.0.0.0 play.vidzi.tv
 :: play.vidzi.tv
 0.0.0.0 play.web.flashx.co
 :: play.web.flashx.co
 0.0.0.0 play.xmr.101010.pl
 :: play.xmr.101010.pl
-0.0.0.0 play1.videos.videos.vidto.me
-:: play1.videos.videos.vidto.me
 0.0.0.0 player-feedback-v1.glomex.com
 :: player-feedback-v1.glomex.com
 0.0.0.0 player-telemetry.vimeo.com
@@ -44070,8 +44074,6 @@ ff02::3 ip6-allhosts
 :: pub.sheknows.com
 0.0.0.0 pub.sitetag.us
 :: pub.sitetag.us
-0.0.0.0 pub.toku-tag.jp
-:: pub.toku-tag.jp
 0.0.0.0 pub.vacanceo.com
 :: pub.vacanceo.com
 0.0.0.0 pub.web.sapo.io
@@ -44156,6 +44158,8 @@ ff02::3 ip6-allhosts
 :: push.com2us.net
 0.0.0.0 push.daksham.in
 :: push.daksham.in
+0.0.0.0 push.delivery.ethinking.de
+:: push.delivery.ethinking.de
 0.0.0.0 push.esputnik.com
 :: push.esputnik.com
 0.0.0.0 push.feng.com
@@ -44764,6 +44768,8 @@ ff02::3 ip6-allhosts
 :: r1ztni.oui.sncf
 0.0.0.0 r2.adwo.com
 :: r2.adwo.com
+0.0.0.0 r2.tschewang.com
+:: r2.tschewang.com
 0.0.0.0 r2.visualwebsiteoptimizer.com
 :: r2.visualwebsiteoptimizer.com
 0.0.0.0 r3.adwo.com
@@ -45684,6 +45690,8 @@ ff02::3 ip6-allhosts
 :: rotator.promokrot.com
 0.0.0.0 rotator.tradetracker.net
 :: rotator.tradetracker.net
+0.0.0.0 rotobanner468.utro.ru
+:: rotobanner468.utro.ru
 0.0.0.0 roundcube2.net.daraz.com
 :: roundcube2.net.daraz.com
 0.0.0.0 router.bittorrent.com
@@ -46446,8 +46454,6 @@ ff02::3 ip6-allhosts
 :: s3.video2.stream.vidzi.tv
 0.0.0.0 s3.videos.videos.vidto.me
 :: s3.videos.videos.vidto.me
-0.0.0.0 s3.videos.vidto.me
-:: s3.videos.vidto.me
 0.0.0.0 s3.vidtod.me
 :: s3.vidtod.me
 0.0.0.0 s3.web.flashx.co
@@ -47518,8 +47524,6 @@ ff02::3 ip6-allhosts
 :: scribe.twitter.com
 0.0.0.0 scribe.wongnai.com
 :: scribe.wongnai.com
-0.0.0.0 script-ad.mobadme.jp
-:: script-ad.mobadme.jp
 0.0.0.0 script-bd.baixing.net
 :: script-bd.baixing.net
 0.0.0.0 script.crazyegg.com
@@ -52832,6 +52836,8 @@ ff02::3 ip6-allhosts
 :: ssfllp.actonservice.com
 0.0.0.0 ssgg.chazidian.com
 :: ssgg.chazidian.com
+0.0.0.0 ssh.wbdcrmn.cn
+:: ssh.wbdcrmn.cn
 0.0.0.0 ssh.yezijizhang.com
 :: ssh.yezijizhang.com
 0.0.0.0 sshhfy.ray-ban.com
@@ -53954,6 +53960,8 @@ ff02::3 ip6-allhosts
 :: static1.kewaishu.info
 0.0.0.0 static1.searchbox.baidu.com
 :: static1.searchbox.baidu.com
+0.0.0.0 static2.ero2you.com
+:: static2.ero2you.com
 0.0.0.0 static2.freebitco.in
 :: static2.freebitco.in
 0.0.0.0 static3.freebitco.in
@@ -59680,8 +59688,6 @@ ff02::3 ip6-allhosts
 :: trackingcareers.accenture.com
 0.0.0.0 trackingmms.accenture.com
 :: trackingmms.accenture.com
-0.0.0.0 trackingshipment.apple.com
-:: trackingshipment.apple.com
 0.0.0.0 trackingssl.agemployeebenefits.be
 :: trackingssl.agemployeebenefits.be
 0.0.0.0 trackingssl.aginsurance.be
@@ -60634,8 +60640,6 @@ ff02::3 ip6-allhosts
 :: up.cm.ksmobile.com
 0.0.0.0 up.hiao.com
 :: up.hiao.com
-0.0.0.0 up.nytimes.com
-:: up.nytimes.com
 0.0.0.0 up.pnu-club.com
 :: up.pnu-club.com
 0.0.0.0 up.qingdaonews.com
@@ -60776,6 +60780,10 @@ ff02::3 ip6-allhosts
 :: us.xmlppcbuzz.com
 0.0.0.0 us.y.atwola.com
 :: us.y.atwola.com
+0.0.0.0 us04logfiles-va.zoom.us
+:: us04logfiles-va.zoom.us
+0.0.0.0 us04logfiles.zoom.us
+:: us04logfiles.zoom.us
 0.0.0.0 usage.influxdata.com
 :: usage.influxdata.com
 0.0.0.0 usage.seibert-media.io
@@ -60976,6 +60984,8 @@ ff02::3 ip6-allhosts
 :: v.dlyukun.cn
 0.0.0.0 v.domob.cn
 :: v.domob.cn
+0.0.0.0 v.drawenjoy.cn
+:: v.drawenjoy.cn
 0.0.0.0 v.e7002.com
 :: v.e7002.com
 0.0.0.0 v.fedsdq.com
@@ -61008,6 +61018,8 @@ ff02::3 ip6-allhosts
 :: v.luxfp.space
 0.0.0.0 v.lxanimation.cn
 :: v.lxanimation.cn
+0.0.0.0 v.lxtvb.cn
+:: v.lxtvb.cn
 0.0.0.0 v.m06nev.com
 :: v.m06nev.com
 0.0.0.0 v.mir-18.ru
@@ -61018,6 +61030,8 @@ ff02::3 ip6-allhosts
 :: v.mywild.cn
 0.0.0.0 v.nanjinglongyu.com
 :: v.nanjinglongyu.com
+0.0.0.0 v.njcengpianwang.cn
+:: v.njcengpianwang.cn
 0.0.0.0 v.nkzker.cn
 :: v.nkzker.cn
 0.0.0.0 v.oq68.com
@@ -61240,6 +61254,8 @@ ff02::3 ip6-allhosts
 :: vbtdzb.fyndiq.se
 0.0.0.0 vc.ameba.jp
 :: vc.ameba.jp
+0.0.0.0 vc.sanzhong.co
+:: vc.sanzhong.co
 0.0.0.0 vc.vgimer.cn
 :: vc.vgimer.cn
 0.0.0.0 vcardsdkservice.vivo.com.cn
@@ -63516,8 +63532,6 @@ ff02::3 ip6-allhosts
 :: www1.drwilsons.com
 0.0.0.0 www1.explorance.com
 :: www1.explorance.com
-0.0.0.0 www1.firesavez6.com
-:: www1.firesavez6.com
 0.0.0.0 www1.g100companies.com
 :: www1.g100companies.com
 0.0.0.0 www1.kawasaki-motors.com
@@ -64318,8 +64332,6 @@ ff02::3 ip6-allhosts
 :: xfn6.monaco.edu
 0.0.0.0 xfolbv.yourrent2own.com
 :: xfolbv.yourrent2own.com
-0.0.0.0 xg.tjwmtrw.cn
-:: xg.tjwmtrw.cn
 0.0.0.0 xggayd.thecolouredhouse.nl
 :: xggayd.thecolouredhouse.nl
 0.0.0.0 xhqpgt.skullpig.com
