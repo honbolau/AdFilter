@@ -1,11 +1,11 @@
-# Checksum: MTYyNTcwNTg1Nwo=
+# Checksum: MTYyNTc5MjM4NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210708-0
-# TimeUpdated: 2021-07-08T00:57:37+00:00
+# Version: 1.1.8-20210709-0
+# TimeUpdated: 2021-07-09T00:59:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32626
+# Total: 32612
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -3688,6 +3688,8 @@ ff02::3 ip6-allhosts
 :: ad4989.co.kr
 0.0.0.0 ad4game-a.akamaihd.net
 :: ad4game-a.akamaihd.net
+0.0.0.0 ad4point.nyc3.digitaloceanspaces.com
+:: ad4point.nyc3.digitaloceanspaces.com
 0.0.0.0 ad5.bigmir.net
 :: ad5.bigmir.net
 0.0.0.0 ad6.bigmir.net
@@ -5776,6 +5778,8 @@ ff02::3 ip6-allhosts
 :: ads.telkomsel.com
 0.0.0.0 ads.terra.es
 :: ads.terra.es
+0.0.0.0 ads.thanhnien.vn
+:: ads.thanhnien.vn
 0.0.0.0 ads.thecoolhunter.net
 :: ads.thecoolhunter.net
 0.0.0.0 ads.thecrimson.com
@@ -9888,6 +9892,8 @@ ff02::3 ip6-allhosts
 :: asd.sincetrade.com
 0.0.0.0 asd2.projectfreetv.so
 :: asd2.projectfreetv.so
+0.0.0.0 asdfjasdhjkasjkfhajklsd.2021zuixingg.com
+:: asdfjasdhjkasjkfhajklsd.2021zuixingg.com
 0.0.0.0 asearch.alicdn.com
 :: asearch.alicdn.com
 0.0.0.0 asecdn.w88media.com
@@ -11006,8 +11012,6 @@ ff02::3 ip6-allhosts
 :: banners.isoftmarketing.com
 0.0.0.0 banners.itweb.co.za
 :: banners.itweb.co.za
-0.0.0.0 banners.kinoafisha.info
-:: banners.kinoafisha.info
 0.0.0.0 banners.ksl.com
 :: banners.ksl.com
 0.0.0.0 banners.linkbuddies.com
@@ -16864,8 +16868,6 @@ ff02::3 ip6-allhosts
 :: crayfish.fansubbing.com
 0.0.0.0 crayfish.thingelstad.com
 :: crayfish.thingelstad.com
-0.0.0.0 crayon.meishichina.com
-:: crayon.meishichina.com
 0.0.0.0 crbcunninghams.actonservice.com
 :: crbcunninghams.actonservice.com
 0.0.0.0 cre-dp.sina.cn
@@ -20952,8 +20954,6 @@ ff02::3 ip6-allhosts
 :: e.tapdb.net
 0.0.0.0 e.tf.360.cn
 :: e.tf.360.cn
-0.0.0.0 e.tiojk.com
-:: e.tiojk.com
 0.0.0.0 e.tw.cx
 :: e.tw.cx
 0.0.0.0 e.uissm.com
@@ -23060,8 +23060,6 @@ ff02::3 ip6-allhosts
 :: feed.baidu.com
 0.0.0.0 feed.mikle.com
 :: feed.mikle.com
-0.0.0.0 feed.monad-rtb.com
-:: feed.monad-rtb.com
 0.0.0.0 feed.theta.sogou.com
 :: feed.theta.sogou.com
 0.0.0.0 feedads.feedblitz.com
@@ -25272,8 +25270,6 @@ ff02::3 ip6-allhosts
 :: go.godunnage.com
 0.0.0.0 go.goldmanpfm.com
 :: go.goldmanpfm.com
-0.0.0.0 go.gotourls.bid
-:: go.gotourls.bid
 0.0.0.0 go.gradle.com
 :: go.gradle.com
 0.0.0.0 go.grammarly.com
@@ -28658,8 +28654,6 @@ ff02::3 ip6-allhosts
 :: indieclick.3janecdn.com
 0.0.0.0 industry.promo.skf.com
 :: industry.promo.skf.com
-0.0.0.0 indy.fjmu.edu.cn
-:: indy.fjmu.edu.cn
 0.0.0.0 inf.clickpay.com
 :: inf.clickpay.com
 0.0.0.0 inf.wqa.ru
@@ -30978,8 +30972,6 @@ ff02::3 ip6-allhosts
 :: js.ruiwen.com
 0.0.0.0 js.safe524.xyz
 :: js.safe524.xyz
-0.0.0.0 js.sanwen.net
-:: js.sanwen.net
 0.0.0.0 js.shangxueba.com
 :: js.shangxueba.com
 0.0.0.0 js.smi2.ru
@@ -31478,8 +31470,6 @@ ff02::3 ip6-allhosts
 :: knfjhy.echo.msk.ru
 0.0.0.0 knicks.jd.com
 :: knicks.jd.com
-0.0.0.0 knight.economist.com
-:: knight.economist.com
 0.0.0.0 knjybs.luminis-films.com
 :: knjybs.luminis-films.com
 0.0.0.0 knorzj.wearfigs.com
@@ -32584,8 +32574,6 @@ ff02::3 ip6-allhosts
 :: ln.ameba.jp
 0.0.0.0 lnads.osdn.com
 :: lnads.osdn.com
-0.0.0.0 lndnserror4.wo.com.cn
-:: lndnserror4.wo.com.cn
 0.0.0.0 lndnserror6.wo.com.cn
 :: lndnserror6.wo.com.cn
 0.0.0.0 lndnserror7.wo.com.cn
@@ -33534,8 +33522,6 @@ ff02::3 ip6-allhosts
 :: m.adxpop.com
 0.0.0.0 m.ailix.cn
 :: m.ailix.cn
-0.0.0.0 m.aiyyu.com
-:: m.aiyyu.com
 0.0.0.0 m.amazonappservices.com
 :: m.amazonappservices.com
 0.0.0.0 m.analytics.126.net
@@ -37324,8 +37310,6 @@ ff02::3 ip6-allhosts
 :: metrics.mizuno.jp
 0.0.0.0 metrics.mlive.com
 :: metrics.mlive.com
-0.0.0.0 metrics.mms.mavenapps.net
-:: metrics.mms.mavenapps.net
 0.0.0.0 metrics.modcloth.com
 :: metrics.modcloth.com
 0.0.0.0 metrics.moneymart.ca
@@ -40270,8 +40254,6 @@ ff02::3 ip6-allhosts
 :: oas.benchmark.fr
 0.0.0.0 oas.dn.se
 :: oas.dn.se
-0.0.0.0 oas.guardian.co.uk
-:: oas.guardian.co.uk
 0.0.0.0 oas.publicitas.ch
 :: oas.publicitas.ch
 0.0.0.0 oas.repubblica.it
@@ -41084,10 +41066,6 @@ ff02::3 ip6-allhosts
 :: orbidder.otto.de
 0.0.0.0 orbit.lun.ua
 :: orbit.lun.ua
-0.0.0.0 order-hydrocodone.polybuild.ru
-:: order-hydrocodone.polybuild.ru
-0.0.0.0 order-valium.polybuild.ru
-:: order-valium.polybuild.ru
 0.0.0.0 oregonstate.actonservice.com
 :: oregonstate.actonservice.com
 0.0.0.0 orencia.pflexads.com
@@ -41284,8 +41262,6 @@ ff02::3 ip6-allhosts
 :: oxifwsabgd.nzz.ch
 0.0.0.0 oylyaz.mrkoll.se
 :: oylyaz.mrkoll.se
-0.0.0.0 oyoigg.jdsports.my
-:: oyoigg.jdsports.my
 0.0.0.0 oyy.l2anons.ws
 :: oyy.l2anons.ws
 0.0.0.0 oyyqan.hejoscar.dk
@@ -44768,8 +44744,6 @@ ff02::3 ip6-allhosts
 :: r1ztni.oui.sncf
 0.0.0.0 r2.adwo.com
 :: r2.adwo.com
-0.0.0.0 r2.tschewang.com
-:: r2.tschewang.com
 0.0.0.0 r2.visualwebsiteoptimizer.com
 :: r2.visualwebsiteoptimizer.com
 0.0.0.0 r3.adwo.com
@@ -45690,8 +45664,6 @@ ff02::3 ip6-allhosts
 :: rotator.promokrot.com
 0.0.0.0 rotator.tradetracker.net
 :: rotator.tradetracker.net
-0.0.0.0 rotobanner468.utro.ru
-:: rotobanner468.utro.ru
 0.0.0.0 roundcube2.net.daraz.com
 :: roundcube2.net.daraz.com
 0.0.0.0 router.bittorrent.com
@@ -47626,8 +47598,6 @@ ff02::3 ip6-allhosts
 :: sddnserror2.wo.com.cn
 0.0.0.0 sddnserror6.wo.com.cn
 :: sddnserror6.wo.com.cn
-0.0.0.0 sddnserror9.wo.com.cn
-:: sddnserror9.wo.com.cn
 0.0.0.0 sdfp.snssdk.com
 :: sdfp.snssdk.com
 0.0.0.0 sdfsf.freecontent.date
@@ -52836,8 +52806,6 @@ ff02::3 ip6-allhosts
 :: ssfllp.actonservice.com
 0.0.0.0 ssgg.chazidian.com
 :: ssgg.chazidian.com
-0.0.0.0 ssh.wbdcrmn.cn
-:: ssh.wbdcrmn.cn
 0.0.0.0 ssh.yezijizhang.com
 :: ssh.yezijizhang.com
 0.0.0.0 sshhfy.ray-ban.com
@@ -52946,6 +52914,8 @@ ff02::3 ip6-allhosts
 :: ssp.1nmob.com
 0.0.0.0 ssp.1rtb.com
 :: ssp.1rtb.com
+0.0.0.0 ssp.21ic.com
+:: ssp.21ic.com
 0.0.0.0 ssp.4hw.com.cn
 :: ssp.4hw.com.cn
 0.0.0.0 ssp.adriver.ru
@@ -58274,6 +58244,8 @@ ff02::3 ip6-allhosts
 :: trace.ynet.com
 0.0.0.0 trace2.rtbasia.com
 :: trace2.rtbasia.com
+0.0.0.0 trace21.dsb-ebusiness.com
+:: trace21.dsb-ebusiness.com
 0.0.0.0 tracelog-debug.aiclk.com
 :: tracelog-debug.aiclk.com
 0.0.0.0 traces.sr.roku.com
@@ -61724,8 +61696,6 @@ ff02::3 ip6-allhosts
 :: vppst.iltrovatore.it
 0.0.0.0 vpptv.admaster.com.cn
 :: vpptv.admaster.com.cn
-0.0.0.0 vps.gcx3.cn
-:: vps.gcx3.cn
 0.0.0.0 vps.inte.sogou.com
 :: vps.inte.sogou.com
 0.0.0.0 vqp3.madeindesign.co.uk
@@ -63922,6 +63892,8 @@ ff02::3 ip6-allhosts
 :: www2.selescope.com
 0.0.0.0 www2.sesame.org
 :: www2.sesame.org
+0.0.0.0 www2.settypesoftaflash.icu
+:: www2.settypesoftaflash.icu
 0.0.0.0 www2.sftravel.com
 :: www2.sftravel.com
 0.0.0.0 www2.sharecare.com

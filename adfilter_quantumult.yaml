@@ -1,11 +1,11 @@
-# Checksum: MTYyNTcwNTg1Nwo=
+# Checksum: MTYyNTc5MjM4NQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210708-0
-# TimeUpdated: 2021-07-08T00:57:37+00:00
+# Version: 1.1.8-20210709-0
+# TimeUpdated: 2021-07-09T00:59:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32626
+# Total: 32612
 DOMAIN,0.nextyourcontent.com,REJECT
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
@@ -1842,6 +1842,7 @@ DOMAIN,ad4.sina.com.cn,REJECT
 DOMAIN,ad4.speedbit.com,REJECT
 DOMAIN,ad4989.co.kr,REJECT
 DOMAIN,ad4game-a.akamaihd.net,REJECT
+DOMAIN,ad4point.nyc3.digitaloceanspaces.com,REJECT
 DOMAIN,ad5.bigmir.net,REJECT
 DOMAIN,ad6.bigmir.net,REJECT
 DOMAIN,ad6.horvitznewspapers.net,REJECT
@@ -2886,6 +2887,7 @@ DOMAIN,ads.tapzin.com,REJECT
 DOMAIN,ads.tech24.vn,REJECT
 DOMAIN,ads.telkomsel.com,REJECT
 DOMAIN,ads.terra.es,REJECT
+DOMAIN,ads.thanhnien.vn,REJECT
 DOMAIN,ads.thecoolhunter.net,REJECT
 DOMAIN,ads.thecrimson.com,REJECT
 DOMAIN,ads.thefrisky.com,REJECT
@@ -4942,6 +4944,7 @@ DOMAIN,asd.nl.bauhaus,REJECT
 DOMAIN,asd.projectfreetv.so,REJECT
 DOMAIN,asd.sincetrade.com,REJECT
 DOMAIN,asd2.projectfreetv.so,REJECT
+DOMAIN,asdfjasdhjkasjkfhajklsd.2021zuixingg.com,REJECT
 DOMAIN,asearch.alicdn.com,REJECT
 DOMAIN,asecdn.w88media.com,REJECT
 DOMAIN,aserv.motorsgate.com,REJECT
@@ -5501,7 +5504,6 @@ DOMAIN,banners.ipotd.com,REJECT
 DOMAIN,banners.iq.pl,REJECT
 DOMAIN,banners.isoftmarketing.com,REJECT
 DOMAIN,banners.itweb.co.za,REJECT
-DOMAIN,banners.kinoafisha.info,REJECT
 DOMAIN,banners.ksl.com,REJECT
 DOMAIN,banners.linkbuddies.com,REJECT
 DOMAIN,banners.mellowads.com,REJECT
@@ -8430,7 +8432,6 @@ DOMAIN,crashlytics.163.com,REJECT
 DOMAIN,crashlyticsreports-pa.googleapis.com,REJECT
 DOMAIN,crayfish.fansubbing.com,REJECT
 DOMAIN,crayfish.thingelstad.com,REJECT
-DOMAIN,crayon.meishichina.com,REJECT
 DOMAIN,crbcunninghams.actonservice.com,REJECT
 DOMAIN,cre-dp.sina.cn,REJECT
 DOMAIN,cre.dp.sina.cn,REJECT
@@ -10474,7 +10475,6 @@ DOMAIN,e.szqifu.com,REJECT
 DOMAIN,e.t71q.com,REJECT
 DOMAIN,e.tapdb.net,REJECT
 DOMAIN,e.tf.360.cn,REJECT
-DOMAIN,e.tiojk.com,REJECT
 DOMAIN,e.tw.cx,REJECT
 DOMAIN,e.uissm.com,REJECT
 DOMAIN,e.unchealthcare.org,REJECT
@@ -11528,7 +11528,6 @@ DOMAIN,feed-image.baidu.com,REJECT
 DOMAIN,feed.4wnet.com,REJECT
 DOMAIN,feed.baidu.com,REJECT
 DOMAIN,feed.mikle.com,REJECT
-DOMAIN,feed.monad-rtb.com,REJECT
 DOMAIN,feed.theta.sogou.com,REJECT
 DOMAIN,feedads.feedblitz.com,REJECT
 DOMAIN,feedads.g.doubleclick.net,REJECT
@@ -12634,7 +12633,6 @@ DOMAIN,go.gmo-agree.com,REJECT
 DOMAIN,go.gn.com,REJECT
 DOMAIN,go.godunnage.com,REJECT
 DOMAIN,go.goldmanpfm.com,REJECT
-DOMAIN,go.gotourls.bid,REJECT
 DOMAIN,go.gradle.com,REJECT
 DOMAIN,go.grammarly.com,REJECT
 DOMAIN,go.grandvan.co.jp,REJECT
@@ -14327,7 +14325,6 @@ DOMAIN,inbound.veem.com,REJECT
 DOMAIN,independence.americanportfolios.com,REJECT
 DOMAIN,indieclick.3janecdn.com,REJECT
 DOMAIN,industry.promo.skf.com,REJECT
-DOMAIN,indy.fjmu.edu.cn,REJECT
 DOMAIN,inf.clickpay.com,REJECT
 DOMAIN,inf.wqa.ru,REJECT
 DOMAIN,infinityid.condenastdigital.com,REJECT
@@ -15487,7 +15484,6 @@ DOMAIN,js.pub.tom.com,REJECT
 DOMAIN,js.qqsort.com,REJECT
 DOMAIN,js.ruiwen.com,REJECT
 DOMAIN,js.safe524.xyz,REJECT
-DOMAIN,js.sanwen.net,REJECT
 DOMAIN,js.shangxueba.com,REJECT
 DOMAIN,js.smi2.ru,REJECT
 DOMAIN,js.softreklam.com,REJECT
@@ -15737,7 +15733,6 @@ DOMAIN,kn.zhangdujia.com,REJECT
 DOMAIN,kn.zhipinbook.cn,REJECT
 DOMAIN,knfjhy.echo.msk.ru,REJECT
 DOMAIN,knicks.jd.com,REJECT
-DOMAIN,knight.economist.com,REJECT
 DOMAIN,knjybs.luminis-films.com,REJECT
 DOMAIN,knorzj.wearfigs.com,REJECT
 DOMAIN,know.wolterskluwerlr.com,REJECT
@@ -16290,7 +16285,6 @@ DOMAIN,lmvc1.vivatechnology.com,REJECT
 DOMAIN,lmwap.awtks.com,REJECT
 DOMAIN,ln.ameba.jp,REJECT
 DOMAIN,lnads.osdn.com,REJECT
-DOMAIN,lndnserror4.wo.com.cn,REJECT
 DOMAIN,lndnserror6.wo.com.cn,REJECT
 DOMAIN,lndnserror7.wo.com.cn,REJECT
 DOMAIN,lnews.riafan.ru,REJECT
@@ -16765,7 +16759,6 @@ DOMAIN,m.ads.sohu.com,REJECT
 DOMAIN,m.adtiming.com,REJECT
 DOMAIN,m.adxpop.com,REJECT
 DOMAIN,m.ailix.cn,REJECT
-DOMAIN,m.aiyyu.com,REJECT
 DOMAIN,m.amazonappservices.com,REJECT
 DOMAIN,m.analytics.126.net,REJECT
 DOMAIN,m.anzhuotan.com,REJECT
@@ -18660,7 +18653,6 @@ DOMAIN,metrics.miles-and-more.com,REJECT
 DOMAIN,metrics.mitsubishi-motors.co.jp,REJECT
 DOMAIN,metrics.mizuno.jp,REJECT
 DOMAIN,metrics.mlive.com,REJECT
-DOMAIN,metrics.mms.mavenapps.net,REJECT
 DOMAIN,metrics.modcloth.com,REJECT
 DOMAIN,metrics.moneymart.ca,REJECT
 DOMAIN,metrics.moosejaw.com,REJECT
@@ -20133,7 +20125,6 @@ DOMAIN,oamsrhads.us.publicus.com,REJECT
 DOMAIN,oas.aurasports.com,REJECT
 DOMAIN,oas.benchmark.fr,REJECT
 DOMAIN,oas.dn.se,REJECT
-DOMAIN,oas.guardian.co.uk,REJECT
 DOMAIN,oas.publicitas.ch,REJECT
 DOMAIN,oas.repubblica.it,REJECT
 DOMAIN,oas.toronto.com,REJECT
@@ -20540,8 +20531,6 @@ DOMAIN,orange-dc.youku.com,REJECT
 DOMAIN,orange.recompenses.xyz,REJECT
 DOMAIN,orbidder.otto.de,REJECT
 DOMAIN,orbit.lun.ua,REJECT
-DOMAIN,order-hydrocodone.polybuild.ru,REJECT
-DOMAIN,order-valium.polybuild.ru,REJECT
 DOMAIN,oregonstate.actonservice.com,REJECT
 DOMAIN,orencia.pflexads.com,REJECT
 DOMAIN,organikusok.blogspot.hu,REJECT
@@ -20640,7 +20629,6 @@ DOMAIN,oxbskt.autotrader.com.au,REJECT
 DOMAIN,oxen.hillcountrytexas.com,REJECT
 DOMAIN,oxifwsabgd.nzz.ch,REJECT
 DOMAIN,oylyaz.mrkoll.se,REJECT
-DOMAIN,oyoigg.jdsports.my,REJECT
 DOMAIN,oyy.l2anons.ws,REJECT
 DOMAIN,oyyqan.hejoscar.dk,REJECT
 DOMAIN,ozone.10jqka.com.cn,REJECT
@@ -22382,7 +22370,6 @@ DOMAIN,r01.g1c5.com,REJECT
 DOMAIN,r1.visualwebsiteoptimizer.com,REJECT
 DOMAIN,r1ztni.oui.sncf,REJECT
 DOMAIN,r2.adwo.com,REJECT
-DOMAIN,r2.tschewang.com,REJECT
 DOMAIN,r2.visualwebsiteoptimizer.com,REJECT
 DOMAIN,r3.adwo.com,REJECT
 DOMAIN,r3.visualwebsiteoptimizer.com,REJECT
@@ -22843,7 +22830,6 @@ DOMAIN,rotabanner.kulichki.net,REJECT
 DOMAIN,rotate.ymtracking.com,REJECT
 DOMAIN,rotator.promokrot.com,REJECT
 DOMAIN,rotator.tradetracker.net,REJECT
-DOMAIN,rotobanner468.utro.ru,REJECT
 DOMAIN,roundcube2.net.daraz.com,REJECT
 DOMAIN,router.bittorrent.com,REJECT
 DOMAIN,router.gwdang.com,REJECT
@@ -23811,7 +23797,6 @@ DOMAIN,sddan.mgr.consensu.org,REJECT
 DOMAIN,sddnserror1.wo.com.cn,REJECT
 DOMAIN,sddnserror2.wo.com.cn,REJECT
 DOMAIN,sddnserror6.wo.com.cn,REJECT
-DOMAIN,sddnserror9.wo.com.cn,REJECT
 DOMAIN,sdfp.snssdk.com,REJECT
 DOMAIN,sdfsf.freecontent.date,REJECT
 DOMAIN,sdk-ab-config.aiclk.com,REJECT
@@ -26416,7 +26401,6 @@ DOMAIN,ssdc.bawag.com,REJECT
 DOMAIN,ssdk.adkmob.com,REJECT
 DOMAIN,ssfllp.actonservice.com,REJECT
 DOMAIN,ssgg.chazidian.com,REJECT
-DOMAIN,ssh.wbdcrmn.cn,REJECT
 DOMAIN,ssh.yezijizhang.com,REJECT
 DOMAIN,sshhfy.ray-ban.com,REJECT
 DOMAIN,ssite.johnlewis.com,REJECT
@@ -26471,6 +26455,7 @@ DOMAIN,ssp-rtb.sape.ru,REJECT
 DOMAIN,ssp.08160.cn,REJECT
 DOMAIN,ssp.1nmob.com,REJECT
 DOMAIN,ssp.1rtb.com,REJECT
+DOMAIN,ssp.21ic.com,REJECT
 DOMAIN,ssp.4hw.com.cn,REJECT
 DOMAIN,ssp.adriver.ru,REJECT
 DOMAIN,ssp.cibn.starschina.com,REJECT
@@ -29135,6 +29120,7 @@ DOMAIN,trace.qq.com,REJECT
 DOMAIN,trace.rtbasia.com,REJECT
 DOMAIN,trace.ynet.com,REJECT
 DOMAIN,trace2.rtbasia.com,REJECT
+DOMAIN,trace21.dsb-ebusiness.com,REJECT
 DOMAIN,tracelog-debug.aiclk.com,REJECT
 DOMAIN,traces.sr.roku.com,REJECT
 DOMAIN,traceybell.co.uk,REJECT
@@ -30860,7 +30846,6 @@ DOMAIN,vpnaffiliates.hidester.com,REJECT
 DOMAIN,vpnuyy.carters.com,REJECT
 DOMAIN,vppst.iltrovatore.it,REJECT
 DOMAIN,vpptv.admaster.com.cn,REJECT
-DOMAIN,vps.gcx3.cn,REJECT
 DOMAIN,vps.inte.sogou.com,REJECT
 DOMAIN,vqp3.madeindesign.co.uk,REJECT
 DOMAIN,vqq.admaster.com.cn,REJECT
@@ -31959,6 +31944,7 @@ DOMAIN,www2.seia.org,REJECT
 DOMAIN,www2.selecthomewarranty.com,REJECT
 DOMAIN,www2.selescope.com,REJECT
 DOMAIN,www2.sesame.org,REJECT
+DOMAIN,www2.settypesoftaflash.icu,REJECT
 DOMAIN,www2.sftravel.com,REJECT
 DOMAIN,www2.sharecare.com,REJECT
 DOMAIN,www2.shikishima-town.com,REJECT

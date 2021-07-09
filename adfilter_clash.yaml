@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYyNTcwNTg1Nwo=
+# Checksum: MTYyNTc5MjM4NQo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210708-0
-# TimeUpdated: 2021-07-08T00:57:37+00:00
+# Version: 1.1.8-20210709-0
+# TimeUpdated: 2021-07-09T00:59:45+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32626
+# Total: 32612
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -1843,6 +1843,7 @@ payload:
   - DOMAIN,ad4.speedbit.com
   - DOMAIN,ad4989.co.kr
   - DOMAIN,ad4game-a.akamaihd.net
+  - DOMAIN,ad4point.nyc3.digitaloceanspaces.com
   - DOMAIN,ad5.bigmir.net
   - DOMAIN,ad6.bigmir.net
   - DOMAIN,ad6.horvitznewspapers.net
@@ -2887,6 +2888,7 @@ payload:
   - DOMAIN,ads.tech24.vn
   - DOMAIN,ads.telkomsel.com
   - DOMAIN,ads.terra.es
+  - DOMAIN,ads.thanhnien.vn
   - DOMAIN,ads.thecoolhunter.net
   - DOMAIN,ads.thecrimson.com
   - DOMAIN,ads.thefrisky.com
@@ -4943,6 +4945,7 @@ payload:
   - DOMAIN,asd.projectfreetv.so
   - DOMAIN,asd.sincetrade.com
   - DOMAIN,asd2.projectfreetv.so
+  - DOMAIN,asdfjasdhjkasjkfhajklsd.2021zuixingg.com
   - DOMAIN,asearch.alicdn.com
   - DOMAIN,asecdn.w88media.com
   - DOMAIN,aserv.motorsgate.com
@@ -5502,7 +5505,6 @@ payload:
   - DOMAIN,banners.iq.pl
   - DOMAIN,banners.isoftmarketing.com
   - DOMAIN,banners.itweb.co.za
-  - DOMAIN,banners.kinoafisha.info
   - DOMAIN,banners.ksl.com
   - DOMAIN,banners.linkbuddies.com
   - DOMAIN,banners.mellowads.com
@@ -8431,7 +8433,6 @@ payload:
   - DOMAIN,crashlyticsreports-pa.googleapis.com
   - DOMAIN,crayfish.fansubbing.com
   - DOMAIN,crayfish.thingelstad.com
-  - DOMAIN,crayon.meishichina.com
   - DOMAIN,crbcunninghams.actonservice.com
   - DOMAIN,cre-dp.sina.cn
   - DOMAIN,cre.dp.sina.cn
@@ -10475,7 +10476,6 @@ payload:
   - DOMAIN,e.t71q.com
   - DOMAIN,e.tapdb.net
   - DOMAIN,e.tf.360.cn
-  - DOMAIN,e.tiojk.com
   - DOMAIN,e.tw.cx
   - DOMAIN,e.uissm.com
   - DOMAIN,e.unchealthcare.org
@@ -11529,7 +11529,6 @@ payload:
   - DOMAIN,feed.4wnet.com
   - DOMAIN,feed.baidu.com
   - DOMAIN,feed.mikle.com
-  - DOMAIN,feed.monad-rtb.com
   - DOMAIN,feed.theta.sogou.com
   - DOMAIN,feedads.feedblitz.com
   - DOMAIN,feedads.g.doubleclick.net
@@ -12635,7 +12634,6 @@ payload:
   - DOMAIN,go.gn.com
   - DOMAIN,go.godunnage.com
   - DOMAIN,go.goldmanpfm.com
-  - DOMAIN,go.gotourls.bid
   - DOMAIN,go.gradle.com
   - DOMAIN,go.grammarly.com
   - DOMAIN,go.grandvan.co.jp
@@ -14328,7 +14326,6 @@ payload:
   - DOMAIN,independence.americanportfolios.com
   - DOMAIN,indieclick.3janecdn.com
   - DOMAIN,industry.promo.skf.com
-  - DOMAIN,indy.fjmu.edu.cn
   - DOMAIN,inf.clickpay.com
   - DOMAIN,inf.wqa.ru
   - DOMAIN,infinityid.condenastdigital.com
@@ -15488,7 +15485,6 @@ payload:
   - DOMAIN,js.qqsort.com
   - DOMAIN,js.ruiwen.com
   - DOMAIN,js.safe524.xyz
-  - DOMAIN,js.sanwen.net
   - DOMAIN,js.shangxueba.com
   - DOMAIN,js.smi2.ru
   - DOMAIN,js.softreklam.com
@@ -15738,7 +15734,6 @@ payload:
   - DOMAIN,kn.zhipinbook.cn
   - DOMAIN,knfjhy.echo.msk.ru
   - DOMAIN,knicks.jd.com
-  - DOMAIN,knight.economist.com
   - DOMAIN,knjybs.luminis-films.com
   - DOMAIN,knorzj.wearfigs.com
   - DOMAIN,know.wolterskluwerlr.com
@@ -16291,7 +16286,6 @@ payload:
   - DOMAIN,lmwap.awtks.com
   - DOMAIN,ln.ameba.jp
   - DOMAIN,lnads.osdn.com
-  - DOMAIN,lndnserror4.wo.com.cn
   - DOMAIN,lndnserror6.wo.com.cn
   - DOMAIN,lndnserror7.wo.com.cn
   - DOMAIN,lnews.riafan.ru
@@ -16766,7 +16760,6 @@ payload:
   - DOMAIN,m.adtiming.com
   - DOMAIN,m.adxpop.com
   - DOMAIN,m.ailix.cn
-  - DOMAIN,m.aiyyu.com
   - DOMAIN,m.amazonappservices.com
   - DOMAIN,m.analytics.126.net
   - DOMAIN,m.anzhuotan.com
@@ -18661,7 +18654,6 @@ payload:
   - DOMAIN,metrics.mitsubishi-motors.co.jp
   - DOMAIN,metrics.mizuno.jp
   - DOMAIN,metrics.mlive.com
-  - DOMAIN,metrics.mms.mavenapps.net
   - DOMAIN,metrics.modcloth.com
   - DOMAIN,metrics.moneymart.ca
   - DOMAIN,metrics.moosejaw.com
@@ -20134,7 +20126,6 @@ payload:
   - DOMAIN,oas.aurasports.com
   - DOMAIN,oas.benchmark.fr
   - DOMAIN,oas.dn.se
-  - DOMAIN,oas.guardian.co.uk
   - DOMAIN,oas.publicitas.ch
   - DOMAIN,oas.repubblica.it
   - DOMAIN,oas.toronto.com
@@ -20541,8 +20532,6 @@ payload:
   - DOMAIN,orange.recompenses.xyz
   - DOMAIN,orbidder.otto.de
   - DOMAIN,orbit.lun.ua
-  - DOMAIN,order-hydrocodone.polybuild.ru
-  - DOMAIN,order-valium.polybuild.ru
   - DOMAIN,oregonstate.actonservice.com
   - DOMAIN,orencia.pflexads.com
   - DOMAIN,organikusok.blogspot.hu
@@ -20641,7 +20630,6 @@ payload:
   - DOMAIN,oxen.hillcountrytexas.com
   - DOMAIN,oxifwsabgd.nzz.ch
   - DOMAIN,oylyaz.mrkoll.se
-  - DOMAIN,oyoigg.jdsports.my
   - DOMAIN,oyy.l2anons.ws
   - DOMAIN,oyyqan.hejoscar.dk
   - DOMAIN,ozone.10jqka.com.cn
@@ -22383,7 +22371,6 @@ payload:
   - DOMAIN,r1.visualwebsiteoptimizer.com
   - DOMAIN,r1ztni.oui.sncf
   - DOMAIN,r2.adwo.com
-  - DOMAIN,r2.tschewang.com
   - DOMAIN,r2.visualwebsiteoptimizer.com
   - DOMAIN,r3.adwo.com
   - DOMAIN,r3.visualwebsiteoptimizer.com
@@ -22844,7 +22831,6 @@ payload:
   - DOMAIN,rotate.ymtracking.com
   - DOMAIN,rotator.promokrot.com
   - DOMAIN,rotator.tradetracker.net
-  - DOMAIN,rotobanner468.utro.ru
   - DOMAIN,roundcube2.net.daraz.com
   - DOMAIN,router.bittorrent.com
   - DOMAIN,router.gwdang.com
@@ -23812,7 +23798,6 @@ payload:
   - DOMAIN,sddnserror1.wo.com.cn
   - DOMAIN,sddnserror2.wo.com.cn
   - DOMAIN,sddnserror6.wo.com.cn
-  - DOMAIN,sddnserror9.wo.com.cn
   - DOMAIN,sdfp.snssdk.com
   - DOMAIN,sdfsf.freecontent.date
   - DOMAIN,sdk-ab-config.aiclk.com
@@ -26417,7 +26402,6 @@ payload:
   - DOMAIN,ssdk.adkmob.com
   - DOMAIN,ssfllp.actonservice.com
   - DOMAIN,ssgg.chazidian.com
-  - DOMAIN,ssh.wbdcrmn.cn
   - DOMAIN,ssh.yezijizhang.com
   - DOMAIN,sshhfy.ray-ban.com
   - DOMAIN,ssite.johnlewis.com
@@ -26472,6 +26456,7 @@ payload:
   - DOMAIN,ssp.08160.cn
   - DOMAIN,ssp.1nmob.com
   - DOMAIN,ssp.1rtb.com
+  - DOMAIN,ssp.21ic.com
   - DOMAIN,ssp.4hw.com.cn
   - DOMAIN,ssp.adriver.ru
   - DOMAIN,ssp.cibn.starschina.com
@@ -29136,6 +29121,7 @@ payload:
   - DOMAIN,trace.rtbasia.com
   - DOMAIN,trace.ynet.com
   - DOMAIN,trace2.rtbasia.com
+  - DOMAIN,trace21.dsb-ebusiness.com
   - DOMAIN,tracelog-debug.aiclk.com
   - DOMAIN,traces.sr.roku.com
   - DOMAIN,traceybell.co.uk
@@ -30861,7 +30847,6 @@ payload:
   - DOMAIN,vpnuyy.carters.com
   - DOMAIN,vppst.iltrovatore.it
   - DOMAIN,vpptv.admaster.com.cn
-  - DOMAIN,vps.gcx3.cn
   - DOMAIN,vps.inte.sogou.com
   - DOMAIN,vqp3.madeindesign.co.uk
   - DOMAIN,vqq.admaster.com.cn
@@ -31960,6 +31945,7 @@ payload:
   - DOMAIN,www2.selecthomewarranty.com
   - DOMAIN,www2.selescope.com
   - DOMAIN,www2.sesame.org
+  - DOMAIN,www2.settypesoftaflash.icu
   - DOMAIN,www2.sftravel.com
   - DOMAIN,www2.sharecare.com
   - DOMAIN,www2.shikishima-town.com
