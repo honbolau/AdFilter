@@ -1,11 +1,11 @@
-# Checksum: MTYyNTc5MjM4NQo=
+# Checksum: MTYyNTg3ODY2Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210709-0
-# TimeUpdated: 2021-07-09T00:59:45+00:00
+# Version: 1.1.8-20210710-0
+# TimeUpdated: 2021-07-10T00:57:43+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32612
+# Total: 32606
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5636,6 +5636,8 @@ ff02::3 ip6-allhosts
 :: ads.reklamatik.com
 0.0.0.0 ads.reklamlar.net
 :: ads.reklamlar.net
+0.0.0.0 ads.revenue.net
+:: ads.revenue.net
 0.0.0.0 ads.revjet.com
 :: ads.revjet.com
 0.0.0.0 ads.roanoke.com
@@ -6070,6 +6072,8 @@ ff02::3 ip6-allhosts
 :: ads1.msn.com
 0.0.0.0 ads1.realcities.com
 :: ads1.realcities.com
+0.0.0.0 ads1.revenue.net
+:: ads1.revenue.net
 0.0.0.0 ads1.rne.com
 :: ads1.rne.com
 0.0.0.0 ads1.virtual-nights.com
@@ -6138,6 +6142,8 @@ ff02::3 ip6-allhosts
 :: ads2.pittsburghlive.com
 0.0.0.0 ads2.realcities.com
 :: ads2.realcities.com
+0.0.0.0 ads2.revenue.net
+:: ads2.revenue.net
 0.0.0.0 ads2.rne.com
 :: ads2.rne.com
 0.0.0.0 ads2.techads.info
@@ -9570,8 +9576,6 @@ ff02::3 ip6-allhosts
 :: appimg.0575bbs.com
 0.0.0.0 apple-support-online.s3-website-us-west-2.amazonaws.com
 :: apple-support-online.s3-website-us-west-2.amazonaws.com
-0.0.0.0 apple.com-web-security-analysis.win
-:: apple.com-web-security-analysis.win
 0.0.0.0 apple.www.letv.com
 :: apple.www.letv.com
 0.0.0.0 appleld.apple.com.t5j2kdkc88dd2m423-verif.info
@@ -11720,6 +11724,8 @@ ff02::3 ip6-allhosts
 :: binaryage-leechgate.herokuapp.com
 0.0.0.0 bingads.microsoft.com
 :: bingads.microsoft.com
+0.0.0.0 binocule21c.merriam-webster.com
+:: binocule21c.merriam-webster.com
 0.0.0.0 bioanalyticalmarketing.eurofins-info.com
 :: bioanalyticalmarketing.eurofins-info.com
 0.0.0.0 bioscience.biomb.ca
@@ -13398,8 +13404,6 @@ ff02::3 ip6-allhosts
 :: cc.calltracking.ru
 0.0.0.0 cc.conforama.es
 :: cc.conforama.es
-0.0.0.0 cc.dace.hupu.com
-:: cc.dace.hupu.com
 0.0.0.0 cc.hb.omtrdc.net
 :: cc.hb.omtrdc.net
 0.0.0.0 cc.m.jd.com
@@ -20192,8 +20196,6 @@ ff02::3 ip6-allhosts
 :: doa1.immobilier-neuf.com
 0.0.0.0 doabqu.s3.com.tw
 :: doabqu.s3.com.tw
-0.0.0.0 doagpm.promart.pe
-:: doagpm.promart.pe
 0.0.0.0 doc.go.sohu.com
 :: doc.go.sohu.com
 0.0.0.0 dockersummer.net.daraz.com
@@ -24370,6 +24372,8 @@ ff02::3 ip6-allhosts
 :: geoip.viamichelin.com
 0.0.0.0 geoloc.hurriyet.com.tr
 :: geoloc.hurriyet.com.tr
+0.0.0.0 geoloc.yospace.com
+:: geoloc.yospace.com
 0.0.0.0 geolocation.forbes.com
 :: geolocation.forbes.com
 0.0.0.0 geolocation.performgroup.com
@@ -26722,6 +26726,8 @@ ff02::3 ip6-allhosts
 :: guestworld.tripod.lycos.com
 0.0.0.0 gugzuc.veryvoga.pl
 :: gugzuc.veryvoga.pl
+0.0.0.0 guid.tpns.tencent.com
+:: guid.tpns.tencent.com
 0.0.0.0 guidance.godaddy.com
 :: guidance.godaddy.com
 0.0.0.0 guide.allblet.net
@@ -26988,8 +26994,6 @@ ff02::3 ip6-allhosts
 :: hc-analytics.idp.clogin.att.com
 0.0.0.0 hc.uralweb.ru
 :: hc.uralweb.ru
-0.0.0.0 hc.wstztt.com
-:: hc.wstztt.com
 0.0.0.0 hcadv.video.ums.uc.cn
 :: hcadv.video.ums.uc.cn
 0.0.0.0 hcanorthtexas.hrm.healthgrades.com
@@ -28368,8 +28372,6 @@ ff02::3 ip6-allhosts
 :: img.zuowenwang.net
 0.0.0.0 img0.egou.com
 :: img0.egou.com
-0.0.0.0 img01.taotaosou.cn
-:: img01.taotaosou.cn
 0.0.0.0 img1.126.net
 :: img1.126.net
 0.0.0.0 img1.18183.com
@@ -29306,6 +29308,8 @@ ff02::3 ip6-allhosts
 :: info.meriwest.com
 0.0.0.0 info.meyerandassoc.com
 :: info.meyerandassoc.com
+0.0.0.0 info.meyerandassocketing.access2dayhealth.com
+:: info.meyerandassocketing.access2dayhealth.com
 0.0.0.0 info.milesmediation.com
 :: info.milesmediation.com
 0.0.0.0 info.milner.com
@@ -36272,6 +36276,8 @@ ff02::3 ip6-allhosts
 :: mediator.imgsmail.ru
 0.0.0.0 mediator.mail.ru
 :: mediator.mail.ru
+0.0.0.0 mediatrack.revenue.net
+:: mediatrack.revenue.net
 0.0.0.0 mediatraffic.com.ua
 :: mediatraffic.com.ua
 0.0.0.0 mediavision.actonservice.com
@@ -36326,8 +36332,6 @@ ff02::3 ip6-allhosts
 :: members.iinet.net.au
 0.0.0.0 members.reiwa.com.au
 :: members.reiwa.com.au
-0.0.0.0 members.simplicity.coop
-:: members.simplicity.coop
 0.0.0.0 members.upc.nl
 :: members.upc.nl
 0.0.0.0 membership.mortonarb.org
@@ -37502,6 +37506,8 @@ ff02::3 ip6-allhosts
 :: metrics.purina.com
 0.0.0.0 metrics.qatarairways.com
 :: metrics.qatarairways.com
+0.0.0.0 metrics.questrade.coans.com
+:: metrics.questrade.coans.com
 0.0.0.0 metrics.questrade.com
 :: metrics.questrade.com
 0.0.0.0 metrics.quiksilver.com
@@ -40978,6 +40984,8 @@ ff02::3 ip6-allhosts
 :: opentag-stats.qubit.com
 0.0.0.0 openworksweb.actonservice.com
 :: openworksweb.actonservice.com
+0.0.0.0 openx.actvtech.com
+:: openx.actvtech.com
 0.0.0.0 openx.angelsgroup.org.uk
 :: openx.angelsgroup.org.uk
 0.0.0.0 openx.cairo360.com
@@ -47516,6 +47524,8 @@ ff02::3 ip6-allhosts
 :: scripts.psyma.com
 0.0.0.0 scripts.verticalacuity.com
 :: scripts.verticalacuity.com
+0.0.0.0 scripttags.jst.ai
+:: scripttags.jst.ai
 0.0.0.0 scrooge.nbc11.com
 :: scrooge.nbc11.com
 0.0.0.0 scrooge.nbc4.com
@@ -50048,6 +50058,8 @@ ff02::3 ip6-allhosts
 :: smetrics.crystalski.co.uk
 0.0.0.0 smetrics.crystalski.ie
 :: smetrics.crystalski.ie
+0.0.0.0 smetrics.csmetrics.privilege.com
+:: smetrics.csmetrics.privilege.com
 0.0.0.0 smetrics.csmonitor.com
 :: smetrics.csmonitor.com
 0.0.0.0 smetrics.css.ch
@@ -51654,8 +51666,6 @@ ff02::3 ip6-allhosts
 :: smetrics.viceroyhotelsandresorts.com
 0.0.0.0 smetrics.viega.de
 :: smetrics.viega.de
-0.0.0.0 smetrics.vikingline.ax
-:: smetrics.vikingline.ax
 0.0.0.0 smetrics.vikingline.ee
 :: smetrics.vikingline.ee
 0.0.0.0 smetrics.vikingline.fi
@@ -54252,8 +54262,6 @@ ff02::3 ip6-allhosts
 :: stats.curbnumberpro.com
 0.0.0.0 stats.dailyposter.com
 :: stats.dailyposter.com
-0.0.0.0 stats.danielwolf.photography
-:: stats.danielwolf.photography
 0.0.0.0 stats.dashbit.co
 :: stats.dashbit.co
 0.0.0.0 stats.datahjaelp.net
@@ -54296,8 +54304,6 @@ ff02::3 ip6-allhosts
 :: stats.docu.info
 0.0.0.0 stats.dokidokibangkok.com
 :: stats.dokidokibangkok.com
-0.0.0.0 stats.domain.garden
-:: stats.domain.garden
 0.0.0.0 stats.dongphim.net
 :: stats.dongphim.net
 0.0.0.0 stats.doors.live
@@ -54390,8 +54396,6 @@ ff02::3 ip6-allhosts
 :: stats.galaxyexperte.de
 0.0.0.0 stats.gamestop.com
 :: stats.gamestop.com
-0.0.0.0 stats.garten.schule
-:: stats.garten.schule
 0.0.0.0 stats.geegain.com
 :: stats.geegain.com
 0.0.0.0 stats.getdoks.org
@@ -54452,8 +54456,6 @@ ff02::3 ip6-allhosts
 :: stats.homestow.com
 0.0.0.0 stats.hone.uk
 :: stats.hone.uk
-0.0.0.0 stats.hotwire.dev
-:: stats.hotwire.dev
 0.0.0.0 stats.hstatic.net
 :: stats.hstatic.net
 0.0.0.0 stats.htmlcsstoimage.com
@@ -54612,8 +54614,6 @@ ff02::3 ip6-allhosts
 :: stats.meijer.com
 0.0.0.0 stats.melvingeorge.me
 :: stats.melvingeorge.me
-0.0.0.0 stats.menn.blog
-:: stats.menn.blog
 0.0.0.0 stats.merriam-webster.com
 :: stats.merriam-webster.com
 0.0.0.0 stats.mesenvies.fr
@@ -54826,6 +54826,8 @@ ff02::3 ip6-allhosts
 :: stats.reprage.com
 0.0.0.0 stats.resellerratings.com
 :: stats.resellerratings.com
+0.0.0.0 stats.revenue.net
+:: stats.revenue.net
 0.0.0.0 stats.rico.wtf
 :: stats.rico.wtf
 0.0.0.0 stats.robhope.com
@@ -54950,8 +54952,6 @@ ff02::3 ip6-allhosts
 :: stats.themakoreactor.com
 0.0.0.0 stats.therenegadecoder.com
 :: stats.therenegadecoder.com
-0.0.0.0 stats.thingsthatkeepmeupatnight.dev
-:: stats.thingsthatkeepmeupatnight.dev
 0.0.0.0 stats.thomasvitale.com
 :: stats.thomasvitale.com
 0.0.0.0 stats.thoughtcatalog.com
@@ -55322,8 +55322,6 @@ ff02::3 ip6-allhosts
 :: stream1.estream.to
 0.0.0.0 stream2.estream.to
 :: stream2.estream.to
-0.0.0.0 streaming.filmsgratuits.org
-:: streaming.filmsgratuits.org
 0.0.0.0 streaming.rtbiddingplatform.com
 :: streaming.rtbiddingplatform.com
 0.0.0.0 streem.com.au
@@ -55416,8 +55414,6 @@ ff02::3 ip6-allhosts
 :: substation.confection.io
 0.0.0.0 success.act-on.com
 :: success.act-on.com
-0.0.0.0 success.catman.global
-:: success.catman.global
 0.0.0.0 success.datasoftlogic.com
 :: success.datasoftlogic.com
 0.0.0.0 success.ebmcatalyst.com
@@ -56162,8 +56158,6 @@ ff02::3 ip6-allhosts
 :: t.leady.cz
 0.0.0.0 t.lidyana.com
 :: t.lidyana.com
-0.0.0.0 t.lksb.wang
-:: t.lksb.wang
 0.0.0.0 t.locasun-vp.fr
 :: t.locasun-vp.fr
 0.0.0.0 t.locasun.de
@@ -56368,8 +56362,6 @@ ff02::3 ip6-allhosts
 :: tactics.bainv.net
 0.0.0.0 tad.suning.com
 :: tad.suning.com
-0.0.0.0 taexde.shipgratis.rs
-:: taexde.shipgratis.rs
 0.0.0.0 tag-manager.playbuzz.com
 :: tag-manager.playbuzz.com
 0.0.0.0 tag-store.ads-pixiv.net
@@ -56968,8 +56960,6 @@ ff02::3 ip6-allhosts
 :: tewxda71.secure.ne.jp
 0.0.0.0 texas-holdem.shengen.ru
 :: texas-holdem.shengen.ru
-0.0.0.0 texoay.svyaznoy.travel
-:: texoay.svyaznoy.travel
 0.0.0.0 text.benefitsatwork.be
 :: text.benefitsatwork.be
 0.0.0.0 text.benefitsatwork.ch
@@ -57918,8 +57908,6 @@ ff02::3 ip6-allhosts
 :: tr.junaroad.com
 0.0.0.0 tr.kpyn.espmp-cufr.net
 :: tr.kpyn.espmp-cufr.net
-0.0.0.0 tr.leads.direct
-:: tr.leads.direct
 0.0.0.0 tr.lesmarques.envie-de-bien-manger.com
 :: tr.lesmarques.envie-de-bien-manger.com
 0.0.0.0 tr.lfeeder.com
@@ -61386,6 +61374,8 @@ ff02::3 ip6-allhosts
 :: video-ad-stats.googlesyndication.com
 0.0.0.0 video-ad.sm.cn
 :: video-ad.sm.cn
+0.0.0.0 video-ads-module.ad-tech.nbcuni.com
+:: video-ads-module.ad-tech.nbcuni.com
 0.0.0.0 video-stats.video.google.com
 :: video-stats.video.google.com
 0.0.0.0 video.begun.ru
@@ -63892,8 +63882,6 @@ ff02::3 ip6-allhosts
 :: www2.selescope.com
 0.0.0.0 www2.sesame.org
 :: www2.sesame.org
-0.0.0.0 www2.settypesoftaflash.icu
-:: www2.settypesoftaflash.icu
 0.0.0.0 www2.sftravel.com
 :: www2.sftravel.com
 0.0.0.0 www2.sharecare.com
