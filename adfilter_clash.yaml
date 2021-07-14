@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYyNjEzODA0Mwo=
+# Checksum: MTYyNjIyNDEyNAo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210713-0
-# TimeUpdated: 2021-07-13T01:00:43+00:00
+# Version: 1.1.8-20210714-0
+# TimeUpdated: 2021-07-14T00:55:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 31707
+# Total: 31713
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -57,7 +57,6 @@ payload:
   - DOMAIN,1.hysou.com
   - DOMAIN,1.i999d.cn
   - DOMAIN,1.idc100.com
-  - DOMAIN,1.ideng.com
   - DOMAIN,1.iqeq.com.cn
   - DOMAIN,1.isanxia.com
   - DOMAIN,1.jiqie.cn
@@ -1562,6 +1561,7 @@ payload:
   - DOMAIN,ad.khan.co.kr
   - DOMAIN,ad.kisscartoon.ac
   - DOMAIN,ad.kisscartoon.is
+  - DOMAIN,ad.kisscartoon.sh
   - DOMAIN,ad.kisscartoon.su
   - DOMAIN,ad.koreadaily.com
   - DOMAIN,ad.krutilka.ru
@@ -4080,6 +4080,7 @@ payload:
   - DOMAIN,analytics.kapost.com
   - DOMAIN,analytics.kidoz.net
   - DOMAIN,analytics.kraken.com
+  - DOMAIN,analytics.laregione.ch
   - DOMAIN,analytics.lekumo.jp
   - DOMAIN,analytics.liftoff.io
   - DOMAIN,analytics.linktr.ee
@@ -4184,6 +4185,7 @@ payload:
   - DOMAIN,analytics.robinhood.com
   - DOMAIN,analytics.rogersmedia.com
   - DOMAIN,analytics.rotapost.ru
+  - DOMAIN,analytics.rover.io
   - DOMAIN,analytics.salesanalytics.io
   - DOMAIN,analytics.samdd.me
   - DOMAIN,analytics.samsungknox.com
@@ -5890,7 +5892,6 @@ payload:
   - DOMAIN,bj14.9669.cn
   - DOMAIN,bjc.hrm.healthgrades.com
   - DOMAIN,bjdata.ads.oppomobile.com
-  - DOMAIN,bjdnserror1.wo.com.cn
   - DOMAIN,bjs.9669.cn
   - DOMAIN,bjs.mscto.com
   - DOMAIN,bjuser.jpush.cn
@@ -6056,6 +6057,7 @@ payload:
   - DOMAIN,bro.flyme.cn
   - DOMAIN,broadcast.piximedia.fr
   - DOMAIN,brokeneagledlc.goblogz.net
+  - DOMAIN,broker.datazoom.io
   - DOMAIN,bronrt.stsdk.vivo.com.cn
   - DOMAIN,brort.stsdk.vivo.com.cn
   - DOMAIN,browser-consent-front.coco.s-cloud.fi
@@ -9381,7 +9383,6 @@ payload:
   - DOMAIN,data.beop.io
   - DOMAIN,data.bizographics.com
   - DOMAIN,data.campaign.prenatal.com
-  - DOMAIN,data.campaign.toyscenter.it
   - DOMAIN,data.caroda.io
   - DOMAIN,data.circulate.com
   - DOMAIN,data.cofinoga.fr
@@ -10128,6 +10129,7 @@ payload:
   - DOMAIN,dot.eporner.com
   - DOMAIN,dot.evolutionnews.org
   - DOMAIN,dot.mindmatters.ai
+  - DOMAIN,dot.texastribune.org
   - DOMAIN,dot.wp.pl
   - DOMAIN,dot2.eporner.com
   - DOMAIN,dotcounter.douyutv.com
@@ -11188,6 +11190,7 @@ payload:
   - DOMAIN,eventlog.jackpot.de
   - DOMAIN,eventlog.outbrain.com
   - DOMAIN,eventos.lp.deloittecomunicacao.com.br
+  - DOMAIN,events-collector-api.viacom.tech
   - DOMAIN,events-collector.spot.im
   - DOMAIN,events-eu.freshsuccess.com
   - DOMAIN,events-us.freshsuccess.com
@@ -11206,6 +11209,7 @@ payload:
   - DOMAIN,events.chaordicsystems.com
   - DOMAIN,events.claspws.tv
   - DOMAIN,events.constellation.com
+  - DOMAIN,events.data.microsoft.com
   - DOMAIN,events.demand.intelsecurity.com
   - DOMAIN,events.demoup.com
   - DOMAIN,events.emogi.com
@@ -12123,6 +12127,7 @@ payload:
   - DOMAIN,get.hydrosystemsco.com
   - DOMAIN,get.info.themisbar.com
   - DOMAIN,get.labster.com
+  - DOMAIN,get.movieboxsearch.com
   - DOMAIN,get.mypdf-search.com
   - DOMAIN,get.netprotections.com
   - DOMAIN,get.nttdata.com
@@ -14144,6 +14149,7 @@ payload:
   - DOMAIN,independence.americanportfolios.com
   - DOMAIN,indieclick.3janecdn.com
   - DOMAIN,industry.promo.skf.com
+  - DOMAIN,indy.fjmu.edu.cn
   - DOMAIN,inf.clickpay.com
   - DOMAIN,inf.wqa.ru
   - DOMAIN,infinityid.condenastdigital.com
@@ -14870,7 +14876,6 @@ payload:
   - DOMAIN,isite.baidu.com
   - DOMAIN,ism.brother.com
   - DOMAIN,isocket-creatives.s3.amazonaws.com
-  - DOMAIN,isu.weidianyuedu.com
   - DOMAIN,isub.snssdk.com
   - DOMAIN,isuzu.actonservice.com
   - DOMAIN,it.conres.com
@@ -16000,6 +16005,7 @@ payload:
   - DOMAIN,location.ximalaya.com
   - DOMAIN,locdrop.query.yahoo.com
   - DOMAIN,loestrin.1.p2l.info
+  - DOMAIN,log-api.aillis.net
   - DOMAIN,log-api.newrelic.com
   - DOMAIN,log-api.pangolin-sdk-toutiao.com
   - DOMAIN,log-collector.shopee.vn
@@ -16120,6 +16126,7 @@ payload:
   - DOMAIN,log.shufoo.net
   - DOMAIN,log.sina.cn
   - DOMAIN,log.snapdeal.com
+  - DOMAIN,log.snow.me
   - DOMAIN,log.snssdk.com
   - DOMAIN,log.so.hunantv.com
   - DOMAIN,log.spotify.com
@@ -16401,6 +16408,7 @@ payload:
   - DOMAIN,lynn.zgsemi.cn
   - DOMAIN,lynx.localticketing.de
   - DOMAIN,lyxfra.shopee.com.my
+  - DOMAIN,lz.chaelc.com
   - DOMAIN,lz.whafwl.com
   - DOMAIN,lzrljv.tradera.com
   - DOMAIN,lzuc.sfr.fr
@@ -16537,7 +16545,6 @@ payload:
   - DOMAIN,m.laigame7.net
   - DOMAIN,m.lanshiwan.cn
   - DOMAIN,m.laoqu123.com
-  - DOMAIN,m.lengren.com.cn
   - DOMAIN,m.lesanmo.top
   - DOMAIN,m.lfshpt.cn
   - DOMAIN,m.lolvsdota.cn
@@ -16651,7 +16658,6 @@ payload:
   - DOMAIN,m.yitiaoyu.top
   - DOMAIN,m.yooli.com
   - DOMAIN,m.yoyi.com.cn
-  - DOMAIN,m.yqqlm.vip
   - DOMAIN,m.ysgsq.cn
   - DOMAIN,m.yuyouge.com
   - DOMAIN,m.z0mh0u.cn
@@ -19347,7 +19353,6 @@ payload:
   - DOMAIN,netspidermm.indiatimes.com
   - DOMAIN,network.aufeminin.com
   - DOMAIN,network.nimiq.com
-  - DOMAIN,network2.aufeminin.com
   - DOMAIN,networksdk.ssacdn.com
   - DOMAIN,new-collect.albacross.com
   - DOMAIN,new-rutor.eu.org
@@ -20762,6 +20767,7 @@ payload:
   - DOMAIN,pint-dev-branch.airship.com
   - DOMAIN,pio.fabianfett.de
   - DOMAIN,pipe-collect.ebu.io
+  - DOMAIN,pipe.aria.microsoft.com
   - DOMAIN,pipedream.wistia.com
   - DOMAIN,piper.amocrm.ru
   - DOMAIN,pir.zspb.ru
@@ -23626,6 +23632,7 @@ payload:
   - DOMAIN,select003.adtech.us
   - DOMAIN,select004.adtech.fr
   - DOMAIN,select004.adtech.us
+  - DOMAIN,self.events.data.microsoft.com
   - DOMAIN,sell1.etlong.com
   - DOMAIN,sem.triboomedia.it
   - DOMAIN,semi-cod.nnmclub.ch
@@ -25925,7 +25932,6 @@ payload:
   - DOMAIN,st.onlygip.tech
   - DOMAIN,st.pba.xl.pt
   - DOMAIN,st.s-bahn-muenchen-magazin.de
-  - DOMAIN,st.tmgrup.com.tr
   - DOMAIN,st.top100.ru
   - DOMAIN,st.upmc.com
   - DOMAIN,st.videojam.tv
@@ -26539,7 +26545,6 @@ payload:
   - DOMAIN,stats.ladotstats.nl
   - DOMAIN,stats.laxallstars.com
   - DOMAIN,stats.layl.app
-  - DOMAIN,stats.leafland.co.nz
   - DOMAIN,stats.leaguestats.gg
   - DOMAIN,stats.learnappmaking.com
   - DOMAIN,stats.learnlinux.tv
@@ -26588,7 +26593,6 @@ payload:
   - DOMAIN,stats.nodehub.io
   - DOMAIN,stats.nonprofit.foundation
   - DOMAIN,stats.norton.com
-  - DOMAIN,stats.nota.md
   - DOMAIN,stats.nothingbutnylon.com
   - DOMAIN,stats.nrcaknights.com
   - DOMAIN,stats.ntietz.com
@@ -28325,6 +28329,7 @@ payload:
   - DOMAIN,track.celtra.com
   - DOMAIN,track.china.com
   - DOMAIN,track.clearsender.com
+  - DOMAIN,track.construclique.com
   - DOMAIN,track.contently.com
   - DOMAIN,track.cordial.io
   - DOMAIN,track.cpatool.net
@@ -29676,6 +29681,7 @@ payload:
   - DOMAIN,v.szpaopao.com
   - DOMAIN,v.tf.360.cn
   - DOMAIN,v.totoc.top
+  - DOMAIN,v.tranzistor-harakteristiki.ru
   - DOMAIN,v.u22l.cc
   - DOMAIN,v.whbhsoft.cn
   - DOMAIN,v.wxskqy.cn
@@ -29703,7 +29709,6 @@ payload:
   - DOMAIN,v1.phb123.com
   - DOMAIN,v1.play.log.hunantv.com
   - DOMAIN,v1.res.log.hunantv.com
-  - DOMAIN,v1.taksh.cn
   - DOMAIN,v1.ujian.cc
   - DOMAIN,v1.wphonelife.com
   - DOMAIN,v12-r0566gbscjw.z.irs01.com
@@ -30198,11 +30203,11 @@ payload:
   - DOMAIN,wbwl.houyi.baofeng.net
   - DOMAIN,wc.yahoodns.net
   - DOMAIN,wcdkff.rueducommerce.fr
+  - DOMAIN,wco.crownpeak.com
   - DOMAIN,wd-edge.sharethis.com
   - DOMAIN,wd.adcolony.com
   - DOMAIN,wdads.sx.atl.publicus.com
   - DOMAIN,wdfhbx.zdpeanut.com
-  - DOMAIN,wdfhl.weidianyuedu.com
   - DOMAIN,wdig.vo.llnwd.net
   - DOMAIN,wdm.map24.com
   - DOMAIN,wdr9.inseec.com
@@ -31353,6 +31358,7 @@ payload:
   - DOMAIN,xxlefq.journaldunet.fr
   - DOMAIN,xxlefq.linternaute.com
   - DOMAIN,xxsdtb.edreams.com
+  - DOMAIN,xxxa.aikeapp.com
   - DOMAIN,xy-log2.tagtic.cn
   - DOMAIN,xy.nullrefexcep.com
   - DOMAIN,xy33.smallable.com

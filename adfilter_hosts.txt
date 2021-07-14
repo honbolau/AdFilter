@@ -1,11 +1,11 @@
-# Checksum: MTYyNjEzODA0Mwo=
+# Checksum: MTYyNjIyNDEyNAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210713-0
-# TimeUpdated: 2021-07-13T01:00:43+00:00
+# Version: 1.1.8-20210714-0
+# TimeUpdated: 2021-07-14T00:55:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 31707
+# Total: 31713
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -116,8 +116,6 @@ ff02::3 ip6-allhosts
 :: 1.i999d.cn
 0.0.0.0 1.idc100.com
 :: 1.idc100.com
-0.0.0.0 1.ideng.com
-:: 1.ideng.com
 0.0.0.0 1.iqeq.com.cn
 :: 1.iqeq.com.cn
 0.0.0.0 1.isanxia.com
@@ -3126,6 +3124,8 @@ ff02::3 ip6-allhosts
 :: ad.kisscartoon.ac
 0.0.0.0 ad.kisscartoon.is
 :: ad.kisscartoon.is
+0.0.0.0 ad.kisscartoon.sh
+:: ad.kisscartoon.sh
 0.0.0.0 ad.kisscartoon.su
 :: ad.kisscartoon.su
 0.0.0.0 ad.koreadaily.com
@@ -8162,6 +8162,8 @@ ff02::3 ip6-allhosts
 :: analytics.kidoz.net
 0.0.0.0 analytics.kraken.com
 :: analytics.kraken.com
+0.0.0.0 analytics.laregione.ch
+:: analytics.laregione.ch
 0.0.0.0 analytics.lekumo.jp
 :: analytics.lekumo.jp
 0.0.0.0 analytics.liftoff.io
@@ -8370,6 +8372,8 @@ ff02::3 ip6-allhosts
 :: analytics.rogersmedia.com
 0.0.0.0 analytics.rotapost.ru
 :: analytics.rotapost.ru
+0.0.0.0 analytics.rover.io
+:: analytics.rover.io
 0.0.0.0 analytics.salesanalytics.io
 :: analytics.salesanalytics.io
 0.0.0.0 analytics.samdd.me
@@ -11782,8 +11786,6 @@ ff02::3 ip6-allhosts
 :: bjc.hrm.healthgrades.com
 0.0.0.0 bjdata.ads.oppomobile.com
 :: bjdata.ads.oppomobile.com
-0.0.0.0 bjdnserror1.wo.com.cn
-:: bjdnserror1.wo.com.cn
 0.0.0.0 bjs.9669.cn
 :: bjs.9669.cn
 0.0.0.0 bjs.mscto.com
@@ -12114,6 +12116,8 @@ ff02::3 ip6-allhosts
 :: broadcast.piximedia.fr
 0.0.0.0 brokeneagledlc.goblogz.net
 :: brokeneagledlc.goblogz.net
+0.0.0.0 broker.datazoom.io
+:: broker.datazoom.io
 0.0.0.0 bronrt.stsdk.vivo.com.cn
 :: bronrt.stsdk.vivo.com.cn
 0.0.0.0 brort.stsdk.vivo.com.cn
@@ -18764,8 +18768,6 @@ ff02::3 ip6-allhosts
 :: data.bizographics.com
 0.0.0.0 data.campaign.prenatal.com
 :: data.campaign.prenatal.com
-0.0.0.0 data.campaign.toyscenter.it
-:: data.campaign.toyscenter.it
 0.0.0.0 data.caroda.io
 :: data.caroda.io
 0.0.0.0 data.circulate.com
@@ -20258,6 +20260,8 @@ ff02::3 ip6-allhosts
 :: dot.evolutionnews.org
 0.0.0.0 dot.mindmatters.ai
 :: dot.mindmatters.ai
+0.0.0.0 dot.texastribune.org
+:: dot.texastribune.org
 0.0.0.0 dot.wp.pl
 :: dot.wp.pl
 0.0.0.0 dot2.eporner.com
@@ -22378,6 +22382,8 @@ ff02::3 ip6-allhosts
 :: eventlog.outbrain.com
 0.0.0.0 eventos.lp.deloittecomunicacao.com.br
 :: eventos.lp.deloittecomunicacao.com.br
+0.0.0.0 events-collector-api.viacom.tech
+:: events-collector-api.viacom.tech
 0.0.0.0 events-collector.spot.im
 :: events-collector.spot.im
 0.0.0.0 events-eu.freshsuccess.com
@@ -22414,6 +22420,8 @@ ff02::3 ip6-allhosts
 :: events.claspws.tv
 0.0.0.0 events.constellation.com
 :: events.constellation.com
+0.0.0.0 events.data.microsoft.com
+:: events.data.microsoft.com
 0.0.0.0 events.demand.intelsecurity.com
 :: events.demand.intelsecurity.com
 0.0.0.0 events.demoup.com
@@ -24248,6 +24256,8 @@ ff02::3 ip6-allhosts
 :: get.info.themisbar.com
 0.0.0.0 get.labster.com
 :: get.labster.com
+0.0.0.0 get.movieboxsearch.com
+:: get.movieboxsearch.com
 0.0.0.0 get.mypdf-search.com
 :: get.mypdf-search.com
 0.0.0.0 get.netprotections.com
@@ -28290,6 +28300,8 @@ ff02::3 ip6-allhosts
 :: indieclick.3janecdn.com
 0.0.0.0 industry.promo.skf.com
 :: industry.promo.skf.com
+0.0.0.0 indy.fjmu.edu.cn
+:: indy.fjmu.edu.cn
 0.0.0.0 inf.clickpay.com
 :: inf.clickpay.com
 0.0.0.0 inf.wqa.ru
@@ -29742,8 +29754,6 @@ ff02::3 ip6-allhosts
 :: ism.brother.com
 0.0.0.0 isocket-creatives.s3.amazonaws.com
 :: isocket-creatives.s3.amazonaws.com
-0.0.0.0 isu.weidianyuedu.com
-:: isu.weidianyuedu.com
 0.0.0.0 isub.snssdk.com
 :: isub.snssdk.com
 0.0.0.0 isuzu.actonservice.com
@@ -32002,6 +32012,8 @@ ff02::3 ip6-allhosts
 :: locdrop.query.yahoo.com
 0.0.0.0 loestrin.1.p2l.info
 :: loestrin.1.p2l.info
+0.0.0.0 log-api.aillis.net
+:: log-api.aillis.net
 0.0.0.0 log-api.newrelic.com
 :: log-api.newrelic.com
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
@@ -32242,6 +32254,8 @@ ff02::3 ip6-allhosts
 :: log.sina.cn
 0.0.0.0 log.snapdeal.com
 :: log.snapdeal.com
+0.0.0.0 log.snow.me
+:: log.snow.me
 0.0.0.0 log.snssdk.com
 :: log.snssdk.com
 0.0.0.0 log.so.hunantv.com
@@ -32804,6 +32818,8 @@ ff02::3 ip6-allhosts
 :: lynx.localticketing.de
 0.0.0.0 lyxfra.shopee.com.my
 :: lyxfra.shopee.com.my
+0.0.0.0 lz.chaelc.com
+:: lz.chaelc.com
 0.0.0.0 lz.whafwl.com
 :: lz.whafwl.com
 0.0.0.0 lzrljv.tradera.com
@@ -33076,8 +33092,6 @@ ff02::3 ip6-allhosts
 :: m.lanshiwan.cn
 0.0.0.0 m.laoqu123.com
 :: m.laoqu123.com
-0.0.0.0 m.lengren.com.cn
-:: m.lengren.com.cn
 0.0.0.0 m.lesanmo.top
 :: m.lesanmo.top
 0.0.0.0 m.lfshpt.cn
@@ -33304,8 +33318,6 @@ ff02::3 ip6-allhosts
 :: m.yooli.com
 0.0.0.0 m.yoyi.com.cn
 :: m.yoyi.com.cn
-0.0.0.0 m.yqqlm.vip
-:: m.yqqlm.vip
 0.0.0.0 m.ysgsq.cn
 :: m.ysgsq.cn
 0.0.0.0 m.yuyouge.com
@@ -38696,8 +38708,6 @@ ff02::3 ip6-allhosts
 :: network.aufeminin.com
 0.0.0.0 network.nimiq.com
 :: network.nimiq.com
-0.0.0.0 network2.aufeminin.com
-:: network2.aufeminin.com
 0.0.0.0 networksdk.ssacdn.com
 :: networksdk.ssacdn.com
 0.0.0.0 new-collect.albacross.com
@@ -41526,6 +41536,8 @@ ff02::3 ip6-allhosts
 :: pio.fabianfett.de
 0.0.0.0 pipe-collect.ebu.io
 :: pipe-collect.ebu.io
+0.0.0.0 pipe.aria.microsoft.com
+:: pipe.aria.microsoft.com
 0.0.0.0 pipedream.wistia.com
 :: pipedream.wistia.com
 0.0.0.0 piper.amocrm.ru
@@ -47254,6 +47266,8 @@ ff02::3 ip6-allhosts
 :: select004.adtech.fr
 0.0.0.0 select004.adtech.us
 :: select004.adtech.us
+0.0.0.0 self.events.data.microsoft.com
+:: self.events.data.microsoft.com
 0.0.0.0 sell1.etlong.com
 :: sell1.etlong.com
 0.0.0.0 sem.triboomedia.it
@@ -51852,8 +51866,6 @@ ff02::3 ip6-allhosts
 :: st.pba.xl.pt
 0.0.0.0 st.s-bahn-muenchen-magazin.de
 :: st.s-bahn-muenchen-magazin.de
-0.0.0.0 st.tmgrup.com.tr
-:: st.tmgrup.com.tr
 0.0.0.0 st.top100.ru
 :: st.top100.ru
 0.0.0.0 st.upmc.com
@@ -53080,8 +53092,6 @@ ff02::3 ip6-allhosts
 :: stats.laxallstars.com
 0.0.0.0 stats.layl.app
 :: stats.layl.app
-0.0.0.0 stats.leafland.co.nz
-:: stats.leafland.co.nz
 0.0.0.0 stats.leaguestats.gg
 :: stats.leaguestats.gg
 0.0.0.0 stats.learnappmaking.com
@@ -53178,8 +53188,6 @@ ff02::3 ip6-allhosts
 :: stats.nonprofit.foundation
 0.0.0.0 stats.norton.com
 :: stats.norton.com
-0.0.0.0 stats.nota.md
-:: stats.nota.md
 0.0.0.0 stats.nothingbutnylon.com
 :: stats.nothingbutnylon.com
 0.0.0.0 stats.nrcaknights.com
@@ -56652,6 +56660,8 @@ ff02::3 ip6-allhosts
 :: track.china.com
 0.0.0.0 track.clearsender.com
 :: track.clearsender.com
+0.0.0.0 track.construclique.com
+:: track.construclique.com
 0.0.0.0 track.contently.com
 :: track.contently.com
 0.0.0.0 track.cordial.io
@@ -59354,6 +59364,8 @@ ff02::3 ip6-allhosts
 :: v.tf.360.cn
 0.0.0.0 v.totoc.top
 :: v.totoc.top
+0.0.0.0 v.tranzistor-harakteristiki.ru
+:: v.tranzistor-harakteristiki.ru
 0.0.0.0 v.u22l.cc
 :: v.u22l.cc
 0.0.0.0 v.whbhsoft.cn
@@ -59408,8 +59420,6 @@ ff02::3 ip6-allhosts
 :: v1.play.log.hunantv.com
 0.0.0.0 v1.res.log.hunantv.com
 :: v1.res.log.hunantv.com
-0.0.0.0 v1.taksh.cn
-:: v1.taksh.cn
 0.0.0.0 v1.ujian.cc
 :: v1.ujian.cc
 0.0.0.0 v1.wphonelife.com
@@ -60398,6 +60408,8 @@ ff02::3 ip6-allhosts
 :: wc.yahoodns.net
 0.0.0.0 wcdkff.rueducommerce.fr
 :: wcdkff.rueducommerce.fr
+0.0.0.0 wco.crownpeak.com
+:: wco.crownpeak.com
 0.0.0.0 wd-edge.sharethis.com
 :: wd-edge.sharethis.com
 0.0.0.0 wd.adcolony.com
@@ -60406,8 +60418,6 @@ ff02::3 ip6-allhosts
 :: wdads.sx.atl.publicus.com
 0.0.0.0 wdfhbx.zdpeanut.com
 :: wdfhbx.zdpeanut.com
-0.0.0.0 wdfhl.weidianyuedu.com
-:: wdfhl.weidianyuedu.com
 0.0.0.0 wdig.vo.llnwd.net
 :: wdig.vo.llnwd.net
 0.0.0.0 wdm.map24.com
@@ -62708,6 +62718,8 @@ ff02::3 ip6-allhosts
 :: xxlefq.linternaute.com
 0.0.0.0 xxsdtb.edreams.com
 :: xxsdtb.edreams.com
+0.0.0.0 xxxa.aikeapp.com
+:: xxxa.aikeapp.com
 0.0.0.0 xy-log2.tagtic.cn
 :: xy-log2.tagtic.cn
 0.0.0.0 xy.nullrefexcep.com
