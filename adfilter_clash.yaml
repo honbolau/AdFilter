@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYyNjIyNDEyNAo=
+# Checksum: MTYyNjMxMDc2NAo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210714-0
-# TimeUpdated: 2021-07-14T00:55:24+00:00
+# Version: 1.1.8-20210715-0
+# TimeUpdated: 2021-07-15T00:59:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 31713
+# Total: 31714
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -57,6 +57,7 @@ payload:
   - DOMAIN,1.hysou.com
   - DOMAIN,1.i999d.cn
   - DOMAIN,1.idc100.com
+  - DOMAIN,1.ideng.com
   - DOMAIN,1.iqeq.com.cn
   - DOMAIN,1.isanxia.com
   - DOMAIN,1.jiqie.cn
@@ -2272,6 +2273,7 @@ payload:
   - DOMAIN,ads-server.hipwee.com
   - DOMAIN,ads-sg.tiktok.com
   - DOMAIN,ads-target.coccoc.com
+  - DOMAIN,ads-thanhnien-vn.cdn.ampproject.org
   - DOMAIN,ads-tracking.beop.io
   - DOMAIN,ads-trk.vidible.tv
   - DOMAIN,ads-union.jd.com
@@ -5571,6 +5573,7 @@ payload:
   - DOMAIN,bbbihe.vertbaudet.es
   - DOMAIN,bbcdn.go.cz.bbelements.com
   - DOMAIN,bbdm.051661.com
+  - DOMAIN,bbn.gzblogger.cn
   - DOMAIN,bbn.img.com.ua
   - DOMAIN,bbnn.999xs.com
   - DOMAIN,bbsimages.zkxf119.com
@@ -6064,6 +6067,7 @@ payload:
   - DOMAIN,browser-http-intake.logs.datadoghq.com
   - DOMAIN,browser-http-intake.logs.datadoghq.eu
   - DOMAIN,browser-updater.yandex.net
+  - DOMAIN,browser.events.data.microsoft.com
   - DOMAIN,browser.events.data.msn.com
   - DOMAIN,browserkernel.baidu.com
   - DOMAIN,browsermine.12finance.com
@@ -8079,7 +8083,6 @@ payload:
   - DOMAIN,corba.adtech.us
   - DOMAIN,core.ad20.net
   - DOMAIN,core.adservingfactory.com
-  - DOMAIN,core.bruynzeelkeukens.nl
   - DOMAIN,core.royalads.net
   - DOMAIN,core.unit-sense.net
   - DOMAIN,core.vnecdn.com
@@ -10456,7 +10459,6 @@ payload:
   - DOMAIN,e.uissm.com
   - DOMAIN,e.unchealthcare.org
   - DOMAIN,e.vkuay.com
-  - DOMAIN,e.w6xj4.cn
   - DOMAIN,e.weather.com.cn
   - DOMAIN,e.webfleet.com
   - DOMAIN,e.wikigifth.com
@@ -10696,7 +10698,6 @@ payload:
   - DOMAIN,efplso.epost.go.kr
   - DOMAIN,efuxqe.tatilbudur.com
   - DOMAIN,efwddc.lifemebel.ru
-  - DOMAIN,eg.gitpapa.com
   - DOMAIN,egbtcf.shilton.fr
   - DOMAIN,eharmony.com.au
   - DOMAIN,ehg-youtube.hitbox.com
@@ -11489,6 +11490,7 @@ payload:
   - DOMAIN,felitb.rightinthebox.com
   - DOMAIN,felix.data.tm-awx.com
   - DOMAIN,female-v.1.p2l.info
+  - DOMAIN,fengfengtiecrv.com.cn
   - DOMAIN,feqbqn.rent.com
   - DOMAIN,ferret.emilkowal.ski
   - DOMAIN,ferret.helpspace.com
@@ -14149,7 +14151,6 @@ payload:
   - DOMAIN,independence.americanportfolios.com
   - DOMAIN,indieclick.3janecdn.com
   - DOMAIN,industry.promo.skf.com
-  - DOMAIN,indy.fjmu.edu.cn
   - DOMAIN,inf.clickpay.com
   - DOMAIN,inf.wqa.ru
   - DOMAIN,infinityid.condenastdigital.com
@@ -14876,6 +14877,7 @@ payload:
   - DOMAIN,isite.baidu.com
   - DOMAIN,ism.brother.com
   - DOMAIN,isocket-creatives.s3.amazonaws.com
+  - DOMAIN,isu.weidianyuedu.com
   - DOMAIN,isub.snssdk.com
   - DOMAIN,isuzu.actonservice.com
   - DOMAIN,it.conres.com
@@ -15124,7 +15126,6 @@ payload:
   - DOMAIN,js.ad-stir.com
   - DOMAIN,js.ad7.com
   - DOMAIN,js.admin6.com
-  - DOMAIN,js.aipandas.cn
   - DOMAIN,js.avstats.com
   - DOMAIN,js.bckrono.cn
   - DOMAIN,js.blozoo.info
@@ -16385,6 +16386,7 @@ payload:
   - DOMAIN,lux-bn.com.ua
   - DOMAIN,luxbetaffiliates.com.au
   - DOMAIN,lvip.youku.com
+  - DOMAIN,lw.musictarget.com
   - DOMAIN,lw1.cdmediaworld.com
   - DOMAIN,lwozzk.legacy.com
   - DOMAIN,lwxlsj.wap.xsbiquge.com
@@ -16496,7 +16498,6 @@ payload:
   - DOMAIN,m.eieye.cn
   - DOMAIN,m.emgwq.com
   - DOMAIN,m.enjuk.com
-  - DOMAIN,m.ensts.cn
   - DOMAIN,m.fcuit.com
   - DOMAIN,m.fdoun.com
   - DOMAIN,m.feipaihehuoren.cn
@@ -16884,7 +16885,6 @@ payload:
   - DOMAIN,marketing.advicemedia.com
   - DOMAIN,marketing.aefonline.org
   - DOMAIN,marketing.aia.co.nz
-  - DOMAIN,marketing.airhydropower.com
   - DOMAIN,marketing.al.ly
   - DOMAIN,marketing.alabamacu.com
   - DOMAIN,marketing.alaskavisit.com
@@ -19631,6 +19631,7 @@ payload:
   - DOMAIN,nu.esri.nl
   - DOMAIN,nuctok.topten10mall.com
   - DOMAIN,nude-erotics.blogspot.ca
+  - DOMAIN,nugh2om.txxx.com
   - DOMAIN,numbers.triplejack.com
   - DOMAIN,nunu-001.now.sh
   - DOMAIN,nusic.ic86doc.com
@@ -20767,11 +20768,11 @@ payload:
   - DOMAIN,pint-dev-branch.airship.com
   - DOMAIN,pio.fabianfett.de
   - DOMAIN,pipe-collect.ebu.io
-  - DOMAIN,pipe.aria.microsoft.com
   - DOMAIN,pipedream.wistia.com
   - DOMAIN,piper.amocrm.ru
   - DOMAIN,pir.zspb.ru
   - DOMAIN,piranha.jsmobiledev.com
+  - DOMAIN,pirateruncomptegratuit.freehacks.pw
   - DOMAIN,pistyll.bleacherreport.com
   - DOMAIN,piti.bplaced.net
   - DOMAIN,piwik.filecrypt.cc
@@ -21041,6 +21042,7 @@ payload:
   - DOMAIN,plugins.soclminer.com.br
   - DOMAIN,pluralsight.hb.omtrdc.net
   - DOMAIN,plus.pornoshara.tv
+  - DOMAIN,plus.tourispo.com
   - DOMAIN,plusone.google.com
   - DOMAIN,pluto.r.powuta.com
   - DOMAIN,plwnxe.pascalcoste-shopping.com
@@ -22013,7 +22015,6 @@ payload:
   - DOMAIN,rem-track.bild.de
   - DOMAIN,remain.appcpi.net
   - DOMAIN,remarketing.oncourselearning.com
-  - DOMAIN,remus.garaget.org
   - DOMAIN,remzba.maninstore.co.kr
   - DOMAIN,renova.1.p2l.info
   - DOMAIN,renting.aldautomotive.es
@@ -23617,6 +23618,7 @@ payload:
   - DOMAIN,seedapp-creative.s3.amazonaws.com
   - DOMAIN,seen.h01ce.cn
   - DOMAIN,seg.sharethis.com
+  - DOMAIN,segment-cdn.producthunt.com
   - DOMAIN,segments.adap.tv
   - DOMAIN,segob.gob.mx
   - DOMAIN,segra.actonservice.com
@@ -23856,7 +23858,6 @@ payload:
   - DOMAIN,show.f.mediav.com
   - DOMAIN,show.g.mediav.com
   - DOMAIN,show.govjiangsu.cn
-  - DOMAIN,show.kc.taotaosou.com
   - DOMAIN,show.look.360.cn
   - DOMAIN,show.m.mediav.com
   - DOMAIN,show.mediav.com
@@ -29430,7 +29431,6 @@ payload:
   - DOMAIN,un1.wayoulegal.com
   - DOMAIN,un2.banmamedia.com
   - DOMAIN,unanimis.co.uk
-  - DOMAIN,undm.qibulo.com
   - DOMAIN,unicast.ign.com
   - DOMAIN,unid.go.com
   - DOMAIN,unidesk.alicdn.com
@@ -30208,6 +30208,7 @@ payload:
   - DOMAIN,wd.adcolony.com
   - DOMAIN,wdads.sx.atl.publicus.com
   - DOMAIN,wdfhbx.zdpeanut.com
+  - DOMAIN,wdfhl.weidianyuedu.com
   - DOMAIN,wdig.vo.llnwd.net
   - DOMAIN,wdm.map24.com
   - DOMAIN,wdr9.inseec.com

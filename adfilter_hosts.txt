@@ -1,11 +1,11 @@
-# Checksum: MTYyNjIyNDEyNAo=
+# Checksum: MTYyNjMxMDc2NAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210714-0
-# TimeUpdated: 2021-07-14T00:55:24+00:00
+# Version: 1.1.8-20210715-0
+# TimeUpdated: 2021-07-15T00:59:24+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 31713
+# Total: 31714
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -116,6 +116,8 @@ ff02::3 ip6-allhosts
 :: 1.i999d.cn
 0.0.0.0 1.idc100.com
 :: 1.idc100.com
+0.0.0.0 1.ideng.com
+:: 1.ideng.com
 0.0.0.0 1.iqeq.com.cn
 :: 1.iqeq.com.cn
 0.0.0.0 1.isanxia.com
@@ -4546,6 +4548,8 @@ ff02::3 ip6-allhosts
 :: ads-sg.tiktok.com
 0.0.0.0 ads-target.coccoc.com
 :: ads-target.coccoc.com
+0.0.0.0 ads-thanhnien-vn.cdn.ampproject.org
+:: ads-thanhnien-vn.cdn.ampproject.org
 0.0.0.0 ads-tracking.beop.io
 :: ads-tracking.beop.io
 0.0.0.0 ads-trk.vidible.tv
@@ -11144,6 +11148,8 @@ ff02::3 ip6-allhosts
 :: bbcdn.go.cz.bbelements.com
 0.0.0.0 bbdm.051661.com
 :: bbdm.051661.com
+0.0.0.0 bbn.gzblogger.cn
+:: bbn.gzblogger.cn
 0.0.0.0 bbn.img.com.ua
 :: bbn.img.com.ua
 0.0.0.0 bbnn.999xs.com
@@ -12130,6 +12136,8 @@ ff02::3 ip6-allhosts
 :: browser-http-intake.logs.datadoghq.eu
 0.0.0.0 browser-updater.yandex.net
 :: browser-updater.yandex.net
+0.0.0.0 browser.events.data.microsoft.com
+:: browser.events.data.microsoft.com
 0.0.0.0 browser.events.data.msn.com
 :: browser.events.data.msn.com
 0.0.0.0 browserkernel.baidu.com
@@ -16160,8 +16168,6 @@ ff02::3 ip6-allhosts
 :: core.ad20.net
 0.0.0.0 core.adservingfactory.com
 :: core.adservingfactory.com
-0.0.0.0 core.bruynzeelkeukens.nl
-:: core.bruynzeelkeukens.nl
 0.0.0.0 core.royalads.net
 :: core.royalads.net
 0.0.0.0 core.unit-sense.net
@@ -20914,8 +20920,6 @@ ff02::3 ip6-allhosts
 :: e.unchealthcare.org
 0.0.0.0 e.vkuay.com
 :: e.vkuay.com
-0.0.0.0 e.w6xj4.cn
-:: e.w6xj4.cn
 0.0.0.0 e.weather.com.cn
 :: e.weather.com.cn
 0.0.0.0 e.webfleet.com
@@ -21394,8 +21398,6 @@ ff02::3 ip6-allhosts
 :: efuxqe.tatilbudur.com
 0.0.0.0 efwddc.lifemebel.ru
 :: efwddc.lifemebel.ru
-0.0.0.0 eg.gitpapa.com
-:: eg.gitpapa.com
 0.0.0.0 egbtcf.shilton.fr
 :: egbtcf.shilton.fr
 0.0.0.0 eharmony.com.au
@@ -22980,6 +22982,8 @@ ff02::3 ip6-allhosts
 :: felix.data.tm-awx.com
 0.0.0.0 female-v.1.p2l.info
 :: female-v.1.p2l.info
+0.0.0.0 fengfengtiecrv.com.cn
+:: fengfengtiecrv.com.cn
 0.0.0.0 feqbqn.rent.com
 :: feqbqn.rent.com
 0.0.0.0 ferret.emilkowal.ski
@@ -28300,8 +28304,6 @@ ff02::3 ip6-allhosts
 :: indieclick.3janecdn.com
 0.0.0.0 industry.promo.skf.com
 :: industry.promo.skf.com
-0.0.0.0 indy.fjmu.edu.cn
-:: indy.fjmu.edu.cn
 0.0.0.0 inf.clickpay.com
 :: inf.clickpay.com
 0.0.0.0 inf.wqa.ru
@@ -29754,6 +29756,8 @@ ff02::3 ip6-allhosts
 :: ism.brother.com
 0.0.0.0 isocket-creatives.s3.amazonaws.com
 :: isocket-creatives.s3.amazonaws.com
+0.0.0.0 isu.weidianyuedu.com
+:: isu.weidianyuedu.com
 0.0.0.0 isub.snssdk.com
 :: isub.snssdk.com
 0.0.0.0 isuzu.actonservice.com
@@ -30250,8 +30254,6 @@ ff02::3 ip6-allhosts
 :: js.ad7.com
 0.0.0.0 js.admin6.com
 :: js.admin6.com
-0.0.0.0 js.aipandas.cn
-:: js.aipandas.cn
 0.0.0.0 js.avstats.com
 :: js.avstats.com
 0.0.0.0 js.bckrono.cn
@@ -32772,6 +32774,8 @@ ff02::3 ip6-allhosts
 :: luxbetaffiliates.com.au
 0.0.0.0 lvip.youku.com
 :: lvip.youku.com
+0.0.0.0 lw.musictarget.com
+:: lw.musictarget.com
 0.0.0.0 lw1.cdmediaworld.com
 :: lw1.cdmediaworld.com
 0.0.0.0 lwozzk.legacy.com
@@ -32994,8 +32998,6 @@ ff02::3 ip6-allhosts
 :: m.emgwq.com
 0.0.0.0 m.enjuk.com
 :: m.enjuk.com
-0.0.0.0 m.ensts.cn
-:: m.ensts.cn
 0.0.0.0 m.fcuit.com
 :: m.fcuit.com
 0.0.0.0 m.fdoun.com
@@ -33770,8 +33772,6 @@ ff02::3 ip6-allhosts
 :: marketing.aefonline.org
 0.0.0.0 marketing.aia.co.nz
 :: marketing.aia.co.nz
-0.0.0.0 marketing.airhydropower.com
-:: marketing.airhydropower.com
 0.0.0.0 marketing.al.ly
 :: marketing.al.ly
 0.0.0.0 marketing.alabamacu.com
@@ -39264,6 +39264,8 @@ ff02::3 ip6-allhosts
 :: nuctok.topten10mall.com
 0.0.0.0 nude-erotics.blogspot.ca
 :: nude-erotics.blogspot.ca
+0.0.0.0 nugh2om.txxx.com
+:: nugh2om.txxx.com
 0.0.0.0 numbers.triplejack.com
 :: numbers.triplejack.com
 0.0.0.0 nunu-001.now.sh
@@ -41536,8 +41538,6 @@ ff02::3 ip6-allhosts
 :: pio.fabianfett.de
 0.0.0.0 pipe-collect.ebu.io
 :: pipe-collect.ebu.io
-0.0.0.0 pipe.aria.microsoft.com
-:: pipe.aria.microsoft.com
 0.0.0.0 pipedream.wistia.com
 :: pipedream.wistia.com
 0.0.0.0 piper.amocrm.ru
@@ -41546,6 +41546,8 @@ ff02::3 ip6-allhosts
 :: pir.zspb.ru
 0.0.0.0 piranha.jsmobiledev.com
 :: piranha.jsmobiledev.com
+0.0.0.0 pirateruncomptegratuit.freehacks.pw
+:: pirateruncomptegratuit.freehacks.pw
 0.0.0.0 pistyll.bleacherreport.com
 :: pistyll.bleacherreport.com
 0.0.0.0 piti.bplaced.net
@@ -42084,6 +42086,8 @@ ff02::3 ip6-allhosts
 :: pluralsight.hb.omtrdc.net
 0.0.0.0 plus.pornoshara.tv
 :: plus.pornoshara.tv
+0.0.0.0 plus.tourispo.com
+:: plus.tourispo.com
 0.0.0.0 plusone.google.com
 :: plusone.google.com
 0.0.0.0 pluto.r.powuta.com
@@ -44028,8 +44032,6 @@ ff02::3 ip6-allhosts
 :: remain.appcpi.net
 0.0.0.0 remarketing.oncourselearning.com
 :: remarketing.oncourselearning.com
-0.0.0.0 remus.garaget.org
-:: remus.garaget.org
 0.0.0.0 remzba.maninstore.co.kr
 :: remzba.maninstore.co.kr
 0.0.0.0 renova.1.p2l.info
@@ -47236,6 +47238,8 @@ ff02::3 ip6-allhosts
 :: seen.h01ce.cn
 0.0.0.0 seg.sharethis.com
 :: seg.sharethis.com
+0.0.0.0 segment-cdn.producthunt.com
+:: segment-cdn.producthunt.com
 0.0.0.0 segments.adap.tv
 :: segments.adap.tv
 0.0.0.0 segob.gob.mx
@@ -47714,8 +47718,6 @@ ff02::3 ip6-allhosts
 :: show.g.mediav.com
 0.0.0.0 show.govjiangsu.cn
 :: show.govjiangsu.cn
-0.0.0.0 show.kc.taotaosou.com
-:: show.kc.taotaosou.com
 0.0.0.0 show.look.360.cn
 :: show.look.360.cn
 0.0.0.0 show.m.mediav.com
@@ -58862,8 +58864,6 @@ ff02::3 ip6-allhosts
 :: un2.banmamedia.com
 0.0.0.0 unanimis.co.uk
 :: unanimis.co.uk
-0.0.0.0 undm.qibulo.com
-:: undm.qibulo.com
 0.0.0.0 unicast.ign.com
 :: unicast.ign.com
 0.0.0.0 unid.go.com
@@ -60418,6 +60418,8 @@ ff02::3 ip6-allhosts
 :: wdads.sx.atl.publicus.com
 0.0.0.0 wdfhbx.zdpeanut.com
 :: wdfhbx.zdpeanut.com
+0.0.0.0 wdfhl.weidianyuedu.com
+:: wdfhl.weidianyuedu.com
 0.0.0.0 wdig.vo.llnwd.net
 :: wdig.vo.llnwd.net
 0.0.0.0 wdm.map24.com
