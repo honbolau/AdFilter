@@ -1,11 +1,11 @@
-# Checksum: MTYyNjM5NzIwMAo=
+# Checksum: MTYyNjQ4MzcwMAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210716-0
-# TimeUpdated: 2021-07-16T01:00:00+00:00
+# Version: 1.1.8-20210717-0
+# TimeUpdated: 2021-07-17T01:01:40+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 31714
+# Total: 31717
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -322,6 +322,8 @@ ff02::3 ip6-allhosts
 :: 2016.sina.cn
 0.0.0.0 2018.qucaigg.com
 :: 2018.qucaigg.com
+0.0.0.0 20193a.secure-cloud.pro
+:: 20193a.secure-cloud.pro
 0.0.0.0 2052.flash2-http.qq.com
 :: 2052.flash2-http.qq.com
 0.0.0.0 21.fh21static.com
@@ -544,8 +546,6 @@ ff02::3 ip6-allhosts
 :: 7mx.eider.com
 0.0.0.0 7q1z79gxsi.global.ssl.fastly.net
 :: 7q1z79gxsi.global.ssl.fastly.net
-0.0.0.0 7x7br2h1ujdoi391.in.net
-:: 7x7br2h1ujdoi391.in.net
 0.0.0.0 7xi9g1.com1.z0.glb.clouddn.com
 :: 7xi9g1.com1.z0.glb.clouddn.com
 0.0.0.0 7xsf3h.com1.z0.glb.clouddn.com
@@ -3880,8 +3880,6 @@ ff02::3 ip6-allhosts
 :: adebis-52667624.wowma.jp
 0.0.0.0 adebis-morijuku.morijuku.com
 :: adebis-morijuku.morijuku.com
-0.0.0.0 adebis.angfa-store.jp
-:: adebis.angfa-store.jp
 0.0.0.0 adebis.daiwahouse.co.jp
 :: adebis.daiwahouse.co.jp
 0.0.0.0 adebis.demae-can.com
@@ -4522,8 +4520,6 @@ ff02::3 ip6-allhosts
 :: ads-delivery.gameforge.com
 0.0.0.0 ads-dev.pinterest.com
 :: ads-dev.pinterest.com
-0.0.0.0 ads-dev.youporn.com
-:: ads-dev.youporn.com
 0.0.0.0 ads-game-187f4.firebaseapp.com
 :: ads-game-187f4.firebaseapp.com
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
@@ -5312,8 +5308,6 @@ ff02::3 ip6-allhosts
 :: ads.mediaodyssey.com
 0.0.0.0 ads.mediasmart.es
 :: ads.mediasmart.es
-0.0.0.0 ads.mediaturf.net
-:: ads.mediaturf.net
 0.0.0.0 ads.medienhaus.de
 :: ads.medienhaus.de
 0.0.0.0 ads.meetcelebs.com
@@ -5760,8 +5754,6 @@ ff02::3 ip6-allhosts
 :: ads.thecrimson.com
 0.0.0.0 ads.thefrisky.com
 :: ads.thefrisky.com
-0.0.0.0 ads.themxua.net
-:: ads.themxua.net
 0.0.0.0 ads.theolympian.com
 :: ads.theolympian.com
 0.0.0.0 ads.thesaigontimes.vn
@@ -10908,8 +10900,6 @@ ff02::3 ip6-allhosts
 :: banner10.zetasystem.dk
 0.0.0.0 banner2.casino.com
 :: banner2.casino.com
-0.0.0.0 banner2.isobarturkiye.net
-:: banner2.isobarturkiye.net
 0.0.0.0 bannerclick.lll1.ir
 :: bannerclick.lll1.ir
 0.0.0.0 bannerfarm.aolp.jp
@@ -11850,8 +11840,6 @@ ff02::3 ip6-allhosts
 :: bliss-systems-api.co.uk
 0.0.0.0 block.mediavenus.biz
 :: block.mediavenus.biz
-0.0.0.0 block.sw1block.com
-:: block.sw1block.com
 0.0.0.0 blog.br0vvnn.io
 :: blog.br0vvnn.io
 0.0.0.0 blog.livelog.biz
@@ -12036,8 +12024,6 @@ ff02::3 ip6-allhosts
 :: bowie-cdn.fathomdns.com
 0.0.0.0 box.anchorfree.net
 :: box.anchorfree.net
-0.0.0.0 box.bossdata.be
-:: box.bossdata.be
 0.0.0.0 box.rus.porn
 :: box.rus.porn
 0.0.0.0 box.zap.com.br
@@ -12364,8 +12350,6 @@ ff02::3 ip6-allhosts
 :: buy-cialis-online.iscool.nl
 0.0.0.0 buy-cialis.splinder.com
 :: buy-cialis.splinder.com
-0.0.0.0 buy-diazepam.connect.to
-:: buy-diazepam.connect.to
 0.0.0.0 buy-fioricet.hut1.ru
 :: buy-fioricet.hut1.ru
 0.0.0.0 buy-hydrocodone.aca.ru
@@ -14290,6 +14274,8 @@ ff02::3 ip6-allhosts
 :: ci.quickbooks.com
 0.0.0.0 ci.r-ln-1.net.daraz.com
 :: ci.r-ln-1.net.daraz.com
+0.0.0.0 cialis-levitra-viagra.com.cn
+:: cialis-levitra-viagra.com.cn
 0.0.0.0 cialis-store.shengen.ru
 :: cialis-store.shengen.ru
 0.0.0.0 cialis.1.p2l.info
@@ -14986,6 +14972,8 @@ ff02::3 ip6-allhosts
 :: cltgtstor001.blob.core.windows.net
 0.0.0.0 club-img.douyucdn.cn
 :: club-img.douyucdn.cn
+0.0.0.0 clubesaudedeassinatura.com.br
+:: clubesaudedeassinatura.com.br
 0.0.0.0 clubpenguin.haxdo.com
 :: clubpenguin.haxdo.com
 0.0.0.0 clubpenguinmembershiphack.newzgames.com
@@ -15108,12 +15096,18 @@ ff02::3 ip6-allhosts
 :: cmp.cls.pm
 0.0.0.0 cmp.computerworld.pl
 :: cmp.computerworld.pl
+0.0.0.0 cmp.courrierinternational.com
+:: cmp.courrierinternational.com
 0.0.0.0 cmp.cxo.pl
 :: cmp.cxo.pl
 0.0.0.0 cmp.dmgmediaprivacy.co.uk
 :: cmp.dmgmediaprivacy.co.uk
 0.0.0.0 cmp.dreamlab.pl
 :: cmp.dreamlab.pl
+0.0.0.0 cmp.finn.no
+:: cmp.finn.no
+0.0.0.0 cmp.huffingtonpost.fr
+:: cmp.huffingtonpost.fr
 0.0.0.0 cmp.idg.pl
 :: cmp.idg.pl
 0.0.0.0 cmp.infopro-digital.com
@@ -15128,8 +15122,12 @@ ff02::3 ip6-allhosts
 :: cmp.mediavine.com
 0.0.0.0 cmp.network-n.com
 :: cmp.network-n.com
+0.0.0.0 cmp.netzwelt.de
+:: cmp.netzwelt.de
 0.0.0.0 cmp.nextday.media
 :: cmp.nextday.media
+0.0.0.0 cmp.nouvelobs.com
+:: cmp.nouvelobs.com
 0.0.0.0 cmp.optad360.io
 :: cmp.optad360.io
 0.0.0.0 cmp.osano.com
@@ -15138,6 +15136,10 @@ ff02::3 ip6-allhosts
 :: cmp.pcwelt.de
 0.0.0.0 cmp.pcworld.pl
 :: cmp.pcworld.pl
+0.0.0.0 cmp.tek.no
+:: cmp.tek.no
+0.0.0.0 cmp.telerama.fr
+:: cmp.telerama.fr
 0.0.0.0 cmp.tvspielfilm.de
 :: cmp.tvspielfilm.de
 0.0.0.0 cmp.uniconsent.com
@@ -17676,6 +17678,8 @@ ff02::3 ip6-allhosts
 :: d1ejnc60jkzff4.cloudfront.net
 0.0.0.0 d1esebcdm6wx7j.cloudfront.net
 :: d1esebcdm6wx7j.cloudfront.net
+0.0.0.0 d1ev866ubw90c6.cloudfront.net
+:: d1ev866ubw90c6.cloudfront.net
 0.0.0.0 d1f05vr3sjsuy7.cloudfront.net
 :: d1f05vr3sjsuy7.cloudfront.net
 0.0.0.0 d1f1lqyq09pe4q.cloudfront.net
@@ -28006,8 +28010,6 @@ ff02::3 ip6-allhosts
 :: img.scupio.com
 0.0.0.0 img.servint.net
 :: img.servint.net
-0.0.0.0 img.taotaosou.cn
-:: img.taotaosou.cn
 0.0.0.0 img.uu1001.cn
 :: img.uu1001.cn
 0.0.0.0 img.uyangyong.cn
@@ -30238,8 +30240,6 @@ ff02::3 ip6-allhosts
 :: js.4hw.com.cn
 0.0.0.0 js.5068.com
 :: js.5068.com
-0.0.0.0 js.50bang.org
-:: js.50bang.org
 0.0.0.0 js.51ir.cn
 :: js.51ir.cn
 0.0.0.0 js.578965.com
@@ -30824,8 +30824,6 @@ ff02::3 ip6-allhosts
 :: kjxztu.biz-journal.jp
 0.0.0.0 kkgkpl.suzuki.com.mx
 :: kkgkpl.suzuki.com.mx
-0.0.0.0 kkk.lichaoliang.com
-:: kkk.lichaoliang.com
 0.0.0.0 kkpgv2.xunlei.com
 :: kkpgv2.xunlei.com
 0.0.0.0 kkyyov.hypermarketmebel.ru
@@ -32016,8 +32014,6 @@ ff02::3 ip6-allhosts
 :: localsearch24.co.uk
 0.0.0.0 location.ximalaya.com
 :: location.ximalaya.com
-0.0.0.0 locdrop.query.yahoo.com
-:: locdrop.query.yahoo.com
 0.0.0.0 loestrin.1.p2l.info
 :: loestrin.1.p2l.info
 0.0.0.0 log-api.aillis.net
@@ -33328,8 +33324,6 @@ ff02::3 ip6-allhosts
 :: m.ysgsq.cn
 0.0.0.0 m.yuyouge.com
 :: m.yuyouge.com
-0.0.0.0 m.z0mh0u.cn
-:: m.z0mh0u.cn
 0.0.0.0 m.zaoss.com
 :: m.zaoss.com
 0.0.0.0 m.zdjgj.cn
@@ -33776,6 +33770,8 @@ ff02::3 ip6-allhosts
 :: marketing.aefonline.org
 0.0.0.0 marketing.aia.co.nz
 :: marketing.aia.co.nz
+0.0.0.0 marketing.airhydropower.com
+:: marketing.airhydropower.com
 0.0.0.0 marketing.al.ly
 :: marketing.al.ly
 0.0.0.0 marketing.alabamacu.com
@@ -41628,8 +41624,6 @@ ff02::3 ip6-allhosts
 :: pixel.condenastdigital.com
 0.0.0.0 pixel.cpex.cz
 :: pixel.cpex.cz
-0.0.0.0 pixel.digitru.st
-:: pixel.digitru.st
 0.0.0.0 pixel.dorehernowi.pro
 :: pixel.dorehernowi.pro
 0.0.0.0 pixel.europapress.net
@@ -42246,8 +42240,6 @@ ff02::3 ip6-allhosts
 :: popup.softreklam.com
 0.0.0.0 porcupine.dvresolve.com
 :: porcupine.dvresolve.com
-0.0.0.0 pork.2tumeng.com
-:: pork.2tumeng.com
 0.0.0.0 porpoise.azettl.net
 :: porpoise.azettl.net
 0.0.0.0 pos.baidu.com
@@ -42732,8 +42724,6 @@ ff02::3 ip6-allhosts
 :: protection.nzpolice.com
 0.0.0.0 protection.papolice.com
 :: protection.papolice.com
-0.0.0.0 protection.pgpolice.com
-:: protection.pgpolice.com
 0.0.0.0 protection.sbpolice.com
 :: protection.sbpolice.com
 0.0.0.0 protection.stpolice.com
@@ -42874,6 +42864,8 @@ ff02::3 ip6-allhosts
 :: ptracker.nurturehq.com
 0.0.0.0 ptrads.mp3.com
 :: ptrads.mp3.com
+0.0.0.0 ptreklamssp.com.tr
+:: ptreklamssp.com.tr
 0.0.0.0 ptrenx.vidaxl.com.au
 :: ptrenx.vidaxl.com.au
 0.0.0.0 ptsc.shoplocal.com
@@ -42950,6 +42942,8 @@ ff02::3 ip6-allhosts
 :: public.app.autohome.com.cn
 0.0.0.0 public.porn.fr
 :: public.porn.fr
+0.0.0.0 public.screenhost.ru
+:: public.screenhost.ru
 0.0.0.0 publications.nomination.fr
 :: publications.nomination.fr
 0.0.0.0 publicidad.elmundo.es
@@ -43520,6 +43514,8 @@ ff02::3 ip6-allhosts
 :: r.14244.com
 0.0.0.0 r.254a.com
 :: r.254a.com
+0.0.0.0 r.2ad.wtf
+:: r.2ad.wtf
 0.0.0.0 r.5207470.com
 :: r.5207470.com
 0.0.0.0 r.99waiyu.com
@@ -45220,8 +45216,6 @@ ff02::3 ip6-allhosts
 :: s4.hit.stat.pl
 0.0.0.0 s4.hit.stat24.com
 :: s4.hit.stat24.com
-0.0.0.0 s4.parkeren-amsterdam.com
-:: s4.parkeren-amsterdam.com
 0.0.0.0 s4.parkeren-haarlem.nl
 :: s4.parkeren-haarlem.nl
 0.0.0.0 s4e8.cascades.com
@@ -52488,6 +52482,8 @@ ff02::3 ip6-allhosts
 :: static.sparechange.io
 0.0.0.0 static.t.agrantsem.com
 :: static.t.agrantsem.com
+0.0.0.0 static.terratraf.io
+:: static.terratraf.io
 0.0.0.0 static.terrhq.ru
 :: static.terrhq.ru
 0.0.0.0 static.thefifthera.com
@@ -52500,6 +52496,8 @@ ff02::3 ip6-allhosts
 :: static.tv508.com
 0.0.0.0 static.unocdn.com
 :: static.unocdn.com
+0.0.0.0 static.user-red.com
+:: static.user-red.com
 0.0.0.0 static.uuzu.com
 :: static.uuzu.com
 0.0.0.0 static.vpptechnologies.com
@@ -52976,6 +52974,8 @@ ff02::3 ip6-allhosts
 :: stats.grafikart.fr
 0.0.0.0 stats.groupninetyfour.com
 :: stats.groupninetyfour.com
+0.0.0.0 stats.gruporeforma.com
+:: stats.gruporeforma.com
 0.0.0.0 stats.gslc.utah.edu
 :: stats.gslc.utah.edu
 0.0.0.0 stats.guersanguillaume.com
@@ -53090,6 +53090,8 @@ ff02::3 ip6-allhosts
 :: stats.laxallstars.com
 0.0.0.0 stats.layl.app
 :: stats.layl.app
+0.0.0.0 stats.leafland.co.nz
+:: stats.leafland.co.nz
 0.0.0.0 stats.leaguestats.gg
 :: stats.leaguestats.gg
 0.0.0.0 stats.learnappmaking.com
@@ -53186,6 +53188,8 @@ ff02::3 ip6-allhosts
 :: stats.nonprofit.foundation
 0.0.0.0 stats.norton.com
 :: stats.norton.com
+0.0.0.0 stats.nota.md
+:: stats.nota.md
 0.0.0.0 stats.nothingbutnylon.com
 :: stats.nothingbutnylon.com
 0.0.0.0 stats.nrcaknights.com
@@ -57418,6 +57422,8 @@ ff02::3 ip6-allhosts
 :: tracking.cat898.com
 0.0.0.0 tracking.cengage.com
 :: tracking.cengage.com
+0.0.0.0 tracking.cerdmann.com
+:: tracking.cerdmann.com
 0.0.0.0 tracking.chacha.com
 :: tracking.chacha.com
 0.0.0.0 tracking.chem-agilent.com
@@ -62782,6 +62788,8 @@ ff02::3 ip6-allhosts
 :: y8hxgv9m.kobetsu.co.jp
 0.0.0.0 yab-adimages.s3.amazonaws.com
 :: yab-adimages.s3.amazonaws.com
+0.0.0.0 yaba.org.cn
+:: yaba.org.cn
 0.0.0.0 yad.pandafilms.best
 :: yad.pandafilms.best
 0.0.0.0 yads.c.yimg.jp
@@ -62850,8 +62858,6 @@ ff02::3 ip6-allhosts
 :: yeeok.com.cn
 0.0.0.0 yefktd.avito.ru
 :: yefktd.avito.ru
-0.0.0.0 yes1.feng.com
-:: yes1.feng.com
 0.0.0.0 yeskyafp.allyes.com
 :: yeskyafp.allyes.com
 0.0.0.0 yezztf.pinkelephant.co.kr
