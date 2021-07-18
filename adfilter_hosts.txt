@@ -1,11 +1,11 @@
-# Checksum: MTYyNjQ4MzcwMAo=
+# Checksum: MTYyNjU3MDA1MAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210717-0
-# TimeUpdated: 2021-07-17T01:01:40+00:00
+# Version: 1.1.8-20210718-0
+# TimeUpdated: 2021-07-18T01:00:50+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 31717
+# Total: 31718
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -114,6 +114,8 @@ ff02::3 ip6-allhosts
 :: 1.i999d.cn
 0.0.0.0 1.idc100.com
 :: 1.idc100.com
+0.0.0.0 1.ideng.com
+:: 1.ideng.com
 0.0.0.0 1.iqeq.com.cn
 :: 1.iqeq.com.cn
 0.0.0.0 1.isanxia.com
@@ -610,8 +612,6 @@ ff02::3 ip6-allhosts
 :: 8hj500ro4t7.groovepages.com
 0.0.0.0 8nc8shot.txxx.com
 :: 8nc8shot.txxx.com
-0.0.0.0 8q2g560ynxlkz9rm.in.net
-:: 8q2g560ynxlkz9rm.in.net
 0.0.0.0 910.dn.se
 :: 910.dn.se
 0.0.0.0 911.x24hr.com
@@ -1974,8 +1974,6 @@ ff02::3 ip6-allhosts
 :: aa.dysoncanada.ca
 0.0.0.0 aa.erwinmueller.com
 :: aa.erwinmueller.com
-0.0.0.0 aa.gushiwen.org
-:: aa.gushiwen.org
 0.0.0.0 aa.jiankang.com
 :: aa.jiankang.com
 0.0.0.0 aa.maxblue.de
@@ -2092,6 +2090,8 @@ ff02::3 ip6-allhosts
 :: ab.hysdknb.com
 0.0.0.0 ab.pincai.com
 :: ab.pincai.com
+0.0.0.0 ab.rejushe.com
+:: ab.rejushe.com
 0.0.0.0 abakus.freenet.de
 :: abakus.freenet.de
 0.0.0.0 abbott.vo.llnwd.net
@@ -2888,6 +2888,8 @@ ff02::3 ip6-allhosts
 :: ad.dc2.adtech.de
 0.0.0.0 ad.ddestiny.ru
 :: ad.ddestiny.ru
+0.0.0.0 ad.ddo.jp
+:: ad.ddo.jp
 0.0.0.0 ad.dedecms.com
 :: ad.dedecms.com
 0.0.0.0 ad.depo.hu
@@ -3940,8 +3942,6 @@ ff02::3 ip6-allhosts
 :: adeventtracker.spotify.com
 0.0.0.0 adex.ednplus.com
 :: adex.ednplus.com
-0.0.0.0 adex.sato.my.id
-:: adex.sato.my.id
 0.0.0.0 adexpo.tencentmusic.com
 :: adexpo.tencentmusic.com
 0.0.0.0 adext.inkclub.com
@@ -10772,6 +10772,8 @@ ff02::3 ip6-allhosts
 :: banner.5giay.vn
 0.0.0.0 banner.ad.nu
 :: banner.ad.nu
+0.0.0.0 banner.affactive.com
+:: banner.affactive.com
 0.0.0.0 banner.alimama.com
 :: banner.alimama.com
 0.0.0.0 banner.ambercoastcasino.com
@@ -11860,6 +11862,8 @@ ff02::3 ip6-allhosts
 :: blogstatistics.sapoapps.vn
 0.0.0.0 blox.minexmr.com
 :: blox.minexmr.com
+0.0.0.0 blue.ktla.com
+:: blue.ktla.com
 0.0.0.0 bluedata.actonservice.com
 :: bluedata.actonservice.com
 0.0.0.0 bluejay.twelve70.com
@@ -14048,8 +14052,6 @@ ff02::3 ip6-allhosts
 :: cellstats.mako.co.il
 0.0.0.0 cem.hotelsapi.io
 :: cem.hotelsapi.io
-0.0.0.0 cenmxn.koton.com
-:: cenmxn.koton.com
 0.0.0.0 cenonc.bobochicparis.com
 :: cenonc.bobochicparis.com
 0.0.0.0 census.misterspex.at
@@ -14274,8 +14276,6 @@ ff02::3 ip6-allhosts
 :: ci.quickbooks.com
 0.0.0.0 ci.r-ln-1.net.daraz.com
 :: ci.r-ln-1.net.daraz.com
-0.0.0.0 cialis-levitra-viagra.com.cn
-:: cialis-levitra-viagra.com.cn
 0.0.0.0 cialis-store.shengen.ru
 :: cialis-store.shengen.ru
 0.0.0.0 cialis.1.p2l.info
@@ -16960,6 +16960,8 @@ ff02::3 ip6-allhosts
 :: crux.songline.com
 0.0.0.0 crwan.applinzi.com
 :: crwan.applinzi.com
+0.0.0.0 cryo.socialblade.com
+:: cryo.socialblade.com
 0.0.0.0 cryptomoneytechh.blogspot.com
 :: cryptomoneytechh.blogspot.com
 0.0.0.0 cryptonoter.torrent.pw
@@ -19210,8 +19212,6 @@ ff02::3 ip6-allhosts
 :: delivery-pc.wasu.cn
 0.0.0.0 delivery.contextads.live
 :: delivery.contextads.live
-0.0.0.0 delivery.dmkt-sp.jp
-:: delivery.dmkt-sp.jp
 0.0.0.0 delivery.maihehd.com
 :: delivery.maihehd.com
 0.0.0.0 delivery.myswitchads.com
@@ -26388,8 +26388,6 @@ ff02::3 ip6-allhosts
 :: gt6torquepack.dlcodes.com
 0.0.0.0 gti3.culture.leclerc
 :: gti3.culture.leclerc
-0.0.0.0 gtlp.net.cn
-:: gtlp.net.cn
 0.0.0.0 gtrk.s3.amazonaws.com
 :: gtrk.s3.amazonaws.com
 0.0.0.0 gtwxpq.restaurant.com
@@ -27452,6 +27450,8 @@ ff02::3 ip6-allhosts
 :: i.jads.co
 0.0.0.0 i.jiathis.com
 :: i.jiathis.com
+0.0.0.0 i.laih.com
+:: i.laih.com
 0.0.0.0 i.liadm.com
 :: i.liadm.com
 0.0.0.0 i.media.cz
@@ -29766,6 +29766,8 @@ ff02::3 ip6-allhosts
 :: ism.brother.com
 0.0.0.0 isocket-creatives.s3.amazonaws.com
 :: isocket-creatives.s3.amazonaws.com
+0.0.0.0 isu.weidianyuedu.com
+:: isu.weidianyuedu.com
 0.0.0.0 isub.snssdk.com
 :: isub.snssdk.com
 0.0.0.0 isuzu.actonservice.com
@@ -29904,8 +29906,6 @@ ff02::3 ip6-allhosts
 :: j.wit.qq.com
 0.0.0.0 j.xingshangnet.com
 :: j.xingshangnet.com
-0.0.0.0 j.xinshipu.com
-:: j.xinshipu.com
 0.0.0.0 j1.ax.xrea.com
 :: j1.ax.xrea.com
 0.0.0.0 j1.piaobing.com
@@ -30474,8 +30474,6 @@ ff02::3 ip6-allhosts
 :: js883.dragoncent.com
 0.0.0.0 js883.yongkang6.com
 :: js883.yongkang6.com
-0.0.0.0 js986.cnbole.net
-:: js986.cnbole.net
 0.0.0.0 jsadsdisplay.cn-beijing.log.aliyuncs.com
 :: jsadsdisplay.cn-beijing.log.aliyuncs.com
 0.0.0.0 jsapi.html5.qq.com
@@ -33518,6 +33516,8 @@ ff02::3 ip6-allhosts
 :: mail-csr12.net.daraz.com
 0.0.0.0 mail-europewest.partner.net.daraz.com
 :: mail-europewest.partner.net.daraz.com
+0.0.0.0 mail-gw.jbic.go.jp
+:: mail-gw.jbic.go.jp
 0.0.0.0 mail-portal.partner.net.daraz.com
 :: mail-portal.partner.net.daraz.com
 0.0.0.0 mail.adsame.com
@@ -38908,8 +38908,6 @@ ff02::3 ip6-allhosts
 :: nf.5.p2l.info
 0.0.0.0 nfdnserror11.wo.com.cn
 :: nfdnserror11.wo.com.cn
-0.0.0.0 nfdnserror15.wo.com.cn
-:: nfdnserror15.wo.com.cn
 0.0.0.0 nfdnserror17.wo.com.cn
 :: nfdnserror17.wo.com.cn
 0.0.0.0 nfl.hb.omtrdc.net
@@ -55026,6 +55024,8 @@ ff02::3 ip6-allhosts
 :: tben.nnchangyi.com
 0.0.0.0 tbm.net.toom.de
 :: tbm.net.toom.de
+0.0.0.0 tbm.snssdk.com
+:: tbm.snssdk.com
 0.0.0.0 tbslatinamerica.hb.omtrdc.net
 :: tbslatinamerica.hb.omtrdc.net
 0.0.0.0 tc-log.mattel163.com
@@ -60422,6 +60422,8 @@ ff02::3 ip6-allhosts
 :: wdads.sx.atl.publicus.com
 0.0.0.0 wdfhbx.zdpeanut.com
 :: wdfhbx.zdpeanut.com
+0.0.0.0 wdfhl.weidianyuedu.com
+:: wdfhl.weidianyuedu.com
 0.0.0.0 wdig.vo.llnwd.net
 :: wdig.vo.llnwd.net
 0.0.0.0 wdm.map24.com
