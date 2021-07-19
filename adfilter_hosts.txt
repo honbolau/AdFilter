@@ -1,11 +1,11 @@
-# Checksum: MTYyNjU3MDA1MAo=
+# Checksum: MTYyNjY1NjM3MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210718-0
-# TimeUpdated: 2021-07-18T01:00:50+00:00
+# Version: 1.1.8-20210719-0
+# TimeUpdated: 2021-07-19T00:59:31+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 31718
+# Total: 31712
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -114,8 +114,6 @@ ff02::3 ip6-allhosts
 :: 1.i999d.cn
 0.0.0.0 1.idc100.com
 :: 1.idc100.com
-0.0.0.0 1.ideng.com
-:: 1.ideng.com
 0.0.0.0 1.iqeq.com.cn
 :: 1.iqeq.com.cn
 0.0.0.0 1.isanxia.com
@@ -12134,6 +12132,8 @@ ff02::3 ip6-allhosts
 :: browser.events.data.microsoft.com
 0.0.0.0 browser.events.data.msn.com
 :: browser.events.data.msn.com
+0.0.0.0 browser.mi-img.com
+:: browser.mi-img.com
 0.0.0.0 browserkernel.baidu.com
 :: browserkernel.baidu.com
 0.0.0.0 browsermine.12finance.com
@@ -13240,6 +13240,8 @@ ff02::3 ip6-allhosts
 :: cards.virtuagirlhd.com
 0.0.0.0 cardshare.carte-gr.total.fr
 :: cardshare.carte-gr.total.fr
+0.0.0.0 care-health.co.kr
+:: care-health.co.kr
 0.0.0.0 care.neogenomics.com
 :: care.neogenomics.com
 0.0.0.0 care.petcureoncology.com
@@ -13520,6 +13522,8 @@ ff02::3 ip6-allhosts
 :: cdn.9377ne.com
 0.0.0.0 cdn.9823df.com
 :: cdn.9823df.com
+0.0.0.0 cdn.ad.citynews.it
+:: cdn.ad.citynews.it
 0.0.0.0 cdn.ad.plus
 :: cdn.ad.plus
 0.0.0.0 cdn.ad.xiaomi.com
@@ -17628,6 +17632,8 @@ ff02::3 ip6-allhosts
 :: d1ac2du043ydir.cloudfront.net
 0.0.0.0 d1aezk8tun0dhm.cloudfront.net
 :: d1aezk8tun0dhm.cloudfront.net
+0.0.0.0 d1af033869koo7.cloudfront.net
+:: d1af033869koo7.cloudfront.net
 0.0.0.0 d1afet533lf7zs.cloudfront.net
 :: d1afet533lf7zs.cloudfront.net
 0.0.0.0 d1aqvw7cn4ydzo.cloudfront.net
@@ -18866,6 +18872,8 @@ ff02::3 ip6-allhosts
 :: data.queryly.com
 0.0.0.0 data.reactandshare.com
 :: data.reactandshare.com
+0.0.0.0 data.segugio.it
+:: data.segugio.it
 0.0.0.0 data.stepstone.be
 :: data.stepstone.be
 0.0.0.0 data.stepstone.fr
@@ -19106,8 +19114,6 @@ ff02::3 ip6-allhosts
 :: ddd.haodizhi666.com
 0.0.0.0 ddfnmo6ev4fd.cloudfront.net
 :: ddfnmo6ev4fd.cloudfront.net
-0.0.0.0 ddgouf.dnfkong.com
-:: ddgouf.dnfkong.com
 0.0.0.0 ddl.3g567.com
 :: ddl.3g567.com
 0.0.0.0 ddp5e34airtsp.cloudfront.net
@@ -19996,8 +20002,6 @@ ff02::3 ip6-allhosts
 :: dm.linternaute.com
 0.0.0.0 dm.pstatp.com
 :: dm.pstatp.com
-0.0.0.0 dm.sanwen8.com
-:: dm.sanwen8.com
 0.0.0.0 dm.sb580.com
 :: dm.sb580.com
 0.0.0.0 dm.taobaojuhuasuan.cn
@@ -20510,6 +20514,8 @@ ff02::3 ip6-allhosts
 :: dsa-mfp.fengshows.cn
 0.0.0.0 dsb.yahoo.co.jp
 :: dsb.yahoo.co.jp
+0.0.0.0 dsbahmgppc0j4.cloudfront.net
+:: dsbahmgppc0j4.cloudfront.net
 0.0.0.0 dsg.interia.pl
 :: dsg.interia.pl
 0.0.0.0 dsg.sc.omtrdc.net
@@ -20696,8 +20702,6 @@ ff02::3 ip6-allhosts
 :: dwh-tracking.it.auth0.com
 0.0.0.0 dwnm2295blvjq.cloudfront.net
 :: dwnm2295blvjq.cloudfront.net
-0.0.0.0 dwtrack.qidian.com
-:: dwtrack.qidian.com
 0.0.0.0 dwtracking.sdo.com
 :: dwtracking.sdo.com
 0.0.0.0 dwx1guhcvx8gs.cloudfront.net
@@ -26734,6 +26738,8 @@ ff02::3 ip6-allhosts
 :: headlines.sharethrough.com
 0.0.0.0 health.interamerican.gr
 :: health.interamerican.gr
+0.0.0.0 healthclicks.co.uk
+:: healthclicks.co.uk
 0.0.0.0 healthy.spartanburgregional.com
 :: healthy.spartanburgregional.com
 0.0.0.0 hearob.klix.ba
@@ -29766,8 +29772,6 @@ ff02::3 ip6-allhosts
 :: ism.brother.com
 0.0.0.0 isocket-creatives.s3.amazonaws.com
 :: isocket-creatives.s3.amazonaws.com
-0.0.0.0 isu.weidianyuedu.com
-:: isu.weidianyuedu.com
 0.0.0.0 isub.snssdk.com
 :: isub.snssdk.com
 0.0.0.0 isuzu.actonservice.com
@@ -30468,8 +30472,6 @@ ff02::3 ip6-allhosts
 :: js6882.jianbangjiaoyu.com
 0.0.0.0 js84.enyayinxiang.com
 :: js84.enyayinxiang.com
-0.0.0.0 js883.cnbole.net
-:: js883.cnbole.net
 0.0.0.0 js883.dragoncent.com
 :: js883.dragoncent.com
 0.0.0.0 js883.yongkang6.com
@@ -30508,6 +30510,8 @@ ff02::3 ip6-allhosts
 :: jshoppingbox.joinsmsn.com
 0.0.0.0 jsjs.jbzj.com
 :: jsjs.jbzj.com
+0.0.0.0 jslog.post.cz
+:: jslog.post.cz
 0.0.0.0 jslog.zapps.vn
 :: jslog.zapps.vn
 0.0.0.0 jsm.39yst.com
@@ -32932,8 +32936,6 @@ ff02::3 ip6-allhosts
 :: m.beacon.sina.com.cn
 0.0.0.0 m.beidian.com
 :: m.beidian.com
-0.0.0.0 m.bgcse.cn
-:: m.bgcse.cn
 0.0.0.0 m.biduo.cc
 :: m.biduo.cc
 0.0.0.0 m.biquge5200.cc
@@ -32974,8 +32976,6 @@ ff02::3 ip6-allhosts
 :: m.dgaoz.com
 0.0.0.0 m.doodlemobile.com
 :: m.doodlemobile.com
-0.0.0.0 m.dsjre.com
-:: m.dsjre.com
 0.0.0.0 m.du1du.org
 :: m.du1du.org
 0.0.0.0 m.duias.com
@@ -33194,8 +33194,6 @@ ff02::3 ip6-allhosts
 :: m.quxiangkeji.cn
 0.0.0.0 m.reachmax.cn
 :: m.reachmax.cn
-0.0.0.0 m.ricpt.com
-:: m.ricpt.com
 0.0.0.0 m.rrsdl.com
 :: m.rrsdl.com
 0.0.0.0 m.sanitwealth.com
@@ -33516,8 +33514,6 @@ ff02::3 ip6-allhosts
 :: mail-csr12.net.daraz.com
 0.0.0.0 mail-europewest.partner.net.daraz.com
 :: mail-europewest.partner.net.daraz.com
-0.0.0.0 mail-gw.jbic.go.jp
-:: mail-gw.jbic.go.jp
 0.0.0.0 mail-portal.partner.net.daraz.com
 :: mail-portal.partner.net.daraz.com
 0.0.0.0 mail.adsame.com
@@ -39822,8 +39818,6 @@ ff02::3 ip6-allhosts
 :: omniture443.partycity.com
 0.0.0.0 omnituretrack.local.com
 :: omnituretrack.local.com
-0.0.0.0 omnivis.overstock.com
-:: omnivis.overstock.com
 0.0.0.0 omns.americanexpress.com
 :: omns.americanexpress.com
 0.0.0.0 omns.crackle.com
@@ -40478,6 +40472,8 @@ ff02::3 ip6-allhosts
 :: p.sug.so.com
 0.0.0.0 p.szonline.net
 :: p.szonline.net
+0.0.0.0 p.tamenshuo.com
+:: p.tamenshuo.com
 0.0.0.0 p.tanx.com
 :: p.tanx.com
 0.0.0.0 p.tencentmind.com
@@ -42862,8 +42858,6 @@ ff02::3 ip6-allhosts
 :: ptracker.nurturehq.com
 0.0.0.0 ptrads.mp3.com
 :: ptrads.mp3.com
-0.0.0.0 ptreklamssp.com.tr
-:: ptreklamssp.com.tr
 0.0.0.0 ptrenx.vidaxl.com.au
 :: ptrenx.vidaxl.com.au
 0.0.0.0 ptsc.shoplocal.com
@@ -43584,8 +43578,6 @@ ff02::3 ip6-allhosts
 :: r.w.inmobi.com
 0.0.0.0 r.whytoss.com
 :: r.whytoss.com
-0.0.0.0 r.youmi.net
-:: r.youmi.net
 0.0.0.0 r.z2.fm
 :: r.z2.fm
 0.0.0.0 r.zlongad.com
@@ -43856,8 +43848,6 @@ ff02::3 ip6-allhosts
 :: rec5.visualwebsiteoptimizer.com
 0.0.0.0 receiver.eigene.io
 :: receiver.eigene.io
-0.0.0.0 receiver.pravoved.org
-:: receiver.pravoved.org
 0.0.0.0 reclame.lequipement.fr
 :: reclame.lequipement.fr
 0.0.0.0 recmd.html5.qq.com
@@ -47586,6 +47576,8 @@ ff02::3 ip6-allhosts
 :: sh2070.evanzo-server.de
 0.0.0.0 sh996.dftoutiao.com
 :: sh996.dftoutiao.com
+0.0.0.0 sha1.videotrek.co
+:: sha1.videotrek.co
 0.0.0.0 shaft.jebe.renren.com
 :: shaft.jebe.renren.com
 0.0.0.0 shake.360.cn
@@ -53052,8 +53044,6 @@ ff02::3 ip6-allhosts
 :: stats.itsol.it
 0.0.0.0 stats.itweb.co.za
 :: stats.itweb.co.za
-0.0.0.0 stats.jacksellwood.com
-:: stats.jacksellwood.com
 0.0.0.0 stats.jackwhiting.co.uk
 :: stats.jackwhiting.co.uk
 0.0.0.0 stats.jdheyburn.co.uk
@@ -60078,6 +60068,8 @@ ff02::3 ip6-allhosts
 :: vwhi.gou.sogou.com
 0.0.0.0 vwiind.beautyforever.com
 :: vwiind.beautyforever.com
+0.0.0.0 vwonwkaqvq-a.global.ssl.fastly.net
+:: vwonwkaqvq-a.global.ssl.fastly.net
 0.0.0.0 vws.vidcoin.com
 :: vws.vidcoin.com
 0.0.0.0 vybbem.mk.ru
@@ -60422,8 +60414,6 @@ ff02::3 ip6-allhosts
 :: wdads.sx.atl.publicus.com
 0.0.0.0 wdfhbx.zdpeanut.com
 :: wdfhbx.zdpeanut.com
-0.0.0.0 wdfhl.weidianyuedu.com
-:: wdfhl.weidianyuedu.com
 0.0.0.0 wdig.vo.llnwd.net
 :: wdig.vo.llnwd.net
 0.0.0.0 wdm.map24.com
@@ -61860,8 +61850,6 @@ ff02::3 ip6-allhosts
 :: www2.citizensclimatelobby.org
 0.0.0.0 www2.claruscredits.com
 :: www2.claruscredits.com
-0.0.0.0 www2.cloudbilt.com
-:: www2.cloudbilt.com
 0.0.0.0 www2.collinsongroup.com
 :: www2.collinsongroup.com
 0.0.0.0 www2.complyadvantage.com
@@ -62880,8 +62868,6 @@ ff02::3 ip6-allhosts
 :: yield-op-idsync.live.streamtheworld.com
 0.0.0.0 yieldmo-builds.s3.amazonaws.com
 :: yieldmo-builds.s3.amazonaws.com
-0.0.0.0 yijiuningyia.gushiwen.org
-:: yijiuningyia.gushiwen.org
 0.0.0.0 yikjeq.miniso.com.tr
 :: yikjeq.miniso.com.tr
 0.0.0.0 yikrmn.ciceksepeti.com
@@ -63272,6 +63258,8 @@ ff02::3 ip6-allhosts
 :: zhuuv.maoyumao.net
 0.0.0.0 zhwnlapi.etouch.cn
 :: zhwnlapi.etouch.cn
+0.0.0.0 zio.xcar.com.cn
+:: zio.xcar.com.cn
 0.0.0.0 zioe.com.cn
 :: zioe.com.cn
 0.0.0.0 zion.api.cnn.io
