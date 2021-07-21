@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYyNjc0Mjk4Mgo=
+# Checksum: MTYyNjgyOTI2NAo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210720-0
-# TimeUpdated: 2021-07-20T01:03:02+00:00
+# Version: 1.1.8-20210721-0
+# TimeUpdated: 2021-07-21T01:01:04+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 29992
+# Total: 29987
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -56,7 +56,6 @@ payload:
   - DOMAIN,1.hysou.com
   - DOMAIN,1.i999d.cn
   - DOMAIN,1.idc100.com
-  - DOMAIN,1.ideng.com
   - DOMAIN,1.iqeq.com.cn
   - DOMAIN,1.isanxia.com
   - DOMAIN,1.jiqie.cn
@@ -204,6 +203,7 @@ payload:
   - DOMAIN,3dm.huya.com
   - DOMAIN,3g.990.net
   - DOMAIN,3m.mediav.com
+  - DOMAIN,3p-geo.yahoo.com
   - DOMAIN,3rd.t.sohu.com
   - DOMAIN,4.up.qingdaonews.com
   - DOMAIN,4008813318.com.cn
@@ -238,7 +238,6 @@ payload:
   - DOMAIN,5aac971e.qivsod.com
   - DOMAIN,5c.com.cn
   - DOMAIN,5ijo.01net.com
-  - DOMAIN,5jcom.com.cn
   - DOMAIN,5y9nfpes.52pk.com
   - DOMAIN,5yrra.deshuangwang.cn
   - DOMAIN,6165.rapidforum.com
@@ -1193,7 +1192,6 @@ payload:
   - DOMAIN,ablinksemail.wirexapp.com
   - DOMAIN,ablinksuni.a.grubhub.com
   - DOMAIN,ablinksuni.a.seamless.com
-  - DOMAIN,abmail.email.alltrails.com
   - DOMAIN,abmail2.e.hungryjacks.com.au
   - DOMAIN,abncx.amv.fr
   - DOMAIN,abo.schibsted.no
@@ -1551,6 +1549,7 @@ payload:
   - DOMAIN,ad.khan.co.kr
   - DOMAIN,ad.kisscartoon.ac
   - DOMAIN,ad.kisscartoon.is
+  - DOMAIN,ad.kisscartoon.nz
   - DOMAIN,ad.kisscartoon.sh
   - DOMAIN,ad.kisscartoon.su
   - DOMAIN,ad.koreadaily.com
@@ -1633,7 +1632,6 @@ payload:
   - DOMAIN,ad.phunuxuavanay.vn
   - DOMAIN,ad.pickple.net
   - DOMAIN,ad.pitta.ne.jp
-  - DOMAIN,ad.pixnet.in
   - DOMAIN,ad.pixnet.net
   - DOMAIN,ad.player.baidu.com
   - DOMAIN,ad.polskiprzemysl.com.pl
@@ -3610,7 +3608,6 @@ payload:
   - DOMAIN,affili.dmm.com
   - DOMAIN,affiliate-script-pr.firebaseapp.com
   - DOMAIN,affiliate.1800flowers.com
-  - DOMAIN,affiliate.a4dtracker.com
   - DOMAIN,affiliate.astraweb.com
   - DOMAIN,affiliate.baazee.com
   - DOMAIN,affiliate.chiaki.vn
@@ -4280,7 +4277,6 @@ payload:
   - DOMAIN,analytics.vnreview.vn
   - DOMAIN,analytics.vodafone.co.uk
   - DOMAIN,analytics.vodgc.net
-  - DOMAIN,analytics.vooxe.com
   - DOMAIN,analytics.wanmei.com
   - DOMAIN,analytics.webads.eu
   - DOMAIN,analytics.webgains.io
@@ -4587,6 +4583,7 @@ payload:
   - DOMAIN,api.systempartnerski.pl
   - DOMAIN,api.taplytics.com
   - DOMAIN,api.tatagou.com.cn
+  - DOMAIN,api.telemetry.watchabc.go.com
   - DOMAIN,api.touchxd.com
   - DOMAIN,api.tr.blismedia.com
   - DOMAIN,api.traq.li
@@ -5462,6 +5459,7 @@ payload:
   - DOMAIN,banners.iq.pl
   - DOMAIN,banners.isoftmarketing.com
   - DOMAIN,banners.itweb.co.za
+  - DOMAIN,banners.japantoday.com
   - DOMAIN,banners.ksl.com
   - DOMAIN,banners.linkbuddies.com
   - DOMAIN,banners.mellowads.com
@@ -6031,7 +6029,6 @@ payload:
   - DOMAIN,brukernano.actonservice.com
   - DOMAIN,bs-cookie.staging.springbok.agency
   - DOMAIN,bs.commontools.net
-  - DOMAIN,bs.csshq.com.cn
   - DOMAIN,bs.lamrd.cn
   - DOMAIN,bs.mybb.ru
   - DOMAIN,bs.orsk.ru
@@ -6564,7 +6561,6 @@ payload:
   - DOMAIN,cards-css.iqiyi.com
   - DOMAIN,cards.virtuagirlhd.com
   - DOMAIN,cardshare.carte-gr.total.fr
-  - DOMAIN,care-health.co.kr
   - DOMAIN,care.petcureoncology.com
   - DOMAIN,carfax.sc.omtrdc.net
   - DOMAIN,cargas.actonservice.com
@@ -7603,6 +7599,7 @@ payload:
   - DOMAIN,code.37cs.com
   - DOMAIN,code.acstat.com
   - DOMAIN,code.ainsyndication.com
+  - DOMAIN,code.bergsteigen.com
   - DOMAIN,code.cdjsblm.com
   - DOMAIN,code.d-agency.net
   - DOMAIN,code.ditiezu.net
@@ -7850,6 +7847,7 @@ payload:
   - DOMAIN,consent.23g.io
   - DOMAIN,consent.api.osano.com
   - DOMAIN,consent.berliner-kurier.de
+  - DOMAIN,consent.boerse-online.de
   - DOMAIN,consent.faz.net
   - DOMAIN,consent.finanzen.net
   - DOMAIN,consent.gutefrage.net
@@ -9633,6 +9631,7 @@ payload:
   - DOMAIN,df.telemetry.microsoft.com
   - DOMAIN,df09rp0cm6rp6.cloudfront.net
   - DOMAIN,df0pmigc8xs70.cloudfront.net
+  - DOMAIN,df666.pzhttaax.cn
   - DOMAIN,df7ok8j6on3a4.cloudfront.net
   - DOMAIN,dfad.dfdaily.com
   - DOMAIN,dfanalytics.dealerfire.com
@@ -10287,7 +10286,6 @@ payload:
   - DOMAIN,e-wei.com.cn
   - DOMAIN,e.2l06k.cn
   - DOMAIN,e.51xmgys.com
-  - DOMAIN,e.53trya.cn
   - DOMAIN,e.60sk.ru
   - DOMAIN,e.7clink.com
   - DOMAIN,e.91.com
@@ -10341,6 +10339,7 @@ payload:
   - DOMAIN,e.nchet.com
   - DOMAIN,e.nexac.com
   - DOMAIN,e.passfolio.us
+  - DOMAIN,e.picbr.com
   - DOMAIN,e.poonscn.com
   - DOMAIN,e.qq.com
   - DOMAIN,e.qxfly.com
@@ -11761,6 +11760,7 @@ payload:
   - DOMAIN,g2insights-cdn.azureedge.net
   - DOMAIN,g3.iqilu.com
   - DOMAIN,g3.letv.com
+  - DOMAIN,g3t4d5.madison.com
   - DOMAIN,g4.iqilu.com
   - DOMAIN,g4p.redtram.com
   - DOMAIN,ga-beacon.appspot.com
@@ -14177,7 +14177,6 @@ payload:
   - DOMAIN,isite.baidu.com
   - DOMAIN,ism.brother.com
   - DOMAIN,isocket-creatives.s3.amazonaws.com
-  - DOMAIN,isu.weidianyuedu.com
   - DOMAIN,isub.snssdk.com
   - DOMAIN,isuzu.actonservice.com
   - DOMAIN,it.conres.com
@@ -15830,7 +15829,6 @@ payload:
   - DOMAIN,m.phonthing.com
   - DOMAIN,m.photoshelter.com
   - DOMAIN,m.pieaa.com
-  - DOMAIN,m.pinkmore.cn
   - DOMAIN,m.pl.pornzone.tv
   - DOMAIN,m.poonscn.com
   - DOMAIN,m.prazpf.cn
@@ -15867,7 +15865,6 @@ payload:
   - DOMAIN,m.u0r9.cn
   - DOMAIN,m.uc123.com
   - DOMAIN,m.ucc.gxfc2021.top
-  - DOMAIN,m.uissm.com
   - DOMAIN,m.univision.com
   - DOMAIN,m.vaxyz.com
   - DOMAIN,m.vchiy.com
@@ -18025,6 +18022,7 @@ payload:
   - DOMAIN,mlre.com.cn
   - DOMAIN,mlweb.dmlab.hu
   - DOMAIN,mm.365dmp.com
+  - DOMAIN,mm.actionlink.jp
   - DOMAIN,mm.analytics.blue
   - DOMAIN,mm.jbzj.com
   - DOMAIN,mm.melia.com
@@ -21636,7 +21634,6 @@ payload:
   - DOMAIN,s3.tercabilis.info
   - DOMAIN,s3.ttpsdk.info
   - DOMAIN,s3.video2.stream.vidzi.tv
-  - DOMAIN,s3.videos.videos.vidto.me
   - DOMAIN,s3.vidtod.me
   - DOMAIN,s3.web.flashx.co
   - DOMAIN,s362693299.aon.com
@@ -28300,7 +28297,6 @@ payload:
   - DOMAIN,v8engine.pinsightmedia.com
   - DOMAIN,v8push.pinsightmedia.com
   - DOMAIN,va.5.p2l.info
-  - DOMAIN,va.gxpan.cn
   - DOMAIN,va.videojj.com
   - DOMAIN,vads.net.vn
   - DOMAIN,vafysu.ecco-verde.ch
@@ -28764,7 +28760,6 @@ payload:
   - DOMAIN,wd.adcolony.com
   - DOMAIN,wdads.sx.atl.publicus.com
   - DOMAIN,wdfhbx.zdpeanut.com
-  - DOMAIN,wdfhl.weidianyuedu.com
   - DOMAIN,wdig.vo.llnwd.net
   - DOMAIN,wdm.map24.com
   - DOMAIN,wdr9.inseec.com

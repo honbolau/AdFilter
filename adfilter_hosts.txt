@@ -1,11 +1,11 @@
-# Checksum: MTYyNjc0Mjk4Mgo=
+# Checksum: MTYyNjgyOTI2NAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210720-0
-# TimeUpdated: 2021-07-20T01:03:02+00:00
+# Version: 1.1.8-20210721-0
+# TimeUpdated: 2021-07-21T01:01:04+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 29992
+# Total: 29987
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -114,8 +114,6 @@ ff02::3 ip6-allhosts
 :: 1.i999d.cn
 0.0.0.0 1.idc100.com
 :: 1.idc100.com
-0.0.0.0 1.ideng.com
-:: 1.ideng.com
 0.0.0.0 1.iqeq.com.cn
 :: 1.iqeq.com.cn
 0.0.0.0 1.isanxia.com
@@ -410,6 +408,8 @@ ff02::3 ip6-allhosts
 :: 3g.990.net
 0.0.0.0 3m.mediav.com
 :: 3m.mediav.com
+0.0.0.0 3p-geo.yahoo.com
+:: 3p-geo.yahoo.com
 0.0.0.0 3rd.t.sohu.com
 :: 3rd.t.sohu.com
 0.0.0.0 4.up.qingdaonews.com
@@ -478,8 +478,6 @@ ff02::3 ip6-allhosts
 :: 5c.com.cn
 0.0.0.0 5ijo.01net.com
 :: 5ijo.01net.com
-0.0.0.0 5jcom.com.cn
-:: 5jcom.com.cn
 0.0.0.0 5y9nfpes.52pk.com
 :: 5y9nfpes.52pk.com
 0.0.0.0 5yrra.deshuangwang.cn
@@ -2388,8 +2386,6 @@ ff02::3 ip6-allhosts
 :: ablinksuni.a.grubhub.com
 0.0.0.0 ablinksuni.a.seamless.com
 :: ablinksuni.a.seamless.com
-0.0.0.0 abmail.email.alltrails.com
-:: abmail.email.alltrails.com
 0.0.0.0 abmail2.e.hungryjacks.com.au
 :: abmail2.e.hungryjacks.com.au
 0.0.0.0 abncx.amv.fr
@@ -3104,6 +3100,8 @@ ff02::3 ip6-allhosts
 :: ad.kisscartoon.ac
 0.0.0.0 ad.kisscartoon.is
 :: ad.kisscartoon.is
+0.0.0.0 ad.kisscartoon.nz
+:: ad.kisscartoon.nz
 0.0.0.0 ad.kisscartoon.sh
 :: ad.kisscartoon.sh
 0.0.0.0 ad.kisscartoon.su
@@ -3268,8 +3266,6 @@ ff02::3 ip6-allhosts
 :: ad.pickple.net
 0.0.0.0 ad.pitta.ne.jp
 :: ad.pitta.ne.jp
-0.0.0.0 ad.pixnet.in
-:: ad.pixnet.in
 0.0.0.0 ad.pixnet.net
 :: ad.pixnet.net
 0.0.0.0 ad.player.baidu.com
@@ -7222,8 +7218,6 @@ ff02::3 ip6-allhosts
 :: affiliate-script-pr.firebaseapp.com
 0.0.0.0 affiliate.1800flowers.com
 :: affiliate.1800flowers.com
-0.0.0.0 affiliate.a4dtracker.com
-:: affiliate.a4dtracker.com
 0.0.0.0 affiliate.astraweb.com
 :: affiliate.astraweb.com
 0.0.0.0 affiliate.baazee.com
@@ -8562,8 +8556,6 @@ ff02::3 ip6-allhosts
 :: analytics.vodafone.co.uk
 0.0.0.0 analytics.vodgc.net
 :: analytics.vodgc.net
-0.0.0.0 analytics.vooxe.com
-:: analytics.vooxe.com
 0.0.0.0 analytics.wanmei.com
 :: analytics.wanmei.com
 0.0.0.0 analytics.webads.eu
@@ -9176,6 +9168,8 @@ ff02::3 ip6-allhosts
 :: api.taplytics.com
 0.0.0.0 api.tatagou.com.cn
 :: api.tatagou.com.cn
+0.0.0.0 api.telemetry.watchabc.go.com
+:: api.telemetry.watchabc.go.com
 0.0.0.0 api.touchxd.com
 :: api.touchxd.com
 0.0.0.0 api.tr.blismedia.com
@@ -10926,6 +10920,8 @@ ff02::3 ip6-allhosts
 :: banners.isoftmarketing.com
 0.0.0.0 banners.itweb.co.za
 :: banners.itweb.co.za
+0.0.0.0 banners.japantoday.com
+:: banners.japantoday.com
 0.0.0.0 banners.ksl.com
 :: banners.ksl.com
 0.0.0.0 banners.linkbuddies.com
@@ -12064,8 +12060,6 @@ ff02::3 ip6-allhosts
 :: bs-cookie.staging.springbok.agency
 0.0.0.0 bs.commontools.net
 :: bs.commontools.net
-0.0.0.0 bs.csshq.com.cn
-:: bs.csshq.com.cn
 0.0.0.0 bs.lamrd.cn
 :: bs.lamrd.cn
 0.0.0.0 bs.mybb.ru
@@ -13130,8 +13124,6 @@ ff02::3 ip6-allhosts
 :: cards.virtuagirlhd.com
 0.0.0.0 cardshare.carte-gr.total.fr
 :: cardshare.carte-gr.total.fr
-0.0.0.0 care-health.co.kr
-:: care-health.co.kr
 0.0.0.0 care.petcureoncology.com
 :: care.petcureoncology.com
 0.0.0.0 carfax.sc.omtrdc.net
@@ -15208,6 +15200,8 @@ ff02::3 ip6-allhosts
 :: code.acstat.com
 0.0.0.0 code.ainsyndication.com
 :: code.ainsyndication.com
+0.0.0.0 code.bergsteigen.com
+:: code.bergsteigen.com
 0.0.0.0 code.cdjsblm.com
 :: code.cdjsblm.com
 0.0.0.0 code.d-agency.net
@@ -15702,6 +15696,8 @@ ff02::3 ip6-allhosts
 :: consent.api.osano.com
 0.0.0.0 consent.berliner-kurier.de
 :: consent.berliner-kurier.de
+0.0.0.0 consent.boerse-online.de
+:: consent.boerse-online.de
 0.0.0.0 consent.faz.net
 :: consent.faz.net
 0.0.0.0 consent.finanzen.net
@@ -19268,6 +19264,8 @@ ff02::3 ip6-allhosts
 :: df09rp0cm6rp6.cloudfront.net
 0.0.0.0 df0pmigc8xs70.cloudfront.net
 :: df0pmigc8xs70.cloudfront.net
+0.0.0.0 df666.pzhttaax.cn
+:: df666.pzhttaax.cn
 0.0.0.0 df7ok8j6on3a4.cloudfront.net
 :: df7ok8j6on3a4.cloudfront.net
 0.0.0.0 dfad.dfdaily.com
@@ -20576,8 +20574,6 @@ ff02::3 ip6-allhosts
 :: e.2l06k.cn
 0.0.0.0 e.51xmgys.com
 :: e.51xmgys.com
-0.0.0.0 e.53trya.cn
-:: e.53trya.cn
 0.0.0.0 e.60sk.ru
 :: e.60sk.ru
 0.0.0.0 e.7clink.com
@@ -20684,6 +20680,8 @@ ff02::3 ip6-allhosts
 :: e.nexac.com
 0.0.0.0 e.passfolio.us
 :: e.passfolio.us
+0.0.0.0 e.picbr.com
+:: e.picbr.com
 0.0.0.0 e.poonscn.com
 :: e.poonscn.com
 0.0.0.0 e.qq.com
@@ -23524,6 +23522,8 @@ ff02::3 ip6-allhosts
 :: g3.iqilu.com
 0.0.0.0 g3.letv.com
 :: g3.letv.com
+0.0.0.0 g3t4d5.madison.com
+:: g3t4d5.madison.com
 0.0.0.0 g4.iqilu.com
 :: g4.iqilu.com
 0.0.0.0 g4p.redtram.com
@@ -28356,8 +28356,6 @@ ff02::3 ip6-allhosts
 :: ism.brother.com
 0.0.0.0 isocket-creatives.s3.amazonaws.com
 :: isocket-creatives.s3.amazonaws.com
-0.0.0.0 isu.weidianyuedu.com
-:: isu.weidianyuedu.com
 0.0.0.0 isub.snssdk.com
 :: isub.snssdk.com
 0.0.0.0 isuzu.actonservice.com
@@ -31662,8 +31660,6 @@ ff02::3 ip6-allhosts
 :: m.photoshelter.com
 0.0.0.0 m.pieaa.com
 :: m.pieaa.com
-0.0.0.0 m.pinkmore.cn
-:: m.pinkmore.cn
 0.0.0.0 m.pl.pornzone.tv
 :: m.pl.pornzone.tv
 0.0.0.0 m.poonscn.com
@@ -31736,8 +31732,6 @@ ff02::3 ip6-allhosts
 :: m.uc123.com
 0.0.0.0 m.ucc.gxfc2021.top
 :: m.ucc.gxfc2021.top
-0.0.0.0 m.uissm.com
-:: m.uissm.com
 0.0.0.0 m.univision.com
 :: m.univision.com
 0.0.0.0 m.vaxyz.com
@@ -36052,6 +36046,8 @@ ff02::3 ip6-allhosts
 :: mlweb.dmlab.hu
 0.0.0.0 mm.365dmp.com
 :: mm.365dmp.com
+0.0.0.0 mm.actionlink.jp
+:: mm.actionlink.jp
 0.0.0.0 mm.analytics.blue
 :: mm.analytics.blue
 0.0.0.0 mm.jbzj.com
@@ -43274,8 +43270,6 @@ ff02::3 ip6-allhosts
 :: s3.ttpsdk.info
 0.0.0.0 s3.video2.stream.vidzi.tv
 :: s3.video2.stream.vidzi.tv
-0.0.0.0 s3.videos.videos.vidto.me
-:: s3.videos.videos.vidto.me
 0.0.0.0 s3.vidtod.me
 :: s3.vidtod.me
 0.0.0.0 s3.web.flashx.co
@@ -56602,8 +56596,6 @@ ff02::3 ip6-allhosts
 :: v8push.pinsightmedia.com
 0.0.0.0 va.5.p2l.info
 :: va.5.p2l.info
-0.0.0.0 va.gxpan.cn
-:: va.gxpan.cn
 0.0.0.0 va.videojj.com
 :: va.videojj.com
 0.0.0.0 vads.net.vn
@@ -57530,8 +57522,6 @@ ff02::3 ip6-allhosts
 :: wdads.sx.atl.publicus.com
 0.0.0.0 wdfhbx.zdpeanut.com
 :: wdfhbx.zdpeanut.com
-0.0.0.0 wdfhl.weidianyuedu.com
-:: wdfhl.weidianyuedu.com
 0.0.0.0 wdig.vo.llnwd.net
 :: wdig.vo.llnwd.net
 0.0.0.0 wdm.map24.com
