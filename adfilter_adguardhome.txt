@@ -1,11 +1,11 @@
-! Checksum: MTYyNzAwMTk4Mgo=
+! Checksum: MTYyNzA4ODM1MQo=
 ! Title: Zhijie's Ad Filter for AdGuard Home (DNS-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.1.8-20210723-0
-! TimeUpdated: 2021-07-23T00:59:42+00:00
+! Version: 1.1.8-20210724-0
+! TimeUpdated: 2021-07-24T00:59:11+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
-! Total: 29852
+! Total: 29850
 |0.nextyourcontent.com^
 |0.r.msn.com^
 |0.up.qingdaonews.com^
@@ -55,6 +55,7 @@
 |1.hysou.com^
 |1.i999d.cn^
 |1.idc100.com^
+|1.ideng.com^
 |1.iqeq.com.cn^
 |1.isanxia.com^
 |1.jiqie.cn^
@@ -199,6 +200,7 @@
 |377d936c10e6811f484c-6402e46c712497f58e3f77a59f47bbd5.r17.cf2.rackcdn.com^
 |380.bu2z.com^
 |397c0.admaster.com.cn^
+|3d.shophumanoid.com^
 |3dm.huya.com^
 |3g.990.net^
 |3m.mediav.com^
@@ -1475,6 +1477,7 @@
 |ad.ikonke.com^
 |ad.ilove.ch^
 |ad.iloveinterracial.com^
+|ad.impressbm.co.jp^
 |ad.infoseek.com^
 |ad.ipadview.com^
 |ad.iplayer.org^
@@ -2612,6 +2615,7 @@
 |ads.mobvertising.net^
 |ads.mofos.com^
 |ads.mojicdn.com^
+|ads.monster.com^
 |ads.moot.us^
 |ads.mopub.com^
 |ads.mouseplanet.com^
@@ -2918,7 +2922,6 @@
 |ads.wwe.biz^
 |ads.x17online.com^
 |ads.xedoisong.vn^
-|ads.xemphimso.com^
 |ads.xhamster.com^
 |ads.xlxtra.com^
 |ads.xtra.ca^
@@ -2962,6 +2965,7 @@
 |ads1.realcities.com^
 |ads1.rne.com^
 |ads1.virtual-nights.com^
+|ads1.virtumundo.com^
 |ads10.focalink.com^
 |ads10.speedbit.com^
 |ads11.focalink.com^
@@ -8724,6 +8728,7 @@
 |d1s5n6wuwgnxf4.cloudfront.net^
 |d1sj3yrs7ojvv7.cloudfront.net^
 |d1t9uctetvi0tu.cloudfront.net^
+|d1tpwjufge3qqa.cloudfront.net^
 |d1tygkkxabxtvv.cloudfront.net^
 |d1u3772ihhjzwu.cloudfront.net^
 |d1uanozc5el74n.cloudfront.net^
@@ -9805,7 +9810,6 @@
 |dm.lianzhixiu.com^
 |dm.linternaute.com^
 |dm.pstatp.com^
-|dm.sb580.com^
 |dm.taobaojuhuasuan.cn^
 |dm.toutiao.com^
 |dm.xiazaibao.xunlei.com^
@@ -14066,6 +14070,7 @@
 |isite.baidu.com^
 |ism.brother.com^
 |isocket-creatives.s3.amazonaws.com^
+|isu.weidianyuedu.com^
 |isub.snssdk.com^
 |isuzu.actonservice.com^
 |it.conres.com^
@@ -14571,7 +14576,6 @@
 |kjos.vo.llnwd.net^
 |kjxztu.biz-journal.jp^
 |kkgkpl.suzuki.com.mx^
-|kkk.lichaoliang.com^
 |kkpgv2.xunlei.com^
 |kkz.net.krankenkassenzentrale.de^
 |klfxq.kieedi.foosheng.com^
@@ -15128,7 +15132,6 @@
 |lndnserror6.wo.com.cn^
 |lndnserror7.wo.com.cn^
 |lnews.riafan.ru^
-|lnfund.org.cn^
 |lningcity.com.cn^
 |lntvby.banggood.com^
 |load.s3.amazonaws.com^
@@ -15386,6 +15389,7 @@
 |logly.co.jp^
 |logo-net.co.uk^
 |logonext.tv.kuyun.com^
+|logperf.vnexpress.net^
 |logping.exblog.jp^
 |logql.yahoo.co.jp^
 |logs-api.shoprunner.com^
@@ -15704,7 +15708,6 @@
 |m.niegg.com^
 |m.nkjfzq43034.cn^
 |m.nmtouzi.com^
-|m.nq37f.cn^
 |m.nuoqingck.cn^
 |m.nydjsm.cn^
 |m.obeip.com^
@@ -15807,7 +15810,6 @@
 |m1.jintang114.org^
 |m1.kuanff.com^
 |m1.mgogo.com^
-|m1.nn670.com^
 |m1.stadiumgoods.com^
 |m1.stream.vidzi.tv^
 |m1.streaming.estream.to^
@@ -18644,7 +18646,6 @@
 |numbers.triplejack.com^
 |nunu-001.now.sh^
 |nusic.ic86doc.com^
-|nuwerk.monsterboard.nl^
 |nv-ad.24hstatic.com^
 |nv.5.p2l.info^
 |nvpbip.picooc.ru^
@@ -20329,7 +20330,6 @@
 |proxy8.nullrefexcep.com^
 |proxy9.nullrefexcep.com^
 |proxypage.msn.com^
-|prozapas.dn.ua^
 |prp11ahda.s3.amazonaws.com^
 |prstats.postrelease.com^
 |prt-stsdk.vivo.com.cn^
@@ -20368,7 +20368,6 @@
 |ptracker.58.com^
 |ptracker.nurturehq.com^
 |ptrads.mp3.com^
-|ptreklam.com.tr^
 |ptrenx.vidaxl.com.au^
 |ptsc.shoplocal.com^
 |ptw-i.actonservice.com^
@@ -20641,7 +20640,6 @@
 |qqe.ihear123.com^
 |qqpublic.qpic.cn^
 |qqshow2-item.qq.com^
-|qqwx.zhangguangzong.com^
 |qr.cp31.ott.cibntv.net^
 |qrjsbn.flinndal.nl^
 |qrrhvh.propertyfinder.ae^
@@ -21911,6 +21909,7 @@
 |sayutracking.co.uk^
 |sb.scorecardresearch.com^
 |sb.voicefive.com^
+|sbbanner-com.cdn.ampproject.org^
 |sbcomniture.focus.de^
 |sbeacon.sina.com.cn^
 |sbhc.portalhc.com^
@@ -22867,7 +22866,6 @@
 |slaunch.shopcanopy.com^
 |slava.soloway.su^
 |slb.gedawang.com^
-|slb.tiangoutai.com^
 |sle.pagesjaunes.fr^
 |sleeknoteboxcontent.sleeknote.com^
 |sleep-aids.1.p2l.info^
@@ -24720,6 +24718,7 @@
 |static.mntzm.com^
 |static.mvot.vn^
 |static.novanet.vn^
+|static.nrelate.com^
 |static.parsely.com^
 |static.prototypes.ru^
 |static.sinawap.com^
@@ -25148,7 +25147,6 @@
 |stats.sawlive.tv^
 |stats.scalgo.com^
 |stats.searchftps.net^
-|stats.searchftps.org^
 |stats.sec.telefonica.com^
 |stats.seedr.com^
 |stats.seedr.ru^
@@ -25769,6 +25767,7 @@
 |t.irtyd.com^
 |t.itsehoitoapteekki.fi^
 |t.iz55.com^
+|t.jobsyn.org^
 |t.jossandmain.com^
 |t.karte.io^
 |t.kck.st^
@@ -25777,7 +25776,6 @@
 |t.leady.com^
 |t.leady.cz^
 |t.lidyana.com^
-|t.lksb.wang^
 |t.locasun-vp.fr^
 |t.locasun.de^
 |t.locasun.es^
@@ -26189,6 +26187,7 @@
 |tga.csbew.com^
 |tgb.csbew.com^
 |tgpcounter.freethumbnailgalleries.com^
+|tgt.maep.ibm.com^
 |tgtgzo.otelz.com^
 |thaqyl.mediamarkt.nl^
 |theaba.actonservice.com^
@@ -27516,6 +27515,7 @@
 |trck.spoteffects.net^
 |trcka8net.irobot-jp.com^
 |trckr.nordiskemedier.dk^
+|treatment.grammarly.com^
 |trecker.aklamio.com^
 |tredir.go.com^
 |tree-pixel-log.s3.amazonaws.com^
@@ -28071,14 +28071,12 @@
 |v.fedsdq.com^
 |v.fwmrm.net^
 |v.gdt.qq.com^
-|v.ggsgww.cn^
 |v.heygugu.com^
 |v.jinliaoyang.com^
 |v.jsbgh.cn^
 |v.jumorecn.com.cn^
 |v.jzdianlan.cn^
 |v.l570mb.cn^
-|v.lalaxit.cn^
 |v.lovame.com.cn^
 |v.lovepets70.com^
 |v.luxfp.space^
@@ -28623,6 +28621,7 @@
 |wd.adcolony.com^
 |wdads.sx.atl.publicus.com^
 |wdfhbx.zdpeanut.com^
+|wdfhl.weidianyuedu.com^
 |wdig.vo.llnwd.net^
 |wdm.map24.com^
 |wdr9.inseec.com^
@@ -29695,7 +29694,6 @@
 |yzvpco.hfashionmall.com^
 |z.cdn.adpool.bet^
 |z.cdp-dev.cnn.com^
-|z.ceotrk.com^
 |z.cnzz.com^
 |z.grfyw.com^
 |z.irs01.com^

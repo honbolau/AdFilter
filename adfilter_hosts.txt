@@ -1,11 +1,11 @@
-# Checksum: MTYyNzAwMTk4Mgo=
+# Checksum: MTYyNzA4ODM1MQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210723-0
-# TimeUpdated: 2021-07-23T00:59:42+00:00
+# Version: 1.1.8-20210724-0
+# TimeUpdated: 2021-07-24T00:59:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 29852
+# Total: 29850
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -114,6 +114,8 @@ ff02::3 ip6-allhosts
 :: 1.i999d.cn
 0.0.0.0 1.idc100.com
 :: 1.idc100.com
+0.0.0.0 1.ideng.com
+:: 1.ideng.com
 0.0.0.0 1.iqeq.com.cn
 :: 1.iqeq.com.cn
 0.0.0.0 1.isanxia.com
@@ -402,6 +404,8 @@ ff02::3 ip6-allhosts
 :: 380.bu2z.com
 0.0.0.0 397c0.admaster.com.cn
 :: 397c0.admaster.com.cn
+0.0.0.0 3d.shophumanoid.com
+:: 3d.shophumanoid.com
 0.0.0.0 3dm.huya.com
 :: 3dm.huya.com
 0.0.0.0 3g.990.net
@@ -2954,6 +2958,8 @@ ff02::3 ip6-allhosts
 :: ad.ilove.ch
 0.0.0.0 ad.iloveinterracial.com
 :: ad.iloveinterracial.com
+0.0.0.0 ad.impressbm.co.jp
+:: ad.impressbm.co.jp
 0.0.0.0 ad.infoseek.com
 :: ad.infoseek.com
 0.0.0.0 ad.ipadview.com
@@ -5228,6 +5234,8 @@ ff02::3 ip6-allhosts
 :: ads.mofos.com
 0.0.0.0 ads.mojicdn.com
 :: ads.mojicdn.com
+0.0.0.0 ads.monster.com
+:: ads.monster.com
 0.0.0.0 ads.moot.us
 :: ads.moot.us
 0.0.0.0 ads.mopub.com
@@ -5840,8 +5848,6 @@ ff02::3 ip6-allhosts
 :: ads.x17online.com
 0.0.0.0 ads.xedoisong.vn
 :: ads.xedoisong.vn
-0.0.0.0 ads.xemphimso.com
-:: ads.xemphimso.com
 0.0.0.0 ads.xhamster.com
 :: ads.xhamster.com
 0.0.0.0 ads.xlxtra.com
@@ -5928,6 +5934,8 @@ ff02::3 ip6-allhosts
 :: ads1.rne.com
 0.0.0.0 ads1.virtual-nights.com
 :: ads1.virtual-nights.com
+0.0.0.0 ads1.virtumundo.com
+:: ads1.virtumundo.com
 0.0.0.0 ads10.focalink.com
 :: ads10.focalink.com
 0.0.0.0 ads10.speedbit.com
@@ -17452,6 +17460,8 @@ ff02::3 ip6-allhosts
 :: d1sj3yrs7ojvv7.cloudfront.net
 0.0.0.0 d1t9uctetvi0tu.cloudfront.net
 :: d1t9uctetvi0tu.cloudfront.net
+0.0.0.0 d1tpwjufge3qqa.cloudfront.net
+:: d1tpwjufge3qqa.cloudfront.net
 0.0.0.0 d1tygkkxabxtvv.cloudfront.net
 :: d1tygkkxabxtvv.cloudfront.net
 0.0.0.0 d1u3772ihhjzwu.cloudfront.net
@@ -19614,8 +19624,6 @@ ff02::3 ip6-allhosts
 :: dm.linternaute.com
 0.0.0.0 dm.pstatp.com
 :: dm.pstatp.com
-0.0.0.0 dm.sb580.com
-:: dm.sb580.com
 0.0.0.0 dm.taobaojuhuasuan.cn
 :: dm.taobaojuhuasuan.cn
 0.0.0.0 dm.toutiao.com
@@ -28136,6 +28144,8 @@ ff02::3 ip6-allhosts
 :: ism.brother.com
 0.0.0.0 isocket-creatives.s3.amazonaws.com
 :: isocket-creatives.s3.amazonaws.com
+0.0.0.0 isu.weidianyuedu.com
+:: isu.weidianyuedu.com
 0.0.0.0 isub.snssdk.com
 :: isub.snssdk.com
 0.0.0.0 isuzu.actonservice.com
@@ -29146,8 +29156,6 @@ ff02::3 ip6-allhosts
 :: kjxztu.biz-journal.jp
 0.0.0.0 kkgkpl.suzuki.com.mx
 :: kkgkpl.suzuki.com.mx
-0.0.0.0 kkk.lichaoliang.com
-:: kkk.lichaoliang.com
 0.0.0.0 kkpgv2.xunlei.com
 :: kkpgv2.xunlei.com
 0.0.0.0 kkz.net.krankenkassenzentrale.de
@@ -30260,8 +30268,6 @@ ff02::3 ip6-allhosts
 :: lndnserror7.wo.com.cn
 0.0.0.0 lnews.riafan.ru
 :: lnews.riafan.ru
-0.0.0.0 lnfund.org.cn
-:: lnfund.org.cn
 0.0.0.0 lningcity.com.cn
 :: lningcity.com.cn
 0.0.0.0 lntvby.banggood.com
@@ -30776,6 +30782,8 @@ ff02::3 ip6-allhosts
 :: logo-net.co.uk
 0.0.0.0 logonext.tv.kuyun.com
 :: logonext.tv.kuyun.com
+0.0.0.0 logperf.vnexpress.net
+:: logperf.vnexpress.net
 0.0.0.0 logping.exblog.jp
 :: logping.exblog.jp
 0.0.0.0 logql.yahoo.co.jp
@@ -31412,8 +31420,6 @@ ff02::3 ip6-allhosts
 :: m.nkjfzq43034.cn
 0.0.0.0 m.nmtouzi.com
 :: m.nmtouzi.com
-0.0.0.0 m.nq37f.cn
-:: m.nq37f.cn
 0.0.0.0 m.nuoqingck.cn
 :: m.nuoqingck.cn
 0.0.0.0 m.nydjsm.cn
@@ -31618,8 +31624,6 @@ ff02::3 ip6-allhosts
 :: m1.kuanff.com
 0.0.0.0 m1.mgogo.com
 :: m1.mgogo.com
-0.0.0.0 m1.nn670.com
-:: m1.nn670.com
 0.0.0.0 m1.stadiumgoods.com
 :: m1.stadiumgoods.com
 0.0.0.0 m1.stream.vidzi.tv
@@ -37292,8 +37296,6 @@ ff02::3 ip6-allhosts
 :: nunu-001.now.sh
 0.0.0.0 nusic.ic86doc.com
 :: nusic.ic86doc.com
-0.0.0.0 nuwerk.monsterboard.nl
-:: nuwerk.monsterboard.nl
 0.0.0.0 nv-ad.24hstatic.com
 :: nv-ad.24hstatic.com
 0.0.0.0 nv.5.p2l.info
@@ -40662,8 +40664,6 @@ ff02::3 ip6-allhosts
 :: proxy9.nullrefexcep.com
 0.0.0.0 proxypage.msn.com
 :: proxypage.msn.com
-0.0.0.0 prozapas.dn.ua
-:: prozapas.dn.ua
 0.0.0.0 prp11ahda.s3.amazonaws.com
 :: prp11ahda.s3.amazonaws.com
 0.0.0.0 prstats.postrelease.com
@@ -40740,8 +40740,6 @@ ff02::3 ip6-allhosts
 :: ptracker.nurturehq.com
 0.0.0.0 ptrads.mp3.com
 :: ptrads.mp3.com
-0.0.0.0 ptreklam.com.tr
-:: ptreklam.com.tr
 0.0.0.0 ptrenx.vidaxl.com.au
 :: ptrenx.vidaxl.com.au
 0.0.0.0 ptsc.shoplocal.com
@@ -41286,8 +41284,6 @@ ff02::3 ip6-allhosts
 :: qqpublic.qpic.cn
 0.0.0.0 qqshow2-item.qq.com
 :: qqshow2-item.qq.com
-0.0.0.0 qqwx.zhangguangzong.com
-:: qqwx.zhangguangzong.com
 0.0.0.0 qr.cp31.ott.cibntv.net
 :: qr.cp31.ott.cibntv.net
 0.0.0.0 qrjsbn.flinndal.nl
@@ -43826,6 +43822,8 @@ ff02::3 ip6-allhosts
 :: sb.scorecardresearch.com
 0.0.0.0 sb.voicefive.com
 :: sb.voicefive.com
+0.0.0.0 sbbanner-com.cdn.ampproject.org
+:: sbbanner-com.cdn.ampproject.org
 0.0.0.0 sbcomniture.focus.de
 :: sbcomniture.focus.de
 0.0.0.0 sbeacon.sina.com.cn
@@ -45738,8 +45736,6 @@ ff02::3 ip6-allhosts
 :: slava.soloway.su
 0.0.0.0 slb.gedawang.com
 :: slb.gedawang.com
-0.0.0.0 slb.tiangoutai.com
-:: slb.tiangoutai.com
 0.0.0.0 sle.pagesjaunes.fr
 :: sle.pagesjaunes.fr
 0.0.0.0 sleeknoteboxcontent.sleeknote.com
@@ -49444,6 +49440,8 @@ ff02::3 ip6-allhosts
 :: static.mvot.vn
 0.0.0.0 static.novanet.vn
 :: static.novanet.vn
+0.0.0.0 static.nrelate.com
+:: static.nrelate.com
 0.0.0.0 static.parsely.com
 :: static.parsely.com
 0.0.0.0 static.prototypes.ru
@@ -50300,8 +50298,6 @@ ff02::3 ip6-allhosts
 :: stats.scalgo.com
 0.0.0.0 stats.searchftps.net
 :: stats.searchftps.net
-0.0.0.0 stats.searchftps.org
-:: stats.searchftps.org
 0.0.0.0 stats.sec.telefonica.com
 :: stats.sec.telefonica.com
 0.0.0.0 stats.seedr.com
@@ -51542,6 +51538,8 @@ ff02::3 ip6-allhosts
 :: t.itsehoitoapteekki.fi
 0.0.0.0 t.iz55.com
 :: t.iz55.com
+0.0.0.0 t.jobsyn.org
+:: t.jobsyn.org
 0.0.0.0 t.jossandmain.com
 :: t.jossandmain.com
 0.0.0.0 t.karte.io
@@ -51558,8 +51556,6 @@ ff02::3 ip6-allhosts
 :: t.leady.cz
 0.0.0.0 t.lidyana.com
 :: t.lidyana.com
-0.0.0.0 t.lksb.wang
-:: t.lksb.wang
 0.0.0.0 t.locasun-vp.fr
 :: t.locasun-vp.fr
 0.0.0.0 t.locasun.de
@@ -52382,6 +52378,8 @@ ff02::3 ip6-allhosts
 :: tgb.csbew.com
 0.0.0.0 tgpcounter.freethumbnailgalleries.com
 :: tgpcounter.freethumbnailgalleries.com
+0.0.0.0 tgt.maep.ibm.com
+:: tgt.maep.ibm.com
 0.0.0.0 tgtgzo.otelz.com
 :: tgtgzo.otelz.com
 0.0.0.0 thaqyl.mediamarkt.nl
@@ -55036,6 +55034,8 @@ ff02::3 ip6-allhosts
 :: trcka8net.irobot-jp.com
 0.0.0.0 trckr.nordiskemedier.dk
 :: trckr.nordiskemedier.dk
+0.0.0.0 treatment.grammarly.com
+:: treatment.grammarly.com
 0.0.0.0 trecker.aklamio.com
 :: trecker.aklamio.com
 0.0.0.0 tredir.go.com
@@ -56146,8 +56146,6 @@ ff02::3 ip6-allhosts
 :: v.fwmrm.net
 0.0.0.0 v.gdt.qq.com
 :: v.gdt.qq.com
-0.0.0.0 v.ggsgww.cn
-:: v.ggsgww.cn
 0.0.0.0 v.heygugu.com
 :: v.heygugu.com
 0.0.0.0 v.jinliaoyang.com
@@ -56160,8 +56158,6 @@ ff02::3 ip6-allhosts
 :: v.jzdianlan.cn
 0.0.0.0 v.l570mb.cn
 :: v.l570mb.cn
-0.0.0.0 v.lalaxit.cn
-:: v.lalaxit.cn
 0.0.0.0 v.lovame.com.cn
 :: v.lovame.com.cn
 0.0.0.0 v.lovepets70.com
@@ -57250,6 +57246,8 @@ ff02::3 ip6-allhosts
 :: wdads.sx.atl.publicus.com
 0.0.0.0 wdfhbx.zdpeanut.com
 :: wdfhbx.zdpeanut.com
+0.0.0.0 wdfhl.weidianyuedu.com
+:: wdfhl.weidianyuedu.com
 0.0.0.0 wdig.vo.llnwd.net
 :: wdig.vo.llnwd.net
 0.0.0.0 wdm.map24.com
@@ -59394,8 +59392,6 @@ ff02::3 ip6-allhosts
 :: z.cdn.adpool.bet
 0.0.0.0 z.cdp-dev.cnn.com
 :: z.cdp-dev.cnn.com
-0.0.0.0 z.ceotrk.com
-:: z.ceotrk.com
 0.0.0.0 z.cnzz.com
 :: z.cnzz.com
 0.0.0.0 z.grfyw.com
