@@ -1,11 +1,11 @@
-# Checksum: MTYyNzE3NDg1MQo=
+# Checksum: MTYyNzI2MTE5OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210725-0
-# TimeUpdated: 2021-07-25T01:00:51+00:00
+# Version: 1.1.8-20210726-0
+# TimeUpdated: 2021-07-26T00:59:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 29830
+# Total: 29804
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1118,6 +1118,8 @@ ff02::3 ip6-allhosts
 :: a1.syfj.net
 0.0.0.0 a1.twtym.com
 :: a1.twtym.com
+0.0.0.0 a1.zhanzhang.net
+:: a1.zhanzhang.net
 0.0.0.0 a11058.actonservice.com
 :: a11058.actonservice.com
 0.0.0.0 a11413003.actonservice.com
@@ -2006,8 +2008,6 @@ ff02::3 ip6-allhosts
 :: abc.fackelmann.de
 0.0.0.0 abc.hb.omtrdc.net
 :: abc.hb.omtrdc.net
-0.0.0.0 abc.hearst.co.uk
-:: abc.hearst.co.uk
 0.0.0.0 abc.hkepc.com
 :: abc.hkepc.com
 0.0.0.0 abc.hkepc.net
@@ -2432,8 +2432,6 @@ ff02::3 ip6-allhosts
 :: acookie.alimama.com
 0.0.0.0 acookie.linezing.com
 :: acookie.linezing.com
-0.0.0.0 acount.alley.ws
-:: acount.alley.ws
 0.0.0.0 acq-hk.americanexpress.com
 :: acq-hk.americanexpress.com
 0.0.0.0 acs.56.com
@@ -2488,10 +2486,6 @@ ff02::3 ip6-allhosts
 :: activeqq.3g.qq.com
 0.0.0.0 activeseason.net.daraz.com
 :: activeseason.net.daraz.com
-0.0.0.0 activetracker.activehotels.com
-:: activetracker.activehotels.com
-0.0.0.0 activities.niagara.comedycentral.com
-:: activities.niagara.comedycentral.com
 0.0.0.0 activity.app.autohome.com.cn
 :: activity.app.autohome.com.cn
 0.0.0.0 activity.asce.org
@@ -3794,8 +3788,6 @@ ff02::3 ip6-allhosts
 :: adebis.livable.co.jp
 0.0.0.0 adebis.macnica.co.jp
 :: adebis.macnica.co.jp
-0.0.0.0 adebis.qeee.jp
-:: adebis.qeee.jp
 0.0.0.0 adebis.real-style.co.jp
 :: adebis.real-style.co.jp
 0.0.0.0 adebis.report.clinic
@@ -4662,8 +4654,6 @@ ff02::3 ip6-allhosts
 :: ads.brabys.com
 0.0.0.0 ads.brazzers.com
 :: ads.brazzers.com
-0.0.0.0 ads.bridgetrack.com
-:: ads.bridgetrack.com
 0.0.0.0 ads.bulldogcpi.com
 :: ads.bulldogcpi.com
 0.0.0.0 ads.bumq.com
@@ -5630,6 +5620,8 @@ ff02::3 ip6-allhosts
 :: ads.tapzin.com
 0.0.0.0 ads.tech24.vn
 :: ads.tech24.vn
+0.0.0.0 ads.techvibes.com
+:: ads.techvibes.com
 0.0.0.0 ads.telkomsel.com
 :: ads.telkomsel.com
 0.0.0.0 ads.terra.es
@@ -6350,8 +6342,6 @@ ff02::3 ip6-allhosts
 :: adserver.janes.com
 0.0.0.0 adserver.janes.org
 :: adserver.janes.org
-0.0.0.0 adserver.jolt.co.uk
-:: adserver.jolt.co.uk
 0.0.0.0 adserver.karamco.dk
 :: adserver.karamco.dk
 0.0.0.0 adserver.killeraces.com
@@ -7148,8 +7138,6 @@ ff02::3 ip6-allhosts
 :: affiliate.googleusercontent.com
 0.0.0.0 affiliate.heureka.cz
 :: affiliate.heureka.cz
-0.0.0.0 affiliate.iamplify.com
-:: affiliate.iamplify.com
 0.0.0.0 affiliate.juno.co.uk
 :: affiliate.juno.co.uk
 0.0.0.0 affiliate.k4.tinhte.vn
@@ -7202,8 +7190,6 @@ ff02::3 ip6-allhosts
 :: affiliates.londonmarketing.com
 0.0.0.0 affiliates.minglematch.com
 :: affiliates.minglematch.com
-0.0.0.0 affiliates.purevpn.com
-:: affiliates.purevpn.com
 0.0.0.0 affiliates.rozetka.com.ua
 :: affiliates.rozetka.com.ua
 0.0.0.0 affiliates.streamray.com
@@ -7376,6 +7362,8 @@ ff02::3 ip6-allhosts
 :: ak.sascdn.com
 0.0.0.0 ak1.imgaft.com
 :: ak1.imgaft.com
+0.0.0.0 ak47.cooguo.com
+:: ak47.cooguo.com
 0.0.0.0 ak9.6895588.com
 :: ak9.6895588.com
 0.0.0.0 aka-cdn-ns.adtech.de
@@ -7904,6 +7892,8 @@ ff02::3 ip6-allhosts
 :: analytics.eggoffer.com
 0.0.0.0 analytics.electro-com.ru
 :: analytics.electro-com.ru
+0.0.0.0 analytics.emarketer.com
+:: analytics.emarketer.com
 0.0.0.0 analytics.erepublic.com
 :: analytics.erepublic.com
 0.0.0.0 analytics.explained-from-first-principles.com
@@ -10588,6 +10578,8 @@ ff02::3 ip6-allhosts
 :: banner.clubdicecasino.com
 0.0.0.0 banner.consultant.ru
 :: banner.consultant.ru
+0.0.0.0 banner.cooguo.com
+:: banner.cooguo.com
 0.0.0.0 banner.cotedazurpalace.com
 :: banner.cotedazurpalace.com
 0.0.0.0 banner.diamondclubcasino.com
@@ -12522,8 +12514,6 @@ ff02::3 ip6-allhosts
 :: c.ns.web-emailvision.net.daraz.com
 0.0.0.0 c.ns8d.com
 :: c.ns8d.com
-0.0.0.0 c.oumaite168.com.cn
-:: c.oumaite168.com.cn
 0.0.0.0 c.pc.qq.com
 :: c.pc.qq.com
 0.0.0.0 c.pengmingx.cn
@@ -21878,8 +21868,6 @@ ff02::3 ip6-allhosts
 :: ev.kck.st
 0.0.0.0 eva-ad.24hstatic.com
 :: eva-ad.24hstatic.com
-0.0.0.0 event-analytics.yesware.com
-:: event-analytics.yesware.com
 0.0.0.0 event-api.contactatonce.co.uk
 :: event-api.contactatonce.co.uk
 0.0.0.0 event-api.contactatonce.com
@@ -22864,8 +22852,6 @@ ff02::3 ip6-allhosts
 :: fp.nanrenwo.net
 0.0.0.0 fp.tongdun.net
 :: fp.tongdun.net
-0.0.0.0 fpag.w48ge.cn
-:: fpag.w48ge.cn
 0.0.0.0 fpb.docin.com
 :: fpb.docin.com
 0.0.0.0 fpb.mn586.com
@@ -23596,8 +23582,6 @@ ff02::3 ip6-allhosts
 :: gen.alicdn.com
 0.0.0.0 genesishealth.hrm.healthgrades.com
 :: genesishealth.hrm.healthgrades.com
-0.0.0.0 geo.battle.net
-:: geo.battle.net
 0.0.0.0 geo.bluedot.io
 :: geo.bluedot.io
 0.0.0.0 geo.cliphunter.com
@@ -25092,8 +25076,6 @@ ff02::3 ip6-allhosts
 :: h-adashx4yt.ut.taobao.com
 0.0.0.0 h.atdmt.com
 :: h.atdmt.com
-0.0.0.0 h.cliphunter.com
-:: h.cliphunter.com
 0.0.0.0 h.holder.com.ua
 :: h.holder.com.ua
 0.0.0.0 h.imedia.cz
@@ -25318,8 +25300,6 @@ ff02::3 ip6-allhosts
 :: healthy.spartanburgregional.com
 0.0.0.0 hearob.klix.ba
 :: hearob.klix.ba
-0.0.0.0 heartbeat.flickr.com
-:: heartbeat.flickr.com
 0.0.0.0 hedgehog.fightforthefuture.org
 :: hedgehog.fightforthefuture.org
 0.0.0.0 hedgehog.impira.com
@@ -25362,8 +25342,6 @@ ff02::3 ip6-allhosts
 :: herald.loginside.co.kr
 0.0.0.0 hermanganzorig.firebaseapp.com
 :: hermanganzorig.firebaseapp.com
-0.0.0.0 hermes.theglobeandmail.com
-:: hermes.theglobeandmail.com
 0.0.0.0 heron.notability.com
 :: heron.notability.com
 0.0.0.0 herpes.1.p2l.info
@@ -25716,8 +25694,6 @@ ff02::3 ip6-allhosts
 :: hrm.healthgrades.com
 0.0.0.0 hrs.actonservice.com
 :: hrs.actonservice.com
-0.0.0.0 hrum.hotelsapi.io
-:: hrum.hotelsapi.io
 0.0.0.0 hruyiq.auction.co.kr
 :: hruyiq.auction.co.kr
 0.0.0.0 hs.avbdf.com
@@ -26250,6 +26226,8 @@ ff02::3 ip6-allhosts
 :: iframes.hustler.com
 0.0.0.0 ifs.tanx.com
 :: ifs.tanx.com
+0.0.0.0 ifwry.yeslaptop.win
+:: ifwry.yeslaptop.win
 0.0.0.0 ig.ig.com
 :: ig.ig.com
 0.0.0.0 ig.igmarkets.com
@@ -26370,6 +26348,8 @@ ff02::3 ip6-allhosts
 :: image.kfw.de
 0.0.0.0 image.mdr.de
 :: image.mdr.de
+0.0.0.0 image.p4p.sogou.com
+:: image.p4p.sogou.com
 0.0.0.0 image.ptmind.com
 :: image.ptmind.com
 0.0.0.0 image.sector.sk
@@ -26684,18 +26664,12 @@ ff02::3 ip6-allhosts
 :: imgstat.ameba.jp
 0.0.0.0 imgstat.baidu.com
 :: imgstat.baidu.com
-0.0.0.0 imgtrack.domainmarket.com
-:: imgtrack.domainmarket.com
 0.0.0.0 imitrex.1.p2l.info
 :: imitrex.1.p2l.info
 0.0.0.0 imitrex.3.p2l.info
 :: imitrex.3.p2l.info
 0.0.0.0 imitrex.4.p2l.info
 :: imitrex.4.p2l.info
-0.0.0.0 immassets.s3.amazonaws.com
-:: immassets.s3.amazonaws.com
-0.0.0.0 imonitor.dhgate.com
-:: imonitor.dhgate.com
 0.0.0.0 imonitor.nethost.cz
 :: imonitor.nethost.cz
 0.0.0.0 imp-mdsp.avazutracking.net
@@ -26816,8 +26790,6 @@ ff02::3 ip6-allhosts
 :: imu.tvplst.com
 0.0.0.0 imvu.haxdo.com
 :: imvu.haxdo.com
-0.0.0.0 imx.comedycentral.com
-:: imx.comedycentral.com
 0.0.0.0 imxfck.varusteleka.com
 :: imxfck.varusteleka.com
 0.0.0.0 in.5.p2l.info
@@ -27786,8 +27758,6 @@ ff02::3 ip6-allhosts
 :: input.theta.sogou.com
 0.0.0.0 inqjal.dickssportinggoods.com
 :: inqjal.dickssportinggoods.com
-0.0.0.0 inquiries.redhat.com
-:: inquiries.redhat.com
 0.0.0.0 inquiry.homes.co.jp
 :: inquiry.homes.co.jp
 0.0.0.0 inquisition.goguardian.com
@@ -27882,8 +27852,6 @@ ff02::3 ip6-allhosts
 :: int.deltafaucet.com
 0.0.0.0 int.dpool.sina.com.cn
 :: int.dpool.sina.com.cn
-0.0.0.0 intake-analytics.wikimedia.org
-:: intake-analytics.wikimedia.org
 0.0.0.0 intake-logging.wikimedia.org
 :: intake-logging.wikimedia.org
 0.0.0.0 inte.sogou.com
@@ -27900,8 +27868,6 @@ ff02::3 ip6-allhosts
 :: integration.sharethrough.com
 0.0.0.0 integrations.rev.com
 :: integrations.rev.com
-0.0.0.0 intelli.ageuk.org.uk
-:: intelli.ageuk.org.uk
 0.0.0.0 intelligence.marykay.com
 :: intelligence.marykay.com
 0.0.0.0 intelligence.marykayintouch.com
@@ -29392,8 +29358,6 @@ ff02::3 ip6-allhosts
 :: la.secure.sonosite.com
 0.0.0.0 la.vietid.net
 :: la.vietid.net
-0.0.0.0 laas.americanexpress.com
-:: laas.americanexpress.com
 0.0.0.0 labemailvision.net.daraz.com
 :: labemailvision.net.daraz.com
 0.0.0.0 labs.ra.icast.cn
@@ -29798,8 +29762,6 @@ ff02::3 ip6-allhosts
 :: likeminer.nablabee.com
 0.0.0.0 likemore-go.imgsmail.ru
 :: likemore-go.imgsmail.ru
-0.0.0.0 lilb2.shutterstock.com
-:: lilb2.shutterstock.com
 0.0.0.0 limone.iltrovatore.it
 :: limone.iltrovatore.it
 0.0.0.0 limonecomunicacao.com.br
@@ -29954,8 +29916,6 @@ ff02::3 ip6-allhosts
 :: linkcounter.pornosite.com
 0.0.0.0 linkeye.ximalaya.com
 :: linkeye.ximalaya.com
-0.0.0.0 linkpuls.idg.no
-:: linkpuls.idg.no
 0.0.0.0 links.ab.soul-cycle.email
 :: links.ab.soul-cycle.email
 0.0.0.0 links.alerts.depop.com
@@ -30274,10 +30234,6 @@ ff02::3 ip6-allhosts
 :: lobster.justunderwear.com
 0.0.0.0 lobster.unionpeer.com
 :: lobster.unionpeer.com
-0.0.0.0 loc.rediff.com
-:: loc.rediff.com
-0.0.0.0 localads-statistics.maps.me
-:: localads-statistics.maps.me
 0.0.0.0 localsearch24.co.uk
 :: localsearch24.co.uk
 0.0.0.0 location.ximalaya.com
@@ -30764,8 +30720,6 @@ ff02::3 ip6-allhosts
 :: logs.amap.com
 0.0.0.0 logs.chelaile.net.cn
 :: logs.chelaile.net.cn
-0.0.0.0 logs.dashlane.com
-:: logs.dashlane.com
 0.0.0.0 logs.eresmas.com
 :: logs.eresmas.com
 0.0.0.0 logs.gaaana.com
@@ -30974,8 +30928,6 @@ ff02::3 ip6-allhosts
 :: ls.srvcs.tumblr.com
 0.0.0.0 lskwsx.m.zwdu.com
 :: lskwsx.m.zwdu.com
-0.0.0.0 lslmetrics.djlmgdigital.com
-:: lslmetrics.djlmgdigital.com
 0.0.0.0 lsmeeeeee.blogspot.com
 :: lsmeeeeee.blogspot.com
 0.0.0.0 lstat.youku.com
@@ -40858,8 +40810,6 @@ ff02::3 ip6-allhosts
 :: push.delivery.ethinking.de
 0.0.0.0 push.esputnik.com
 :: push.esputnik.com
-0.0.0.0 push.feng.com
-:: push.feng.com
 0.0.0.0 push.knd.ro
 :: push.knd.ro
 0.0.0.0 push.m.youku.com
@@ -53678,8 +53628,6 @@ ff02::3 ip6-allhosts
 :: track.msadcenter.ltp.com
 0.0.0.0 track.msadcenter.lyv.com
 :: track.msadcenter.lyv.com
-0.0.0.0 track.msadcenter.msw.com
-:: track.msadcenter.msw.com
 0.0.0.0 track.msadcenter.mur.com
 :: track.msadcenter.mur.com
 0.0.0.0 track.msadcenter.nho.com
@@ -53916,8 +53864,6 @@ ff02::3 ip6-allhosts
 :: track.yieldsoftware.com
 0.0.0.0 track.youniversalmedia.com
 :: track.youniversalmedia.com
-0.0.0.0 track.yourmedicalpurchase.ru
-:: track.yourmedicalpurchase.ru
 0.0.0.0 track.zappos.com
 :: track.zappos.com
 0.0.0.0 track.zipalerts.com
@@ -54684,6 +54630,8 @@ ff02::3 ip6-allhosts
 :: tracking.searchmarketing.com
 0.0.0.0 tracking.sembox.it
 :: tracking.sembox.it
+0.0.0.0 tracking.sexcash.com
+:: tracking.sexcash.com
 0.0.0.0 tracking.sezzle.com
 :: tracking.sezzle.com
 0.0.0.0 tracking.sharplink.us
