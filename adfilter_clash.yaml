@@ -1,16 +1,15 @@
 payload:
-# Checksum: MTYyNzM0NzY1OQo=
+# Checksum: MTYyNzQzNDExMwo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210727-0
-# TimeUpdated: 2021-07-27T01:00:59+00:00
+# Version: 1.1.8-20210728-0
+# TimeUpdated: 2021-07-28T01:01:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32636
+# Total: 32632
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
-  - DOMAIN,000.0x1f4b0.com
   - DOMAIN,001.0x1f4b0.com
   - DOMAIN,002.0x1f4b0.com
   - DOMAIN,003.0x1f4b0.com
@@ -58,6 +57,7 @@ payload:
   - DOMAIN,1.hysou.com
   - DOMAIN,1.i999d.cn
   - DOMAIN,1.idc100.com
+  - DOMAIN,1.ideng.com
   - DOMAIN,1.iqeq.com.cn
   - DOMAIN,1.isanxia.com
   - DOMAIN,1.jiqie.cn
@@ -521,7 +521,6 @@ payload:
   - DOMAIN,a.tuizhuti.com
   - DOMAIN,a.tvsou.com
   - DOMAIN,a.tyncar.com
-  - DOMAIN,a.typin.cn
   - DOMAIN,a.ucoz.net
   - DOMAIN,a.ucoz.ru
   - DOMAIN,a.umilu.com
@@ -1672,6 +1671,7 @@ payload:
   - DOMAIN,ad.sinovision.net
   - DOMAIN,ad.sitemaji.com
   - DOMAIN,ad.slashgear.com
+  - DOMAIN,ad.sma.punto.net
   - DOMAIN,ad.smaad.jp
   - DOMAIN,ad.smartmediarep.com
   - DOMAIN,ad.sohu.com
@@ -1932,7 +1932,6 @@ payload:
   - DOMAIN,adebis.irobot-jp.com
   - DOMAIN,adebis.juku.st
   - DOMAIN,adebis.kaonavi.jp
-  - DOMAIN,adebis.kose.co.jp
   - DOMAIN,adebis.koutsujiko.jp
   - DOMAIN,adebis.livable.co.jp
   - DOMAIN,adebis.macnica.co.jp
@@ -4244,7 +4243,6 @@ payload:
   - DOMAIN,analytics.tmonews.com
   - DOMAIN,analytics.tnt-tv.pl
   - DOMAIN,analytics.tntdrama.com
-  - DOMAIN,analytics.tooso.ai
   - DOMAIN,analytics.tout.com
   - DOMAIN,analytics.traderlink.com
   - DOMAIN,analytics.transmoni.vn
@@ -4481,7 +4479,6 @@ payload:
   - DOMAIN,api.bitp.it
   - DOMAIN,api.browsermine.com
   - DOMAIN,api.bs.zui.com
-  - DOMAIN,api.bunzlaucastle.com
   - DOMAIN,api.callget.cn
   - DOMAIN,api.cazamba.com
   - DOMAIN,api.cloudmobi.net
@@ -4827,7 +4824,6 @@ payload:
   - DOMAIN,ar.voicefive.com
   - DOMAIN,aragenbio.actonservice.com
   - DOMAIN,aragonresearch.actonservice.com
-  - DOMAIN,aranzujemy.co.pl
   - DOMAIN,arcade.ya.com
   - DOMAIN,arcadia1998.web.fc2.com
   - DOMAIN,ard.ihookup.com
@@ -5081,6 +5077,7 @@ payload:
   - DOMAIN,award.sitekeuring.net
   - DOMAIN,awesome.section.io
   - DOMAIN,awowwo.forever21.com
+  - DOMAIN,awrfds3.pornpapa.com
   - DOMAIN,aws.cs-utils-rtr.net.daraz.com
   - DOMAIN,aws.csr41.net.daraz.com
   - DOMAIN,aws.keele-nnw-leis-mc-leis.net.daraz.com
@@ -5560,7 +5557,6 @@ payload:
   - DOMAIN,bbwqcs.vidaxl.ee
   - DOMAIN,bc.5.p2l.info
   - DOMAIN,bc.coupons.com
-  - DOMAIN,bc.infoblog.today
   - DOMAIN,bc.law.com
   - DOMAIN,bc.qunar.com
   - DOMAIN,bc.semwerkt.nl
@@ -8019,6 +8015,7 @@ payload:
   - DOMAIN,content.yieldmanager.edgesuite.net
   - DOMAIN,content.zontera.com
   - DOMAIN,content1.pcmweb.nl
+  - DOMAIN,content2.nrc.nl
   - DOMAIN,content22.online.citi.com
   - DOMAIN,contentrecommend-out.mobile.sina.cn
   - DOMAIN,contents-tracking.beop.io
@@ -8295,6 +8292,7 @@ payload:
   - DOMAIN,counter.yomob.com.cn
   - DOMAIN,counter.zone.ee
   - DOMAIN,counter1.bravenet.com
+  - DOMAIN,counter1.fc2.com
   - DOMAIN,counter1.sextracker.be
   - DOMAIN,counter10.bravenet.com
   - DOMAIN,counter10.sextracker.be
@@ -10495,7 +10493,6 @@ payload:
   - DOMAIN,e.wonwg.com
   - DOMAIN,e.x.cn.xtgreat.com
   - DOMAIN,e.xkqpco.com.com
-  - DOMAIN,e.xxkio.com
   - DOMAIN,e1c.curtisswrightds.com
   - DOMAIN,e2.hazeldenbettyford.org
   - DOMAIN,e2e.mashable.com
@@ -10926,7 +10923,6 @@ payload:
   - DOMAIN,emss.zjhim.com
   - DOMAIN,emu.cortexfutura.com
   - DOMAIN,emu.pin13.net
-  - DOMAIN,en.btcprofit.we-trck.com
   - DOMAIN,en.cookiescript.info
   - DOMAIN,en.crypto-webminer.com
   - DOMAIN,en.netmind.net
@@ -12547,7 +12543,6 @@ payload:
   - DOMAIN,go.fee.org
   - DOMAIN,go.fidelitycharitable.org
   - DOMAIN,go.fierceinc.com
-  - DOMAIN,go.fiorentini.com
   - DOMAIN,go.firesecurityproducts.com
   - DOMAIN,go.firm-bond.com
   - DOMAIN,go.firstbook.org
@@ -14910,6 +14905,7 @@ payload:
   - DOMAIN,isi-tracking.eventim.com
   - DOMAIN,isite.baidu.com
   - DOMAIN,isocket-creatives.s3.amazonaws.com
+  - DOMAIN,isu.weidianyuedu.com
   - DOMAIN,isub.snssdk.com
   - DOMAIN,isuzu.actonservice.com
   - DOMAIN,it.conres.com
@@ -15243,7 +15239,6 @@ payload:
   - DOMAIN,js1151.yongkang6.com
   - DOMAIN,js1157.yongkang6.com
   - DOMAIN,js1210.yongkang6.com
-  - DOMAIN,js1315.cnbole.net
   - DOMAIN,js2.hdzog.com
   - DOMAIN,js2.keywordsconnect.com
   - DOMAIN,js3492.yongkang6.com
@@ -16500,7 +16495,6 @@ payload:
   - DOMAIN,m.aty.snmsohu.aisee.tv
   - DOMAIN,m.aty.sohu.com
   - DOMAIN,m.baidu.com.yiqisee.cn
-  - DOMAIN,m.baidu.com.zhiduo.org
   - DOMAIN,m.bailingjiankang.com
   - DOMAIN,m.baiyangzs.com
   - DOMAIN,m.beacon.sina.com.cn
@@ -19395,6 +19389,7 @@ payload:
   - DOMAIN,ncxxek.donedeal.ie
   - DOMAIN,nd.5.p2l.info
   - DOMAIN,ndiplomatic-pp.carte-gr.total.fr
+  - DOMAIN,ndl1mx1-a-fixed.sancharnet.in
   - DOMAIN,ndl1pp1-a-fixed.sancharnet.in
   - DOMAIN,ndnxln.alfaconcursos.com.br
   - DOMAIN,ndqdxm.thehyundai.com
@@ -19571,6 +19566,7 @@ payload:
   - DOMAIN,nl.notice.iqiyi.com
   - DOMAIN,nl.rcd.iqiyi.com
   - DOMAIN,nl.rcd.ptqy.gitv.tv
+  - DOMAIN,nlccrunsemmvbbv.cinci.rr.com
   - DOMAIN,nlf6.vente-unique.pl
   - DOMAIN,nlgzhd.yoox.com
   - DOMAIN,nlhmnj.travelking.sk
@@ -20005,7 +20001,6 @@ payload:
   - DOMAIN,omniture.theglobeandmail.com
   - DOMAIN,omniture.wal-mart.com
   - DOMAIN,omniture.walmart.ca
-  - DOMAIN,omniture.yell.com
   - DOMAIN,omniture443.partycity.com
   - DOMAIN,omnituretrack.local.com
   - DOMAIN,omnivis.overstock.com
@@ -20990,7 +20985,6 @@ payload:
   - DOMAIN,pixel.4players.de
   - DOMAIN,pixel.admobclick.com
   - DOMAIN,pixel.adsafeprotected.com
-  - DOMAIN,pixel.adssafeprotected.com
   - DOMAIN,pixel.advertising.com
   - DOMAIN,pixel.ampry.com
   - DOMAIN,pixel.anyclip.com
@@ -21683,6 +21677,7 @@ payload:
   - DOMAIN,public.app.autohome.com.cn
   - DOMAIN,public.porn.fr
   - DOMAIN,public.screenhost.ru
+  - DOMAIN,public2.zz.ha.cn
   - DOMAIN,publications.nomination.fr
   - DOMAIN,publicidad.elmundo.es
   - DOMAIN,publish-pic-cpu.baidu.com
@@ -21962,6 +21957,7 @@ payload:
   - DOMAIN,qxm.pluto.sogou.com
   - DOMAIN,qxsfaj.caloo.jp
   - DOMAIN,qxzadv.hilightbrands-kodak.co.kr
+  - DOMAIN,qy.corrmedic.ru
   - DOMAIN,qysknb.fukuishimbun.co.jp
   - DOMAIN,qyuale.depound.com
   - DOMAIN,qzcxtm.mango.com
@@ -22651,7 +22647,6 @@ payload:
   - DOMAIN,s.crackedthecode.co
   - DOMAIN,s.csbew.com
   - DOMAIN,s.cuoresportivo.no
-  - DOMAIN,s.dbojetp.cn
   - DOMAIN,s.ddgjjj.com
   - DOMAIN,s.ddstu.com
   - DOMAIN,s.deepl.com
@@ -22755,7 +22750,6 @@ payload:
   - DOMAIN,s.yaozui.com
   - DOMAIN,s.yidianzixun.com
   - DOMAIN,s.yorkregion.com
-  - DOMAIN,s.youmi.net
   - DOMAIN,s.zampdsp.com
   - DOMAIN,s.zixuntop.com
   - DOMAIN,s.zlongad.com
@@ -22782,7 +22776,6 @@ payload:
   - DOMAIN,s1.leshi123.cc
   - DOMAIN,s1.pipishu.com
   - DOMAIN,s1.qiqutt.cn
-  - DOMAIN,s1.qiqutt.com
   - DOMAIN,s1.qiuyi.cn
   - DOMAIN,s1.s8tu.com
   - DOMAIN,s1.stat.lianmeng.360.cn
@@ -23520,6 +23513,7 @@ payload:
   - DOMAIN,search4you.50webs.com
   - DOMAIN,searchads.apple.com
   - DOMAIN,searchnewsglobal.wordpress.com
+  - DOMAIN,searchstats.usa.gov
   - DOMAIN,searchteria.co.jp
   - DOMAIN,seasonale.1.p2l.info
   - DOMAIN,sec-analytics.panasonic.co.uk
@@ -23913,6 +23907,7 @@ payload:
   - DOMAIN,septwww.partner.net.daraz.com
   - DOMAIN,serjbelot.blogspot.com
   - DOMAIN,serrano.hardwareheaven.com
+  - DOMAIN,serv.ads.pixiv.org
   - DOMAIN,serv.tooplay.com
   - DOMAIN,serve.freegaypix.com
   - DOMAIN,serve.mercyships.org
@@ -26895,7 +26890,6 @@ payload:
   - DOMAIN,stats.mesenvies.fr
   - DOMAIN,stats.miarroba.info
   - DOMAIN,stats.mikepenz.dev
-  - DOMAIN,stats.millanusa.com
   - DOMAIN,stats.minexmr.com
   - DOMAIN,stats.minghui.org
   - DOMAIN,stats.mint.ca
@@ -27634,6 +27628,7 @@ payload:
   - DOMAIN,t.hmwebs.top
   - DOMAIN,t.hoood.info
   - DOMAIN,t.hypers.com.cn
+  - DOMAIN,t.imgur.com
   - DOMAIN,t.indeed.com
   - DOMAIN,t.inping.com
   - DOMAIN,t.insigit.com
@@ -30609,6 +30604,7 @@ payload:
   - DOMAIN,wd.adcolony.com
   - DOMAIN,wdads.sx.atl.publicus.com
   - DOMAIN,wdfhbx.zdpeanut.com
+  - DOMAIN,wdfhl.weidianyuedu.com
   - DOMAIN,wdig.vo.llnwd.net
   - DOMAIN,wdm.map24.com
   - DOMAIN,wdr9.inseec.com
