@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYyNzQzNDExMwo=
+# Checksum: MTYyNzUyMDI4Ngo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210728-0
-# TimeUpdated: 2021-07-28T01:01:53+00:00
+# Version: 1.1.8-20210729-0
+# TimeUpdated: 2021-07-29T00:58:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32632
+# Total: 32604
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -57,7 +57,6 @@ payload:
   - DOMAIN,1.hysou.com
   - DOMAIN,1.i999d.cn
   - DOMAIN,1.idc100.com
-  - DOMAIN,1.ideng.com
   - DOMAIN,1.iqeq.com.cn
   - DOMAIN,1.isanxia.com
   - DOMAIN,1.jiqie.cn
@@ -102,6 +101,7 @@ payload:
   - DOMAIN,1080872514.rsc.cdn77.org
   - DOMAIN,11.96131.com.cn
   - DOMAIN,11.yiqig.cn
+  - DOMAIN,11398.onceedge.ru
   - DOMAIN,114-track.net.daraz.com
   - DOMAIN,1178.shucong.com
   - DOMAIN,119.29.196.104.bc.googleusercontent.com
@@ -149,6 +149,7 @@ payload:
   - DOMAIN,19035955.mktg.tajawal.com
   - DOMAIN,19marketing.net.daraz.com
   - DOMAIN,1bva.societegenerale.fr
+  - DOMAIN,1bw7etm93lf.www.woodbrass.com
   - DOMAIN,1ctc.sfr.fr
   - DOMAIN,1l-hit.mail.ru
   - DOMAIN,1l-view.mail.ru
@@ -204,6 +205,7 @@ payload:
   - DOMAIN,3.up.qingdaonews.com
   - DOMAIN,30tlink.mihanblog.com
   - DOMAIN,31.media.tumblr.com
+  - DOMAIN,312.1d27c9b8fb.com
   - DOMAIN,32.huanqiu.com
   - DOMAIN,321.jintang114.org
   - DOMAIN,3245dsfsd.cdgongfang.cn
@@ -1671,7 +1673,6 @@ payload:
   - DOMAIN,ad.sinovision.net
   - DOMAIN,ad.sitemaji.com
   - DOMAIN,ad.slashgear.com
-  - DOMAIN,ad.sma.punto.net
   - DOMAIN,ad.smaad.jp
   - DOMAIN,ad.smartmediarep.com
   - DOMAIN,ad.sohu.com
@@ -1901,6 +1902,7 @@ payload:
   - DOMAIN,adclient.vietnamnetjsc.vn
   - DOMAIN,adclient1.tucows.com
   - DOMAIN,adclock.zdworks.com
+  - DOMAIN,adconfigproxy.azurewebsites.net
   - DOMAIN,adcontent.gamespy.com
   - DOMAIN,adcontent.reedbusiness.com
   - DOMAIN,adcontent.saymedia.com
@@ -2119,6 +2121,7 @@ payload:
   - DOMAIN,admissions.trios.com
   - DOMAIN,admonitor.thepaper.cn
   - DOMAIN,admonitoring.bsgroup.ro
+  - DOMAIN,admost-banner.b-cdn.net
   - DOMAIN,admotion.com.ar
   - DOMAIN,admp-tc.delfi.ee
   - DOMAIN,admp-tc.delfi.lv
@@ -2134,6 +2137,7 @@ payload:
   - DOMAIN,adn.insight.ucweb.com
   - DOMAIN,adn.inven.co.kr
   - DOMAIN,adn.lrb.co.uk
+  - DOMAIN,adn.nsmartad.com
   - DOMAIN,adn.porndig.com
   - DOMAIN,adn.tukif.com
   - DOMAIN,adn.zone-telechargement.com
@@ -2246,6 +2250,7 @@ payload:
   - DOMAIN,ads-d.viber.com
   - DOMAIN,ads-delivery.gameforge.com
   - DOMAIN,ads-dev.pinterest.com
+  - DOMAIN,ads-dot-fbc-web-2018.uc.r.appspot.com
   - DOMAIN,ads-game-187f4.firebaseapp.com
   - DOMAIN,ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
   - DOMAIN,ads-go.adroi.com.cn
@@ -2879,6 +2884,7 @@ payload:
   - DOMAIN,ads.townhall.com
   - DOMAIN,ads.tracfonewireless.com
   - DOMAIN,ads.track.net
+  - DOMAIN,ads.trackitdown.net
   - DOMAIN,ads.traderonline.com
   - DOMAIN,ads.traffichunt.com
   - DOMAIN,ads.trafficjunky.net
@@ -2972,7 +2978,6 @@ payload:
   - DOMAIN,ads.yahoo.com
   - DOMAIN,ads.yam.com
   - DOMAIN,ads.yap.yahoo.com
-  - DOMAIN,ads.yenimedya.com.tr
   - DOMAIN,ads.yimg.com
   - DOMAIN,ads.yimg.com.edgesuite.net
   - DOMAIN,ads.yldmgrimg.net
@@ -3064,12 +3069,14 @@ payload:
   - DOMAIN,ads4.realcities.com
   - DOMAIN,ads4.virtual-nights.com
   - DOMAIN,ads5.virtual-nights.com
+  - DOMAIN,ads5.virtumundo.com
   - DOMAIN,ads6.gamecity.net
   - DOMAIN,ads7.gamecity.net
   - DOMAIN,ads7.speedbit.com
   - DOMAIN,ads8c.depositfiles.com
   - DOMAIN,adsaccount.appcpi.net
   - DOMAIN,adsadmin.corusradionetwork.com
+  - DOMAIN,adsadmin.vaildaily.com
   - DOMAIN,adsame.liba.com
   - DOMAIN,adsame.tianjimedia.com
   - DOMAIN,adsame1.cnr.cn
@@ -3101,6 +3108,7 @@ payload:
   - DOMAIN,adsehera.ximalaya.com
   - DOMAIN,adsence.sogou.com
   - DOMAIN,adsense.html5.qq.com
+  - DOMAIN,adserv.aip.org
   - DOMAIN,adserv.bravenet.com
   - DOMAIN,adserv.lwmn.net
   - DOMAIN,adserv.maineguide.com
@@ -3984,6 +3992,7 @@ payload:
   - DOMAIN,analytics.competitoor.com
   - DOMAIN,analytics.contents.by-fw.jp
   - DOMAIN,analytics.convertlanguage.com
+  - DOMAIN,analytics.core.retell.cc
   - DOMAIN,analytics.cynapse.com
   - DOMAIN,analytics.data.lloydsbankinggroup.com
   - DOMAIN,analytics.datahc.com
@@ -4222,7 +4231,6 @@ payload:
   - DOMAIN,analytics.tbs.com
   - DOMAIN,analytics.tcbs.com.vn
   - DOMAIN,analytics.tcm.com
-  - DOMAIN,analytics.teamcoco.com
   - DOMAIN,analytics.teamcovenant.com
   - DOMAIN,analytics.techdiary.dev
   - DOMAIN,analytics.techweb.com.cn
@@ -4494,6 +4502,7 @@ payload:
   - DOMAIN,api.cupid.qiyi.com
   - DOMAIN,api.dable.io
   - DOMAIN,api.danmu.tv.sohu.com
+  - DOMAIN,api.dataunlocker.com
   - DOMAIN,api.decentralize.today
   - DOMAIN,api.dewmobile.net
   - DOMAIN,api.df.mob.com
@@ -5758,6 +5767,7 @@ payload:
   - DOMAIN,benhtieudem.com.vn
   - DOMAIN,bento.agoda.com
   - DOMAIN,beringer.actonservice.com
+  - DOMAIN,berkleynude.ca.tt
   - DOMAIN,berndpulchmedotcom-consul.net.daraz.com
   - DOMAIN,berndpulchmedotcom-merchant.net.daraz.com
   - DOMAIN,berndpulchmedotcom-signed.net.daraz.com
@@ -5922,6 +5932,7 @@ payload:
   - DOMAIN,bm.annonce.cz
   - DOMAIN,bmages.carte-gr.total.fr
   - DOMAIN,bmbstatic.blob.core.windows.net
+  - DOMAIN,bmjjs.xzw.com
   - DOMAIN,bmmncj.anacondastores.com
   - DOMAIN,bmnbzt.pool-systems.de
   - DOMAIN,bmp.ali213.net
@@ -7110,7 +7121,6 @@ payload:
   - DOMAIN,chimcanhviet.net.daraz.com
   - DOMAIN,chimpanzee.ines-papert.com
   - DOMAIN,china-cdn3.unityads.unity3d.com
-  - DOMAIN,china-waters.com.cn
   - DOMAIN,china.inmobi.com
   - DOMAIN,chinchilla.68keys.io
   - DOMAIN,chinchilla.ubclaunchpad.com
@@ -9177,6 +9187,7 @@ payload:
   - DOMAIN,d3hj4iyx6t1waz.cloudfront.net
   - DOMAIN,d3hs51abvkuanv.cloudfront.net
   - DOMAIN,d3hwh14livah35.cloudfront.net
+  - DOMAIN,d3in1te4fdays6.cloudfront.net
   - DOMAIN,d3iouejux1os58.cloudfront.net
   - DOMAIN,d3ithbwcmjcxl7.cloudfront.net
   - DOMAIN,d3iz6lralvg77g.cloudfront.net
@@ -10077,7 +10088,6 @@ payload:
   - DOMAIN,dns.jd.com
   - DOMAIN,dns.m.sm.cn
   - DOMAIN,dns.weibo.cn
-  - DOMAIN,dns.whatleaks.com
   - DOMAIN,dns.ximalaya.com
   - DOMAIN,dns1.administrator-freshegg.net.daraz.com
   - DOMAIN,dns1.alpha-freshegg.net.daraz.com
@@ -11781,6 +11791,7 @@ payload:
   - DOMAIN,free.internetspeedtracker.com
   - DOMAIN,free.netsons.com
   - DOMAIN,free.propdfconverter.com
+  - DOMAIN,free.srcdn.xyz
   - DOMAIN,free.thesocialsexnetwork.com
   - DOMAIN,free.videodownloadconverter.com
   - DOMAIN,free.webmailworld.com
@@ -12137,6 +12148,7 @@ payload:
   - DOMAIN,geoip.ativo.com
   - DOMAIN,geoip.boredpanda.com
   - DOMAIN,geoip.cleveland.com
+  - DOMAIN,geoip.cookieyes.com
   - DOMAIN,geoip.fotoable.net
   - DOMAIN,geoip.gulflive.com
   - DOMAIN,geoip.herewetest.com
@@ -14905,7 +14917,6 @@ payload:
   - DOMAIN,isi-tracking.eventim.com
   - DOMAIN,isite.baidu.com
   - DOMAIN,isocket-creatives.s3.amazonaws.com
-  - DOMAIN,isu.weidianyuedu.com
   - DOMAIN,isub.snssdk.com
   - DOMAIN,isuzu.actonservice.com
   - DOMAIN,it.conres.com
@@ -15249,7 +15260,6 @@ payload:
   - DOMAIN,js3810.yongkang6.com
   - DOMAIN,js4.eastmoney.com
   - DOMAIN,js4163.yongkang6.com
-  - DOMAIN,js436.cnbole.net
   - DOMAIN,js4476.hongtaidichan.net
   - DOMAIN,js453.cnbole.net
   - DOMAIN,js5162.yongkang6.com
@@ -17188,7 +17198,6 @@ payload:
   - DOMAIN,marketing.johncrane.com
   - DOMAIN,marketing.jtsa.edu
   - DOMAIN,marketing.julysystems.com
-  - DOMAIN,marketing.kalahari.net
   - DOMAIN,marketing.kemperbenefits.com
   - DOMAIN,marketing.keylane.com
   - DOMAIN,marketing.kingsiii.com
@@ -17290,7 +17299,6 @@ payload:
   - DOMAIN,marketing.newhomesource.com
   - DOMAIN,marketing.neworleans.com
   - DOMAIN,marketing.njoyn.com
-  - DOMAIN,marketing.nodesource.com
   - DOMAIN,marketing.nopec.org
   - DOMAIN,marketing.norsat.com
   - DOMAIN,marketing.nowplayingutah.com
@@ -17898,7 +17906,6 @@ payload:
   - DOMAIN,meridia.3.p2l.info
   - DOMAIN,meridia.4.p2l.info
   - DOMAIN,meridiameridia.3xforum.ro
-  - DOMAIN,merlin.abc.go.com
   - DOMAIN,mesiniklan.andipublisher.com
   - DOMAIN,mesotherapy.jino-net.ru
   - DOMAIN,message.alldata.com
@@ -18564,7 +18571,6 @@ payload:
   - DOMAIN,metrics.sky.it
   - DOMAIN,metrics.skynews.com.au
   - DOMAIN,metrics.slate.com
-  - DOMAIN,metrics.slite.com
   - DOMAIN,metrics.smbcnikko.co.jp
   - DOMAIN,metrics.smedia.com.au
   - DOMAIN,metrics.snapfish.fr
@@ -18956,12 +18962,9 @@ payload:
   - DOMAIN,mms.blick.ch
   - DOMAIN,mms.cbslocal.com
   - DOMAIN,mms.cleveland.com
-  - DOMAIN,mms.cloudpro.co.uk
   - DOMAIN,mms.cmpsky.com
   - DOMAIN,mms.cnn.com
-  - DOMAIN,mms.coachmag.co.uk
   - DOMAIN,mms.deadspin.com
-  - DOMAIN,mms.expertreviews.co.uk
   - DOMAIN,mms.gizmodo.com
   - DOMAIN,mms.gocomics.com
   - DOMAIN,mms.gulflive.com
@@ -19063,12 +19066,12 @@ payload:
   - DOMAIN,monitor-uu.play.aiseet.atianqi.com
   - DOMAIN,monitor.adcaffe.com
   - DOMAIN,monitor.channel4.com
-  - DOMAIN,monitor.ebay.com
   - DOMAIN,monitor.ssp.admobile.top
   - DOMAIN,monitor.teko.vn
   - DOMAIN,monitor.uu.qq.com
   - DOMAIN,monitor.yigao.com
   - DOMAIN,monitoring-sdk.experimentation.intuit.com
+  - DOMAIN,monitoring.youronlinechoices.com
   - DOMAIN,monkeyball.osa.pl
   - DOMAIN,monlineg.carte-gr.total.fr
   - DOMAIN,monmlkjg.carte-gr.total.fr
@@ -19128,7 +19131,6 @@ payload:
   - DOMAIN,mqtt.zhihu.com
   - DOMAIN,mqvyob.vidaxl.fi
   - DOMAIN,mr.da.netease.com
-  - DOMAIN,ms-apps.haaretz.com
   - DOMAIN,ms.5.p2l.info
   - DOMAIN,ms.analytics.live.com
   - DOMAIN,ms.applovin.com
@@ -19360,7 +19362,6 @@ payload:
   - DOMAIN,natsp.xing.com
   - DOMAIN,nave.foone.com.br
   - DOMAIN,nb.5.p2l.info
-  - DOMAIN,nb.myspace.com
   - DOMAIN,nba.emohe.com
   - DOMAIN,nba2k14.dlcodes.com
   - DOMAIN,nba2k14keygen.dlcodes.com
@@ -19389,7 +19390,6 @@ payload:
   - DOMAIN,ncxxek.donedeal.ie
   - DOMAIN,nd.5.p2l.info
   - DOMAIN,ndiplomatic-pp.carte-gr.total.fr
-  - DOMAIN,ndl1mx1-a-fixed.sancharnet.in
   - DOMAIN,ndl1pp1-a-fixed.sancharnet.in
   - DOMAIN,ndnxln.alfaconcursos.com.br
   - DOMAIN,ndqdxm.thehyundai.com
@@ -19566,7 +19566,6 @@ payload:
   - DOMAIN,nl.notice.iqiyi.com
   - DOMAIN,nl.rcd.iqiyi.com
   - DOMAIN,nl.rcd.ptqy.gitv.tv
-  - DOMAIN,nlccrunsemmvbbv.cinci.rr.com
   - DOMAIN,nlf6.vente-unique.pl
   - DOMAIN,nlgzhd.yoox.com
   - DOMAIN,nlhmnj.travelking.sk
@@ -20058,7 +20057,6 @@ payload:
   - DOMAIN,omtrdc.jobsdb.com
   - DOMAIN,on.5.p2l.info
   - DOMAIN,on.maxspeedcdn.com
-  - DOMAIN,on.msnbc.com
   - DOMAIN,oncahh.boxlunch.com
   - DOMAIN,oncourselearning.actonservice.com
   - DOMAIN,one.123counters.com
@@ -20111,7 +20109,6 @@ payload:
   - DOMAIN,open-pixon.ads-pixiv.net
   - DOMAIN,open.delivery.net
   - DOMAIN,open.e.kuaishou.com
-  - DOMAIN,open.mkt1397.com
   - DOMAIN,open.play.cn
   - DOMAIN,open.snssdk.com
   - DOMAIN,openad.travelnow.com
@@ -20176,7 +20173,6 @@ payload:
   - DOMAIN,origin-ads.exoclick.com
   - DOMAIN,origin-b2b.angieslist.com
   - DOMAIN,origin-mc.corel.com
-  - DOMAIN,origin-tracking.trulia.com
   - DOMAIN,origin-www.partner.net.daraz.com
   - DOMAIN,origin.chron.com
   - DOMAIN,orionis.techradar.com
@@ -20408,7 +20404,6 @@ payload:
   - DOMAIN,pagead2.googlesyndication.com
   - DOMAIN,pagead46.l.doubleclick.net
   - DOMAIN,pagechoicemotu.gentags.net
-  - DOMAIN,pageinfo.motorsport.com
   - DOMAIN,pages-juxiao.mediav.com
   - DOMAIN,pages-stats.rbl.ms
   - DOMAIN,pages.atlassian.com
@@ -20572,7 +20567,6 @@ payload:
   - DOMAIN,partners.hostgator.com
   - DOMAIN,partners.keezmovies.com
   - DOMAIN,partners.mobiguru.ru
-  - DOMAIN,partners.mysavings.com
   - DOMAIN,partners.net.daraz.com
   - DOMAIN,partners.optiontide.com
   - DOMAIN,partners.parimatch.net
@@ -20699,7 +20693,6 @@ payload:
   - DOMAIN,pcash.imlive.com
   - DOMAIN,pcd.autohome.com.cn
   - DOMAIN,pcgamer-gb.pcgamer.com
-  - DOMAIN,pci3oo5mg4mn-a.akamaihd.net
   - DOMAIN,pciidk.shopee.vn
   - DOMAIN,pclick.yahoo.com
   - DOMAIN,pclog.dftoutiao.com
@@ -20765,7 +20758,6 @@ payload:
   - DOMAIN,perf.dugout.com
   - DOMAIN,perf.mouser.com
   - DOMAIN,performanceplay.co.kr
-  - DOMAIN,performances.bestofmedia.com
   - DOMAIN,performantcorp.actonservice.com
   - DOMAIN,perr.hola.org
   - DOMAIN,peter-north-cum-shot.blogspot.com
@@ -20957,7 +20949,6 @@ payload:
   - DOMAIN,piper.amocrm.ru
   - DOMAIN,pir.zspb.ru
   - DOMAIN,piranha.jsmobiledev.com
-  - DOMAIN,pistyll.bleacherreport.com
   - DOMAIN,piti.bplaced.net
   - DOMAIN,piwik.filecrypt.cc
   - DOMAIN,piwik.matrix.ua
@@ -20979,7 +20970,6 @@ payload:
   - DOMAIN,pixel-geo.prfct.co
   - DOMAIN,pixel-hk.pixelinteractivemedia.com
   - DOMAIN,pixel-secure.solvemedia.com
-  - DOMAIN,pixel-static.spotify.com
   - DOMAIN,pixel.1und1.de
   - DOMAIN,pixel.4pcdn.de
   - DOMAIN,pixel.4players.de
@@ -20988,6 +20978,9 @@ payload:
   - DOMAIN,pixel.advertising.com
   - DOMAIN,pixel.ampry.com
   - DOMAIN,pixel.anyclip.com
+  - DOMAIN,pixel.archive.is
+  - DOMAIN,pixel.archive.ph
+  - DOMAIN,pixel.archive.vn
   - DOMAIN,pixel.augsburger-allgemeine.de
   - DOMAIN,pixel.bilinmedia.net
   - DOMAIN,pixel.blivenyc.com
@@ -20997,7 +20990,6 @@ payload:
   - DOMAIN,pixel.chotot.com
   - DOMAIN,pixel.condenastdigital.com
   - DOMAIN,pixel.cpex.cz
-  - DOMAIN,pixel.dorehernowi.pro
   - DOMAIN,pixel.europapress.net
   - DOMAIN,pixel.everesttech.net
   - DOMAIN,pixel.facebook.com
@@ -21029,7 +21021,6 @@ payload:
   - DOMAIN,pixel.snapsmedia.io
   - DOMAIN,pixel.sojern.com
   - DOMAIN,pixel.solvemedia.com
-  - DOMAIN,pixel.spotify.com
   - DOMAIN,pixel.sprinklr.com
   - DOMAIN,pixel.staticworld.net
   - DOMAIN,pixel.tapad.com
@@ -21420,6 +21411,7 @@ payload:
   - DOMAIN,privacy.clion.agency
   - DOMAIN,privacy.outdoorsg.com
   - DOMAIN,privacy.selbst.de
+  - DOMAIN,privacyfriendly.netlify.app
   - DOMAIN,privacypolicy.trgr.be
   - DOMAIN,privacyportal.fatergroup.com
   - DOMAIN,privatestats.whatsapp.net
@@ -21432,7 +21424,6 @@ payload:
   - DOMAIN,pro.hoye.letv.com
   - DOMAIN,pro.iweihai.cn
   - DOMAIN,pro.letv.com
-  - DOMAIN,proac.nationwide.com
   - DOMAIN,proactive.base.de
   - DOMAIN,probe.light.fang.com
   - DOMAIN,probes.cedexis.com
@@ -21598,7 +21589,6 @@ payload:
   - DOMAIN,proxy7.nullrefexcep.com
   - DOMAIN,proxy8.nullrefexcep.com
   - DOMAIN,proxy9.nullrefexcep.com
-  - DOMAIN,proxypage.msn.com
   - DOMAIN,prp11ahda.s3.amazonaws.com
   - DOMAIN,prstats.postrelease.com
   - DOMAIN,prt-stsdk.vivo.com.cn
@@ -21610,7 +21600,6 @@ payload:
   - DOMAIN,przucu.elkjop.no
   - DOMAIN,ps.3fenge.com
   - DOMAIN,ps.dlads.cn
-  - DOMAIN,ps.ecosia.org
   - DOMAIN,ps.eyeota.net
   - DOMAIN,ps.map.baidu.com
   - DOMAIN,psb.lenovomm.com
@@ -21677,7 +21666,6 @@ payload:
   - DOMAIN,public.app.autohome.com.cn
   - DOMAIN,public.porn.fr
   - DOMAIN,public.screenhost.ru
-  - DOMAIN,public2.zz.ha.cn
   - DOMAIN,publications.nomination.fr
   - DOMAIN,publicidad.elmundo.es
   - DOMAIN,publish-pic-cpu.baidu.com
@@ -21768,7 +21756,6 @@ payload:
   - DOMAIN,pvrugd.nieruchomosci-online.pl
   - DOMAIN,pvsite.zol.com.cn
   - DOMAIN,pvstat.baomihua.com
-  - DOMAIN,pvstat.china.cn
   - DOMAIN,pvstat.html5.qq.com
   - DOMAIN,pvtest.zol.com.cn
   - DOMAIN,pvx.autohome.com.cn
@@ -21792,13 +21779,11 @@ payload:
   - DOMAIN,px.marchex.io
   - DOMAIN,px.media-serving.com
   - DOMAIN,px.moatads.com
-  - DOMAIN,px.mvfglobal.com
   - DOMAIN,px.owneriq.net
   - DOMAIN,px.qucaigg.com
   - DOMAIN,px.staticfiles.at
   - DOMAIN,px.steelhousemedia.com
   - DOMAIN,px.ucweb.com
-  - DOMAIN,px.wayfair.com
   - DOMAIN,px.wp.pl
   - DOMAIN,px.za.zalo.me
   - DOMAIN,px.za.zaloapp.com
@@ -21957,7 +21942,6 @@ payload:
   - DOMAIN,qxm.pluto.sogou.com
   - DOMAIN,qxsfaj.caloo.jp
   - DOMAIN,qxzadv.hilightbrands-kodak.co.kr
-  - DOMAIN,qy.corrmedic.ru
   - DOMAIN,qysknb.fukuishimbun.co.jp
   - DOMAIN,qyuale.depound.com
   - DOMAIN,qzcxtm.mango.com
@@ -22147,7 +22131,6 @@ payload:
   - DOMAIN,recmd.html5.qq.com
   - DOMAIN,recommend.kbmj.com
   - DOMAIN,recommend.union.39.net
-  - DOMAIN,recommendation.24.com
   - DOMAIN,recommendedbookies.co.uk
   - DOMAIN,record.affiliatelounge.com
   - DOMAIN,record.mrwin.com
@@ -22165,7 +22148,6 @@ payload:
   - DOMAIN,red3.hatena.ne.jp
   - DOMAIN,redbullmediahouse.hb.omtrdc.net
   - DOMAIN,reddot-api.gclick.cn
-  - DOMAIN,redeye.williamhill.com
   - DOMAIN,redir9.alteabz.it
   - DOMAIN,redirect.simba.taobao.com
   - DOMAIN,redirectmail.majelan.com
@@ -22223,7 +22205,6 @@ payload:
   - DOMAIN,rel.nextinpact.com
   - DOMAIN,rel2.nextinpact.com
   - DOMAIN,relart.fresheye.com
-  - DOMAIN,relatable.inquisitr.com
   - DOMAIN,relay.fiverr.com
   - DOMAIN,release.baidu.com
   - DOMAIN,rem-track.bild.de
@@ -22278,7 +22259,6 @@ payload:
   - DOMAIN,reporting.handll.net
   - DOMAIN,reporting.nld.com.vn
   - DOMAIN,reporting.singlefeed.com
-  - DOMAIN,reporting.theonion.com
   - DOMAIN,reporting.vneconomy.vn
   - DOMAIN,reportlog.dftoutiao.com
   - DOMAIN,reports-api.sqreen.io
@@ -22287,7 +22267,6 @@ payload:
   - DOMAIN,repositorymarketing.net.daraz.com
   - DOMAIN,repvwz.panchemodan.ru
   - DOMAIN,req.startappservice.com
-  - DOMAIN,request.issuu.com
   - DOMAIN,rertrc.abc-mart.net
   - DOMAIN,res-ga.smzdm.com
   - DOMAIN,res.aduu.cn
@@ -22537,7 +22516,6 @@ payload:
   - DOMAIN,rtl.hb.omtrdc.net
   - DOMAIN,rtlog.vidown.cn
   - DOMAIN,rtmonitor.kugou.com
-  - DOMAIN,rtn.thestar.com
   - DOMAIN,rtnp.just9229.cn
   - DOMAIN,rto.steelhousemedia.com
   - DOMAIN,rtrk.co.nz
@@ -22566,7 +22544,6 @@ payload:
   - DOMAIN,rum.nccgroup-webperf.com
   - DOMAIN,rum.perfops.net
   - DOMAIN,rum.uptime.com
-  - DOMAIN,rum.vhwrz.net
   - DOMAIN,rumsey.actonservice.com
   - DOMAIN,rumstat.cdnvideo.ru
   - DOMAIN,runtime.lemonpi.io
@@ -22858,15 +22835,11 @@ payload:
   - DOMAIN,sa.scrippslifestylestudios.com
   - DOMAIN,sa.sina.cn
   - DOMAIN,sa.sky.it
-  - DOMAIN,sa.squareup.com
   - DOMAIN,sa.tactics.com
   - DOMAIN,sa.tf1.fr
   - DOMAIN,sa.tuisong.baidu.com
   - DOMAIN,sa0.tuisong.baidu.com
   - DOMAIN,sa1.tuisong.baidu.com
-  - DOMAIN,sa135.kiro7.com
-  - DOMAIN,sa135.macworld.co.uk
-  - DOMAIN,sa135.wsbtv.com
   - DOMAIN,sa3.tuisong.baidu.com
   - DOMAIN,saa.247sports.com
   - DOMAIN,saa.cbs.com
@@ -23334,7 +23307,6 @@ payload:
   - DOMAIN,sclick.6rooms.com
   - DOMAIN,sclick.baidu.com
   - DOMAIN,sclog.moviebox.baofeng.com
-  - DOMAIN,scluster3.cliphunter.com
   - DOMAIN,scmetrics.exacttarget.com
   - DOMAIN,scmetrics.shell.com
   - DOMAIN,scmetrics.vodafone.it
@@ -23361,8 +23333,6 @@ payload:
   - DOMAIN,scout.bergfreunde.dk
   - DOMAIN,scout.bergfreunde.eu
   - DOMAIN,scout.bergfreunde.nl
-  - DOMAIN,scout.lexisnexis.com
-  - DOMAIN,scout.rollcall.com
   - DOMAIN,scout.us2.salesloft.com
   - DOMAIN,scr.lflable.com
   - DOMAIN,screencapturewidget.aebn.net
@@ -23513,7 +23483,6 @@ payload:
   - DOMAIN,search4you.50webs.com
   - DOMAIN,searchads.apple.com
   - DOMAIN,searchnewsglobal.wordpress.com
-  - DOMAIN,searchstats.usa.gov
   - DOMAIN,searchteria.co.jp
   - DOMAIN,seasonale.1.p2l.info
   - DOMAIN,sec-analytics.panasonic.co.uk
@@ -23907,7 +23876,6 @@ payload:
   - DOMAIN,septwww.partner.net.daraz.com
   - DOMAIN,serjbelot.blogspot.com
   - DOMAIN,serrano.hardwareheaven.com
-  - DOMAIN,serv.ads.pixiv.org
   - DOMAIN,serv.tooplay.com
   - DOMAIN,serve.freegaypix.com
   - DOMAIN,serve.mercyships.org
@@ -24133,6 +24101,7 @@ payload:
   - DOMAIN,sibboventures.mgr.consensu.org
   - DOMAIN,sicas.ikea.com
   - DOMAIN,sicas.ikea.net
+  - DOMAIN,sid.nordstrom.com
   - DOMAIN,sidebar.angelfire.com
   - DOMAIN,sidebar.incest-porno.tv
   - DOMAIN,sidebar.issuu.com
@@ -25970,6 +25939,7 @@ payload:
   - DOMAIN,ssa.food.com
   - DOMAIN,ssa.foodnetwork.com
   - DOMAIN,ssa.hgtv.com
+  - DOMAIN,ssa.stepstone.com
   - DOMAIN,ssa.tlc.com
   - DOMAIN,ssac.suning.com
   - DOMAIN,ssads.osdn.com
@@ -27661,7 +27631,6 @@ payload:
   - DOMAIN,t.nativendo.de
   - DOMAIN,t.nbyongle.com
   - DOMAIN,t.ofsys.com
-  - DOMAIN,t.oq68.com
   - DOMAIN,t.paydirekt.de
   - DOMAIN,t.perigold.com
   - DOMAIN,t.perjeta.com
@@ -27775,6 +27744,7 @@ payload:
   - DOMAIN,tag.regieci.com
   - DOMAIN,tag.rightmessage.com
   - DOMAIN,tag.rmp.rakuten.com
+  - DOMAIN,tag.search.sensefuel.live
   - DOMAIN,tag.shopping-feed.com
   - DOMAIN,tag.sp.advertising.com
   - DOMAIN,tag.triboomedia.it
@@ -27830,6 +27800,7 @@ payload:
   - DOMAIN,target.microsoft.com
   - DOMAIN,target.mirtesen.ru
   - DOMAIN,target.mixi.media
+  - DOMAIN,target.nationwide.com
   - DOMAIN,target.nejm.org
   - DOMAIN,target.smi2.net
   - DOMAIN,target.smi2.ru
@@ -27841,6 +27812,7 @@ payload:
   - DOMAIN,targeting.tbt.arcpublishing.com
   - DOMAIN,targeting.vdo.ai
   - DOMAIN,targeting.voxus.tv
+  - DOMAIN,targeting.washpost.nile.works
   - DOMAIN,targetpush.co.kr
   - DOMAIN,tarifs-reglementes-gazh.carte-gr.total.fr
   - DOMAIN,tarifsp.carte-gr.total.fr
@@ -28071,7 +28043,6 @@ payload:
   - DOMAIN,tg.jifen.2345.com
   - DOMAIN,tg.m.37.com
   - DOMAIN,tg.mybb.ru
-  - DOMAIN,tg.qilashou.com
   - DOMAIN,tg.tebiezhuan.com
   - DOMAIN,tga.acs86.com
   - DOMAIN,tga.csbew.com
@@ -28917,6 +28888,7 @@ payload:
   - DOMAIN,tracker.brainsins.com
   - DOMAIN,tracker.bt.uol.com.br
   - DOMAIN,tracker.calameo.com
+  - DOMAIN,tracker.cdn-moneysmart.com
   - DOMAIN,tracker.cds-tracking.com
   - DOMAIN,tracker.cl1.fidelizador.com
   - DOMAIN,tracker.comunidadmarriott.com
@@ -29016,6 +28988,7 @@ payload:
   - DOMAIN,tracking.ad-survey.com
   - DOMAIN,tracking.adactioninteractive.com
   - DOMAIN,tracking.adalyser.com
+  - DOMAIN,tracking.adctrack.com
   - DOMAIN,tracking.adgoon.it
   - DOMAIN,tracking.adp.ca
   - DOMAIN,tracking.adp.com
@@ -30604,7 +30577,6 @@ payload:
   - DOMAIN,wd.adcolony.com
   - DOMAIN,wdads.sx.atl.publicus.com
   - DOMAIN,wdfhbx.zdpeanut.com
-  - DOMAIN,wdfhl.weidianyuedu.com
   - DOMAIN,wdig.vo.llnwd.net
   - DOMAIN,wdm.map24.com
   - DOMAIN,wdr9.inseec.com
