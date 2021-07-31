@@ -1,11 +1,11 @@
-# Checksum: MTYyNzYwNjgzNwo=
+# Checksum: MTYyNzY5MzEwOAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210730-0
-# TimeUpdated: 2021-07-30T01:00:37+00:00
+# Version: 1.1.8-20210731-0
+# TimeUpdated: 2021-07-31T00:58:28+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32610
+# Total: 32616
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -7098,8 +7098,6 @@ ff02::3 ip6-allhosts
 :: adx.edutimes.com.vn
 0.0.0.0 adx.g.doubleclick.net
 :: adx.g.doubleclick.net
-0.0.0.0 adx.gainesvillsun.com
-:: adx.gainesvillsun.com
 0.0.0.0 adx.gayboy.at
 :: adx.gayboy.at
 0.0.0.0 adx.golfnews.vn
@@ -8930,6 +8928,8 @@ ff02::3 ip6-allhosts
 :: api.ads.watchabc.go.com
 0.0.0.0 api.adtimaserver.vn
 :: api.adtimaserver.vn
+0.0.0.0 api.adv.ott.cibntv.net
+:: api.adv.ott.cibntv.net
 0.0.0.0 api.adxpand.com
 :: api.adxpand.com
 0.0.0.0 api.afdback.ppsimg.com
@@ -11608,8 +11608,6 @@ ff02::3 ip6-allhosts
 :: bgiamericas.actonservice.com
 0.0.0.0 bglog.bitauto.com
 :: bglog.bitauto.com
-0.0.0.0 bgrel.bonedmilfs.com
-:: bgrel.bonedmilfs.com
 0.0.0.0 bgu-sso.net.daraz.com
 :: bgu-sso.net.daraz.com
 0.0.0.0 bh.contextweb.com
@@ -12206,6 +12204,8 @@ ff02::3 ip6-allhosts
 :: btrace.qq.com
 0.0.0.0 btrace.video.qq.com
 :: btrace.video.qq.com
+0.0.0.0 btrace.ysp.cctv.cn
+:: btrace.ysp.cctv.cn
 0.0.0.0 btrack.homedy.com
 :: btrack.homedy.com
 0.0.0.0 bts2dvz.taguiginfo.com
@@ -13612,6 +13612,8 @@ ff02::3 ip6-allhosts
 :: cdn.carbonads.com
 0.0.0.0 cdn.celtra.com
 :: cdn.celtra.com
+0.0.0.0 cdn.clerk.io
+:: cdn.clerk.io
 0.0.0.0 cdn.clicktale.net
 :: cdn.clicktale.net
 0.0.0.0 cdn.cmop.mgtv.com
@@ -20968,8 +20970,6 @@ ff02::3 ip6-allhosts
 :: e.rentclv.com
 0.0.0.0 e.replacementdevicelawsuit.com
 :: e.replacementdevicelawsuit.com
-0.0.0.0 e.ricpt.com
-:: e.ricpt.com
 0.0.0.0 e.sanitwealth.com
 :: e.sanitwealth.com
 0.0.0.0 e.sogou.com
@@ -28404,6 +28404,8 @@ ff02::3 ip6-allhosts
 :: independence.americanportfolios.com
 0.0.0.0 indieclick.3janecdn.com
 :: indieclick.3janecdn.com
+0.0.0.0 indmetric.rediff.com
+:: indmetric.rediff.com
 0.0.0.0 industry.promo.skf.com
 :: industry.promo.skf.com
 0.0.0.0 inf.clickpay.com
@@ -29826,6 +29828,8 @@ ff02::3 ip6-allhosts
 :: ish.tumedia.no
 0.0.0.0 ishainsight.actonservice.com
 :: ishainsight.actonservice.com
+0.0.0.0 isharemetric.rediff.com
+:: isharemetric.rediff.com
 0.0.0.0 ishinomakicatering.web.fc2.com
 :: ishinomakicatering.web.fc2.com
 0.0.0.0 isi-tracking.eventim.com
@@ -30510,8 +30514,6 @@ ff02::3 ip6-allhosts
 :: js3555.championmachinery-cn.com
 0.0.0.0 js3555.hongtaidichan.net
 :: js3555.hongtaidichan.net
-0.0.0.0 js3636.cnbole.net
-:: js3636.cnbole.net
 0.0.0.0 js3743.yongkang6.com
 :: js3743.yongkang6.com
 0.0.0.0 js3810.yongkang6.com
@@ -33648,6 +33650,8 @@ ff02::3 ip6-allhosts
 :: mailmunch.s3.amazonaws.com
 0.0.0.0 mails.cneic.com.cn
 :: mails.cneic.com.cn
+0.0.0.0 mailscan3.cau.ctm.net
+:: mailscan3.cau.ctm.net
 0.0.0.0 main.exdynsrv.com
 :: main.exdynsrv.com
 0.0.0.0 main.exoclick.com
@@ -38440,6 +38444,8 @@ ff02::3 ip6-allhosts
 :: mtrace.play.cp81.ott.cibntv.net
 0.0.0.0 mtrace.qq.com
 :: mtrace.qq.com
+0.0.0.0 mtrace.ysp.cctv.cn
+:: mtrace.ysp.cctv.cn
 0.0.0.0 mtracker.yunfan.com
 :: mtracker.yunfan.com
 0.0.0.0 mtracker.yunfancdn.com
@@ -40314,8 +40320,6 @@ ff02::3 ip6-allhosts
 :: optimus.ipinyou.com
 0.0.0.0 optionen.hager.de
 :: optionen.hager.de
-0.0.0.0 opto-22.com.cn
-:: opto-22.com.cn
 0.0.0.0 optout.crsspxl.com
 :: optout.crsspxl.com
 0.0.0.0 opus.analytics.yahoo.com
@@ -41316,8 +41320,6 @@ ff02::3 ip6-allhosts
 :: pb.hd.sohu.com.cn
 0.0.0.0 pb.i.sogou.com
 :: pb.i.sogou.com
-0.0.0.0 pb.m.naver.com
-:: pb.m.naver.com
 0.0.0.0 pb.s3wfg.com
 :: pb.s3wfg.com
 0.0.0.0 pb.sogou.com
@@ -45304,6 +45306,8 @@ ff02::3 ip6-allhosts
 :: s.holder.com.ua
 0.0.0.0 s.homedy.com
 :: s.homedy.com
+0.0.0.0 s.hoplon.pandora.com
+:: s.hoplon.pandora.com
 0.0.0.0 s.hystq.com
 :: s.hystq.com
 0.0.0.0 s.hyz86.com
@@ -45616,8 +45620,6 @@ ff02::3 ip6-allhosts
 :: s3.play.estream.xyz
 0.0.0.0 s3.play.vidzi.tv
 :: s3.play.vidzi.tv
-0.0.0.0 s3.play1.videos.vidto.me
-:: s3.play1.videos.vidto.me
 0.0.0.0 s3.pstatp.com
 :: s3.pstatp.com
 0.0.0.0 s3.tercabilis.info
@@ -52096,6 +52098,8 @@ ff02::3 ip6-allhosts
 :: ssp.otm-r.com
 0.0.0.0 ssp.pro.cn
 :: ssp.pro.cn
+0.0.0.0 ssp.qc.coccoc.com
+:: ssp.qc.coccoc.com
 0.0.0.0 ssp.qq.com
 :: ssp.qq.com
 0.0.0.0 ssp.seznam.cz
@@ -55470,6 +55474,8 @@ ff02::3 ip6-allhosts
 :: tag.digitaltarget.ru
 0.0.0.0 tag.elevaate.io
 :: tag.elevaate.io
+0.0.0.0 tag.flagship.io
+:: tag.flagship.io
 0.0.0.0 tag.getdrip.com
 :: tag.getdrip.com
 0.0.0.0 tag.goadopt.io
@@ -55522,6 +55528,10 @@ ff02::3 ip6-allhosts
 :: tagmanager.alright.network
 0.0.0.0 tagmanager.toast.com
 :: tagmanager.toast.com
+0.0.0.0 tags.aljazeera.com
+:: tags.aljazeera.com
+0.0.0.0 tags.aljazeera.net
+:: tags.aljazeera.net
 0.0.0.0 tags.bluekai.com
 :: tags.bluekai.com
 0.0.0.0 tags.catapultx.com
@@ -55584,8 +55594,6 @@ ff02::3 ip6-allhosts
 :: tanzanite.infomine.com
 0.0.0.0 tao.37wan.com
 :: tao.37wan.com
-0.0.0.0 taobaoafp.allyes.cn
-:: taobaoafp.allyes.cn
 0.0.0.0 tap-nexus.appspot.com
 :: tap-nexus.appspot.com
 0.0.0.0 tap.more-results.net
@@ -56804,6 +56812,8 @@ ff02::3 ip6-allhosts
 :: tr.cashback.floa.fr
 0.0.0.0 tr.cdnfile.com
 :: tr.cdnfile.com
+0.0.0.0 tr.clickstay.com
+:: tr.clickstay.com
 0.0.0.0 tr.client.emailing.bnpparibas
 :: tr.client.emailing.bnpparibas
 0.0.0.0 tr.clientes.younited-credit.com
@@ -59070,6 +59080,8 @@ ff02::3 ip6-allhosts
 :: trx.smdatalabs.com
 0.0.0.0 trx3.famousfix.com
 :: trx3.famousfix.com
+0.0.0.0 ts.delfi.lt
+:: ts.delfi.lt
 0.0.0.0 ts.faz.net
 :: ts.faz.net
 0.0.0.0 ts.popsugar.com
@@ -63882,6 +63894,8 @@ ff02::3 ip6-allhosts
 :: wyaopp.lacoccinelle.net
 0.0.0.0 wyelmp.vidaxl.si
 :: wyelmp.vidaxl.si
+0.0.0.0 wysa.2wxb5.cn
+:: wysa.2wxb5.cn
 0.0.0.0 wywvyf.discuss.com.hk
 :: wywvyf.discuss.com.hk
 0.0.0.0 wywvyf.price.com.hk
@@ -64382,8 +64396,6 @@ ff02::3 ip6-allhosts
 :: y8hxgv9m.kobetsu.co.jp
 0.0.0.0 yab-adimages.s3.amazonaws.com
 :: yab-adimages.s3.amazonaws.com
-0.0.0.0 yaba.org.cn
-:: yaba.org.cn
 0.0.0.0 yad.pandafilms.best
 :: yad.pandafilms.best
 0.0.0.0 yads.c.yimg.jp
