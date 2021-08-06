@@ -1,11 +1,11 @@
-# Checksum: MTYyODEyNTE3MQo=
+# Checksum: MTYyODIxMTc5NQo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210805-0
-# TimeUpdated: 2021-08-05T00:59:31+00:00
+# Version: 1.1.8-20210806-0
+# TimeUpdated: 2021-08-06T01:03:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33148
+# Total: 33159
 DOMAIN,0.nextyourcontent.com,REJECT
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
@@ -2987,6 +2987,7 @@ DOMAIN,ads.urbandictionary.com,REJECT
 DOMAIN,ads.usatoday.com,REJECT
 DOMAIN,ads.uxs.at,REJECT
 DOMAIN,ads.v-lazer.com,REJECT
+DOMAIN,ads.v3.com,REJECT
 DOMAIN,ads.v3exchange.com,REJECT
 DOMAIN,ads.vaildaily.com,REJECT
 DOMAIN,ads.vamaker.com,REJECT
@@ -6825,6 +6826,7 @@ DOMAIN,cdn-partners-references.lesoir.be,REJECT
 DOMAIN,cdn-qc.coccoc.com,REJECT
 DOMAIN,cdn-ra.rockcontent.com,REJECT
 DOMAIN,cdn-rtb.sape.ru,REJECT
+DOMAIN,cdn-rum.ngenix.net,REJECT
 DOMAIN,cdn-settings.segment.com,REJECT
 DOMAIN,cdn-social.janrain.com,REJECT
 DOMAIN,cdn-store-icons-akamai-prd.unityads.unity3d.com,REJECT
@@ -7677,6 +7679,7 @@ DOMAIN,cms.ucweb.com,REJECT
 DOMAIN,cms.v5.juzi.cn,REJECT
 DOMAIN,cmsapi.wifi8.com,REJECT
 DOMAIN,cmshow.gtimg.cn,REJECT
+DOMAIN,cmstool.youku.com,REJECT
 DOMAIN,cmstrendslog.indiatimes.com,REJECT
 DOMAIN,cmsw-htgb-a.net.daraz.com,REJECT
 DOMAIN,cmta.yangkeduo.com,REJECT
@@ -9854,7 +9857,6 @@ DOMAIN,df.tanx.com,REJECT
 DOMAIN,df.telemetry.microsoft.com,REJECT
 DOMAIN,df09rp0cm6rp6.cloudfront.net,REJECT
 DOMAIN,df0pmigc8xs70.cloudfront.net,REJECT
-DOMAIN,df666.pzhttaax.cn,REJECT
 DOMAIN,df7ok8j6on3a4.cloudfront.net,REJECT
 DOMAIN,dfad.dfdaily.com,REJECT
 DOMAIN,dfanalytics.dealerfire.com,REJECT
@@ -10056,6 +10058,7 @@ DOMAIN,display.nativemedia.rs,REJECT
 DOMAIN,dist.belnk.com,REJECT
 DOMAIN,dist.bpc.ad-stir.com,REJECT
 DOMAIN,distillery.wistia.com,REJECT
+DOMAIN,dit.whatsapp.net,REJECT
 DOMAIN,dita6jhhqwoiz.cloudfront.net,REJECT
 DOMAIN,diwebstatics.carte-gr.total.fr,REJECT
 DOMAIN,diy.doumaibiji.cn,REJECT
@@ -10738,6 +10741,7 @@ DOMAIN,ebusinesssr.carte-gr.total.fr,REJECT
 DOMAIN,ec.atdmt.com,REJECT
 DOMAIN,ec.infosys.com,REJECT
 DOMAIN,ec.kejet.net,REJECT
+DOMAIN,ec.walkme.com,REJECT
 DOMAIN,ec.yimg.com,REJECT
 DOMAIN,ec2-13-58-215-234.us-east-2.compute.amazonaws.com,REJECT
 DOMAIN,ec2-34-202-192-87.compute-1.amazonaws.com,REJECT
@@ -14307,7 +14311,6 @@ DOMAIN,img16.diyifanwen.com,REJECT
 DOMAIN,img2.578965.com,REJECT
 DOMAIN,img2.g.pptv.com,REJECT
 DOMAIN,img2.km.com,REJECT
-DOMAIN,img2.tanv.com,REJECT
 DOMAIN,img2.titan007.com,REJECT
 DOMAIN,img3.126.net,REJECT
 DOMAIN,img3.g.pptv.com,REJECT
@@ -16654,6 +16657,7 @@ DOMAIN,loki.maximonline.ru,REJECT
 DOMAIN,loldy.jiangmg.com,REJECT
 DOMAIN,lolhack.softwareuninstallerdownload.com,REJECT
 DOMAIN,londonprivaterentals.standard.co.uk,REJECT
+DOMAIN,longkeyone.co.kr,REJECT
 DOMAIN,look.djfiln.com,REJECT
 DOMAIN,look.ichlnk.com,REJECT
 DOMAIN,look.kfiopkln.com,REJECT
@@ -16812,7 +16816,6 @@ DOMAIN,m.4vvvv.cn,REJECT
 DOMAIN,m.51xmgys.com,REJECT
 DOMAIN,m.52tushuo.com,REJECT
 DOMAIN,m.58xs.tw,REJECT
-DOMAIN,m.5vst8h.cn,REJECT
 DOMAIN,m.62mao.com,REJECT
 DOMAIN,m.649649.com,REJECT
 DOMAIN,m.937920.com,REJECT
@@ -16950,7 +16953,6 @@ DOMAIN,m.nchet.com,REJECT
 DOMAIN,m.nejup.com,REJECT
 DOMAIN,m.niegg.com,REJECT
 DOMAIN,m.nkjfzq43034.cn,REJECT
-DOMAIN,m.nmtouzi.com,REJECT
 DOMAIN,m.nuoqingck.cn,REJECT
 DOMAIN,m.nydjsm.cn,REJECT
 DOMAIN,m.obeip.com,REJECT
@@ -16958,6 +16960,7 @@ DOMAIN,m.ocenp.com,REJECT
 DOMAIN,m.oem-cosmetic.com,REJECT
 DOMAIN,m.oipeirates.online,REJECT
 DOMAIN,m.openv.tv,REJECT
+DOMAIN,m.panda.voiceads.cn,REJECT
 DOMAIN,m.phonthing.com,REJECT
 DOMAIN,m.photoshelter.com,REJECT
 DOMAIN,m.pieaa.com,REJECT
@@ -19502,6 +19505,7 @@ DOMAIN,monitor-targeting-failures.sqrt-5041.de,REJECT
 DOMAIN,monitor-uu.play.aiseet.atianqi.com,REJECT
 DOMAIN,monitor.adcaffe.com,REJECT
 DOMAIN,monitor.channel4.com,REJECT
+DOMAIN,monitor.music.qq.com,REJECT
 DOMAIN,monitor.ssp.admobile.top,REJECT
 DOMAIN,monitor.teko.vn,REJECT
 DOMAIN,monitor.uu.qq.com,REJECT
@@ -20255,6 +20259,7 @@ DOMAIN,oas.uniontrib.com,REJECT
 DOMAIN,oas.villagevoice.com,REJECT
 DOMAIN,oas.vtsgonline.com,REJECT
 DOMAIN,oascentral.blackenterprises.com,REJECT
+DOMAIN,oascentral.bostonphoenix.com,REJECT
 DOMAIN,oascentral.businessweeks.com,REJECT
 DOMAIN,oascentral.canadianliving.com,REJECT
 DOMAIN,oascentral.eastbayexpress.com,REJECT
@@ -20617,6 +20622,7 @@ DOMAIN,openworksweb.actonservice.com,REJECT
 DOMAIN,openx.actvtech.com,REJECT
 DOMAIN,openx.angelsgroup.org.uk,REJECT
 DOMAIN,openx.cairo360.com,REJECT
+DOMAIN,openx.coolconcepts.nl,REJECT
 DOMAIN,openx.gamereactor.dk,REJECT
 DOMAIN,openx.kgmedia.eu,REJECT
 DOMAIN,openx.skinet.cz,REJECT
@@ -21383,6 +21389,7 @@ DOMAIN,pic.bloggerads.net,REJECT
 DOMAIN,pic.cnmo-img.com.cn,REJECT
 DOMAIN,pic.dotmore.com.tw,REJECT
 DOMAIN,pic.ea3w.com,REJECT
+DOMAIN,pic.eduancm.com,REJECT
 DOMAIN,pic.fastapi.net,REJECT
 DOMAIN,pic.iask.cn,REJECT
 DOMAIN,pic.jd-bbs.com,REJECT
@@ -21461,6 +21468,7 @@ DOMAIN,pix.nbcuni.com,REJECT
 DOMAIN,pix.revjet.com,REJECT
 DOMAIN,pix.speedbit.com,REJECT
 DOMAIN,pix.spot.im,REJECT
+DOMAIN,pix.tagcdn.com,REJECT
 DOMAIN,pix.telekom-dienste.de,REJECT
 DOMAIN,pix.telekom.com,REJECT
 DOMAIN,pix.telekom.de,REJECT
@@ -27099,6 +27107,7 @@ DOMAIN,stat.www.fi,REJECT
 DOMAIN,stat.xgo.com.cn,REJECT
 DOMAIN,stat.xhamsterpremium.com,REJECT
 DOMAIN,stat.xywy.com,REJECT
+DOMAIN,stat.y.qq.com,REJECT
 DOMAIN,stat.yellowtracker.com,REJECT
 DOMAIN,stat.zbii.com,REJECT
 DOMAIN,stat.zdnet.com.cn,REJECT
@@ -27184,6 +27193,7 @@ DOMAIN,static.gaomaer.cn,REJECT
 DOMAIN,static.gg.uuu9.com,REJECT
 DOMAIN,static.googleadsserving.cn,REJECT
 DOMAIN,static.gridsumdissector.com,REJECT
+DOMAIN,static.groupy.co.nz,REJECT
 DOMAIN,static.herr.io,REJECT
 DOMAIN,static.hotjar.com,REJECT
 DOMAIN,static.houyi.baofeng.net,REJECT
@@ -27441,6 +27451,7 @@ DOMAIN,stats.firedrive.com,REJECT
 DOMAIN,stats.flightsphere.com,REJECT
 DOMAIN,stats.folha.com.br,REJECT
 DOMAIN,stats.fomo.com,REJECT
+DOMAIN,stats.fonecta.fi,REJECT
 DOMAIN,stats.frankfurterneuepresse.de,REJECT
 DOMAIN,stats.frenlo.com,REJECT
 DOMAIN,stats.fruechtl.me,REJECT
@@ -28109,7 +28120,6 @@ DOMAIN,sxcdn5.herokuapp.com,REJECT
 DOMAIN,sxcdn6.now.sh,REJECT
 DOMAIN,sxdnserror1.wo.com.cn,REJECT
 DOMAIN,sxdnserror3.wo.com.cn,REJECT
-DOMAIN,sxdnserror6.wo.com.cn,REJECT
 DOMAIN,sxgbln.adzuna.nl,REJECT
 DOMAIN,sxjeyg.21vek.by,REJECT
 DOMAIN,sxjfhh.detroitnews.com,REJECT
@@ -28405,7 +28415,6 @@ DOMAIN,t4.agrantsem.com,REJECT
 DOMAIN,t5.a.market.xiaomi.com,REJECT
 DOMAIN,t6.51maiwanju.com,REJECT
 DOMAIN,t6.a.market.xiaomi.com,REJECT
-DOMAIN,t75.qyqc4s.com,REJECT
 DOMAIN,t7z.cupid.iqiyi.com,REJECT
 DOMAIN,t7z.cupid.ptqy.gitv.tv,REJECT
 DOMAIN,t9h2.ricardocuisine.com,REJECT
@@ -29573,6 +29582,7 @@ DOMAIN,tracker.adbinead.com,REJECT
 DOMAIN,tracker.adotmob.com,REJECT
 DOMAIN,tracker.affiliate.iqoption.com,REJECT
 DOMAIN,tracker.affirm.com,REJECT
+DOMAIN,tracker.ai.xiaomi.com,REJECT
 DOMAIN,tracker.anandtech.com,REJECT
 DOMAIN,tracker.anime47.com,REJECT
 DOMAIN,tracker.arc.io,REJECT
@@ -32563,6 +32573,7 @@ DOMAIN,xanax-store.shengen.ru,REJECT
 DOMAIN,xanax.t-amo.net,REJECT
 DOMAIN,xanaxxanax.3xforum.ro,REJECT
 DOMAIN,xapi.juicyads.com,REJECT
+DOMAIN,xapi.ozon.ru,REJECT
 DOMAIN,xavdtf.s7.ru,REJECT
 DOMAIN,xay5o.toscane-boutique.fr,REJECT
 DOMAIN,xbnnaw.ohhdeer.com,REJECT

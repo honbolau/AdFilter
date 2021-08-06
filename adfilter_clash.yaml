@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYyODEyNTE3MQo=
+# Checksum: MTYyODIxMTc5NQo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210805-0
-# TimeUpdated: 2021-08-05T00:59:31+00:00
+# Version: 1.1.8-20210806-0
+# TimeUpdated: 2021-08-06T01:03:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33148
+# Total: 33159
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -2988,6 +2988,7 @@ payload:
   - DOMAIN,ads.usatoday.com
   - DOMAIN,ads.uxs.at
   - DOMAIN,ads.v-lazer.com
+  - DOMAIN,ads.v3.com
   - DOMAIN,ads.v3exchange.com
   - DOMAIN,ads.vaildaily.com
   - DOMAIN,ads.vamaker.com
@@ -6826,6 +6827,7 @@ payload:
   - DOMAIN,cdn-qc.coccoc.com
   - DOMAIN,cdn-ra.rockcontent.com
   - DOMAIN,cdn-rtb.sape.ru
+  - DOMAIN,cdn-rum.ngenix.net
   - DOMAIN,cdn-settings.segment.com
   - DOMAIN,cdn-social.janrain.com
   - DOMAIN,cdn-store-icons-akamai-prd.unityads.unity3d.com
@@ -7678,6 +7680,7 @@ payload:
   - DOMAIN,cms.v5.juzi.cn
   - DOMAIN,cmsapi.wifi8.com
   - DOMAIN,cmshow.gtimg.cn
+  - DOMAIN,cmstool.youku.com
   - DOMAIN,cmstrendslog.indiatimes.com
   - DOMAIN,cmsw-htgb-a.net.daraz.com
   - DOMAIN,cmta.yangkeduo.com
@@ -9855,7 +9858,6 @@ payload:
   - DOMAIN,df.telemetry.microsoft.com
   - DOMAIN,df09rp0cm6rp6.cloudfront.net
   - DOMAIN,df0pmigc8xs70.cloudfront.net
-  - DOMAIN,df666.pzhttaax.cn
   - DOMAIN,df7ok8j6on3a4.cloudfront.net
   - DOMAIN,dfad.dfdaily.com
   - DOMAIN,dfanalytics.dealerfire.com
@@ -10057,6 +10059,7 @@ payload:
   - DOMAIN,dist.belnk.com
   - DOMAIN,dist.bpc.ad-stir.com
   - DOMAIN,distillery.wistia.com
+  - DOMAIN,dit.whatsapp.net
   - DOMAIN,dita6jhhqwoiz.cloudfront.net
   - DOMAIN,diwebstatics.carte-gr.total.fr
   - DOMAIN,diy.doumaibiji.cn
@@ -10739,6 +10742,7 @@ payload:
   - DOMAIN,ec.atdmt.com
   - DOMAIN,ec.infosys.com
   - DOMAIN,ec.kejet.net
+  - DOMAIN,ec.walkme.com
   - DOMAIN,ec.yimg.com
   - DOMAIN,ec2-13-58-215-234.us-east-2.compute.amazonaws.com
   - DOMAIN,ec2-34-202-192-87.compute-1.amazonaws.com
@@ -14308,7 +14312,6 @@ payload:
   - DOMAIN,img2.578965.com
   - DOMAIN,img2.g.pptv.com
   - DOMAIN,img2.km.com
-  - DOMAIN,img2.tanv.com
   - DOMAIN,img2.titan007.com
   - DOMAIN,img3.126.net
   - DOMAIN,img3.g.pptv.com
@@ -16655,6 +16658,7 @@ payload:
   - DOMAIN,loldy.jiangmg.com
   - DOMAIN,lolhack.softwareuninstallerdownload.com
   - DOMAIN,londonprivaterentals.standard.co.uk
+  - DOMAIN,longkeyone.co.kr
   - DOMAIN,look.djfiln.com
   - DOMAIN,look.ichlnk.com
   - DOMAIN,look.kfiopkln.com
@@ -16813,7 +16817,6 @@ payload:
   - DOMAIN,m.51xmgys.com
   - DOMAIN,m.52tushuo.com
   - DOMAIN,m.58xs.tw
-  - DOMAIN,m.5vst8h.cn
   - DOMAIN,m.62mao.com
   - DOMAIN,m.649649.com
   - DOMAIN,m.937920.com
@@ -16951,7 +16954,6 @@ payload:
   - DOMAIN,m.nejup.com
   - DOMAIN,m.niegg.com
   - DOMAIN,m.nkjfzq43034.cn
-  - DOMAIN,m.nmtouzi.com
   - DOMAIN,m.nuoqingck.cn
   - DOMAIN,m.nydjsm.cn
   - DOMAIN,m.obeip.com
@@ -16959,6 +16961,7 @@ payload:
   - DOMAIN,m.oem-cosmetic.com
   - DOMAIN,m.oipeirates.online
   - DOMAIN,m.openv.tv
+  - DOMAIN,m.panda.voiceads.cn
   - DOMAIN,m.phonthing.com
   - DOMAIN,m.photoshelter.com
   - DOMAIN,m.pieaa.com
@@ -19503,6 +19506,7 @@ payload:
   - DOMAIN,monitor-uu.play.aiseet.atianqi.com
   - DOMAIN,monitor.adcaffe.com
   - DOMAIN,monitor.channel4.com
+  - DOMAIN,monitor.music.qq.com
   - DOMAIN,monitor.ssp.admobile.top
   - DOMAIN,monitor.teko.vn
   - DOMAIN,monitor.uu.qq.com
@@ -20256,6 +20260,7 @@ payload:
   - DOMAIN,oas.villagevoice.com
   - DOMAIN,oas.vtsgonline.com
   - DOMAIN,oascentral.blackenterprises.com
+  - DOMAIN,oascentral.bostonphoenix.com
   - DOMAIN,oascentral.businessweeks.com
   - DOMAIN,oascentral.canadianliving.com
   - DOMAIN,oascentral.eastbayexpress.com
@@ -20618,6 +20623,7 @@ payload:
   - DOMAIN,openx.actvtech.com
   - DOMAIN,openx.angelsgroup.org.uk
   - DOMAIN,openx.cairo360.com
+  - DOMAIN,openx.coolconcepts.nl
   - DOMAIN,openx.gamereactor.dk
   - DOMAIN,openx.kgmedia.eu
   - DOMAIN,openx.skinet.cz
@@ -21384,6 +21390,7 @@ payload:
   - DOMAIN,pic.cnmo-img.com.cn
   - DOMAIN,pic.dotmore.com.tw
   - DOMAIN,pic.ea3w.com
+  - DOMAIN,pic.eduancm.com
   - DOMAIN,pic.fastapi.net
   - DOMAIN,pic.iask.cn
   - DOMAIN,pic.jd-bbs.com
@@ -21462,6 +21469,7 @@ payload:
   - DOMAIN,pix.revjet.com
   - DOMAIN,pix.speedbit.com
   - DOMAIN,pix.spot.im
+  - DOMAIN,pix.tagcdn.com
   - DOMAIN,pix.telekom-dienste.de
   - DOMAIN,pix.telekom.com
   - DOMAIN,pix.telekom.de
@@ -27100,6 +27108,7 @@ payload:
   - DOMAIN,stat.xgo.com.cn
   - DOMAIN,stat.xhamsterpremium.com
   - DOMAIN,stat.xywy.com
+  - DOMAIN,stat.y.qq.com
   - DOMAIN,stat.yellowtracker.com
   - DOMAIN,stat.zbii.com
   - DOMAIN,stat.zdnet.com.cn
@@ -27185,6 +27194,7 @@ payload:
   - DOMAIN,static.gg.uuu9.com
   - DOMAIN,static.googleadsserving.cn
   - DOMAIN,static.gridsumdissector.com
+  - DOMAIN,static.groupy.co.nz
   - DOMAIN,static.herr.io
   - DOMAIN,static.hotjar.com
   - DOMAIN,static.houyi.baofeng.net
@@ -27442,6 +27452,7 @@ payload:
   - DOMAIN,stats.flightsphere.com
   - DOMAIN,stats.folha.com.br
   - DOMAIN,stats.fomo.com
+  - DOMAIN,stats.fonecta.fi
   - DOMAIN,stats.frankfurterneuepresse.de
   - DOMAIN,stats.frenlo.com
   - DOMAIN,stats.fruechtl.me
@@ -28110,7 +28121,6 @@ payload:
   - DOMAIN,sxcdn6.now.sh
   - DOMAIN,sxdnserror1.wo.com.cn
   - DOMAIN,sxdnserror3.wo.com.cn
-  - DOMAIN,sxdnserror6.wo.com.cn
   - DOMAIN,sxgbln.adzuna.nl
   - DOMAIN,sxjeyg.21vek.by
   - DOMAIN,sxjfhh.detroitnews.com
@@ -28406,7 +28416,6 @@ payload:
   - DOMAIN,t5.a.market.xiaomi.com
   - DOMAIN,t6.51maiwanju.com
   - DOMAIN,t6.a.market.xiaomi.com
-  - DOMAIN,t75.qyqc4s.com
   - DOMAIN,t7z.cupid.iqiyi.com
   - DOMAIN,t7z.cupid.ptqy.gitv.tv
   - DOMAIN,t9h2.ricardocuisine.com
@@ -29574,6 +29583,7 @@ payload:
   - DOMAIN,tracker.adotmob.com
   - DOMAIN,tracker.affiliate.iqoption.com
   - DOMAIN,tracker.affirm.com
+  - DOMAIN,tracker.ai.xiaomi.com
   - DOMAIN,tracker.anandtech.com
   - DOMAIN,tracker.anime47.com
   - DOMAIN,tracker.arc.io
@@ -32564,6 +32574,7 @@ payload:
   - DOMAIN,xanax.t-amo.net
   - DOMAIN,xanaxxanax.3xforum.ro
   - DOMAIN,xapi.juicyads.com
+  - DOMAIN,xapi.ozon.ru
   - DOMAIN,xavdtf.s7.ru
   - DOMAIN,xay5o.toscane-boutique.fr
   - DOMAIN,xbnnaw.ohhdeer.com

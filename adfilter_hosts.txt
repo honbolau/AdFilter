@@ -1,11 +1,11 @@
-# Checksum: MTYyODEyNTE3MQo=
+# Checksum: MTYyODIxMTc5NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210805-0
-# TimeUpdated: 2021-08-05T00:59:31+00:00
+# Version: 1.1.8-20210806-0
+# TimeUpdated: 2021-08-06T01:03:15+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33148
+# Total: 33159
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -5978,6 +5978,8 @@ ff02::3 ip6-allhosts
 :: ads.uxs.at
 0.0.0.0 ads.v-lazer.com
 :: ads.v-lazer.com
+0.0.0.0 ads.v3.com
+:: ads.v3.com
 0.0.0.0 ads.v3exchange.com
 :: ads.v3exchange.com
 0.0.0.0 ads.vaildaily.com
@@ -13654,6 +13656,8 @@ ff02::3 ip6-allhosts
 :: cdn-ra.rockcontent.com
 0.0.0.0 cdn-rtb.sape.ru
 :: cdn-rtb.sape.ru
+0.0.0.0 cdn-rum.ngenix.net
+:: cdn-rum.ngenix.net
 0.0.0.0 cdn-settings.segment.com
 :: cdn-settings.segment.com
 0.0.0.0 cdn-social.janrain.com
@@ -15358,6 +15362,8 @@ ff02::3 ip6-allhosts
 :: cmsapi.wifi8.com
 0.0.0.0 cmshow.gtimg.cn
 :: cmshow.gtimg.cn
+0.0.0.0 cmstool.youku.com
+:: cmstool.youku.com
 0.0.0.0 cmstrendslog.indiatimes.com
 :: cmstrendslog.indiatimes.com
 0.0.0.0 cmsw-htgb-a.net.daraz.com
@@ -19712,8 +19718,6 @@ ff02::3 ip6-allhosts
 :: df09rp0cm6rp6.cloudfront.net
 0.0.0.0 df0pmigc8xs70.cloudfront.net
 :: df0pmigc8xs70.cloudfront.net
-0.0.0.0 df666.pzhttaax.cn
-:: df666.pzhttaax.cn
 0.0.0.0 df7ok8j6on3a4.cloudfront.net
 :: df7ok8j6on3a4.cloudfront.net
 0.0.0.0 dfad.dfdaily.com
@@ -20116,6 +20120,8 @@ ff02::3 ip6-allhosts
 :: dist.bpc.ad-stir.com
 0.0.0.0 distillery.wistia.com
 :: distillery.wistia.com
+0.0.0.0 dit.whatsapp.net
+:: dit.whatsapp.net
 0.0.0.0 dita6jhhqwoiz.cloudfront.net
 :: dita6jhhqwoiz.cloudfront.net
 0.0.0.0 diwebstatics.carte-gr.total.fr
@@ -21480,6 +21486,8 @@ ff02::3 ip6-allhosts
 :: ec.infosys.com
 0.0.0.0 ec.kejet.net
 :: ec.kejet.net
+0.0.0.0 ec.walkme.com
+:: ec.walkme.com
 0.0.0.0 ec.yimg.com
 :: ec.yimg.com
 0.0.0.0 ec2-13-58-215-234.us-east-2.compute.amazonaws.com
@@ -28618,8 +28626,6 @@ ff02::3 ip6-allhosts
 :: img2.g.pptv.com
 0.0.0.0 img2.km.com
 :: img2.km.com
-0.0.0.0 img2.tanv.com
-:: img2.tanv.com
 0.0.0.0 img2.titan007.com
 :: img2.titan007.com
 0.0.0.0 img3.126.net
@@ -33312,6 +33318,8 @@ ff02::3 ip6-allhosts
 :: lolhack.softwareuninstallerdownload.com
 0.0.0.0 londonprivaterentals.standard.co.uk
 :: londonprivaterentals.standard.co.uk
+0.0.0.0 longkeyone.co.kr
+:: longkeyone.co.kr
 0.0.0.0 look.djfiln.com
 :: look.djfiln.com
 0.0.0.0 look.ichlnk.com
@@ -33628,8 +33636,6 @@ ff02::3 ip6-allhosts
 :: m.52tushuo.com
 0.0.0.0 m.58xs.tw
 :: m.58xs.tw
-0.0.0.0 m.5vst8h.cn
-:: m.5vst8h.cn
 0.0.0.0 m.62mao.com
 :: m.62mao.com
 0.0.0.0 m.649649.com
@@ -33904,8 +33910,6 @@ ff02::3 ip6-allhosts
 :: m.niegg.com
 0.0.0.0 m.nkjfzq43034.cn
 :: m.nkjfzq43034.cn
-0.0.0.0 m.nmtouzi.com
-:: m.nmtouzi.com
 0.0.0.0 m.nuoqingck.cn
 :: m.nuoqingck.cn
 0.0.0.0 m.nydjsm.cn
@@ -33920,6 +33924,8 @@ ff02::3 ip6-allhosts
 :: m.oipeirates.online
 0.0.0.0 m.openv.tv
 :: m.openv.tv
+0.0.0.0 m.panda.voiceads.cn
+:: m.panda.voiceads.cn
 0.0.0.0 m.phonthing.com
 :: m.phonthing.com
 0.0.0.0 m.photoshelter.com
@@ -39008,6 +39014,8 @@ ff02::3 ip6-allhosts
 :: monitor.adcaffe.com
 0.0.0.0 monitor.channel4.com
 :: monitor.channel4.com
+0.0.0.0 monitor.music.qq.com
+:: monitor.music.qq.com
 0.0.0.0 monitor.ssp.admobile.top
 :: monitor.ssp.admobile.top
 0.0.0.0 monitor.teko.vn
@@ -40514,6 +40522,8 @@ ff02::3 ip6-allhosts
 :: oas.vtsgonline.com
 0.0.0.0 oascentral.blackenterprises.com
 :: oascentral.blackenterprises.com
+0.0.0.0 oascentral.bostonphoenix.com
+:: oascentral.bostonphoenix.com
 0.0.0.0 oascentral.businessweeks.com
 :: oascentral.businessweeks.com
 0.0.0.0 oascentral.canadianliving.com
@@ -41238,6 +41248,8 @@ ff02::3 ip6-allhosts
 :: openx.angelsgroup.org.uk
 0.0.0.0 openx.cairo360.com
 :: openx.cairo360.com
+0.0.0.0 openx.coolconcepts.nl
+:: openx.coolconcepts.nl
 0.0.0.0 openx.gamereactor.dk
 :: openx.gamereactor.dk
 0.0.0.0 openx.kgmedia.eu
@@ -42770,6 +42782,8 @@ ff02::3 ip6-allhosts
 :: pic.dotmore.com.tw
 0.0.0.0 pic.ea3w.com
 :: pic.ea3w.com
+0.0.0.0 pic.eduancm.com
+:: pic.eduancm.com
 0.0.0.0 pic.fastapi.net
 :: pic.fastapi.net
 0.0.0.0 pic.iask.cn
@@ -42926,6 +42940,8 @@ ff02::3 ip6-allhosts
 :: pix.speedbit.com
 0.0.0.0 pix.spot.im
 :: pix.spot.im
+0.0.0.0 pix.tagcdn.com
+:: pix.tagcdn.com
 0.0.0.0 pix.telekom-dienste.de
 :: pix.telekom-dienste.de
 0.0.0.0 pix.telekom.com
@@ -54202,6 +54218,8 @@ ff02::3 ip6-allhosts
 :: stat.xhamsterpremium.com
 0.0.0.0 stat.xywy.com
 :: stat.xywy.com
+0.0.0.0 stat.y.qq.com
+:: stat.y.qq.com
 0.0.0.0 stat.yellowtracker.com
 :: stat.yellowtracker.com
 0.0.0.0 stat.zbii.com
@@ -54372,6 +54390,8 @@ ff02::3 ip6-allhosts
 :: static.googleadsserving.cn
 0.0.0.0 static.gridsumdissector.com
 :: static.gridsumdissector.com
+0.0.0.0 static.groupy.co.nz
+:: static.groupy.co.nz
 0.0.0.0 static.herr.io
 :: static.herr.io
 0.0.0.0 static.hotjar.com
@@ -54886,6 +54906,8 @@ ff02::3 ip6-allhosts
 :: stats.folha.com.br
 0.0.0.0 stats.fomo.com
 :: stats.fomo.com
+0.0.0.0 stats.fonecta.fi
+:: stats.fonecta.fi
 0.0.0.0 stats.frankfurterneuepresse.de
 :: stats.frankfurterneuepresse.de
 0.0.0.0 stats.frenlo.com
@@ -56222,8 +56244,6 @@ ff02::3 ip6-allhosts
 :: sxdnserror1.wo.com.cn
 0.0.0.0 sxdnserror3.wo.com.cn
 :: sxdnserror3.wo.com.cn
-0.0.0.0 sxdnserror6.wo.com.cn
-:: sxdnserror6.wo.com.cn
 0.0.0.0 sxgbln.adzuna.nl
 :: sxgbln.adzuna.nl
 0.0.0.0 sxjeyg.21vek.by
@@ -56814,8 +56834,6 @@ ff02::3 ip6-allhosts
 :: t6.51maiwanju.com
 0.0.0.0 t6.a.market.xiaomi.com
 :: t6.a.market.xiaomi.com
-0.0.0.0 t75.qyqc4s.com
-:: t75.qyqc4s.com
 0.0.0.0 t7z.cupid.iqiyi.com
 :: t7z.cupid.iqiyi.com
 0.0.0.0 t7z.cupid.ptqy.gitv.tv
@@ -59150,6 +59168,8 @@ ff02::3 ip6-allhosts
 :: tracker.affiliate.iqoption.com
 0.0.0.0 tracker.affirm.com
 :: tracker.affirm.com
+0.0.0.0 tracker.ai.xiaomi.com
+:: tracker.ai.xiaomi.com
 0.0.0.0 tracker.anandtech.com
 :: tracker.anandtech.com
 0.0.0.0 tracker.anime47.com
@@ -65130,6 +65150,8 @@ ff02::3 ip6-allhosts
 :: xanaxxanax.3xforum.ro
 0.0.0.0 xapi.juicyads.com
 :: xapi.juicyads.com
+0.0.0.0 xapi.ozon.ru
+:: xapi.ozon.ru
 0.0.0.0 xavdtf.s7.ru
 :: xavdtf.s7.ru
 0.0.0.0 xay5o.toscane-boutique.fr
