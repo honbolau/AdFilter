@@ -1,11 +1,11 @@
-# Checksum: MTYyODI5NzY1Mwo=
+# Checksum: MTYyODM4NDM0OAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210807-0
-# TimeUpdated: 2021-08-07T00:54:13+00:00
+# Version: 1.1.8-20210808-0
+# TimeUpdated: 2021-08-08T00:59:08+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33157
+# Total: 33148
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -2228,8 +2228,6 @@ ff02::3 ip6-allhosts
 :: abc.hkepc.com
 0.0.0.0 abc.hkepc.net
 :: abc.hkepc.net
-0.0.0.0 abc.if.qidian.com
-:: abc.if.qidian.com
 0.0.0.0 abc.pema.cl
 :: abc.pema.cl
 0.0.0.0 abc.rwpt.top
@@ -6236,8 +6234,6 @@ ff02::3 ip6-allhosts
 :: ads2.techads.info
 0.0.0.0 ads2.virtual-nights.com
 :: ads2.virtual-nights.com
-0.0.0.0 ads2.virtumundo.com
-:: ads2.virtumundo.com
 0.0.0.0 ads2.webdrive.no
 :: ads2.webdrive.no
 0.0.0.0 ads2.weblogssl.com
@@ -9084,6 +9080,8 @@ ff02::3 ip6-allhosts
 :: api.ads.watchabc.go.com
 0.0.0.0 api.adtimaserver.vn
 :: api.adtimaserver.vn
+0.0.0.0 api.adv.ott.cibntv.net
+:: api.adv.ott.cibntv.net
 0.0.0.0 api.adxpand.com
 :: api.adxpand.com
 0.0.0.0 api.afdback.ppsimg.com
@@ -10938,8 +10936,6 @@ ff02::3 ip6-allhosts
 :: banner.itweb.co.za
 0.0.0.0 banner.kanald.com.tr
 :: banner.kanald.com.tr
-0.0.0.0 banner.kiev.ua
-:: banner.kiev.ua
 0.0.0.0 banner.klikklik.nl
 :: banner.klikklik.nl
 0.0.0.0 banner.lardi-trans.com
@@ -11328,6 +11324,8 @@ ff02::3 ip6-allhosts
 :: bd1-china.6789.com
 0.0.0.0 bd1-china.xsfaya.com
 :: bd1-china.xsfaya.com
+0.0.0.0 bd1-ys.km.com
+:: bd1-ys.km.com
 0.0.0.0 bd1.365qilu.com
 :: bd1.365qilu.com
 0.0.0.0 bd1.52che.com
@@ -13628,8 +13626,6 @@ ff02::3 ip6-allhosts
 :: cdn-creatives-highwinds-prd.unityads.unity3d.com
 0.0.0.0 cdn-creatives-prd.unityads.unity3d.com
 :: cdn-creatives-prd.unityads.unity3d.com
-0.0.0.0 cdn-gcs.outfit7.com
-:: cdn-gcs.outfit7.com
 0.0.0.0 cdn-haokanapk.baidu.com
 :: cdn-haokanapk.baidu.com
 0.0.0.0 cdn-highwinds.unityads.unity3d.com
@@ -13968,8 +13964,6 @@ ff02::3 ip6-allhosts
 :: cdn.tianmidian.com
 0.0.0.0 cdn.tpmedia.online
 :: cdn.tpmedia.online
-0.0.0.0 cdn.trackclicks.info
-:: cdn.trackclicks.info
 0.0.0.0 cdn.trafficexchangelist.com
 :: cdn.trafficexchangelist.com
 0.0.0.0 cdn.trafficforce.com
@@ -18736,8 +18730,6 @@ ff02::3 ip6-allhosts
 :: d5.sinaimg.cn
 0.0.0.0 d5em5plenp2k5.cloudfront.net
 :: d5em5plenp2k5.cloudfront.net
-0.0.0.0 d5etv3akk3gsa.cloudfront.net
-:: d5etv3akk3gsa.cloudfront.net
 0.0.0.0 d5g0nxmbdku6r.cloudfront.net
 :: d5g0nxmbdku6r.cloudfront.net
 0.0.0.0 d5i9o0tpq9sa1.cloudfront.net
@@ -20426,6 +20418,8 @@ ff02::3 ip6-allhosts
 :: dnsseed.bluematt.me
 0.0.0.0 dnsseed.emzy.de
 :: dnsseed.emzy.de
+0.0.0.0 dnved6ocs3pa4.cloudfront.net
+:: dnved6ocs3pa4.cloudfront.net
 0.0.0.0 do.lymstsc.com
 :: do.lymstsc.com
 0.0.0.0 do67etikr7pwz.cloudfront.net
@@ -24726,6 +24720,8 @@ ff02::3 ip6-allhosts
 :: gg.dsxdn.com
 0.0.0.0 gg.gao7.com
 :: gg.gao7.com
+0.0.0.0 gg.huahaimi.work
+:: gg.huahaimi.work
 0.0.0.0 gg.huangye88.com
 :: gg.huangye88.com
 0.0.0.0 gg.meitu.com
@@ -30888,8 +30884,6 @@ ff02::3 ip6-allhosts
 :: js.ad7.com
 0.0.0.0 js.admin6.com
 :: js.admin6.com
-0.0.0.0 js.avstats.com
-:: js.avstats.com
 0.0.0.0 js.bckrono.cn
 :: js.bckrono.cn
 0.0.0.0 js.blozoo.info
@@ -41688,6 +41682,8 @@ ff02::3 ip6-allhosts
 :: p1.net.daraz.com
 0.0.0.0 p1.partner.net.daraz.com
 :: p1.partner.net.daraz.com
+0.0.0.0 p1.qxzsw.com
+:: p1.qxzsw.com
 0.0.0.0 p1.zhongyoo.com
 :: p1.zhongyoo.com
 0.0.0.0 p1.zhumengwl.com
@@ -49302,6 +49298,8 @@ ff02::3 ip6-allhosts
 :: sikr.chimeratool.com
 0.0.0.0 silicone.avantorsciences.com
 :: silicone.avantorsciences.com
+0.0.0.0 silkroad.csdn.net
+:: silkroad.csdn.net
 0.0.0.0 simaba.m.taobao.com
 :: simaba.m.taobao.com
 0.0.0.0 simaba.taobao.com
@@ -53138,8 +53136,6 @@ ff02::3 ip6-allhosts
 :: srv.revdepo.com
 0.0.0.0 srv01.bitcoiner.win
 :: srv01.bitcoiner.win
-0.0.0.0 srx.com.sg
-:: srx.com.sg
 0.0.0.0 ss.chelaile.net.cn
 :: ss.chelaile.net.cn
 0.0.0.0 ss.cnczjy.com
@@ -54390,6 +54386,8 @@ ff02::3 ip6-allhosts
 :: static.karte.io
 0.0.0.0 static.kibboko.com
 :: static.kibboko.com
+0.0.0.0 static.l3.cdn.adsucks.com
+:: static.l3.cdn.adsucks.com
 0.0.0.0 static.lalaping.com
 :: static.lalaping.com
 0.0.0.0 static.linkz.net
@@ -60802,6 +60800,8 @@ ff02::3 ip6-allhosts
 :: uc.zhuici.com
 0.0.0.0 uc2.atobo.com.cn
 :: uc2.atobo.com.cn
+0.0.0.0 uc9.suinidai.com.cn
+:: uc9.suinidai.com.cn
 0.0.0.0 uc9.ucweb.com
 :: uc9.ucweb.com
 0.0.0.0 ucounter.ucoz.net
@@ -62276,6 +62276,8 @@ ff02::3 ip6-allhosts
 :: w.l.qq.com
 0.0.0.0 w.oumazg.com
 :: w.oumazg.com
+0.0.0.0 w.prize44.com
+:: w.prize44.com
 0.0.0.0 w.sharethis.com
 :: w.sharethis.com
 0.0.0.0 w.uptolike.com
@@ -62970,8 +62972,6 @@ ff02::3 ip6-allhosts
 :: widget.adviceiq.com
 0.0.0.0 widget.breakingburner.com
 :: widget.breakingburner.com
-0.0.0.0 widget.cheki.com.ng
-:: widget.cheki.com.ng
 0.0.0.0 widget.clipix.com
 :: widget.clipix.com
 0.0.0.0 widget.clym-sdk.net
@@ -63030,12 +63030,8 @@ ff02::3 ip6-allhosts
 :: widget.zenback.jp
 0.0.0.0 widget.zoorate.com
 :: widget.zoorate.com
-0.0.0.0 widgetcf.adviceiq.com
-:: widgetcf.adviceiq.com
 0.0.0.0 widgethost.barnebys.com
 :: widgethost.barnebys.com
-0.0.0.0 widgets.adviceiq.com
-:: widgets.adviceiq.com
 0.0.0.0 widgets.comcontent.net
 :: widgets.comcontent.net
 0.0.0.0 widgets.cryptopicture.com
@@ -63044,26 +63040,16 @@ ff02::3 ip6-allhosts
 :: widgets.dzone.com
 0.0.0.0 widgets.fbshare.me
 :: widgets.fbshare.me
-0.0.0.0 widgets.fie-data.co.uk
-:: widgets.fie-data.co.uk
-0.0.0.0 widgets.fie.futurecdn.net
-:: widgets.fie.futurecdn.net
 0.0.0.0 widgets.informars.com
 :: widgets.informars.com
 0.0.0.0 widgets.itaringa.net
 :: widgets.itaringa.net
 0.0.0.0 widgets.itunes.apple.com
 :: widgets.itunes.apple.com
-0.0.0.0 widgets.junction.co.za
-:: widgets.junction.co.za
 0.0.0.0 widgets.legalmonster.com
 :: widgets.legalmonster.com
 0.0.0.0 widgets.lendingtree.com
 :: widgets.lendingtree.com
-0.0.0.0 widgets.mobilelocalnews.com
-:: widgets.mobilelocalnews.com
-0.0.0.0 widgets.mozo.com.au
-:: widgets.mozo.com.au
 0.0.0.0 widgets.outbrain.com
 :: widgets.outbrain.com
 0.0.0.0 widgets.planeta.ru
@@ -63074,8 +63060,6 @@ ff02::3 ip6-allhosts
 :: widgets.progrids.com
 0.0.0.0 widgets.recruitology.com
 :: widgets.recruitology.com
-0.0.0.0 widgets.solaramerica.org
-:: widgets.solaramerica.org
 0.0.0.0 widgets.sprinkletxt.com
 :: widgets.sprinkletxt.com
 0.0.0.0 widgets.stackcommerce.com
@@ -65830,8 +65814,6 @@ ff02::3 ip6-allhosts
 :: yts.ytsyyey.com
 0.0.0.0 yu.ac.kr
 :: yu.ac.kr
-0.0.0.0 yudu.co.nz
-:: yudu.co.nz
 0.0.0.0 yuedu.iqiyi.com
 :: yuedu.iqiyi.com
 0.0.0.0 yuinys.kosas.com
