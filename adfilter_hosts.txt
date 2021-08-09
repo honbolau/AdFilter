@@ -1,11 +1,11 @@
-# Checksum: MTYyODM4NDM0OAo=
+# Checksum: MTYyODQ3MDc3OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210808-0
-# TimeUpdated: 2021-08-08T00:59:08+00:00
+# Version: 1.1.8-20210809-0
+# TimeUpdated: 2021-08-09T00:59:39+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33148
+# Total: 33159
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -160,6 +160,8 @@ ff02::3 ip6-allhosts
 :: 1.uc129.com
 0.0.0.0 1.ufc123.com
 :: 1.ufc123.com
+0.0.0.0 1.ufc7.com
+:: 1.ufc7.com
 0.0.0.0 1.up.qingdaonews.com
 :: 1.up.qingdaonews.com
 0.0.0.0 1.v-x.com.cn
@@ -1126,8 +1128,6 @@ ff02::3 ip6-allhosts
 :: a1.api.bbc.co.uk
 0.0.0.0 a1.azg168.cn
 :: a1.azg168.cn
-0.0.0.0 a1.bestopview.com
-:: a1.bestopview.com
 0.0.0.0 a1.bookapka.com
 :: a1.bookapka.com
 0.0.0.0 a1.dp25.kr
@@ -3730,6 +3730,8 @@ ff02::3 ip6-allhosts
 :: ad2.netriota.hu
 0.0.0.0 ad2.nmm.de
 :: ad2.nmm.de
+0.0.0.0 ad2.parom.hu
+:: ad2.parom.hu
 0.0.0.0 ad2.sina.com.cn
 :: ad2.sina.com.cn
 0.0.0.0 ad2.thisisgame.com
@@ -4408,6 +4410,8 @@ ff02::3 ip6-allhosts
 :: adn.inven.co.kr
 0.0.0.0 adn.lrb.co.uk
 :: adn.lrb.co.uk
+0.0.0.0 adn.nsmartad.com
+:: adn.nsmartad.com
 0.0.0.0 adn.porndig.com
 :: adn.porndig.com
 0.0.0.0 adn.tukif.com
@@ -4946,6 +4950,8 @@ ff02::3 ip6-allhosts
 :: ads.cheabit.com
 0.0.0.0 ads.chinadaily.com.cn
 :: ads.chinadaily.com.cn
+0.0.0.0 ads.chipcenter.com
+:: ads.chipcenter.com
 0.0.0.0 ads.chumcity.com
 :: ads.chumcity.com
 0.0.0.0 ads.cineville.nl
@@ -5320,6 +5326,8 @@ ff02::3 ip6-allhosts
 :: ads.iwon.com
 0.0.0.0 ads.jetpackdigital.com
 :: ads.jetpackdigital.com
+0.0.0.0 ads.jetphotos.net
+:: ads.jetphotos.net
 0.0.0.0 ads.jewcy.com
 :: ads.jewcy.com
 0.0.0.0 ads.jewishfriendfinder.com
@@ -6408,8 +6416,6 @@ ff02::3 ip6-allhosts
 :: adserv2.bravenet.com
 0.0.0.0 adserve.ams.rhythmxchange.com
 :: adserve.ams.rhythmxchange.com
-0.0.0.0 adserve.city-ad.com
-:: adserve.city-ad.com
 0.0.0.0 adserve.donanimhaber.com
 :: adserve.donanimhaber.com
 0.0.0.0 adserve.ehpub.com
@@ -6758,6 +6764,8 @@ ff02::3 ip6-allhosts
 :: adserver1.wmads.com
 0.0.0.0 adserver2.atman.pl
 :: adserver2.atman.pl
+0.0.0.0 adserver2.condenast.co.uk
+:: adserver2.condenast.co.uk
 0.0.0.0 adserver2.creative.com
 :: adserver2.creative.com
 0.0.0.0 adserver2.mediainsight.de
@@ -8976,6 +8984,8 @@ ff02::3 ip6-allhosts
 :: api-access.pangolin-sdk-toutiao.com
 0.0.0.0 api-ad.kajicam.com
 :: api-ad.kajicam.com
+0.0.0.0 api-ads.qutaovip.com
+:: api-ads.qutaovip.com
 0.0.0.0 api-ads.tiantianqutao.com
 :: api-ads.tiantianqutao.com
 0.0.0.0 api-adservices.apple.com
@@ -8994,8 +9004,6 @@ ff02::3 ip6-allhosts
 :: api-analytics.rozetka.com.ua
 0.0.0.0 api-backup.viaxmr.com
 :: api-backup.viaxmr.com
-0.0.0.0 api-deal.kechenggezi.com
-:: api-deal.kechenggezi.com
 0.0.0.0 api-docs-r-oa-2.net.daraz.com
 :: api-docs-r-oa-2.net.daraz.com
 0.0.0.0 api-docs.c.ns.emailvision.net.daraz.com
@@ -9080,8 +9088,6 @@ ff02::3 ip6-allhosts
 :: api.ads.watchabc.go.com
 0.0.0.0 api.adtimaserver.vn
 :: api.adtimaserver.vn
-0.0.0.0 api.adv.ott.cibntv.net
-:: api.adv.ott.cibntv.net
 0.0.0.0 api.adxpand.com
 :: api.adxpand.com
 0.0.0.0 api.afdback.ppsimg.com
@@ -9192,6 +9198,8 @@ ff02::3 ip6-allhosts
 :: api.fd.mob.com
 0.0.0.0 api.flygame.io
 :: api.flygame.io
+0.0.0.0 api.game.letvstore.com
+:: api.game.letvstore.com
 0.0.0.0 api.gameanalytics.com
 :: api.gameanalytics.com
 0.0.0.0 api.gameofwhales.com
@@ -10892,6 +10900,8 @@ ff02::3 ip6-allhosts
 :: banner.alimama.com
 0.0.0.0 banner.ambercoastcasino.com
 :: banner.ambercoastcasino.com
+0.0.0.0 banner.betwwts.com
+:: banner.betwwts.com
 0.0.0.0 banner.boostbox.com.br
 :: banner.boostbox.com.br
 0.0.0.0 banner.buempliz-online.ch
@@ -16348,6 +16358,8 @@ ff02::3 ip6-allhosts
 :: cookietracking.eatonpowersource.com
 0.0.0.0 cookiex.ngd.yahoo.com
 :: cookiex.ngd.yahoo.com
+0.0.0.0 cooleefbaldw.uk.to
+:: cooleefbaldw.uk.to
 0.0.0.0 coolnovelties.co.uk
 :: coolnovelties.co.uk
 0.0.0.0 coop.pop.baofeng.com
@@ -16990,6 +17002,8 @@ ff02::3 ip6-allhosts
 :: cpro.cr173.com
 0.0.0.0 cpro.fangtoo.com
 :: cpro.fangtoo.com
+0.0.0.0 cpro.xixiliya.cn
+:: cpro.xixiliya.cn
 0.0.0.0 cpro.zhidao.baidu.com
 :: cpro.zhidao.baidu.com
 0.0.0.0 cpro.zol.com.cn
@@ -17398,6 +17412,8 @@ ff02::3 ip6-allhosts
 :: cunda.prudsys-rde.de
 0.0.0.0 curated.fieldtest.cc
 :: curated.fieldtest.cc
+0.0.0.0 cursosobej.sslblindado.com
+:: cursosobej.sslblindado.com
 0.0.0.0 cust01-cucm-sub-01-cl9.int.net.daraz.com
 :: cust01-cucm-sub-01-cl9.int.net.daraz.com
 0.0.0.0 cust01-cucm-sub-07-cl9.int.net.daraz.com
@@ -21058,6 +21074,8 @@ ff02::3 ip6-allhosts
 :: e.2l06k.cn
 0.0.0.0 e.51xmgys.com
 :: e.51xmgys.com
+0.0.0.0 e.53trya.cn
+:: e.53trya.cn
 0.0.0.0 e.60sk.ru
 :: e.60sk.ru
 0.0.0.0 e.7clink.com
@@ -23360,6 +23378,8 @@ ff02::3 ip6-allhosts
 :: ff.doubleclick.net
 0.0.0.0 ff.imacdn.com
 :: ff.imacdn.com
+0.0.0.0 ff.meikanguo.com
+:: ff.meikanguo.com
 0.0.0.0 ff.qichetansuo.com
 :: ff.qichetansuo.com
 0.0.0.0 ff.xue163.net
@@ -31818,6 +31838,8 @@ ff02::3 ip6-allhosts
 :: landing.photobox.com
 0.0.0.0 landing.wolterskluwer.hu
 :: landing.wolterskluwer.hu
+0.0.0.0 landingairquality.airlite.com
+:: landingairquality.airlite.com
 0.0.0.0 landsnail.bindle.io
 :: landsnail.bindle.io
 0.0.0.0 landstar.actonservice.com
@@ -34054,6 +34076,8 @@ ff02::3 ip6-allhosts
 :: m.yoyi.com.cn
 0.0.0.0 m.yuyouge.com
 :: m.yuyouge.com
+0.0.0.0 m.z0mh0u.cn
+:: m.z0mh0u.cn
 0.0.0.0 m.zaoss.com
 :: m.zaoss.com
 0.0.0.0 m.zdjgj.cn
@@ -42580,6 +42604,10 @@ ff02::3 ip6-allhosts
 :: pgt1.voyage-prive.es
 0.0.0.0 pgv.m.xunlei.com
 :: pgv.m.xunlei.com
+0.0.0.0 pgy-api.oray.com
+:: pgy-api.oray.com
+0.0.0.0 pgy.oray.com
+:: pgy.oray.com
 0.0.0.0 ph-ad01.focalink.com
 :: ph-ad01.focalink.com
 0.0.0.0 ph-ad02.focalink.com
@@ -43582,6 +43610,8 @@ ff02::3 ip6-allhosts
 :: pop.code.poyang.cn
 0.0.0.0 pop.dojo.cc
 :: pop.dojo.cc
+0.0.0.0 pop.naminews.ir
+:: pop.naminews.ir
 0.0.0.0 pop.redirect.adsjudo.com
 :: pop.redirect.adsjudo.com
 0.0.0.0 pop.turnik.su
@@ -49474,6 +49504,10 @@ ff02::3 ip6-allhosts
 :: skyplayer.tiscali.it
 0.0.0.0 sl-h-statistics-ch-1.storeland.ru
 :: sl-h-statistics-ch-1.storeland.ru
+0.0.0.0 sl-log.oray.net
+:: sl-log.oray.net
+0.0.0.0 sl-tk.oray.com
+:: sl-tk.oray.com
 0.0.0.0 sl.hpplay.cn
 :: sl.hpplay.cn
 0.0.0.0 slaunch.shopcanopy.com
@@ -50364,8 +50398,6 @@ ff02::3 ip6-allhosts
 :: smetrics.deakin.edu.au
 0.0.0.0 smetrics.dekalbasgrowdeltapine.com
 :: smetrics.dekalbasgrowdeltapine.com
-0.0.0.0 smetrics.deliciousliving.com
-:: smetrics.deliciousliving.com
 0.0.0.0 smetrics.delta.com
 :: smetrics.delta.com
 0.0.0.0 smetrics.desparasitaatumascota.es
@@ -57054,8 +57086,6 @@ ff02::3 ip6-allhosts
 :: tb.mybb.ru
 0.0.0.0 tbe.tom.ru
 :: tbe.tom.ru
-0.0.0.0 tben.nnchangyi.com
-:: tben.nnchangyi.com
 0.0.0.0 tbm.net.toom.de
 :: tbm.net.toom.de
 0.0.0.0 tbm.snssdk.com
@@ -57142,10 +57172,6 @@ ff02::3 ip6-allhosts
 :: tdep.teamnijhuis.com
 0.0.0.0 tdep.theofficeservice.com
 :: tdep.theofficeservice.com
-0.0.0.0 tdep.vacansoleil.be
-:: tdep.vacansoleil.be
-0.0.0.0 tdep.vacansoleil.co.uk
-:: tdep.vacansoleil.co.uk
 0.0.0.0 tdep.vacansoleil.de
 :: tdep.vacansoleil.de
 0.0.0.0 tdep.vacansoleil.dk
@@ -57158,8 +57184,6 @@ ff02::3 ip6-allhosts
 :: tdep.vacansoleil.it
 0.0.0.0 tdep.vacansoleil.nl
 :: tdep.vacansoleil.nl
-0.0.0.0 tdep.vacansoleil.pl
-:: tdep.vacansoleil.pl
 0.0.0.0 tdf1.admyjob.com
 :: tdf1.admyjob.com
 0.0.0.0 tdf1.easyviaggio.com
@@ -57738,6 +57762,8 @@ ff02::3 ip6-allhosts
 :: tk.nhlottery.com
 0.0.0.0 tk.optaim.com
 :: tk.optaim.com
+0.0.0.0 tk.oray.com
+:: tk.oray.com
 0.0.0.0 tk.ornikar.com
 :: tk.ornikar.com
 0.0.0.0 tk.planete-oui.fr
@@ -61864,8 +61890,6 @@ ff02::3 ip6-allhosts
 :: video.vid4u.org
 0.0.0.0 video.videonow.ru
 :: video.videonow.ru
-0.0.0.0 video.videos.vidto.me
-:: video.videos.vidto.me
 0.0.0.0 video.wap.mpush.qq.com
 :: video.wap.mpush.qq.com
 0.0.0.0 video2.stream.vidzi.tv
@@ -61884,8 +61908,6 @@ ff02::3 ip6-allhosts
 :: videos.fleshlight.com
 0.0.0.0 videos.oms.eu
 :: videos.oms.eu
-0.0.0.0 videos.vidto.me
-:: videos.vidto.me
 0.0.0.0 videosfr.s3.amazonaws.com
 :: videosfr.s3.amazonaws.com
 0.0.0.0 videoslots.888.com
@@ -61960,6 +61982,8 @@ ff02::3 ip6-allhosts
 :: vip.mall044.com
 0.0.0.0 vip.pai76.com
 :: vip.pai76.com
+0.0.0.0 vip.panggugu.com
+:: vip.panggugu.com
 0.0.0.0 vip.qqxwf.com
 :: vip.qqxwf.com
 0.0.0.0 vip.sc386.com
@@ -65454,8 +65478,6 @@ ff02::3 ip6-allhosts
 :: xz-development.oss-cn-beijing.aliyuncs.com
 0.0.0.0 xzj.kebi1.top
 :: xzj.kebi1.top
-0.0.0.0 xzq.greenxf.net
-:: xzq.greenxf.net
 0.0.0.0 xzvhgu.iledebeaute.ru
 :: xzvhgu.iledebeaute.ru
 0.0.0.0 xzwcng.vans.com.au
