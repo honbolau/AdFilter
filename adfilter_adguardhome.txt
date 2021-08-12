@@ -1,8 +1,8 @@
-! Checksum: MTYyODY0MzYwMQo=
+! Checksum: MTYyODcyOTg4NQo=
 ! Title: Zhijie's Ad Filter for AdGuard Home (DNS-level)
 ! Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-! Version: 1.1.8-20210811-0
-! TimeUpdated: 2021-08-11T01:00:01+00:00
+! Version: 1.1.8-20210812-0
+! TimeUpdated: 2021-08-12T00:58:05+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/AdFilter
 ! Total: 32871
@@ -219,6 +219,7 @@
 |3g.990.net^
 |3m.mediav.com^
 |3p-geo.yahoo.com^
+|3p-udc.yahoo.com^
 |3rd.t.sohu.com^
 |4-partner.net.daraz.com^
 |4.up.qingdaonews.com^
@@ -2497,6 +2498,7 @@
 |ads.centraliprom.com^
 |ads.cgchannel.com^
 |ads.champs-elysees.com^
+|ads.chanhtuoi.com^
 |ads.channel4.com^
 |ads.cheabit.com^
 |ads.chinadaily.com.cn^
@@ -2819,6 +2821,7 @@
 |ads.passiontimes.hk^
 |ads.paxnet.co.kr^
 |ads.paymonex.net^
+|ads.pdbarea.com^
 |ads.peel.com^
 |ads.pennet.com^
 |ads.people.com.cn^
@@ -2913,6 +2916,7 @@
 |ads.shopstyle.com^
 |ads.showtvnet.com^
 |ads.sift.co.uk^
+|ads.sify.com^
 |ads.silverdisc.co.uk^
 |ads.simplyhired.com^
 |ads.simtel.com^
@@ -3011,7 +3015,6 @@
 |ads.usatoday.com^
 |ads.uxs.at^
 |ads.v-lazer.com^
-|ads.v3.com^
 |ads.v3exchange.com^
 |ads.vaildaily.com^
 |ads.vamaker.com^
@@ -3366,6 +3369,7 @@
 |adserver.snowball.com^
 |adserver.softonic.com^
 |adserver.soloserver.com^
+|adserver.sudo.vn^
 |adserver.swiatobrazu.pl^
 |adserver.te.pt^
 |adserver.terra.com.br^
@@ -8196,6 +8200,7 @@
 |core.adservingfactory.com^
 |core.royalads.net^
 |core.unit-sense.net^
+|core.vchat.vn^
 |core.vnecdn.com^
 |corebug.adsame.com^
 |coreg.flashtrack.net^
@@ -10540,7 +10545,6 @@
 |e.cn.miaozhen.com^
 |e.coenr.com^
 |e.crf.org^
-|e.cuomm.com^
 |e.darpro-solutions.com^
 |e.deimm.com^
 |e.deployads.com^
@@ -11860,6 +11864,7 @@
 |fp.nanrenwo.net^
 |fp.tongdun.net^
 |fpa-cdn.arstechnica.com^
+|fpag.w48ge.cn^
 |fpb.docin.com^
 |fpb.mn586.com^
 |fpb.sohu.com^
@@ -15407,7 +15412,6 @@
 |jln3.clstudios.com^
 |jlxlbu.lacoste.pl^
 |jm1.xiao89.com^
-|jnsz.net.cn^
 |jo2f.cheque-cadhoc.fr^
 |joastb.idealista.com^
 |joatoon.net.daraz.com^
@@ -16687,6 +16691,7 @@
 |loldy.jiangmg.com^
 |lolhack.softwareuninstallerdownload.com^
 |londonprivaterentals.standard.co.uk^
+|longkeyone.co.kr^
 |look.djfiln.com^
 |look.ichlnk.com^
 |look.kfiopkln.com^
@@ -18300,6 +18305,7 @@
 |megoszthato.blogspot.hu^
 |meishiba.com.cn^
 |meitubeauty.meitudata.com^
+|member.javtvnow.xyz^
 |members.chello.at^
 |members.chello.nl^
 |members.iinet.net.au^
@@ -21439,7 +21445,6 @@
 |pic1.dianshu119.com^
 |pic183025.images9999.com^
 |pic2.bloggerads.net^
-|pic3.97jut.com^
 |pic494036.images9999.com^
 |pic50.pingguolv.com^
 |pica-juicy.picacomic.com^
@@ -22070,6 +22075,7 @@
 |promotions.iasbet.com^
 |promotions.sportingbet.com^
 |promotions.stationcasinos.com^
+|proof.sudo.vn^
 |propecia.1.p2l.info^
 |prophet.heise.de^
 |prosper.on-line-casino.ca^
@@ -22225,6 +22231,7 @@
 |pubs.xl.pt^
 |pubserver.xl.pt^
 |pubshop.img.uol.com.br^
+|pubsrv.devhints.io^
 |pubstr.acs.org^
 |pubstr.acspubs.org^
 |pubsub02.oray.net^
@@ -23312,7 +23319,6 @@
 |s1.intimshop.ru^
 |s1.irs03.com^
 |s1.kuaibaopay.com^
-|s1.leshi123.cc^
 |s1.pipishu.com^
 |s1.qiqutt.cn^
 |s1.qiuyi.cn^
@@ -24415,7 +24421,6 @@
 |segob.gob.mx^
 |segra.actonservice.com^
 |seguro.via-rs.net^
-|seiyuu.ne.jp^
 |seldos.com.tr^
 |select.brealtime.com^
 |select001.adtech.fr^
@@ -26317,7 +26322,6 @@
 |software.cadmatic.com^
 |software.seek.intel.com^
 |sohu-dtv.m.cn.miaozhen.com^
-|sohu.irs01.com^
 |sohutv.m.cn.miaozhen.com^
 |sokrates.adtech.fr^
 |sokrates.adtech.us^
@@ -26672,7 +26676,6 @@
 |ss.knet.cn^
 |ss.missyouxi.com^
 |ss.musthird.com^
-|ss.ting55.com^
 |ss.tiscali.it^
 |ss2.he2d.com^
 |ssa.asianfoodnetwork.com^
@@ -28199,7 +28202,6 @@
 |syfwnf.society6.com^
 |sygame.695157.com^
 |sykc.madeindesign.ch^
-|syn.verticalacuity.com^
 |synad.nuffnang.com.sg^
 |synad2.nuffnang.com.cn^
 |sync-dsp.ad-m.asia^
@@ -29496,7 +29498,6 @@
 |track.msadcenter.kkal.com^
 |track.msadcenter.krt.com^
 |track.msadcenter.llu.com^
-|track.msadcenter.lrgo.com^
 |track.msadcenter.ltp.com^
 |track.msadcenter.lyv.com^
 |track.msadcenter.mur.com^
@@ -31634,7 +31635,6 @@
 |wm.kolinay.com^
 |wm.lrswl.com^
 |wm.makeding.com^
-|wm.maxysearch.info^
 |wm.mipcdn.com^
 |wm.szdushi.com.cn^
 |wm.xunlaile.com^

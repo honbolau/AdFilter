@@ -1,8 +1,8 @@
-# Checksum: MTYyODY0MzYwMQo=
+# Checksum: MTYyODcyOTg4NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210811-0
-# TimeUpdated: 2021-08-11T01:00:01+00:00
+# Version: 1.1.8-20210812-0
+# TimeUpdated: 2021-08-12T00:58:05+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 32871
@@ -442,6 +442,8 @@ ff02::3 ip6-allhosts
 :: 3m.mediav.com
 0.0.0.0 3p-geo.yahoo.com
 :: 3p-geo.yahoo.com
+0.0.0.0 3p-udc.yahoo.com
+:: 3p-udc.yahoo.com
 0.0.0.0 3rd.t.sohu.com
 :: 3rd.t.sohu.com
 0.0.0.0 4-partner.net.daraz.com
@@ -4998,6 +5000,8 @@ ff02::3 ip6-allhosts
 :: ads.cgchannel.com
 0.0.0.0 ads.champs-elysees.com
 :: ads.champs-elysees.com
+0.0.0.0 ads.chanhtuoi.com
+:: ads.chanhtuoi.com
 0.0.0.0 ads.channel4.com
 :: ads.channel4.com
 0.0.0.0 ads.cheabit.com
@@ -5642,6 +5646,8 @@ ff02::3 ip6-allhosts
 :: ads.paxnet.co.kr
 0.0.0.0 ads.paymonex.net
 :: ads.paymonex.net
+0.0.0.0 ads.pdbarea.com
+:: ads.pdbarea.com
 0.0.0.0 ads.peel.com
 :: ads.peel.com
 0.0.0.0 ads.pennet.com
@@ -5830,6 +5836,8 @@ ff02::3 ip6-allhosts
 :: ads.showtvnet.com
 0.0.0.0 ads.sift.co.uk
 :: ads.sift.co.uk
+0.0.0.0 ads.sify.com
+:: ads.sify.com
 0.0.0.0 ads.silverdisc.co.uk
 :: ads.silverdisc.co.uk
 0.0.0.0 ads.simplyhired.com
@@ -6026,8 +6034,6 @@ ff02::3 ip6-allhosts
 :: ads.uxs.at
 0.0.0.0 ads.v-lazer.com
 :: ads.v-lazer.com
-0.0.0.0 ads.v3.com
-:: ads.v3.com
 0.0.0.0 ads.v3exchange.com
 :: ads.v3exchange.com
 0.0.0.0 ads.vaildaily.com
@@ -6736,6 +6742,8 @@ ff02::3 ip6-allhosts
 :: adserver.softonic.com
 0.0.0.0 adserver.soloserver.com
 :: adserver.soloserver.com
+0.0.0.0 adserver.sudo.vn
+:: adserver.sudo.vn
 0.0.0.0 adserver.swiatobrazu.pl
 :: adserver.swiatobrazu.pl
 0.0.0.0 adserver.te.pt
@@ -16396,6 +16404,8 @@ ff02::3 ip6-allhosts
 :: core.royalads.net
 0.0.0.0 core.unit-sense.net
 :: core.unit-sense.net
+0.0.0.0 core.vchat.vn
+:: core.vchat.vn
 0.0.0.0 core.vnecdn.com
 :: core.vnecdn.com
 0.0.0.0 corebug.adsame.com
@@ -21084,8 +21094,6 @@ ff02::3 ip6-allhosts
 :: e.coenr.com
 0.0.0.0 e.crf.org
 :: e.crf.org
-0.0.0.0 e.cuomm.com
-:: e.cuomm.com
 0.0.0.0 e.darpro-solutions.com
 :: e.darpro-solutions.com
 0.0.0.0 e.deimm.com
@@ -23724,6 +23732,8 @@ ff02::3 ip6-allhosts
 :: fp.tongdun.net
 0.0.0.0 fpa-cdn.arstechnica.com
 :: fpa-cdn.arstechnica.com
+0.0.0.0 fpag.w48ge.cn
+:: fpag.w48ge.cn
 0.0.0.0 fpb.docin.com
 :: fpb.docin.com
 0.0.0.0 fpb.mn586.com
@@ -30818,8 +30828,6 @@ ff02::3 ip6-allhosts
 :: jlxlbu.lacoste.pl
 0.0.0.0 jm1.xiao89.com
 :: jm1.xiao89.com
-0.0.0.0 jnsz.net.cn
-:: jnsz.net.cn
 0.0.0.0 jo2f.cheque-cadhoc.fr
 :: jo2f.cheque-cadhoc.fr
 0.0.0.0 joastb.idealista.com
@@ -33378,6 +33386,8 @@ ff02::3 ip6-allhosts
 :: lolhack.softwareuninstallerdownload.com
 0.0.0.0 londonprivaterentals.standard.co.uk
 :: londonprivaterentals.standard.co.uk
+0.0.0.0 longkeyone.co.kr
+:: longkeyone.co.kr
 0.0.0.0 look.djfiln.com
 :: look.djfiln.com
 0.0.0.0 look.ichlnk.com
@@ -36604,6 +36614,8 @@ ff02::3 ip6-allhosts
 :: meishiba.com.cn
 0.0.0.0 meitubeauty.meitudata.com
 :: meitubeauty.meitudata.com
+0.0.0.0 member.javtvnow.xyz
+:: member.javtvnow.xyz
 0.0.0.0 members.chello.at
 :: members.chello.at
 0.0.0.0 members.chello.nl
@@ -42882,8 +42894,6 @@ ff02::3 ip6-allhosts
 :: pic183025.images9999.com
 0.0.0.0 pic2.bloggerads.net
 :: pic2.bloggerads.net
-0.0.0.0 pic3.97jut.com
-:: pic3.97jut.com
 0.0.0.0 pic494036.images9999.com
 :: pic494036.images9999.com
 0.0.0.0 pic50.pingguolv.com
@@ -44144,6 +44154,8 @@ ff02::3 ip6-allhosts
 :: promotions.sportingbet.com
 0.0.0.0 promotions.stationcasinos.com
 :: promotions.stationcasinos.com
+0.0.0.0 proof.sudo.vn
+:: proof.sudo.vn
 0.0.0.0 propecia.1.p2l.info
 :: propecia.1.p2l.info
 0.0.0.0 prophet.heise.de
@@ -44454,6 +44466,8 @@ ff02::3 ip6-allhosts
 :: pubserver.xl.pt
 0.0.0.0 pubshop.img.uol.com.br
 :: pubshop.img.uol.com.br
+0.0.0.0 pubsrv.devhints.io
+:: pubsrv.devhints.io
 0.0.0.0 pubstr.acs.org
 :: pubstr.acs.org
 0.0.0.0 pubstr.acspubs.org
@@ -46628,8 +46642,6 @@ ff02::3 ip6-allhosts
 :: s1.irs03.com
 0.0.0.0 s1.kuaibaopay.com
 :: s1.kuaibaopay.com
-0.0.0.0 s1.leshi123.cc
-:: s1.leshi123.cc
 0.0.0.0 s1.pipishu.com
 :: s1.pipishu.com
 0.0.0.0 s1.qiqutt.cn
@@ -48834,8 +48846,6 @@ ff02::3 ip6-allhosts
 :: segra.actonservice.com
 0.0.0.0 seguro.via-rs.net
 :: seguro.via-rs.net
-0.0.0.0 seiyuu.ne.jp
-:: seiyuu.ne.jp
 0.0.0.0 seldos.com.tr
 :: seldos.com.tr
 0.0.0.0 select.brealtime.com
@@ -52638,8 +52648,6 @@ ff02::3 ip6-allhosts
 :: software.seek.intel.com
 0.0.0.0 sohu-dtv.m.cn.miaozhen.com
 :: sohu-dtv.m.cn.miaozhen.com
-0.0.0.0 sohu.irs01.com
-:: sohu.irs01.com
 0.0.0.0 sohutv.m.cn.miaozhen.com
 :: sohutv.m.cn.miaozhen.com
 0.0.0.0 sokrates.adtech.fr
@@ -53348,8 +53356,6 @@ ff02::3 ip6-allhosts
 :: ss.missyouxi.com
 0.0.0.0 ss.musthird.com
 :: ss.musthird.com
-0.0.0.0 ss.ting55.com
-:: ss.ting55.com
 0.0.0.0 ss.tiscali.it
 :: ss.tiscali.it
 0.0.0.0 ss2.he2d.com
@@ -56402,8 +56408,6 @@ ff02::3 ip6-allhosts
 :: sygame.695157.com
 0.0.0.0 sykc.madeindesign.ch
 :: sykc.madeindesign.ch
-0.0.0.0 syn.verticalacuity.com
-:: syn.verticalacuity.com
 0.0.0.0 synad.nuffnang.com.sg
 :: synad.nuffnang.com.sg
 0.0.0.0 synad2.nuffnang.com.cn
@@ -58996,8 +59000,6 @@ ff02::3 ip6-allhosts
 :: track.msadcenter.krt.com
 0.0.0.0 track.msadcenter.llu.com
 :: track.msadcenter.llu.com
-0.0.0.0 track.msadcenter.lrgo.com
-:: track.msadcenter.lrgo.com
 0.0.0.0 track.msadcenter.ltp.com
 :: track.msadcenter.ltp.com
 0.0.0.0 track.msadcenter.lyv.com
@@ -63272,8 +63274,6 @@ ff02::3 ip6-allhosts
 :: wm.lrswl.com
 0.0.0.0 wm.makeding.com
 :: wm.makeding.com
-0.0.0.0 wm.maxysearch.info
-:: wm.maxysearch.info
 0.0.0.0 wm.mipcdn.com
 :: wm.mipcdn.com
 0.0.0.0 wm.szdushi.com.cn
