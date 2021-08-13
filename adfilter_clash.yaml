@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYyODcyOTg4NQo=
+# Checksum: MTYyODgxNjM1MAo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210812-0
-# TimeUpdated: 2021-08-12T00:58:05+00:00
+# Version: 1.1.8-20210813-0
+# TimeUpdated: 2021-08-13T00:59:10+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32871
+# Total: 32886
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -2822,7 +2822,6 @@ payload:
   - DOMAIN,ads.passiontimes.hk
   - DOMAIN,ads.paxnet.co.kr
   - DOMAIN,ads.paymonex.net
-  - DOMAIN,ads.pdbarea.com
   - DOMAIN,ads.peel.com
   - DOMAIN,ads.pennet.com
   - DOMAIN,ads.people.com.cn
@@ -2917,7 +2916,6 @@ payload:
   - DOMAIN,ads.shopstyle.com
   - DOMAIN,ads.showtvnet.com
   - DOMAIN,ads.sift.co.uk
-  - DOMAIN,ads.sify.com
   - DOMAIN,ads.silverdisc.co.uk
   - DOMAIN,ads.simplyhired.com
   - DOMAIN,ads.simtel.com
@@ -3790,7 +3788,6 @@ payload:
   - DOMAIN,agn.aty.cp45.ott.cibntv.net
   - DOMAIN,agn.aty.snmsohu.aisee.tv
   - DOMAIN,agn.aty.sohu.com
-  - DOMAIN,agr.voiceads.cn
   - DOMAIN,agriprecision.net.daraz.com
   - DOMAIN,agro.net.ru
   - DOMAIN,agstat.html5.qq.com
@@ -4643,6 +4640,7 @@ payload:
   - DOMAIN,api.intensifier.de
   - DOMAIN,api.intentiq.com
   - DOMAIN,api.itaoxiaoshuo.com
+  - DOMAIN,api.iterative.ly
   - DOMAIN,api.kameleoon.com
   - DOMAIN,api.keele-nnw-leis-mc-leis.net.daraz.com
   - DOMAIN,api.kiip.me
@@ -7015,6 +7013,7 @@ payload:
   - DOMAIN,cdn.wibiya.com
   - DOMAIN,cdn.wuyou.ca
   - DOMAIN,cdn.xianliao.me
+  - DOMAIN,cdn.yanews24.com
   - DOMAIN,cdn.ycxjtd.com
   - DOMAIN,cdn.yottos.com
   - DOMAIN,cdn.zampda.net
@@ -9296,6 +9295,7 @@ payload:
   - DOMAIN,d3iz6lralvg77g.cloudfront.net
   - DOMAIN,d3j1weegxvu8ns.cloudfront.net
   - DOMAIN,d3j3yrurxcqogk.cloudfront.net
+  - DOMAIN,d3j7esvm4tntxq.cloudfront.net
   - DOMAIN,d3k68ig7ckr3r6.cloudfront.net
   - DOMAIN,d3kblkhdtjv0tf.cloudfront.net
   - DOMAIN,d3kpkrgd3aj4o7.cloudfront.net
@@ -11540,7 +11540,6 @@ payload:
   - DOMAIN,f.hongm.com
   - DOMAIN,f.novanet.vn
   - DOMAIN,f.xyu.tv
-  - DOMAIN,f05098.privacy4browsers.com
   - DOMAIN,f0nn.oney.fr
   - DOMAIN,f1.ichong123.com
   - DOMAIN,f1.lutouwang.net
@@ -12328,6 +12327,7 @@ payload:
   - DOMAIN,gerbil.buf.build
   - DOMAIN,germanywww.partner.net.daraz.com
   - DOMAIN,get.anthem.com
+  - DOMAIN,get.cryptobrowser.site
   - DOMAIN,get.davincisgold.com
   - DOMAIN,get.docusign.com
   - DOMAIN,get.hydrosystemsco.com
@@ -13456,6 +13456,7 @@ payload:
   - DOMAIN,guanaco.homeandgardenmakeover.com
   - DOMAIN,guanaco.shelter.stream
   - DOMAIN,guang.sdsgwy.com
+  - DOMAIN,guang1.zhakao.cn
   - DOMAIN,guardiancu.actonservice.com
   - DOMAIN,guardiandigitalcomparison.co.uk
   - DOMAIN,guelvp.1111.com.tw
@@ -16612,6 +16613,7 @@ payload:
   - DOMAIN,logger.cloudmobi.net
   - DOMAIN,logger.co.kr
   - DOMAIN,logger.eigene.io
+  - DOMAIN,logger.goeuro.com
   - DOMAIN,logger.ivi.ru
   - DOMAIN,logger.kataweb.it
   - DOMAIN,logger.nerdwallet.com
@@ -16984,7 +16986,6 @@ payload:
   - DOMAIN,m.mxguan.com
   - DOMAIN,m.myams.cn
   - DOMAIN,m.mysty.com.cn
-  - DOMAIN,m.nchet.com
   - DOMAIN,m.nejup.com
   - DOMAIN,m.niegg.com
   - DOMAIN,m.nkjfzq43034.cn
@@ -24467,6 +24468,7 @@ payload:
   - DOMAIN,serrano.hardwareheaven.com
   - DOMAIN,serv.tooplay.com
   - DOMAIN,serve.freegaypix.com
+  - DOMAIN,serve.mediayan.com
   - DOMAIN,serve.mercyships.org
   - DOMAIN,serve.popads.net
   - DOMAIN,serve.prestigecasino.com
@@ -24806,6 +24808,7 @@ payload:
   - DOMAIN,slot.union.ucweb.com
   - DOMAIN,sloth.luro.io
   - DOMAIN,slotomania.newzgames.com
+  - DOMAIN,slotscity.g2afse.com
   - DOMAIN,sls2.loisirsencheres.com
   - DOMAIN,sltint.adv.ott.cibntv.net
   - DOMAIN,slug.vatsim.uk
@@ -26272,6 +26275,7 @@ payload:
   - DOMAIN,smtc.jetstar.com
   - DOMAIN,smtc.qantas.com
   - DOMAIN,smtc.qantas.com.au
+  - DOMAIN,smtp.macau.ctm.net
   - DOMAIN,smtx.belfius.be
   - DOMAIN,smtx.lastminute.com.au
   - DOMAIN,smtx.travel.com.au
@@ -26780,6 +26784,7 @@ payload:
   - DOMAIN,ssl.trace.zhiziyun.com
   - DOMAIN,ssl.vatanclick.ir
   - DOMAIN,ssl.woshishuish.top
+  - DOMAIN,ssl.zy3dku.cn
   - DOMAIN,ssl2.gdqifang.com
   - DOMAIN,sslanalytics.sixt.de
   - DOMAIN,sslanalytics.sixt.nl
@@ -27284,6 +27289,7 @@ payload:
   - DOMAIN,static.m.sjzhushou.com
   - DOMAIN,static.mackeeper.com
   - DOMAIN,static.masoffer.net
+  - DOMAIN,static.mct01.com
   - DOMAIN,static.mediav.com
   - DOMAIN,static.mntzm.com
   - DOMAIN,static.mvot.vn
@@ -28341,6 +28347,7 @@ payload:
   - DOMAIN,t.dsp.mediav.com
   - DOMAIN,t.dtscdn.com
   - DOMAIN,t.eharmony.com
+  - DOMAIN,t.enbw.com
   - DOMAIN,t.etraveli.com
   - DOMAIN,t.fatcatstar.com
   - DOMAIN,t.felmat.net
@@ -28592,6 +28599,8 @@ payload:
   - DOMAIN,taylorshellfish.actonservice.com
   - DOMAIN,tb.code.twyxi.com
   - DOMAIN,tb.mybb.ru
+  - DOMAIN,tb060x.corp.youdao.com
+  - DOMAIN,tb104x.corp.youdao.com
   - DOMAIN,tbe.tom.ru
   - DOMAIN,tbm.net.toom.de
   - DOMAIN,tbm.snssdk.com
@@ -28634,12 +28643,15 @@ payload:
   - DOMAIN,tdep.suncamp.pl
   - DOMAIN,tdep.teamnijhuis.com
   - DOMAIN,tdep.theofficeservice.com
+  - DOMAIN,tdep.vacansoleil.be
+  - DOMAIN,tdep.vacansoleil.co.uk
   - DOMAIN,tdep.vacansoleil.de
   - DOMAIN,tdep.vacansoleil.dk
   - DOMAIN,tdep.vacansoleil.fr
   - DOMAIN,tdep.vacansoleil.hu
   - DOMAIN,tdep.vacansoleil.it
   - DOMAIN,tdep.vacansoleil.nl
+  - DOMAIN,tdep.vacansoleil.pl
   - DOMAIN,tdf1.admyjob.com
   - DOMAIN,tdf1.easyviaggio.com
   - DOMAIN,tdf1.easyviajar.com
@@ -29616,6 +29628,7 @@ payload:
   - DOMAIN,track.wildblue.com
   - DOMAIN,track.written.com
   - DOMAIN,track.xtrasize.nl
+  - DOMAIN,track.yello.de
   - DOMAIN,track.yellostrom.de
   - DOMAIN,track.yfret.com
   - DOMAIN,track.yieldsoftware.com
@@ -30540,6 +30553,7 @@ payload:
   - DOMAIN,um2.eqads.com
   - DOMAIN,uma.gtags.net
   - DOMAIN,umami.nordiskehandel.cloud
+  - DOMAIN,umami.wakarimasen.moe
   - DOMAIN,umc.danuoyi.alicdn.com
   - DOMAIN,umcicv.europcar.com
   - DOMAIN,umengacs.m.taobao.com
@@ -30683,7 +30697,6 @@ payload:
   - DOMAIN,usage.influxdata.com
   - DOMAIN,usage.seibert-media.io
   - DOMAIN,usatoday.app.ur.gcion.com
-  - DOMAIN,usd.sierra-boa.com
   - DOMAIN,usdtop.58.com
   - DOMAIN,useg.nextdigital.com.hk
   - DOMAIN,usejj.wangkl.com
@@ -31642,6 +31655,7 @@ payload:
   - DOMAIN,wmedia-track.uc.cn
   - DOMAIN,wmeng.feihuadns.com
   - DOMAIN,wn.pos.baidu.com
+  - DOMAIN,wn.x.jd.com
   - DOMAIN,wncs.7ez4.cn
   - DOMAIN,wneia.iaskhot.com
   - DOMAIN,wo.wormland.de
@@ -32735,6 +32749,7 @@ payload:
   - DOMAIN,z1.zhishidu.com
   - DOMAIN,z1hihu.xmcimg.com
   - DOMAIN,z2.cnywst.com
+  - DOMAIN,z2.lnymd.com
   - DOMAIN,z2.yunl1.com
   - DOMAIN,z2.zhishidu.com
   - DOMAIN,z888.izhufu.net
