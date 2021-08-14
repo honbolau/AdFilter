@@ -1,11 +1,11 @@
-# Checksum: MTYyODgxNjM1MAo=
+# Checksum: MTYyODkwMjQ4OAo=
 # Title: Zhijie's Ad Filter for Quantumult (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210813-0
-# TimeUpdated: 2021-08-13T00:59:10+00:00
+# Version: 1.1.8-20210814-0
+# TimeUpdated: 2021-08-14T00:54:48+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32886
+# Total: 32912
 DOMAIN,0.nextyourcontent.com,REJECT
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
@@ -215,12 +215,12 @@ DOMAIN,377d936c10e6811f484c-6402e46c712497f58e3f77a59f47bbd5.r17.cf2.rackcdn.com
 DOMAIN,380.bu2z.com,REJECT
 DOMAIN,397c0.admaster.com.cn,REJECT
 DOMAIN,3d.shophumanoid.com,REJECT
-DOMAIN,3dm.huya.com,REJECT
 DOMAIN,3g.990.net,REJECT
 DOMAIN,3m.mediav.com,REJECT
 DOMAIN,3p-geo.yahoo.com,REJECT
 DOMAIN,3p-udc.yahoo.com,REJECT
 DOMAIN,3rd.t.sohu.com,REJECT
+DOMAIN,3wz6z.bchuangpi.cn,REJECT
 DOMAIN,4-partner.net.daraz.com,REJECT
 DOMAIN,4.up.qingdaonews.com,REJECT
 DOMAIN,4008813318.com.cn,REJECT
@@ -444,6 +444,7 @@ DOMAIN,a.hsbianma.com,REJECT
 DOMAIN,a.hstrck.com,REJECT
 DOMAIN,a.imgso.cn,REJECT
 DOMAIN,a.intercityhotel.com,REJECT
+DOMAIN,a.itiexue.net,REJECT
 DOMAIN,a.jaz-hotel.com,REJECT
 DOMAIN,a.jyeoo.com,REJECT
 DOMAIN,a.kidstaff.net,REJECT
@@ -454,6 +455,7 @@ DOMAIN,a.livesportmedia.eu,REJECT
 DOMAIN,a.lz13.cn,REJECT
 DOMAIN,a.marketns.emailvision.net.daraz.com,REJECT
 DOMAIN,a.mayakinfo.ru,REJECT
+DOMAIN,a.mct01.com,REJECT
 DOMAIN,a.medialaancdn.be,REJECT
 DOMAIN,a.medialytics.com,REJECT
 DOMAIN,a.meteonova.ru,REJECT
@@ -462,6 +464,7 @@ DOMAIN,a.mhthemes.com,REJECT
 DOMAIN,a.miyudaquan.top,REJECT
 DOMAIN,a.mktw.net,REJECT
 DOMAIN,a.mobify.com,REJECT
+DOMAIN,a.mt.ru,REJECT
 DOMAIN,a.muloqot.uz,REJECT
 DOMAIN,a.nissyoku.co.jp,REJECT
 DOMAIN,a.nowscore.com,REJECT
@@ -1459,7 +1462,6 @@ DOMAIN,ad.abum.com,REJECT
 DOMAIN,ad.accesstrade.vn,REJECT
 DOMAIN,ad.ad-stir.com,REJECT
 DOMAIN,ad.adfurikun.jp,REJECT
-DOMAIN,ad.adhouyi.cn,REJECT
 DOMAIN,ad.admitad.com,REJECT
 DOMAIN,ad.adriver.ru,REJECT
 DOMAIN,ad.advst.cp33.ott.cibntv.net,REJECT
@@ -1607,6 +1609,7 @@ DOMAIN,ad.huajiao.com,REJECT
 DOMAIN,ad.hutor.ru,REJECT
 DOMAIN,ad.hyena.cz,REJECT
 DOMAIN,ad.hzyoka.com,REJECT
+DOMAIN,ad.ibookstar.com,REJECT
 DOMAIN,ad.icheck.com.vn,REJECT
 DOMAIN,ad.iinfo.cz,REJECT
 DOMAIN,ad.ikonke.com,REJECT
@@ -1811,7 +1814,6 @@ DOMAIN,ad.vrvm.com,REJECT
 DOMAIN,ad.wang502.com,REJECT
 DOMAIN,ad.wappalyzer.com,REJECT
 DOMAIN,ad.wavu.hu,REJECT
-DOMAIN,ad.way.cz,REJECT
 DOMAIN,ad.webnext.ru,REJECT
 DOMAIN,ad.webshark.pl,REJECT
 DOMAIN,ad.weixin.qq.com,REJECT
@@ -3949,6 +3951,7 @@ DOMAIN,amx.ltaome.cn,REJECT
 DOMAIN,amz.steamprices.com,REJECT
 DOMAIN,an.avast.com,REJECT
 DOMAIN,an.batmobi.net,REJECT
+DOMAIN,an.biocoop.cn,REJECT
 DOMAIN,an.blogis.org,REJECT
 DOMAIN,an.constantcontact.com,REJECT
 DOMAIN,an.dongphim.net,REJECT
@@ -4567,6 +4570,7 @@ DOMAIN,api.adnet.mob.com,REJECT
 DOMAIN,api.adnsafe.org,REJECT
 DOMAIN,api.ads.watchabc.go.com,REJECT
 DOMAIN,api.adtimaserver.vn,REJECT
+DOMAIN,api.adv.ott.cibntv.net,REJECT
 DOMAIN,api.adxpand.com,REJECT
 DOMAIN,api.afdback.ppsimg.com,REJECT
 DOMAIN,api.aiclk.com,REJECT
@@ -5081,6 +5085,7 @@ DOMAIN,at-img1.tdimg.com,REJECT
 DOMAIN,at-img2.tdimg.com,REJECT
 DOMAIN,at-img3.tdimg.com,REJECT
 DOMAIN,at.atwola.com,REJECT
+DOMAIN,at.mct01.com,REJECT
 DOMAIN,at.pagesjaunes.fr,REJECT
 DOMAIN,at.umeng.com,REJECT
 DOMAIN,at1.doubanio.com,REJECT
@@ -5420,6 +5425,7 @@ DOMAIN,baichuan-sdk.alicdn.com,REJECT
 DOMAIN,baichuan.baidu.com,REJECT
 DOMAIN,baid1.okooo.com,REJECT
 DOMAIN,baidu.dsp.tansuotv.com,REJECT
+DOMAIN,baidu.tlssyg.com,REJECT
 DOMAIN,baidu1.codejie.net,REJECT
 DOMAIN,baidu1.weather.com.cn,REJECT
 DOMAIN,baidua1.cardbaobao.com,REJECT
@@ -5646,6 +5652,7 @@ DOMAIN,bbdm.051661.com,REJECT
 DOMAIN,bbn.gzblogger.cn,REJECT
 DOMAIN,bbn.img.com.ua,REJECT
 DOMAIN,bbnn.999xs.com,REJECT
+DOMAIN,bbs.search.nkwwnx.com,REJECT
 DOMAIN,bbsimages.zkxf119.com,REJECT
 DOMAIN,bbwqcs.vidaxl.ee,REJECT
 DOMAIN,bc.5.p2l.info,REJECT
@@ -5736,6 +5743,7 @@ DOMAIN,bdjs.guangyuanol.cn,REJECT
 DOMAIN,bdjs.gushiju.net,REJECT
 DOMAIN,bdjs.jb51.net,REJECT
 DOMAIN,bdjs.kaixin100.com,REJECT
+DOMAIN,bdjs.laonanren.com,REJECT
 DOMAIN,bdjs.shangc.net,REJECT
 DOMAIN,bdjs.uimg.cn,REJECT
 DOMAIN,bdjsym.guangyuanol.cn,REJECT
@@ -6292,6 +6300,7 @@ DOMAIN,bwp.download.com,REJECT
 DOMAIN,bwp.lastfm.com.com,REJECT
 DOMAIN,bwp.theinsider.com.com,REJECT
 DOMAIN,bwstatistics.sapoapps.vn,REJECT
+DOMAIN,bxs.bilandgo.com,REJECT
 DOMAIN,bxumze.dispatch.com,REJECT
 DOMAIN,bxumze.jacksonville.com,REJECT
 DOMAIN,by.bollore-logistics.com,REJECT
@@ -6372,6 +6381,7 @@ DOMAIN,c.europewest-ns.emailvision.net.daraz.com,REJECT
 DOMAIN,c.f1zd.com,REJECT
 DOMAIN,c.fi.msn.com,REJECT
 DOMAIN,c.fr.msn.com,REJECT
+DOMAIN,c.future888.net,REJECT
 DOMAIN,c.gazetevatan.com,REJECT
 DOMAIN,c.gdt.qq.com,REJECT
 DOMAIN,c.gr.msn.com,REJECT
@@ -6781,7 +6791,6 @@ DOMAIN,cc.conforama.es,REJECT
 DOMAIN,cc.cornesmotors.com,REJECT
 DOMAIN,cc.hb.omtrdc.net,REJECT
 DOMAIN,cc.m.jd.com,REJECT
-DOMAIN,cc.moquanad.com,REJECT
 DOMAIN,cc.pennstatehealth.org,REJECT
 DOMAIN,cc.st123.info,REJECT
 DOMAIN,cc.swiftype.com,REJECT
@@ -7607,6 +7616,7 @@ DOMAIN,cm.jd.com,REJECT
 DOMAIN,cm.l.qq.com,REJECT
 DOMAIN,cm.lianmeng.360.cn,REJECT
 DOMAIN,cm.masky.biddingx.com,REJECT
+DOMAIN,cm.mct01.com,REJECT
 DOMAIN,cm.mediav.com,REJECT
 DOMAIN,cm.netseer.com,REJECT
 DOMAIN,cm.passport.iqiyi.com,REJECT
@@ -7968,6 +7978,7 @@ DOMAIN,connect.content-hub.netapp.com,REJECT
 DOMAIN,connect.customers.netapp.com,REJECT
 DOMAIN,connect.danone.es,REJECT
 DOMAIN,connect.darden.virginia.edu,REJECT
+DOMAIN,connect.datafiletechnologies.com,REJECT
 DOMAIN,connect.digi.com,REJECT
 DOMAIN,connect.ekomi.de,REJECT
 DOMAIN,connect.est.org.uk,REJECT
@@ -10138,6 +10149,7 @@ DOMAIN,dm1.yongkao.com,REJECT
 DOMAIN,dm1.zjydt.com,REJECT
 DOMAIN,dm50.jkyd.net,REJECT
 DOMAIN,dm7gsepi27zsx.cloudfront.net,REJECT
+DOMAIN,dma.15tianqi.com,REJECT
 DOMAIN,dmacore.kejet.com,REJECT
 DOMAIN,dmacore.kejet.net,REJECT
 DOMAIN,dmapp.youku.com,REJECT
@@ -10525,6 +10537,7 @@ DOMAIN,e-ssl.apsalar.com,REJECT
 DOMAIN,e-stat.huya.com,REJECT
 DOMAIN,e-vcdn.anthill.vn,REJECT
 DOMAIN,e-wei.com.cn,REJECT
+DOMAIN,e.2hqd0b.cn,REJECT
 DOMAIN,e.2l06k.cn,REJECT
 DOMAIN,e.51xmgys.com,REJECT
 DOMAIN,e.53trya.cn,REJECT
@@ -10533,7 +10546,9 @@ DOMAIN,e.7clink.com,REJECT
 DOMAIN,e.91.com,REJECT
 DOMAIN,e.958so.cn,REJECT
 DOMAIN,e.ad.xiaomi.com,REJECT
+DOMAIN,e.aduiz.com,REJECT
 DOMAIN,e.ailix.cn,REJECT
+DOMAIN,e.anmeilai.net,REJECT
 DOMAIN,e.apsalar.com,REJECT
 DOMAIN,e.apxyz.com,REJECT
 DOMAIN,e.baidu.com,REJECT
@@ -10559,6 +10574,7 @@ DOMAIN,e.enjuk.com,REJECT
 DOMAIN,e.equuscs.com,REJECT
 DOMAIN,e.fdm.dk,REJECT
 DOMAIN,e.funnymel.com,REJECT
+DOMAIN,e.future888.net,REJECT
 DOMAIN,e.gcaog.com,REJECT
 DOMAIN,e.gomev.cn,REJECT
 DOMAIN,e.gsycdb.com,REJECT
@@ -10582,8 +10598,11 @@ DOMAIN,e.nbkbgd.cn,REJECT
 DOMAIN,e.net.daraz.com,REJECT
 DOMAIN,e.nexac.com,REJECT
 DOMAIN,e.oaktreemobility.co.uk,REJECT
+DOMAIN,e.p98ytk.cn,REJECT
 DOMAIN,e.passfolio.us,REJECT
+DOMAIN,e.picbr.com,REJECT
 DOMAIN,e.poonscn.com,REJECT
+DOMAIN,e.qj10b.cn,REJECT
 DOMAIN,e.qq.com,REJECT
 DOMAIN,e.qxfly.com,REJECT
 DOMAIN,e.replacementdevicelawsuit.com,REJECT
@@ -10752,6 +10771,7 @@ DOMAIN,ecmc.bdimg.com,REJECT
 DOMAIN,ecn-analytics-nssl.emc.com,REJECT
 DOMAIN,ecn-analytics.emc.com,REJECT
 DOMAIN,eco.actonservice.com,REJECT
+DOMAIN,eco.hn765f.xyz,REJECT
 DOMAIN,eco.taobao.com,REJECT
 DOMAIN,ecomgxh.kuwo.cn,REJECT
 DOMAIN,ecommstats.s3.amazonaws.com,REJECT
@@ -10780,6 +10800,7 @@ DOMAIN,ed.large.be,REJECT
 DOMAIN,ed.large.nl,REJECT
 DOMAIN,eddy.noneto.com,REJECT
 DOMAIN,edeals.rhymebiz.com,REJECT
+DOMAIN,edesf.xyzxmark.cn,REJECT
 DOMAIN,edge.adobedc.net,REJECT
 DOMAIN,edge.bredg.com,REJECT
 DOMAIN,edge.quantserve.com,REJECT
@@ -10823,6 +10844,7 @@ DOMAIN,ee.sightful.nl,REJECT
 DOMAIN,ee.u0r9.cn,REJECT
 DOMAIN,ee.wh723.cn,REJECT
 DOMAIN,ee.xfya3.cn,REJECT
+DOMAIN,ee.xlhm88.cn,REJECT
 DOMAIN,ee.yg10x.cn,REJECT
 DOMAIN,ee.zowmgxpz.cn,REJECT
 DOMAIN,eeco-net.actonservice.com,REJECT
@@ -11335,6 +11357,7 @@ DOMAIN,euwe-marketing.net.daraz.com,REJECT
 DOMAIN,euwidget.imshopping.com,REJECT
 DOMAIN,euwmarketing.net.daraz.com,REJECT
 DOMAIN,ev.kck.st,REJECT
+DOMAIN,ev.tpocdm.com,REJECT
 DOMAIN,eva-ad.24hstatic.com,REJECT
 DOMAIN,event-api.contactatonce.co.uk,REJECT
 DOMAIN,event-api.contactatonce.com,REJECT
@@ -11546,7 +11569,6 @@ DOMAIN,f1.meishichina.com,REJECT
 DOMAIN,f1.p0y.cn,REJECT
 DOMAIN,f1.pig66.com,REJECT
 DOMAIN,f1.zaojv.com,REJECT
-DOMAIN,f18085.privacy4browsers.com,REJECT
 DOMAIN,f2.p0y.cn,REJECT
 DOMAIN,f3.souid.com,REJECT
 DOMAIN,f5.dfcwg.com,REJECT
@@ -13498,6 +13520,7 @@ DOMAIN,gxjekl.hdsupplysolutions.com,REJECT
 DOMAIN,gxjnyy.contorion.fr,REJECT
 DOMAIN,gyatml.piatraonline.ro,REJECT
 DOMAIN,gybles.shopee.ph,REJECT
+DOMAIN,gyca9f.dahuangcheng.cn,REJECT
 DOMAIN,gycyms.backmarket.de,REJECT
 DOMAIN,gyvcwd.cdiscount.com,REJECT
 DOMAIN,gyvyoc.dermoeczanem.com,REJECT
@@ -13839,7 +13862,6 @@ DOMAIN,hot.useractive.com,REJECT
 DOMAIN,hotchat-im.iqiyi.com,REJECT
 DOMAIN,hotel-marketing.hrs.com,REJECT
 DOMAIN,hotelscombined.com.au,REJECT
-DOMAIN,hotlinking.dosmil.imap.cc,REJECT
 DOMAIN,hotupgrade.hpplay.cn,REJECT
 DOMAIN,hotwords.com.br,REJECT
 DOMAIN,houdini.haaretz.co.il,REJECT
@@ -14338,6 +14360,7 @@ DOMAIN,img.xiacaidd.com,REJECT
 DOMAIN,img.yangshengtang123.com,REJECT
 DOMAIN,img.yingshidiguo.cn,REJECT
 DOMAIN,img.zeruinong.com,REJECT
+DOMAIN,img.zsj18.com,REJECT
 DOMAIN,img.zuowen8.com,REJECT
 DOMAIN,img.zuowenwang.net,REJECT
 DOMAIN,img0.egou.com,REJECT
@@ -14384,7 +14407,6 @@ DOMAIN,imgg.mgid.com,REJECT
 DOMAIN,imgn.dt00.net,REJECT
 DOMAIN,imgn.dt07.com,REJECT
 DOMAIN,imgp.cymzc.com,REJECT
-DOMAIN,imgpop.googlecode.com,REJECT
 DOMAIN,imgpromo.easyrencontre.com,REJECT
 DOMAIN,imgs.dlads.cn,REJECT
 DOMAIN,imgsreview.dftoutiao.com,REJECT
@@ -15100,7 +15122,6 @@ DOMAIN,interactive.forthnet.gr,REJECT
 DOMAIN,interactive.huanqiu.com,REJECT
 DOMAIN,interactive.tinnhanhchungkhoan.vn,REJECT
 DOMAIN,interest.mix.sina.com.cn,REJECT
-DOMAIN,intermrkts.vo.llnwd.net,REJECT
 DOMAIN,intern.forskning.no,REJECT
 DOMAIN,internalcomms.hubinternational.com,REJECT
 DOMAIN,internalforms.legalsolutions.thomsonreuters.co.uk,REJECT
@@ -15288,6 +15309,7 @@ DOMAIN,j.uralweb.ru,REJECT
 DOMAIN,j.wan.liebao.cn,REJECT
 DOMAIN,j.wit.qq.com,REJECT
 DOMAIN,j.xingshangnet.com,REJECT
+DOMAIN,j.zhdap.com,REJECT
 DOMAIN,j1.ax.xrea.com,REJECT
 DOMAIN,j1.piaobing.com,REJECT
 DOMAIN,j17.shangc.net,REJECT
@@ -15438,6 +15460,7 @@ DOMAIN,jpaasne.e.shifen.com,REJECT
 DOMAIN,jpaatr.astellas.jp,REJECT
 DOMAIN,jpg.inte.sogoucdn.com,REJECT
 DOMAIN,jpg1.oss-cn-beijing.aliyuncs.com,REJECT
+DOMAIN,jph.itiexue.net,REJECT
 DOMAIN,jpluzr.autoc-one.jp,REJECT
 DOMAIN,jponmlkj.carte-gr.total.fr,REJECT
 DOMAIN,jptobh.network.com.tr,REJECT
@@ -15485,6 +15508,7 @@ DOMAIN,js.dilidd.com,REJECT
 DOMAIN,js.duotegame.com,REJECT
 DOMAIN,js.ea3w.com,REJECT
 DOMAIN,js.fc090.com,REJECT
+DOMAIN,js.feitian001.com,REJECT
 DOMAIN,js.fengniao.com,REJECT
 DOMAIN,js.fhxiaoshuo.com,REJECT
 DOMAIN,js.firefang.cn,REJECT
@@ -15539,7 +15563,6 @@ DOMAIN,js.xtgreat.com,REJECT
 DOMAIN,js.xuexila.com,REJECT
 DOMAIN,js.xz6d.com,REJECT
 DOMAIN,js.yalongrope.cn,REJECT
-DOMAIN,js.yanyue.cn,REJECT
 DOMAIN,js.yixui.com,REJECT
 DOMAIN,js.yoyi.tv,REJECT
 DOMAIN,js.zhuoyaju.com,REJECT
@@ -15568,6 +15591,7 @@ DOMAIN,js6882.jianbangjiaoyu.com,REJECT
 DOMAIN,js84.enyayinxiang.com,REJECT
 DOMAIN,js883.dragoncent.com,REJECT
 DOMAIN,js883.yongkang6.com,REJECT
+DOMAIN,jsa.15tianqi.com,REJECT
 DOMAIN,jsadsdisplay.cn-beijing.log.aliyuncs.com,REJECT
 DOMAIN,jsapi.html5.qq.com,REJECT
 DOMAIN,jsb.qianzhan.com,REJECT
@@ -16844,6 +16868,7 @@ DOMAIN,m-metrics.capitalone.com,REJECT
 DOMAIN,m-mywfmdev.ext.net.daraz.com,REJECT
 DOMAIN,m.031177.com,REJECT
 DOMAIN,m.0898xlj.cn,REJECT
+DOMAIN,m.118ex.cn,REJECT
 DOMAIN,m.168ey.com,REJECT
 DOMAIN,m.20mao.com,REJECT
 DOMAIN,m.21haodianmt.com,REJECT
@@ -16871,10 +16896,12 @@ DOMAIN,m.admedia.com,REJECT
 DOMAIN,m.adnxs.com,REJECT
 DOMAIN,m.ads.sohu.com,REJECT
 DOMAIN,m.adtiming.com,REJECT
+DOMAIN,m.aduiz.com,REJECT
 DOMAIN,m.adxpop.com,REJECT
 DOMAIN,m.ailix.cn,REJECT
 DOMAIN,m.amazonappservices.com,REJECT
 DOMAIN,m.analytics.126.net,REJECT
+DOMAIN,m.anmeilai.net,REJECT
 DOMAIN,m.anzhuotan.com,REJECT
 DOMAIN,m.api.baifendian.com,REJECT
 DOMAIN,m.apxyz.com,REJECT
@@ -16891,9 +16918,11 @@ DOMAIN,m.biduo.cc,REJECT
 DOMAIN,m.biquge5200.cc,REJECT
 DOMAIN,m.biqugezw.com,REJECT
 DOMAIN,m.bjaoyou.cn,REJECT
+DOMAIN,m.bs641.cn,REJECT
 DOMAIN,m.bsnnk.com,REJECT
 DOMAIN,m.cdntlz.cn,REJECT
 DOMAIN,m.cdxtny.cn,REJECT
+DOMAIN,m.ckaim.com,REJECT
 DOMAIN,m.clkservice.youdao.com,REJECT
 DOMAIN,m.cocounion.com,REJECT
 DOMAIN,m.coenr.com,REJECT
@@ -16926,6 +16955,7 @@ DOMAIN,m.feirs.com,REJECT
 DOMAIN,m.fenrs.com,REJECT
 DOMAIN,m.fhxiaoshuo.com,REJECT
 DOMAIN,m.fouas.com,REJECT
+DOMAIN,m.future888.net,REJECT
 DOMAIN,m.g.pptv.com,REJECT
 DOMAIN,m.game.weibo.cn,REJECT
 DOMAIN,m.gcaog.com,REJECT
@@ -16966,6 +16996,7 @@ DOMAIN,m.lanshiwan.cn,REJECT
 DOMAIN,m.laoqu123.com,REJECT
 DOMAIN,m.lesanmo.top,REJECT
 DOMAIN,m.lfshpt.cn,REJECT
+DOMAIN,m.llaoz.com,REJECT
 DOMAIN,m.lolvsdota.cn,REJECT
 DOMAIN,m.louisan.cn,REJECT
 DOMAIN,m.lousivency.com.cn,REJECT
@@ -16988,15 +17019,16 @@ DOMAIN,m.mysty.com.cn,REJECT
 DOMAIN,m.nejup.com,REJECT
 DOMAIN,m.niegg.com,REJECT
 DOMAIN,m.nkjfzq43034.cn,REJECT
+DOMAIN,m.nq37f.cn,REJECT
 DOMAIN,m.nuoqingck.cn,REJECT
 DOMAIN,m.nydjsm.cn,REJECT
 DOMAIN,m.obeip.com,REJECT
-DOMAIN,m.ocenp.com,REJECT
 DOMAIN,m.oipeirates.online,REJECT
 DOMAIN,m.openv.tv,REJECT
 DOMAIN,m.panda.voiceads.cn,REJECT
 DOMAIN,m.phonthing.com,REJECT
 DOMAIN,m.photoshelter.com,REJECT
+DOMAIN,m.picbr.com,REJECT
 DOMAIN,m.pieaa.com,REJECT
 DOMAIN,m.pl.pornzone.tv,REJECT
 DOMAIN,m.poonscn.com,REJECT
@@ -17052,6 +17084,7 @@ DOMAIN,m.wywna.cn,REJECT
 DOMAIN,m.x81zw.com,REJECT
 DOMAIN,m.xfya3.cn,REJECT
 DOMAIN,m.xhera.cn,REJECT
+DOMAIN,m.xiangchim0.com,REJECT
 DOMAIN,m.xiaoshuodaquan.com,REJECT
 DOMAIN,m.xikedianzi.com.cn,REJECT
 DOMAIN,m.xingxd.com,REJECT
@@ -17134,6 +17167,7 @@ DOMAIN,mac-alert-information-getting-errors.s3-website-us-west-2.amazonaws.com,R
 DOMAIN,mac-osx.message-warning.net,REJECT
 DOMAIN,macaw.ianmitchell.dev,REJECT
 DOMAIN,macaxpower.com.br,REJECT
+DOMAIN,maccms.tan5858.com,REJECT
 DOMAIN,machine.d.ns.emailvision.net.daraz.com,REJECT
 DOMAIN,machinelogic.actonservice.com,REJECT
 DOMAIN,machinewww.partner.net.daraz.com,REJECT
@@ -18000,7 +18034,6 @@ DOMAIN,maxsys.adsame.com,REJECT
 DOMAIN,maz.zba.jp,REJECT
 DOMAIN,mb.5.p2l.info,REJECT
 DOMAIN,mb.hockeybuzz.com,REJECT
-DOMAIN,mb.marathonbet.com,REJECT
 DOMAIN,mb.vesti.ru,REJECT
 DOMAIN,mb.yidianzixun.com,REJECT
 DOMAIN,mb.zam.com,REJECT
@@ -18046,6 +18079,7 @@ DOMAIN,mcs.snssdk.com,REJECT
 DOMAIN,mct.etherscan.com,REJECT
 DOMAIN,mct.paypay.ne.jp,REJECT
 DOMAIN,mczpco.darty.com,REJECT
+DOMAIN,md.1drj.com,REJECT
 DOMAIN,md.5.p2l.info,REJECT
 DOMAIN,md.he9630.com,REJECT
 DOMAIN,md.tvzhe.com,REJECT
@@ -18251,7 +18285,6 @@ DOMAIN,media.net.daraz.com,REJECT
 DOMAIN,media.netpositive.hu,REJECT
 DOMAIN,media.netrefer.com,REJECT
 DOMAIN,media.nk-net.pl,REJECT
-DOMAIN,media.onlineteachers.co.in,REJECT
 DOMAIN,media.ontarionorth.com,REJECT
 DOMAIN,media.pirtek.co.uk,REJECT
 DOMAIN,media.pirtek.nl,REJECT
@@ -19257,7 +19290,6 @@ DOMAIN,mf01.zybang.com,REJECT
 DOMAIN,mf02.zybang.com,REJECT
 DOMAIN,mfan.iclick.com.cn,REJECT
 DOMAIN,mfd.myfirstdressing.com,REJECT
-DOMAIN,mfeed.newzfind.com,REJECT
 DOMAIN,mffmbv.cabaia.fr,REJECT
 DOMAIN,mfg.endeavorb2b.com,REJECT
 DOMAIN,mfleet-lemagg.carte-gr.total.fr,REJECT
@@ -19423,6 +19455,7 @@ DOMAIN,mlb.hb-api.omtrdc.net,REJECT
 DOMAIN,mlb.hb.omtrdc.net,REJECT
 DOMAIN,mlbanners.misrlinks.com,REJECT
 DOMAIN,mldy.wttpgq.cn,REJECT
+DOMAIN,mldy.xdaay.cn,REJECT
 DOMAIN,mldy.yxxgab.cn,REJECT
 DOMAIN,mlib.browsermine.com,REJECT
 DOMAIN,mlinks.fluz.app,REJECT
@@ -19632,6 +19665,7 @@ DOMAIN,ms.bdimg.com,REJECT
 DOMAIN,ms.cnbanbao.com,REJECT
 DOMAIN,ms.cnczjy.com,REJECT
 DOMAIN,ms.continuedsys.cn,REJECT
+DOMAIN,ms.ienkdaccessory.cn,REJECT
 DOMAIN,ms.informaengage.com,REJECT
 DOMAIN,ms.topschooljobs.org,REJECT
 DOMAIN,ms.vipstatic.com,REJECT
@@ -19682,7 +19716,6 @@ DOMAIN,msz3.destinia.cn,REJECT
 DOMAIN,mt.4go.cc,REJECT
 DOMAIN,mt.5.p2l.info,REJECT
 DOMAIN,mt.59wz.com,REJECT
-DOMAIN,mt.sellingrealestatemalta.com,REJECT
 DOMAIN,mta.qq.com,REJECT
 DOMAIN,mtag.mman.kr,REJECT
 DOMAIN,mtbflj.elementaree.ru,REJECT
@@ -19696,9 +19729,9 @@ DOMAIN,mtcvyv.sporx.com,REJECT
 DOMAIN,mtesep.thymematernity.com,REJECT
 DOMAIN,mti.35kds.com,REJECT
 DOMAIN,mtj.baidu.com,REJECT
+DOMAIN,mtl.ttsqgs.com,REJECT
 DOMAIN,mtlog.droid4x.cn,REJECT
 DOMAIN,mto.cgv.vn,REJECT
-DOMAIN,mto.mediatakeout.com,REJECT
 DOMAIN,mto.multiopen.cn,REJECT
 DOMAIN,mtoxtg.tezenis.com,REJECT
 DOMAIN,mtp.spaces.im,REJECT
@@ -19743,6 +19776,7 @@ DOMAIN,mvads.kugou.com,REJECT
 DOMAIN,mvchallenges.s3-website-eu-west-1.amazonaws.com,REJECT
 DOMAIN,mvezin.modernperformance.com,REJECT
 DOMAIN,mvip.zhuba8.com,REJECT
+DOMAIN,mvo.hn765f.xyz,REJECT
 DOMAIN,mvp.mediav.com,REJECT
 DOMAIN,mw-ind.actonservice.com,REJECT
 DOMAIN,mw.adwo.com,REJECT
@@ -23137,7 +23171,6 @@ DOMAIN,s-img.steepto.com,REJECT
 DOMAIN,s-partner.net.daraz.com,REJECT
 DOMAIN,s-sitecatalyst.work.shiseido.co.jp,REJECT
 DOMAIN,s-vop.sundaysky.com,REJECT
-DOMAIN,s.0594529.com,REJECT
 DOMAIN,s.17173cdn.com,REJECT
 DOMAIN,s.35kds.com,REJECT
 DOMAIN,s.360.cn,REJECT
@@ -23175,6 +23208,7 @@ DOMAIN,s.cadent.bloomberglaw.com,REJECT
 DOMAIN,s.caledonenterprise.com,REJECT
 DOMAIN,s.cameratico.com,REJECT
 DOMAIN,s.cdn.u17t.com,REJECT
+DOMAIN,s.ciouwap.com,REJECT
 DOMAIN,s.clickability.com,REJECT
 DOMAIN,s.clickiocdn.com,REJECT
 DOMAIN,s.clicktex.ru,REJECT
@@ -23269,7 +23303,6 @@ DOMAIN,s.share.baidu.com,REJECT
 DOMAIN,s.sick.com,REJECT
 DOMAIN,s.simcoe.com,REJECT
 DOMAIN,s.soha.vn,REJECT
-DOMAIN,s.speedostream.com,REJECT
 DOMAIN,s.sporks.space,REJECT
 DOMAIN,s.srvsynd.com,REJECT
 DOMAIN,s.staqnet.com,REJECT
@@ -23348,7 +23381,6 @@ DOMAIN,s2.everydaygayporn.com,REJECT
 DOMAIN,s2.hiapk.com,REJECT
 DOMAIN,s2.huoying666.com,REJECT
 DOMAIN,s2.kuaibaopay.com,REJECT
-DOMAIN,s2.leshi123.cc,REJECT
 DOMAIN,s2.play.estream.to,REJECT
 DOMAIN,s2.play.estream.xyz,REJECT
 DOMAIN,s2.play.vidzi.tv,REJECT
@@ -23930,7 +23962,6 @@ DOMAIN,scripts.linkz.net,REJECT
 DOMAIN,scripts.mailfire.io,REJECT
 DOMAIN,scripts.mrpiracy.xyz,REJECT
 DOMAIN,scripts.psyma.com,REJECT
-DOMAIN,scripts.verticalacuity.com,REJECT
 DOMAIN,scripttags.jst.ai,REJECT
 DOMAIN,scrooge.nbc11.com,REJECT
 DOMAIN,scrooge.nbc4.com,REJECT
@@ -24467,7 +24498,6 @@ DOMAIN,serjbelot.blogspot.com,REJECT
 DOMAIN,serrano.hardwareheaven.com,REJECT
 DOMAIN,serv.tooplay.com,REJECT
 DOMAIN,serve.freegaypix.com,REJECT
-DOMAIN,serve.mediayan.com,REJECT
 DOMAIN,serve.mercyships.org,REJECT
 DOMAIN,serve.popads.net,REJECT
 DOMAIN,serve.prestigecasino.com,REJECT
@@ -24756,7 +24786,6 @@ DOMAIN,sites.postnord.dk,REJECT
 DOMAIN,sites.postnord.fi,REJECT
 DOMAIN,sites.postnord.no,REJECT
 DOMAIN,sites.postnord.se,REJECT
-DOMAIN,sitescout-video-cdn.edgesuite.net,REJECT
 DOMAIN,sitestats.tiscali.co.uk,REJECT
 DOMAIN,sitetagger.co.uk,REJECT
 DOMAIN,sitti.co.id,REJECT
@@ -26274,7 +26303,6 @@ DOMAIN,smt.admaster.com.cn,REJECT
 DOMAIN,smtc.jetstar.com,REJECT
 DOMAIN,smtc.qantas.com,REJECT
 DOMAIN,smtc.qantas.com.au,REJECT
-DOMAIN,smtp.macau.ctm.net,REJECT
 DOMAIN,smtx.belfius.be,REJECT
 DOMAIN,smtx.lastminute.com.au,REJECT
 DOMAIN,smtx.travel.com.au,REJECT
@@ -26758,6 +26786,7 @@ DOMAIN,ssl-www.partner.net.daraz.com,REJECT
 DOMAIN,ssl-youtube.2cnt.net,REJECT
 DOMAIN,ssl.aafp.org,REJECT
 DOMAIN,ssl.affiliate.logitravel.com,REJECT
+DOMAIN,ssl.bbba8.com,REJECT
 DOMAIN,ssl.bbbr8.com,REJECT
 DOMAIN,ssl.citgo.com,REJECT
 DOMAIN,ssl.modernmedicine.com,REJECT
@@ -28284,6 +28313,7 @@ DOMAIN,t.10er-tagesticket.de,REJECT
 DOMAIN,t.20-fahrten-bahn.de,REJECT
 DOMAIN,t.3apf.com,REJECT
 DOMAIN,t.58xs.com,REJECT
+DOMAIN,t.91dijiu.com,REJECT
 DOMAIN,t.9gag.com,REJECT
 DOMAIN,t.a3cloud.net,REJECT
 DOMAIN,t.abloy.com,REJECT
@@ -28384,7 +28414,6 @@ DOMAIN,t.karte.io,REJECT
 DOMAIN,t.kck.st,REJECT
 DOMAIN,t.kinliser.co.jp,REJECT
 DOMAIN,t.ksrong.com,REJECT
-DOMAIN,t.l.qq.com,REJECT
 DOMAIN,t.leady.com,REJECT
 DOMAIN,t.leady.cz,REJECT
 DOMAIN,t.lidyana.com,REJECT
@@ -28565,7 +28594,6 @@ DOMAIN,tangram.e.qq.com,REJECT
 DOMAIN,tanzanite.infomine.com,REJECT
 DOMAIN,tao.37wan.com,REJECT
 DOMAIN,tap-nexus.appspot.com,REJECT
-DOMAIN,tap.more-results.net,REJECT
 DOMAIN,tapdaq-adverts.global.ssl.fastly.net,REJECT
 DOMAIN,tapestry.tapad.com,REJECT
 DOMAIN,tapir.analyse.org,REJECT
@@ -29415,7 +29443,6 @@ DOMAIN,trace2.rtbasia.com,REJECT
 DOMAIN,trace21.dsb-ebusiness.com,REJECT
 DOMAIN,tracelog-debug.aiclk.com,REJECT
 DOMAIN,traces.sr.roku.com,REJECT
-DOMAIN,traceybell.co.uk,REJECT
 DOMAIN,track-aws.notsy.io,REJECT
 DOMAIN,track-east.mobileadtrading.com,REJECT
 DOMAIN,track.47news.jp,REJECT
@@ -29523,7 +29550,6 @@ DOMAIN,track.msadcenter.sax.com,REJECT
 DOMAIN,track.msadcenter.sgq.com,REJECT
 DOMAIN,track.msadcenter.shy.com,REJECT
 DOMAIN,track.msadcenter.szc.com,REJECT
-DOMAIN,track.msadcenter.tirj.com,REJECT
 DOMAIN,track.msadcenter.tnuw.com,REJECT
 DOMAIN,track.msadcenter.toj.com,REJECT
 DOMAIN,track.msadcenter.tux.com,REJECT
@@ -30170,7 +30196,6 @@ DOMAIN,tran.mediav.com,REJECT
 DOMAIN,tran.news.so.com,REJECT
 DOMAIN,transform.mycwt.com,REJECT
 DOMAIN,travel.onlinevacationcenter.com,REJECT
-DOMAIN,travelmail.traveltek.net,REJECT
 DOMAIN,travelmarketreport.actonservice.com,REJECT
 DOMAIN,traveltracking.check24.de,REJECT
 DOMAIN,travis.bosscasinos.com,REJECT
@@ -30331,6 +30356,7 @@ DOMAIN,ttcu-union.actonservice.com,REJECT
 DOMAIN,ttdetect.staticimgfarm.com,REJECT
 DOMAIN,ttfpil.2dehands.be,REJECT
 DOMAIN,ttjx-online.cn-hangzhou.log.aliyuncs.com,REJECT
+DOMAIN,ttmetrics.jcpenney.com,REJECT
 DOMAIN,ttmsg.qianqian.com,REJECT
 DOMAIN,ttnet.yandex.com.tr,REJECT
 DOMAIN,ttpack.qianqian.com,REJECT
@@ -30472,7 +30498,6 @@ DOMAIN,ubmcmm.baidustatic.com,REJECT
 DOMAIN,ubmcvideo.baidustatic.com,REJECT
 DOMAIN,ubmitt.heine.ch,REJECT
 DOMAIN,ubt.berlingskemedia.net,REJECT
-DOMAIN,ubuntudeal.co.za,REJECT
 DOMAIN,ubvsjh.pointtown.com,REJECT
 DOMAIN,ubxvdx.accuweather.com,REJECT
 DOMAIN,uc.ucweb.com,REJECT
@@ -30695,6 +30720,7 @@ DOMAIN,us04logfiles-va.zoom.us,REJECT
 DOMAIN,us04logfiles.zoom.us,REJECT
 DOMAIN,usage.influxdata.com,REJECT
 DOMAIN,usage.seibert-media.io,REJECT
+DOMAIN,usao.77gog.com,REJECT
 DOMAIN,usatoday.app.ur.gcion.com,REJECT
 DOMAIN,usdtop.58.com,REJECT
 DOMAIN,useg.nextdigital.com.hk,REJECT
@@ -31120,7 +31146,6 @@ DOMAIN,vnf4.belleetbio.com,REJECT
 DOMAIN,vnl1.voyage-prive.nl,REJECT
 DOMAIN,vnzwxk.e-bebek.com,REJECT
 DOMAIN,vodlog.m1905.cn,REJECT
-DOMAIN,vodp-e-streamingmagentamusic360.tls1.yospace.com,REJECT
 DOMAIN,voila.refr.adgtw.orangeads.fr,REJECT
 DOMAIN,vole.amplenote.com,REJECT
 DOMAIN,vole.contemporaryartlibrary.org,REJECT
@@ -31139,7 +31164,6 @@ DOMAIN,vplayer.newseveryday.com,REJECT
 DOMAIN,vpn.szdatayj.com,REJECT
 DOMAIN,vpn.tuodupingguomiao.com,REJECT
 DOMAIN,vpn.yike0515.com,REJECT
-DOMAIN,vpnaffiliates.hidester.com,REJECT
 DOMAIN,vpnuyy.carters.com,REJECT
 DOMAIN,vppst.iltrovatore.it,REJECT
 DOMAIN,vpptv.admaster.com.cn,REJECT
@@ -31576,6 +31600,7 @@ DOMAIN,widget.promoqui.it,REJECT
 DOMAIN,widget.quantcast.com,REJECT
 DOMAIN,widget.searchschoolsnetwork.com,REJECT
 DOMAIN,widget.sellwild.com,REJECT
+DOMAIN,widget.shopstyle.com,REJECT
 DOMAIN,widget.shopstyle.com.au,REJECT
 DOMAIN,widget.socialmart.ru,REJECT
 DOMAIN,widget.solarquotes.com.au,REJECT
@@ -32489,6 +32514,7 @@ DOMAIN,xray.jebe.renren.com,REJECT
 DOMAIN,xray.mail.ru,REJECT
 DOMAIN,xrnyhc.dreamilbo.com,REJECT
 DOMAIN,xrutor.eu.org,REJECT
+DOMAIN,xs.1drj.com,REJECT
 DOMAIN,xs.he9630.com,REJECT
 DOMAIN,xs.houyi.baofeng.net,REJECT
 DOMAIN,xsapp.cdn.bcebos.com,REJECT
