@@ -1,11 +1,11 @@
-# Checksum: MTYyODk4OTEwNQo=
+# Checksum: MTYyOTA3NTQ4OQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210815-0
-# TimeUpdated: 2021-08-15T00:58:25+00:00
+# Version: 1.1.8-20210816-0
+# TimeUpdated: 2021-08-16T00:58:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32912
+# Total: 32906
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -484,8 +484,6 @@ ff02::3 ip6-allhosts
 :: 50.net.daraz.com
 0.0.0.0 50bots.nullrefexcep.com
 :: 50bots.nullrefexcep.com
-0.0.0.0 518.sdinfo.net
-:: 518.sdinfo.net
 0.0.0.0 51juejinjie.com.cn
 :: 51juejinjie.com.cn
 0.0.0.0 526d.uunice.com
@@ -6558,6 +6556,8 @@ ff02::3 ip6-allhosts
 :: adserver.clix.pt
 0.0.0.0 adserver.co.il
 :: adserver.co.il
+0.0.0.0 adserver.colleges.com
+:: adserver.colleges.com
 0.0.0.0 adserver.corusradionetwork.com
 :: adserver.corusradionetwork.com
 0.0.0.0 adserver.creative-asia.com
@@ -6662,6 +6662,8 @@ ff02::3 ip6-allhosts
 :: adserver.linktrader.co.uk
 0.0.0.0 adserver.livejournal.com
 :: adserver.livejournal.com
+0.0.0.0 adserver.lostreality.com
+:: adserver.lostreality.com
 0.0.0.0 adserver.lunarpages.com
 :: adserver.lunarpages.com
 0.0.0.0 adserver.luzu.vn
@@ -7112,6 +7114,8 @@ ff02::3 ip6-allhosts
 :: adv.livedoor.com
 0.0.0.0 adv.madserving.com
 :: adv.madserving.com
+0.0.0.0 adv.mediakeep.co.kr
+:: adv.mediakeep.co.kr
 0.0.0.0 adv.merlin.co.il
 :: adv.merlin.co.il
 0.0.0.0 adv.mmnon.com
@@ -7150,6 +7154,8 @@ ff02::3 ip6-allhosts
 :: adv.yo.cz
 0.0.0.0 advantage.rsabroker.ca
 :: advantage.rsabroker.ca
+0.0.0.0 advapi.ahtv.cn
+:: advapi.ahtv.cn
 0.0.0.0 advast.sibnet.ru
 :: advast.sibnet.ru
 0.0.0.0 advdl.ammadv.it
@@ -8780,6 +8786,8 @@ ff02::3 ip6-allhosts
 :: analytics.webads.eu
 0.0.0.0 analytics.webgains.io
 :: analytics.webgains.io
+0.0.0.0 analytics.webpushr.com
+:: analytics.webpushr.com
 0.0.0.0 analytics.websolute.it
 :: analytics.websolute.it
 0.0.0.0 analytics.whotargets.me
@@ -11576,8 +11584,6 @@ ff02::3 ip6-allhosts
 :: beacon.lycos.com
 0.0.0.0 beacon.netflix.com
 :: beacon.netflix.com
-0.0.0.0 beacon.nrholding.net
-:: beacon.nrholding.net
 0.0.0.0 beacon.nuskin.com
 :: beacon.nuskin.com
 0.0.0.0 beacon.qq.com
@@ -12598,8 +12604,6 @@ ff02::3 ip6-allhosts
 :: bwp.theinsider.com.com
 0.0.0.0 bwstatistics.sapoapps.vn
 :: bwstatistics.sapoapps.vn
-0.0.0.0 bxs.bilandgo.com
-:: bxs.bilandgo.com
 0.0.0.0 bxumze.dispatch.com
 :: bxumze.dispatch.com
 0.0.0.0 bxumze.jacksonville.com
@@ -15230,8 +15234,6 @@ ff02::3 ip6-allhosts
 :: cm.lianmeng.360.cn
 0.0.0.0 cm.masky.biddingx.com
 :: cm.masky.biddingx.com
-0.0.0.0 cm.mct01.com
-:: cm.mct01.com
 0.0.0.0 cm.mediav.com
 :: cm.mediav.com
 0.0.0.0 cm.netseer.com
@@ -20302,8 +20304,6 @@ ff02::3 ip6-allhosts
 :: dm50.jkyd.net
 0.0.0.0 dm7gsepi27zsx.cloudfront.net
 :: dm7gsepi27zsx.cloudfront.net
-0.0.0.0 dma.15tianqi.com
-:: dma.15tianqi.com
 0.0.0.0 dmacore.kejet.com
 :: dmacore.kejet.com
 0.0.0.0 dmacore.kejet.net
@@ -20866,6 +20866,8 @@ ff02::3 ip6-allhosts
 :: dspmnt.autohome.com.cn
 0.0.0.0 dspmy.ge95.com
 :: dspmy.ge95.com
+0.0.0.0 dspserver.ad.cmvideo.cn
+:: dspserver.ad.cmvideo.cn
 0.0.0.0 dsptrack.mobshark.net
 :: dsptrack.mobshark.net
 0.0.0.0 dspwin.adsame.com
@@ -23918,8 +23920,6 @@ ff02::3 ip6-allhosts
 :: freemoneymakingwebsite300.blogspot.com
 0.0.0.0 freenetflix.dlcodes.com
 :: freenetflix.dlcodes.com
-0.0.0.0 freepayasyougotopupuk.co.uk
-:: freepayasyougotopupuk.co.uk
 0.0.0.0 freepsncodes.deephack.com
 :: freepsncodes.deephack.com
 0.0.0.0 freesteamcodes.gripbuilds.com
@@ -27304,6 +27304,8 @@ ff02::3 ip6-allhosts
 :: hcqyek.miuz.ru
 0.0.0.0 hd.browser.miui.com
 :: hd.browser.miui.com
+0.0.0.0 hd.hupu.com
+:: hd.hupu.com
 0.0.0.0 hd.pe.fr
 :: hd.pe.fr
 0.0.0.0 hd2.3g.qq.com
@@ -31022,8 +31024,6 @@ ff02::3 ip6-allhosts
 :: js.ea3w.com
 0.0.0.0 js.fc090.com
 :: js.fc090.com
-0.0.0.0 js.feitian001.com
-:: js.feitian001.com
 0.0.0.0 js.fengniao.com
 :: js.fengniao.com
 0.0.0.0 js.fhxiaoshuo.com
@@ -31562,8 +31562,6 @@ ff02::3 ip6-allhosts
 :: kjxztu.biz-journal.jp
 0.0.0.0 kkgkpl.suzuki.com.mx
 :: kkgkpl.suzuki.com.mx
-0.0.0.0 kkk.lichaoliang.com
-:: kkk.lichaoliang.com
 0.0.0.0 kkpgv2.xunlei.com
 :: kkpgv2.xunlei.com
 0.0.0.0 kksuce.hankoya.com
@@ -35972,8 +35970,6 @@ ff02::3 ip6-allhosts
 :: masdkv6.3g.qq.com
 0.0.0.0 maskedwarrior.dlcodes.com
 :: maskedwarrior.dlcodes.com
-0.0.0.0 mass.mall044.com
-:: mass.mall044.com
 0.0.0.0 massmutual.actonservice.com
 :: massmutual.actonservice.com
 0.0.0.0 master.wap.dphub.sandai.net
@@ -43732,8 +43728,6 @@ ff02::3 ip6-allhosts
 :: pop.code.poyang.cn
 0.0.0.0 pop.dojo.cc
 :: pop.dojo.cc
-0.0.0.0 pop.net21pk.com
-:: pop.net21pk.com
 0.0.0.0 pop.redirect.adsjudo.com
 :: pop.redirect.adsjudo.com
 0.0.0.0 pop.turnik.su
@@ -54546,8 +54540,6 @@ ff02::3 ip6-allhosts
 :: static.bitmedianetwork.com
 0.0.0.0 static.bmob.cn
 :: static.bmob.cn
-0.0.0.0 static.browsermine.com
-:: static.browsermine.com
 0.0.0.0 static.bshare.cn
 :: static.bshare.cn
 0.0.0.0 static.cdn.gtsmobi.com
@@ -55512,6 +55504,8 @@ ff02::3 ip6-allhosts
 :: stats.sawlive.tv
 0.0.0.0 stats.scalgo.com
 :: stats.scalgo.com
+0.0.0.0 stats.screenresolution.org
+:: stats.screenresolution.org
 0.0.0.0 stats.screenwavemedia.com
 :: stats.screenwavemedia.com
 0.0.0.0 stats.searchftps.net
@@ -59454,8 +59448,6 @@ ff02::3 ip6-allhosts
 :: tracker.nbcuas.com
 0.0.0.0 tracker.netklix.com
 :: tracker.netklix.com
-0.0.0.0 tracker.onapps.org
-:: tracker.onapps.org
 0.0.0.0 tracker.phunuvagiadinh.vn
 :: tracker.phunuvagiadinh.vn
 0.0.0.0 tracker.pinnaclesports.com
@@ -61430,8 +61422,6 @@ ff02::3 ip6-allhosts
 :: us.onkyo.actonservice.com
 0.0.0.0 us.promo.skf.com
 :: us.promo.skf.com
-0.0.0.0 us.q1.yimg.com
-:: us.q1.yimg.com
 0.0.0.0 us.vortex-win.data.microsoft.com
 :: us.vortex-win.data.microsoft.com
 0.0.0.0 us.xmlppcbuzz.com
@@ -61758,8 +61748,6 @@ ff02::3 ip6-allhosts
 :: v1.play.log.hunantv.com
 0.0.0.0 v1.res.log.hunantv.com
 :: v1.res.log.hunantv.com
-0.0.0.0 v1.taksh.cn
-:: v1.taksh.cn
 0.0.0.0 v1.ujian.cc
 :: v1.ujian.cc
 0.0.0.0 v1.wphonelife.com

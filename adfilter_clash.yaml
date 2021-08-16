@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYyODk4OTEwNQo=
+# Checksum: MTYyOTA3NTQ4OQo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210815-0
-# TimeUpdated: 2021-08-15T00:58:25+00:00
+# Version: 1.1.8-20210816-0
+# TimeUpdated: 2021-08-16T00:58:09+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 32912
+# Total: 32906
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -241,7 +241,6 @@ payload:
   - DOMAIN,5.gzfenda.com
   - DOMAIN,50.net.daraz.com
   - DOMAIN,50bots.nullrefexcep.com
-  - DOMAIN,518.sdinfo.net
   - DOMAIN,51juejinjie.com.cn
   - DOMAIN,526d.uunice.com
   - DOMAIN,526dimg.uunice.com
@@ -3278,6 +3277,7 @@ payload:
   - DOMAIN,adserver.click4cash.de
   - DOMAIN,adserver.clix.pt
   - DOMAIN,adserver.co.il
+  - DOMAIN,adserver.colleges.com
   - DOMAIN,adserver.corusradionetwork.com
   - DOMAIN,adserver.creative-asia.com
   - DOMAIN,adserver.creativeinspire.com
@@ -3330,6 +3330,7 @@ payload:
   - DOMAIN,adserver.libero.it
   - DOMAIN,adserver.linktrader.co.uk
   - DOMAIN,adserver.livejournal.com
+  - DOMAIN,adserver.lostreality.com
   - DOMAIN,adserver.lunarpages.com
   - DOMAIN,adserver.luzu.vn
   - DOMAIN,adserver.madeby.ws
@@ -3555,6 +3556,7 @@ payload:
   - DOMAIN,adv.jxnews.com.cn
   - DOMAIN,adv.livedoor.com
   - DOMAIN,adv.madserving.com
+  - DOMAIN,adv.mediakeep.co.kr
   - DOMAIN,adv.merlin.co.il
   - DOMAIN,adv.mmnon.com
   - DOMAIN,adv.mpvc.it
@@ -3574,6 +3576,7 @@ payload:
   - DOMAIN,adv.wp.pl
   - DOMAIN,adv.yo.cz
   - DOMAIN,advantage.rsabroker.ca
+  - DOMAIN,advapi.ahtv.cn
   - DOMAIN,advast.sibnet.ru
   - DOMAIN,advdl.ammadv.it
   - DOMAIN,adveng.hiasys.com
@@ -4389,6 +4392,7 @@ payload:
   - DOMAIN,analytics.wanmei.com
   - DOMAIN,analytics.webads.eu
   - DOMAIN,analytics.webgains.io
+  - DOMAIN,analytics.webpushr.com
   - DOMAIN,analytics.websolute.it
   - DOMAIN,analytics.whotargets.me
   - DOMAIN,analytics.wildtangent.com
@@ -5787,7 +5791,6 @@ payload:
   - DOMAIN,beacon.livefyre.com
   - DOMAIN,beacon.lycos.com
   - DOMAIN,beacon.netflix.com
-  - DOMAIN,beacon.nrholding.net
   - DOMAIN,beacon.nuskin.com
   - DOMAIN,beacon.qq.com
   - DOMAIN,beacon.riskified.com
@@ -6298,7 +6301,6 @@ payload:
   - DOMAIN,bwp.lastfm.com.com
   - DOMAIN,bwp.theinsider.com.com
   - DOMAIN,bwstatistics.sapoapps.vn
-  - DOMAIN,bxs.bilandgo.com
   - DOMAIN,bxumze.dispatch.com
   - DOMAIN,bxumze.jacksonville.com
   - DOMAIN,by.bollore-logistics.com
@@ -7614,7 +7616,6 @@ payload:
   - DOMAIN,cm.l.qq.com
   - DOMAIN,cm.lianmeng.360.cn
   - DOMAIN,cm.masky.biddingx.com
-  - DOMAIN,cm.mct01.com
   - DOMAIN,cm.mediav.com
   - DOMAIN,cm.netseer.com
   - DOMAIN,cm.passport.iqiyi.com
@@ -10150,7 +10151,6 @@ payload:
   - DOMAIN,dm1.zjydt.com
   - DOMAIN,dm50.jkyd.net
   - DOMAIN,dm7gsepi27zsx.cloudfront.net
-  - DOMAIN,dma.15tianqi.com
   - DOMAIN,dmacore.kejet.com
   - DOMAIN,dmacore.kejet.net
   - DOMAIN,dmapp.youku.com
@@ -10432,6 +10432,7 @@ payload:
   - DOMAIN,dspimg.dftoutiao.com
   - DOMAIN,dspmnt.autohome.com.cn
   - DOMAIN,dspmy.ge95.com
+  - DOMAIN,dspserver.ad.cmvideo.cn
   - DOMAIN,dsptrack.mobshark.net
   - DOMAIN,dspwin.adsame.com
   - DOMAIN,dt.adsafeprotected.com
@@ -11958,7 +11959,6 @@ payload:
   - DOMAIN,freeminecraft.co.uk
   - DOMAIN,freemoneymakingwebsite300.blogspot.com
   - DOMAIN,freenetflix.dlcodes.com
-  - DOMAIN,freepayasyougotopupuk.co.uk
   - DOMAIN,freepsncodes.deephack.com
   - DOMAIN,freesteamcodes.gripbuilds.com
   - DOMAIN,freewheel-mtgx-tv.akamaized.net
@@ -13651,6 +13651,7 @@ payload:
   - DOMAIN,hcmages.carte-gr.total.fr
   - DOMAIN,hcqyek.miuz.ru
   - DOMAIN,hd.browser.miui.com
+  - DOMAIN,hd.hupu.com
   - DOMAIN,hd.pe.fr
   - DOMAIN,hd2.3g.qq.com
   - DOMAIN,hda.maxli.cn
@@ -15510,7 +15511,6 @@ payload:
   - DOMAIN,js.duotegame.com
   - DOMAIN,js.ea3w.com
   - DOMAIN,js.fc090.com
-  - DOMAIN,js.feitian001.com
   - DOMAIN,js.fengniao.com
   - DOMAIN,js.fhxiaoshuo.com
   - DOMAIN,js.firefang.cn
@@ -15780,7 +15780,6 @@ payload:
   - DOMAIN,kjxmcn.eset.com
   - DOMAIN,kjxztu.biz-journal.jp
   - DOMAIN,kkgkpl.suzuki.com.mx
-  - DOMAIN,kkk.lichaoliang.com
   - DOMAIN,kkpgv2.xunlei.com
   - DOMAIN,kksuce.hankoya.com
   - DOMAIN,kkz.net.krankenkassenzentrale.de
@@ -17985,7 +17984,6 @@ payload:
   - DOMAIN,masdk.3g.qq.com
   - DOMAIN,masdkv6.3g.qq.com
   - DOMAIN,maskedwarrior.dlcodes.com
-  - DOMAIN,mass.mall044.com
   - DOMAIN,massmutual.actonservice.com
   - DOMAIN,master.wap.dphub.sandai.net
   - DOMAIN,masters.warrington.ufl.edu
@@ -21865,7 +21863,6 @@ payload:
   - DOMAIN,pop.code.mytanwan.com
   - DOMAIN,pop.code.poyang.cn
   - DOMAIN,pop.dojo.cc
-  - DOMAIN,pop.net21pk.com
   - DOMAIN,pop.redirect.adsjudo.com
   - DOMAIN,pop.turnik.su
   - DOMAIN,pop.uusee.com
@@ -27272,7 +27269,6 @@ payload:
   - DOMAIN,static.bepolite.eu
   - DOMAIN,static.bitmedianetwork.com
   - DOMAIN,static.bmob.cn
-  - DOMAIN,static.browsermine.com
   - DOMAIN,static.bshare.cn
   - DOMAIN,static.cdn.gtsmobi.com
   - DOMAIN,static.chartbeat.com
@@ -27755,6 +27751,7 @@ payload:
   - DOMAIN,stats.sa-as.com
   - DOMAIN,stats.sawlive.tv
   - DOMAIN,stats.scalgo.com
+  - DOMAIN,stats.screenresolution.org
   - DOMAIN,stats.screenwavemedia.com
   - DOMAIN,stats.searchftps.net
   - DOMAIN,stats.sec.telefonica.com
@@ -29726,7 +29723,6 @@ payload:
   - DOMAIN,tracker.mtrtb.com
   - DOMAIN,tracker.nbcuas.com
   - DOMAIN,tracker.netklix.com
-  - DOMAIN,tracker.onapps.org
   - DOMAIN,tracker.phunuvagiadinh.vn
   - DOMAIN,tracker.pinnaclesports.com
   - DOMAIN,tracker.plerdy.com
@@ -30714,7 +30710,6 @@ payload:
   - DOMAIN,us.moneroocean.stream
   - DOMAIN,us.onkyo.actonservice.com
   - DOMAIN,us.promo.skf.com
-  - DOMAIN,us.q1.yimg.com
   - DOMAIN,us.vortex-win.data.microsoft.com
   - DOMAIN,us.xmlppcbuzz.com
   - DOMAIN,us.y.atwola.com
@@ -30878,7 +30873,6 @@ payload:
   - DOMAIN,v1.phb123.com
   - DOMAIN,v1.play.log.hunantv.com
   - DOMAIN,v1.res.log.hunantv.com
-  - DOMAIN,v1.taksh.cn
   - DOMAIN,v1.ujian.cc
   - DOMAIN,v1.wphonelife.com
   - DOMAIN,v12-r0566gbscjw.z.irs01.com
