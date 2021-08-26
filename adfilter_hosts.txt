@@ -1,11 +1,11 @@
-# Checksum: MTYyOTg1MzA4MAo=
+# Checksum: MTYyOTkzOTM1Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210825-0
-# TimeUpdated: 2021-08-25T00:58:00+00:00
+# Version: 1.1.8-20210826-0
+# TimeUpdated: 2021-08-26T00:55:53+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34432
+# Total: 34424
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -1054,8 +1054,6 @@ ff02::3 ip6-allhosts
 :: a.rohde-schwarz.com
 0.0.0.0 a.rohde-schwarz.com.cn
 :: a.rohde-schwarz.com.cn
-0.0.0.0 a.run.app
-:: a.run.app
 0.0.0.0 a.sakh.com
 :: a.sakh.com
 0.0.0.0 a.sayloving.com
@@ -7570,6 +7568,8 @@ ff02::3 ip6-allhosts
 :: affiliate-script-pr.firebaseapp.com
 0.0.0.0 affiliate.1800flowers.com
 :: affiliate.1800flowers.com
+0.0.0.0 affiliate.a4dtracker.com
+:: affiliate.a4dtracker.com
 0.0.0.0 affiliate.astraweb.com
 :: affiliate.astraweb.com
 0.0.0.0 affiliate.baazee.com
@@ -7748,8 +7748,6 @@ ff02::3 ip6-allhosts
 :: agro.net.ru
 0.0.0.0 agstat.html5.qq.com
 :: agstat.html5.qq.com
-0.0.0.0 agtr.ahksqc.com.cn
-:: agtr.ahksqc.com.cn
 0.0.0.0 ahfadj.aoki-style.com
 :: ahfadj.aoki-style.com
 0.0.0.0 ahhrtt.bnext.com.tw
@@ -10392,8 +10390,6 @@ ff02::3 ip6-allhosts
 :: at-adserver.alltop.com
 0.0.0.0 at-cddc.actu-juridique.fr
 :: at-cddc.actu-juridique.fr
-0.0.0.0 at-img2.tdimg.com
-:: at-img2.tdimg.com
 0.0.0.0 at.atwola.com
 :: at.atwola.com
 0.0.0.0 at.pagesjaunes.fr
@@ -11610,6 +11606,8 @@ ff02::3 ip6-allhosts
 :: bd1-china.6789.com
 0.0.0.0 bd1-china.xsfaya.com
 :: bd1-china.xsfaya.com
+0.0.0.0 bd1-ys.km.com
+:: bd1-ys.km.com
 0.0.0.0 bd1.365qilu.com
 :: bd1.365qilu.com
 0.0.0.0 bd1.52che.com
@@ -14136,8 +14134,6 @@ ff02::3 ip6-allhosts
 :: cdn.freejars.com
 0.0.0.0 cdn.freejax.com
 :: cdn.freejax.com
-0.0.0.0 cdn.freelac.com
-:: cdn.freelac.com
 0.0.0.0 cdn.freshmarketer.com
 :: cdn.freshmarketer.com
 0.0.0.0 cdn.hauleddes.com
@@ -15248,8 +15244,6 @@ ff02::3 ip6-allhosts
 :: clickserve.us2.dartsearch.net
 0.0.0.0 clickstatsview.earnmoneycasinos.com
 :: clickstatsview.earnmoneycasinos.com
-0.0.0.0 clickstream.co.za
-:: clickstream.co.za
 0.0.0.0 clickthru.lefbc.com
 :: clickthru.lefbc.com
 0.0.0.0 clicktime.symantec.com
@@ -16050,6 +16044,8 @@ ff02::3 ip6-allhosts
 :: collector1.afreecatv.com
 0.0.0.0 collector1.xhamster.com
 :: collector1.xhamster.com
+0.0.0.0 collectorj.tvsquared.com
+:: collectorj.tvsquared.com
 0.0.0.0 college.business.oregonstate.edu
 :: college.business.oregonstate.edu
 0.0.0.0 colo.cachefly.net
@@ -16302,8 +16298,6 @@ ff02::3 ip6-allhosts
 :: connect.danone.es
 0.0.0.0 connect.darden.virginia.edu
 :: connect.darden.virginia.edu
-0.0.0.0 connect.datafiletechnologies.com
-:: connect.datafiletechnologies.com
 0.0.0.0 connect.digi.com
 :: connect.digi.com
 0.0.0.0 connect.ekomi.de
@@ -16926,16 +16920,10 @@ ff02::3 ip6-allhosts
 :: count.yandeg.ru
 0.0.0.0 count10.51yes.com
 :: count10.51yes.com
-0.0.0.0 count12.51yes.com
-:: count12.51yes.com
 0.0.0.0 count15.51yes.com
 :: count15.51yes.com
-0.0.0.0 count16.51yes.com
-:: count16.51yes.com
 0.0.0.0 count17.51yes.com
 :: count17.51yes.com
-0.0.0.0 count18.51yes.com
-:: count18.51yes.com
 0.0.0.0 count19.51yes.com
 :: count19.51yes.com
 0.0.0.0 count20.51yes.com
@@ -16958,8 +16946,6 @@ ff02::3 ip6-allhosts
 :: count29.51yes.com
 0.0.0.0 count3.51yes.com
 :: count3.51yes.com
-0.0.0.0 count30.51yes.com
-:: count30.51yes.com
 0.0.0.0 count32.51yes.com
 :: count32.51yes.com
 0.0.0.0 count34.51yes.com
@@ -17768,8 +17754,6 @@ ff02::3 ip6-allhosts
 :: ct.thegear-box.com
 0.0.0.0 ct.xn--0et88ccz6awh1a.biz
 :: ct.xn--0et88ccz6awh1a.biz
-0.0.0.0 ct2.kyarame.com
-:: ct2.kyarame.com
 0.0.0.0 ct5m.citadium.com
 :: ct5m.citadium.com
 0.0.0.0 cta.onguard.com
@@ -21634,8 +21618,6 @@ ff02::3 ip6-allhosts
 :: e.e70123.com
 0.0.0.0 e.ediun.com
 :: e.ediun.com
-0.0.0.0 e.ejiakm.net
-:: e.ejiakm.net
 0.0.0.0 e.enjuk.com
 :: e.enjuk.com
 0.0.0.0 e.equuscs.com
@@ -21950,8 +21932,6 @@ ff02::3 ip6-allhosts
 :: ebis.ce-parfait.com
 0.0.0.0 ebis.codecamp.jp
 :: ebis.codecamp.jp
-0.0.0.0 ebis.hokensoudannavi.jp
-:: ebis.hokensoudannavi.jp
 0.0.0.0 ebis.kubara.jp
 :: ebis.kubara.jp
 0.0.0.0 ebis.la-coco.com
@@ -24630,8 +24610,6 @@ ff02::3 ip6-allhosts
 :: freenetflix.dlcodes.com
 0.0.0.0 freepsncodes.deephack.com
 :: freepsncodes.deephack.com
-0.0.0.0 freeride.com.cn
-:: freeride.com.cn
 0.0.0.0 freesteamcodes.gripbuilds.com
 :: freesteamcodes.gripbuilds.com
 0.0.0.0 freexxxvideoclip.aebn.net
@@ -34858,6 +34836,8 @@ ff02::3 ip6-allhosts
 :: leopard.understandit.se
 0.0.0.0 lepodownload.mediatek.com
 :: lepodownload.mediatek.com
+0.0.0.0 leslieyu.com.cn
+:: leslieyu.com.cn
 0.0.0.0 let1.devialet.com
 :: let1.devialet.com
 0.0.0.0 lets.go.xpo.com
@@ -35036,8 +35016,6 @@ ff02::3 ip6-allhosts
 :: lightcast.leadscoringcenter.com
 0.0.0.0 like.likewut.net
 :: like.likewut.net
-0.0.0.0 likefly.com.cn
-:: likefly.com.cn
 0.0.0.0 likeminer.nablabee.com
 :: likeminer.nablabee.com
 0.0.0.0 likemore-go.imgsmail.ru
@@ -36382,6 +36360,8 @@ ff02::3 ip6-allhosts
 :: lycos-eu.imrworldwide.com
 0.0.0.0 lyfrir.purehockey.com
 :: lyfrir.purehockey.com
+0.0.0.0 lygrydwz.net.cn
+:: lygrydwz.net.cn
 0.0.0.0 lylog.1391.com
 :: lylog.1391.com
 0.0.0.0 lylxuot.pltqbcgsq.biz
@@ -36542,8 +36522,6 @@ ff02::3 ip6-allhosts
 :: m.dceni.com
 0.0.0.0 m.delltechnologies.com
 :: m.delltechnologies.com
-0.0.0.0 m.dgaoz.com
-:: m.dgaoz.com
 0.0.0.0 m.doodlemobile.com
 :: m.doodlemobile.com
 0.0.0.0 m.du1du.org
@@ -39394,6 +39372,8 @@ ff02::3 ip6-allhosts
 :: meng.360zuowen.com
 0.0.0.0 mens.1.p2l.info
 :: mens.1.p2l.info
+0.0.0.0 menu.metu.vn
+:: menu.metu.vn
 0.0.0.0 mercadeo.esri.co
 :: mercadeo.esri.co
 0.0.0.0 mercadeo.promerica.fi.cr
@@ -42274,6 +42254,8 @@ ff02::3 ip6-allhosts
 :: mtx.lastminute.com.au
 0.0.0.0 mud4.destinia.com.eg
 :: mud4.destinia.com.eg
+0.0.0.0 muer.cdn-baidu.fs-sywh.com
+:: muer.cdn-baidu.fs-sywh.com
 0.0.0.0 muhttw.spotlightstores.com
 :: muhttw.spotlightstores.com
 0.0.0.0 mujjrh.stylenanda.com
@@ -47606,8 +47588,6 @@ ff02::3 ip6-allhosts
 :: qc.coccoc.vn
 0.0.0.0 qc.designervn.net
 :: qc.designervn.net
-0.0.0.0 qc.huyenthoaimu.com
-:: qc.huyenthoaimu.com
 0.0.0.0 qc.japo.vn
 :: qc.japo.vn
 0.0.0.0 qc.violet.vn
@@ -49030,6 +49010,8 @@ ff02::3 ip6-allhosts
 :: rubicon-match.dotomi.com
 0.0.0.0 rubicon.wellsfargo.com
 :: rubicon.wellsfargo.com
+0.0.0.0 rubylife.go2cloud.org
+:: rubylife.go2cloud.org
 0.0.0.0 rugncn.ifeng.com
 :: rugncn.ifeng.com
 0.0.0.0 ruikeja-mobileoffice.oss-cn-hangzhou.aliyuncs.com
@@ -49446,8 +49428,6 @@ ff02::3 ip6-allhosts
 :: s.x.cn.xtgreat.com
 0.0.0.0 s.xvideos.com
 :: s.xvideos.com
-0.0.0.0 s.yaozui.com
-:: s.yaozui.com
 0.0.0.0 s.yidianzixun.com
 :: s.yidianzixun.com
 0.0.0.0 s.yorkregion.com
@@ -58996,8 +58976,6 @@ ff02::3 ip6-allhosts
 :: sut.dailyfx.com.hk
 0.0.0.0 suvset.sohu.com
 :: suvset.sohu.com
-0.0.0.0 suyuexs.cdn.bcebos.co
-:: suyuexs.cdn.bcebos.co
 0.0.0.0 suzy.actonservice.com
 :: suzy.actonservice.com
 0.0.0.0 sv-api-event.headlines.pw
@@ -63592,6 +63570,8 @@ ff02::3 ip6-allhosts
 :: tusawd.orto.su
 0.0.0.0 tut.prosmotrov.net
 :: tut.prosmotrov.net
+0.0.0.0 tutese.com.cn
+:: tutese.com.cn
 0.0.0.0 tuxi.com.cn
 :: tuxi.com.cn
 0.0.0.0 tv.code.jjyx.com
@@ -64544,6 +64524,8 @@ ff02::3 ip6-allhosts
 :: v1.hd.log.hunantv.com
 0.0.0.0 v1.hdd.log.hunantv.com
 :: v1.hdd.log.hunantv.com
+0.0.0.0 v1.kwpewga.cn
+:: v1.kwpewga.cn
 0.0.0.0 v1.log.moji.com
 :: v1.log.moji.com
 0.0.0.0 v1.phb123.com
@@ -65754,6 +65736,8 @@ ff02::3 ip6-allhosts
 :: webbc.fivecdm.com
 0.0.0.0 webbug.seatreport.com
 :: webbug.seatreport.com
+0.0.0.0 webchat.caresoft.vn
+:: webchat.caresoft.vn
 0.0.0.0 webcounter.co.za
 :: webcounter.co.za
 0.0.0.0 webcounter.goweb.de
@@ -65904,6 +65888,8 @@ ff02::3 ip6-allhosts
 :: webwise.bt.com
 0.0.0.0 weby.aaas.org
 :: weby.aaas.org
+0.0.0.0 weebvivian72.uk.to
+:: weebvivian72.uk.to
 0.0.0.0 weidenhammer.actonservice.com
 :: weidenhammer.actonservice.com
 0.0.0.0 weight-loss.1.p2l.info
@@ -67798,8 +67784,6 @@ ff02::3 ip6-allhosts
 :: x3-predictor.goguardian.com
 0.0.0.0 x4.lov3.net
 :: x4.lov3.net
-0.0.0.0 x8.cho-chin.com
-:: x8.cho-chin.com
 0.0.0.0 x888x.myserver.org
 :: x888x.myserver.org
 0.0.0.0 xaguwy.thomas-muenz.ru
