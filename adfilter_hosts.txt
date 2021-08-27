@@ -1,11 +1,11 @@
-# Checksum: MTYyOTkzOTM1Mwo=
+# Checksum: MTYzMDAyNjExOQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210826-0
-# TimeUpdated: 2021-08-26T00:55:53+00:00
+# Version: 1.1.8-20210827-0
+# TimeUpdated: 2021-08-27T01:01:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34424
+# Total: 34418
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -96,6 +96,8 @@ ff02::3 ip6-allhosts
 :: 1.bashenghuo.com
 0.0.0.0 1.bh5.com.cn
 :: 1.bh5.com.cn
+0.0.0.0 1.ccutu.com
+:: 1.ccutu.com
 0.0.0.0 1.cjcp.cn
 :: 1.cjcp.cn
 0.0.0.0 1.codesdq.com
@@ -506,8 +508,6 @@ ff02::3 ip6-allhosts
 :: 4ke5b4ila.codedge.de
 0.0.0.0 4nb437eugn.ru.com
 :: 4nb437eugn.ru.com
-0.0.0.0 4nemiaje2.aupig.cn
-:: 4nemiaje2.aupig.cn
 0.0.0.0 5.5ppt.net
 :: 5.5ppt.net
 0.0.0.0 5.gzfenda.com
@@ -1018,6 +1018,8 @@ ff02::3 ip6-allhosts
 :: a.oh100.com
 0.0.0.0 a.opmnstr.com
 :: a.opmnstr.com
+0.0.0.0 a.overlay.top
+:: a.overlay.top
 0.0.0.0 a.partner-versicherung.de
 :: a.partner-versicherung.de
 0.0.0.0 a.pass-ns.emailvision.net.daraz.com
@@ -4288,6 +4290,8 @@ ff02::3 ip6-allhosts
 :: adfox.yandex.ru
 0.0.0.0 adfs.senacrs.com.br
 :: adfs.senacrs.com.br
+0.0.0.0 adfstat.yandex.ru
+:: adfstat.yandex.ru
 0.0.0.0 adfuri.socdm.com
 :: adfuri.socdm.com
 0.0.0.0 adgebra.co.in
@@ -5928,6 +5932,8 @@ ff02::3 ip6-allhosts
 :: ads.reklamatik.com
 0.0.0.0 ads.reklamlar.net
 :: ads.reklamlar.net
+0.0.0.0 ads.ressp.net
+:: ads.ressp.net
 0.0.0.0 ads.revjet.com
 :: ads.revjet.com
 0.0.0.0 ads.roanoke.com
@@ -9388,6 +9394,8 @@ ff02::3 ip6-allhosts
 :: api.bs.zui.com
 0.0.0.0 api.callget.cn
 :: api.callget.cn
+0.0.0.0 api.carrottrack.io
+:: api.carrottrack.io
 0.0.0.0 api.cazamba.com
 :: api.cazamba.com
 0.0.0.0 api.cloudmobi.net
@@ -10286,6 +10294,8 @@ ff02::3 ip6-allhosts
 :: asecdn.w88media.com
 0.0.0.0 aserv.motorsgate.com
 :: aserv.motorsgate.com
+0.0.0.0 asg.faperoni.com
+:: asg.faperoni.com
 0.0.0.0 asg.phukienthoitranggiare.com
 :: asg.phukienthoitranggiare.com
 0.0.0.0 asgdfasad.mm-cgnews.com
@@ -11606,8 +11616,6 @@ ff02::3 ip6-allhosts
 :: bd1-china.6789.com
 0.0.0.0 bd1-china.xsfaya.com
 :: bd1-china.xsfaya.com
-0.0.0.0 bd1-ys.km.com
-:: bd1-ys.km.com
 0.0.0.0 bd1.365qilu.com
 :: bd1.365qilu.com
 0.0.0.0 bd1.52che.com
@@ -16940,12 +16948,8 @@ ff02::3 ip6-allhosts
 :: count25.51yes.com
 0.0.0.0 count26.51yes.com
 :: count26.51yes.com
-0.0.0.0 count27.51yes.com
-:: count27.51yes.com
 0.0.0.0 count29.51yes.com
 :: count29.51yes.com
-0.0.0.0 count3.51yes.com
-:: count3.51yes.com
 0.0.0.0 count32.51yes.com
 :: count32.51yes.com
 0.0.0.0 count34.51yes.com
@@ -16980,8 +16984,6 @@ ff02::3 ip6-allhosts
 :: count6.51yes.com
 0.0.0.0 count6.pconline.com.cn
 :: count6.pconline.com.cn
-0.0.0.0 count9.51yes.com
-:: count9.51yes.com
 0.0.0.0 counter.123counts.com
 :: counter.123counts.com
 0.0.0.0 counter.1gb.ru
@@ -21890,8 +21892,6 @@ ff02::3 ip6-allhosts
 :: easynews.adsame.com
 0.0.0.0 easytimes.unaux.com
 :: easytimes.unaux.com
-0.0.0.0 eatp.evztib.xyz
-:: eatp.evztib.xyz
 0.0.0.0 eaus2watcab01.blob.core.windows.net
 :: eaus2watcab01.blob.core.windows.net
 0.0.0.0 eaus2watcab02.blob.core.windows.net
@@ -24890,8 +24890,6 @@ ff02::3 ip6-allhosts
 :: g.wan.2345.com
 0.0.0.0 g.wan.douyu.com
 :: g.wan.douyu.com
-0.0.0.0 g.x.cn.majorserving.com
-:: g.x.cn.majorserving.com
 0.0.0.0 g.x.cn.xtgreat.com
 :: g.x.cn.xtgreat.com
 0.0.0.0 g.xywy.com
@@ -25762,8 +25760,6 @@ ff02::3 ip6-allhosts
 :: gmxcdm.vestel.com.tr
 0.0.0.0 gn-flagpoles.api.bbci.co.uk
 :: gn-flagpoles.api.bbci.co.uk
-0.0.0.0 gn.lalaqky.cn
-:: gn.lalaqky.cn
 0.0.0.0 gnfjvt.radpowerbikes.com
 :: gnfjvt.radpowerbikes.com
 0.0.0.0 gnnzuo.ormatek.com
@@ -30956,8 +30952,6 @@ ff02::3 ip6-allhosts
 :: imgaliyun.res.mgtv.com
 0.0.0.0 imgapp.yeyou.com
 :: imgapp.yeyou.com
-0.0.0.0 imgc.cymzc.com
-:: imgc.cymzc.com
 0.0.0.0 imgcdn.wapx.cn
 :: imgcdn.wapx.cn
 0.0.0.0 imgg.dt00.net
@@ -33838,8 +33832,6 @@ ff02::3 ip6-allhosts
 :: js3492.yongkang6.com
 0.0.0.0 js3555.championmachinery-cn.com
 :: js3555.championmachinery-cn.com
-0.0.0.0 js3555.hongtaidichan.net
-:: js3555.hongtaidichan.net
 0.0.0.0 js3743.yongkang6.com
 :: js3743.yongkang6.com
 0.0.0.0 js3810.yongkang6.com
@@ -36360,8 +36352,8 @@ ff02::3 ip6-allhosts
 :: lycos-eu.imrworldwide.com
 0.0.0.0 lyfrir.purehockey.com
 :: lyfrir.purehockey.com
-0.0.0.0 lygrydwz.net.cn
-:: lygrydwz.net.cn
+0.0.0.0 lygrydwz.com.cn
+:: lygrydwz.com.cn
 0.0.0.0 lylog.1391.com
 :: lylog.1391.com
 0.0.0.0 lylxuot.pltqbcgsq.biz
@@ -36394,8 +36386,6 @@ ff02::3 ip6-allhosts
 :: m.168ey.com
 0.0.0.0 m.20mao.com
 :: m.20mao.com
-0.0.0.0 m.21haodianmt.com
-:: m.21haodianmt.com
 0.0.0.0 m.23txt.com
 :: m.23txt.com
 0.0.0.0 m.3987.com
@@ -36554,8 +36544,6 @@ ff02::3 ip6-allhosts
 :: m.fdoun.com
 0.0.0.0 m.feipaihehuoren.cn
 :: m.feipaihehuoren.cn
-0.0.0.0 m.feirs.com
-:: m.feirs.com
 0.0.0.0 m.fenrs.com
 :: m.fenrs.com
 0.0.0.0 m.fhxiaoshuo.com
@@ -44488,6 +44476,8 @@ ff02::3 ip6-allhosts
 :: p.adsymptotic.com
 0.0.0.0 p.alimama.com
 :: p.alimama.com
+0.0.0.0 p.altergeo.ru
+:: p.altergeo.ru
 0.0.0.0 p.appjiagu.com
 :: p.appjiagu.com
 0.0.0.0 p.aty.sohu.com
@@ -44532,8 +44522,6 @@ ff02::3 ip6-allhosts
 :: p.imigame.com
 0.0.0.0 p.inte.sogou.com
 :: p.inte.sogou.com
-0.0.0.0 p.ivoberger.com
-:: p.ivoberger.com
 0.0.0.0 p.junshi881.com
 :: p.junshi881.com
 0.0.0.0 p.junshifuxin.com
@@ -47172,6 +47160,10 @@ ff02::3 ip6-allhosts
 :: ptracker.nurturehq.com
 0.0.0.0 ptrads.mp3.com
 :: ptrads.mp3.com
+0.0.0.0 ptreklam.com.tr
+:: ptreklam.com.tr
+0.0.0.0 ptreklamssp.com.tr
+:: ptreklamssp.com.tr
 0.0.0.0 ptrenx.vidaxl.com.au
 :: ptrenx.vidaxl.com.au
 0.0.0.0 ptsc.shoplocal.com
@@ -48510,6 +48502,8 @@ ff02::3 ip6-allhosts
 :: res1.applovin.com
 0.0.0.0 res3.feedsportal.com
 :: res3.feedsportal.com
+0.0.0.0 resad.mediaid.click
+:: resad.mediaid.click
 0.0.0.0 rescardadvisor.carte-gr.total.fr
 :: rescardadvisor.carte-gr.total.fr
 0.0.0.0 rescn.u3.ucweb.com
@@ -51892,8 +51886,6 @@ ff02::3 ip6-allhosts
 :: servers1.adriver.ru
 0.0.0.0 service-api.accesstrade.vn
 :: service-api.accesstrade.vn
-0.0.0.0 service-stat.tbn.ru
-:: service-stat.tbn.ru
 0.0.0.0 service.ad.adesk.com
 :: service.ad.adesk.com
 0.0.0.0 service.ad.duomi.com
@@ -60122,8 +60114,6 @@ ff02::3 ip6-allhosts
 :: tdep.vacansoleil.it
 0.0.0.0 tdep.vacansoleil.nl
 :: tdep.vacansoleil.nl
-0.0.0.0 tdep.vacansoleil.pl
-:: tdep.vacansoleil.pl
 0.0.0.0 tdf1.admyjob.com
 :: tdf1.admyjob.com
 0.0.0.0 tdf1.easyviaggio.com
@@ -61890,6 +61880,8 @@ ff02::3 ip6-allhosts
 :: track.msadcenter.nyfg.com
 0.0.0.0 track.msadcenter.oah.com
 :: track.msadcenter.oah.com
+0.0.0.0 track.msadcenter.pcp.com
+:: track.msadcenter.pcp.com
 0.0.0.0 track.msadcenter.pszn.com
 :: track.msadcenter.pszn.com
 0.0.0.0 track.msadcenter.qsvv.com
@@ -65888,8 +65880,6 @@ ff02::3 ip6-allhosts
 :: webwise.bt.com
 0.0.0.0 weby.aaas.org
 :: weby.aaas.org
-0.0.0.0 weebvivian72.uk.to
-:: weebvivian72.uk.to
 0.0.0.0 weidenhammer.actonservice.com
 :: weidenhammer.actonservice.com
 0.0.0.0 weight-loss.1.p2l.info
@@ -67792,8 +67782,6 @@ ff02::3 ip6-allhosts
 :: xanax-online.dot.de
 0.0.0.0 xanax-online.run.to
 :: xanax-online.run.to
-0.0.0.0 xanax-online.sms2.us
-:: xanax-online.sms2.us
 0.0.0.0 xanax-store.shengen.ru
 :: xanax-store.shengen.ru
 0.0.0.0 xanax.t-amo.net

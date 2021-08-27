@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYyOTkzOTM1Mwo=
+# Checksum: MTYzMDAyNjExOQo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210826-0
-# TimeUpdated: 2021-08-26T00:55:53+00:00
+# Version: 1.1.8-20210827-0
+# TimeUpdated: 2021-08-27T01:01:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34424
+# Total: 34418
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -47,6 +47,7 @@ payload:
   - DOMAIN,1.arpun.com
   - DOMAIN,1.bashenghuo.com
   - DOMAIN,1.bh5.com.cn
+  - DOMAIN,1.ccutu.com
   - DOMAIN,1.cjcp.cn
   - DOMAIN,1.codesdq.com
   - DOMAIN,1.feeddsp.cn
@@ -252,7 +253,6 @@ payload:
   - DOMAIN,4iyaysuvob.www.logology.co
   - DOMAIN,4ke5b4ila.codedge.de
   - DOMAIN,4nb437eugn.ru.com
-  - DOMAIN,4nemiaje2.aupig.cn
   - DOMAIN,5.5ppt.net
   - DOMAIN,5.gzfenda.com
   - DOMAIN,50.net.daraz.com
@@ -508,6 +508,7 @@ payload:
   - DOMAIN,a.oadz.com
   - DOMAIN,a.oh100.com
   - DOMAIN,a.opmnstr.com
+  - DOMAIN,a.overlay.top
   - DOMAIN,a.partner-versicherung.de
   - DOMAIN,a.pass-ns.emailvision.net.daraz.com
   - DOMAIN,a.perfumesclub.fr
@@ -2143,6 +2144,7 @@ payload:
   - DOMAIN,adforce.adtech.us
   - DOMAIN,adfox.yandex.ru
   - DOMAIN,adfs.senacrs.com.br
+  - DOMAIN,adfstat.yandex.ru
   - DOMAIN,adfuri.socdm.com
   - DOMAIN,adgebra.co.in
   - DOMAIN,adgeo.163.com
@@ -2963,6 +2965,7 @@ payload:
   - DOMAIN,ads.register.com
   - DOMAIN,ads.reklamatik.com
   - DOMAIN,ads.reklamlar.net
+  - DOMAIN,ads.ressp.net
   - DOMAIN,ads.revjet.com
   - DOMAIN,ads.roanoke.com
   - DOMAIN,ads.roiserver.com
@@ -4693,6 +4696,7 @@ payload:
   - DOMAIN,api.browsermine.com
   - DOMAIN,api.bs.zui.com
   - DOMAIN,api.callget.cn
+  - DOMAIN,api.carrottrack.io
   - DOMAIN,api.cazamba.com
   - DOMAIN,api.cloudmobi.net
   - DOMAIN,api.coinerra.com
@@ -5142,6 +5146,7 @@ payload:
   - DOMAIN,asearch.alicdn.com
   - DOMAIN,asecdn.w88media.com
   - DOMAIN,aserv.motorsgate.com
+  - DOMAIN,asg.faperoni.com
   - DOMAIN,asg.phukienthoitranggiare.com
   - DOMAIN,asgdfasad.mm-cgnews.com
   - DOMAIN,ashot.txxx.com
@@ -5802,7 +5807,6 @@ payload:
   - DOMAIN,bd01.daqiso.com
   - DOMAIN,bd1-china.6789.com
   - DOMAIN,bd1-china.xsfaya.com
-  - DOMAIN,bd1-ys.km.com
   - DOMAIN,bd1.365qilu.com
   - DOMAIN,bd1.52che.com
   - DOMAIN,bd1.99danji.com
@@ -8469,9 +8473,7 @@ payload:
   - DOMAIN,count24.51yes.com
   - DOMAIN,count25.51yes.com
   - DOMAIN,count26.51yes.com
-  - DOMAIN,count27.51yes.com
   - DOMAIN,count29.51yes.com
-  - DOMAIN,count3.51yes.com
   - DOMAIN,count32.51yes.com
   - DOMAIN,count34.51yes.com
   - DOMAIN,count35.51yes.com
@@ -8489,7 +8491,6 @@ payload:
   - DOMAIN,count50.51yes.com
   - DOMAIN,count6.51yes.com
   - DOMAIN,count6.pconline.com.cn
-  - DOMAIN,count9.51yes.com
   - DOMAIN,counter.123counts.com
   - DOMAIN,counter.1gb.ru
   - DOMAIN,counter.1i.kz
@@ -10944,7 +10945,6 @@ payload:
   - DOMAIN,easymonitoringnm.carte-gr.total.fr
   - DOMAIN,easynews.adsame.com
   - DOMAIN,easytimes.unaux.com
-  - DOMAIN,eatp.evztib.xyz
   - DOMAIN,eaus2watcab01.blob.core.windows.net
   - DOMAIN,eaus2watcab02.blob.core.windows.net
   - DOMAIN,eavs02.eqifa.com
@@ -12444,7 +12444,6 @@ payload:
   - DOMAIN,g.wait.re
   - DOMAIN,g.wan.2345.com
   - DOMAIN,g.wan.douyu.com
-  - DOMAIN,g.x.cn.majorserving.com
   - DOMAIN,g.x.cn.xtgreat.com
   - DOMAIN,g.xywy.com
   - DOMAIN,g.yccdn.com
@@ -12880,7 +12879,6 @@ payload:
   - DOMAIN,gmufag.woman.ru
   - DOMAIN,gmxcdm.vestel.com.tr
   - DOMAIN,gn-flagpoles.api.bbci.co.uk
-  - DOMAIN,gn.lalaqky.cn
   - DOMAIN,gnfjvt.radpowerbikes.com
   - DOMAIN,gnnzuo.ormatek.com
   - DOMAIN,gnqgnn.bbongbra.co.kr
@@ -15477,7 +15475,6 @@ payload:
   - DOMAIN,imgaliyun.da.mgtv.com
   - DOMAIN,imgaliyun.res.mgtv.com
   - DOMAIN,imgapp.yeyou.com
-  - DOMAIN,imgc.cymzc.com
   - DOMAIN,imgcdn.wapx.cn
   - DOMAIN,imgg.dt00.net
   - DOMAIN,imgg.marketgid.com
@@ -16918,7 +16915,6 @@ payload:
   - DOMAIN,js2.keywordsconnect.com
   - DOMAIN,js3492.yongkang6.com
   - DOMAIN,js3555.championmachinery-cn.com
-  - DOMAIN,js3555.hongtaidichan.net
   - DOMAIN,js3743.yongkang6.com
   - DOMAIN,js3810.yongkang6.com
   - DOMAIN,js4.eastmoney.com
@@ -18179,7 +18175,7 @@ payload:
   - DOMAIN,lybjfx.proffsmagasinet.se
   - DOMAIN,lycos-eu.imrworldwide.com
   - DOMAIN,lyfrir.purehockey.com
-  - DOMAIN,lygrydwz.net.cn
+  - DOMAIN,lygrydwz.com.cn
   - DOMAIN,lylog.1391.com
   - DOMAIN,lylxuot.pltqbcgsq.biz
   - DOMAIN,lynn.zgsemi.cn
@@ -18196,7 +18192,6 @@ payload:
   - DOMAIN,m.118ex.cn
   - DOMAIN,m.168ey.com
   - DOMAIN,m.20mao.com
-  - DOMAIN,m.21haodianmt.com
   - DOMAIN,m.23txt.com
   - DOMAIN,m.3987.com
   - DOMAIN,m.51xmgys.com
@@ -18276,7 +18271,6 @@ payload:
   - DOMAIN,m.fcuit.com
   - DOMAIN,m.fdoun.com
   - DOMAIN,m.feipaihehuoren.cn
-  - DOMAIN,m.feirs.com
   - DOMAIN,m.fenrs.com
   - DOMAIN,m.fhxiaoshuo.com
   - DOMAIN,m.fouas.com
@@ -22243,6 +22237,7 @@ payload:
   - DOMAIN,p.abcache.com
   - DOMAIN,p.adsymptotic.com
   - DOMAIN,p.alimama.com
+  - DOMAIN,p.altergeo.ru
   - DOMAIN,p.appjiagu.com
   - DOMAIN,p.aty.sohu.com
   - DOMAIN,p.barrera.io
@@ -22265,7 +22260,6 @@ payload:
   - DOMAIN,p.igra-prestoloff.cx
   - DOMAIN,p.imigame.com
   - DOMAIN,p.inte.sogou.com
-  - DOMAIN,p.ivoberger.com
   - DOMAIN,p.junshi881.com
   - DOMAIN,p.junshifuxin.com
   - DOMAIN,p.jxpress.net
@@ -23585,6 +23579,8 @@ payload:
   - DOMAIN,ptracker.58.com
   - DOMAIN,ptracker.nurturehq.com
   - DOMAIN,ptrads.mp3.com
+  - DOMAIN,ptreklam.com.tr
+  - DOMAIN,ptreklamssp.com.tr
   - DOMAIN,ptrenx.vidaxl.com.au
   - DOMAIN,ptsc.shoplocal.com
   - DOMAIN,ptw-i.actonservice.com
@@ -24254,6 +24250,7 @@ payload:
   - DOMAIN,res.rbl.ms
   - DOMAIN,res1.applovin.com
   - DOMAIN,res3.feedsportal.com
+  - DOMAIN,resad.mediaid.click
   - DOMAIN,rescardadvisor.carte-gr.total.fr
   - DOMAIN,rescn.u3.ucweb.com
   - DOMAIN,research.de.com
@@ -25945,7 +25942,6 @@ payload:
   - DOMAIN,serveraddr.service.kugou.com
   - DOMAIN,servers1.adriver.ru
   - DOMAIN,service-api.accesstrade.vn
-  - DOMAIN,service-stat.tbn.ru
   - DOMAIN,service.ad.adesk.com
   - DOMAIN,service.ad.duomi.com
   - DOMAIN,service.adtech.fr
@@ -30060,7 +30056,6 @@ payload:
   - DOMAIN,tdep.vacansoleil.hu
   - DOMAIN,tdep.vacansoleil.it
   - DOMAIN,tdep.vacansoleil.nl
-  - DOMAIN,tdep.vacansoleil.pl
   - DOMAIN,tdf1.admyjob.com
   - DOMAIN,tdf1.easyviaggio.com
   - DOMAIN,tdf1.easyviajar.com
@@ -30944,6 +30939,7 @@ payload:
   - DOMAIN,track.msadcenter.nho.com
   - DOMAIN,track.msadcenter.nyfg.com
   - DOMAIN,track.msadcenter.oah.com
+  - DOMAIN,track.msadcenter.pcp.com
   - DOMAIN,track.msadcenter.pszn.com
   - DOMAIN,track.msadcenter.qsvv.com
   - DOMAIN,track.msadcenter.qymv.com
@@ -32943,7 +32939,6 @@ payload:
   - DOMAIN,webwidgetz.duckdns.org
   - DOMAIN,webwise.bt.com
   - DOMAIN,weby.aaas.org
-  - DOMAIN,weebvivian72.uk.to
   - DOMAIN,weidenhammer.actonservice.com
   - DOMAIN,weight-loss.1.p2l.info
   - DOMAIN,weight-loss.3.p2l.info
@@ -33895,7 +33890,6 @@ payload:
   - DOMAIN,xaguwy.thomas-muenz.ru
   - DOMAIN,xanax-online.dot.de
   - DOMAIN,xanax-online.run.to
-  - DOMAIN,xanax-online.sms2.us
   - DOMAIN,xanax-store.shengen.ru
   - DOMAIN,xanax.t-amo.net
   - DOMAIN,xanaxxanax.3xforum.ro
