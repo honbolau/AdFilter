@@ -1,11 +1,11 @@
-# Checksum: MTYzMDAyNjExOQo=
+# Checksum: MTYzMDExMjEwNgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210827-0
-# TimeUpdated: 2021-08-27T01:01:59+00:00
+# Version: 1.1.8-20210828-0
+# TimeUpdated: 2021-08-28T00:55:06+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34418
+# Total: 34406
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -952,8 +952,6 @@ ff02::3 ip6-allhosts
 :: a.marketns.emailvision.net.daraz.com
 0.0.0.0 a.mayakinfo.ru
 :: a.mayakinfo.ru
-0.0.0.0 a.mct01.com
-:: a.mct01.com
 0.0.0.0 a.medialaancdn.be
 :: a.medialaancdn.be
 0.0.0.0 a.medialytics.com
@@ -1150,6 +1148,8 @@ ff02::3 ip6-allhosts
 :: a.xizi.com
 0.0.0.0 a.xlpu.cc
 :: a.xlpu.cc
+0.0.0.0 a.xue126.com
+:: a.xue126.com
 0.0.0.0 a.xuezizhai.com
 :: a.xuezizhai.com
 0.0.0.0 a.xywy.com
@@ -3378,8 +3378,6 @@ ff02::3 ip6-allhosts
 :: ad.iinfo.cz
 0.0.0.0 ad.ikonke.com
 :: ad.ikonke.com
-0.0.0.0 ad.ilove.ch
-:: ad.ilove.ch
 0.0.0.0 ad.iloveinterracial.com
 :: ad.iloveinterracial.com
 0.0.0.0 ad.infoseek.com
@@ -8078,8 +8076,6 @@ ff02::3 ip6-allhosts
 :: an.avast.com
 0.0.0.0 an.batmobi.net
 :: an.batmobi.net
-0.0.0.0 an.biocoop.cn
-:: an.biocoop.cn
 0.0.0.0 an.blogis.org
 :: an.blogis.org
 0.0.0.0 an.constantcontact.com
@@ -11226,8 +11222,6 @@ ff02::3 ip6-allhosts
 :: banner.itweb.co.za
 0.0.0.0 banner.kanald.com.tr
 :: banner.kanald.com.tr
-0.0.0.0 banner.klikklik.nl
-:: banner.klikklik.nl
 0.0.0.0 banner.lardi-trans.com
 :: banner.lardi-trans.com
 0.0.0.0 banner.lbs.km.ru
@@ -11366,8 +11360,6 @@ ff02::3 ip6-allhosts
 :: banners.fuckbookhookups.com
 0.0.0.0 banners.getiton.com
 :: banners.getiton.com
-0.0.0.0 banners.golfasian.com
-:: banners.golfasian.com
 0.0.0.0 banners.haqqin.az
 :: banners.haqqin.az
 0.0.0.0 banners.igloro.info
@@ -11428,8 +11420,6 @@ ff02::3 ip6-allhosts
 :: banners.thomsonlocal.com
 0.0.0.0 banners.todoconsolas.com
 :: banners.todoconsolas.com
-0.0.0.0 banners.toeto.com
-:: banners.toeto.com
 0.0.0.0 banners.tribute.ca
 :: banners.tribute.ca
 0.0.0.0 banners.videosecrets.com
@@ -12418,6 +12408,8 @@ ff02::3 ip6-allhosts
 :: bollyshare.net.daraz.com
 0.0.0.0 bolt.jebe.renren.com
 :: bolt.jebe.renren.com
+0.0.0.0 bom-soft.com.cn
+:: bom-soft.com.cn
 0.0.0.0 bonfire.spklw.com
 :: bonfire.spklw.com
 0.0.0.0 bonsai.internetbrands.com
@@ -15226,8 +15218,6 @@ ff02::3 ip6-allhosts
 :: clicks.tableau.com
 0.0.0.0 clicks.toteme.com
 :: clicks.toteme.com
-0.0.0.0 clicks.traffictrader.net
-:: clicks.traffictrader.net
 0.0.0.0 clicks.virtuagirl.com
 :: clicks.virtuagirl.com
 0.0.0.0 clicks.virtuagirlhd.com
@@ -16786,6 +16776,8 @@ ff02::3 ip6-allhosts
 :: cookietracking.eatonpowersource.com
 0.0.0.0 cookiex.ngd.yahoo.com
 :: cookiex.ngd.yahoo.com
+0.0.0.0 cooleefbaldw.uk.to
+:: cooleefbaldw.uk.to
 0.0.0.0 coolnovelties.co.uk
 :: coolnovelties.co.uk
 0.0.0.0 coop.pop.baofeng.com
@@ -17756,6 +17748,8 @@ ff02::3 ip6-allhosts
 :: ct.thegear-box.com
 0.0.0.0 ct.xn--0et88ccz6awh1a.biz
 :: ct.xn--0et88ccz6awh1a.biz
+0.0.0.0 ct2.sarashi.com
+:: ct2.sarashi.com
 0.0.0.0 ct5m.citadium.com
 :: ct5m.citadium.com
 0.0.0.0 cta.onguard.com
@@ -17828,6 +17822,8 @@ ff02::3 ip6-allhosts
 :: cunda.prudsys-rde.de
 0.0.0.0 curated.fieldtest.cc
 :: curated.fieldtest.cc
+0.0.0.0 cursosobej.sslblindado.com
+:: cursosobej.sslblindado.com
 0.0.0.0 cust01-cucm-sub-01-cl9.int.net.daraz.com
 :: cust01-cucm-sub-01-cl9.int.net.daraz.com
 0.0.0.0 cust01-cucm-sub-07-cl9.int.net.daraz.com
@@ -18996,6 +18992,8 @@ ff02::3 ip6-allhosts
 :: d3hs51abvkuanv.cloudfront.net
 0.0.0.0 d3hwh14livah35.cloudfront.net
 :: d3hwh14livah35.cloudfront.net
+0.0.0.0 d3iih5w7xp5hdg.cloudfront.net
+:: d3iih5w7xp5hdg.cloudfront.net
 0.0.0.0 d3in1te4fdays6.cloudfront.net
 :: d3in1te4fdays6.cloudfront.net
 0.0.0.0 d3iouejux1os58.cloudfront.net
@@ -22188,8 +22186,6 @@ ff02::3 ip6-allhosts
 :: edwlifes.vo.llnwd.net
 0.0.0.0 ee.hdboping.com
 :: ee.hdboping.com
-0.0.0.0 ee.hx623.cn
-:: ee.hx623.cn
 0.0.0.0 ee.m19ud.cn
 :: ee.m19ud.cn
 0.0.0.0 ee.mfufanj.cn
@@ -24460,8 +24456,6 @@ ff02::3 ip6-allhosts
 :: fp.nanrenwo.net
 0.0.0.0 fpa-cdn.arstechnica.com
 :: fpa-cdn.arstechnica.com
-0.0.0.0 fpag.w48ge.cn
-:: fpag.w48ge.cn
 0.0.0.0 fpb.docin.com
 :: fpb.docin.com
 0.0.0.0 fpb.mn586.com
@@ -25084,8 +25078,6 @@ ff02::3 ip6-allhosts
 :: gbtracking.finning.com
 0.0.0.0 gc.newsweek.com
 :: gc.newsweek.com
-0.0.0.0 gcads.osdn.com
-:: gcads.osdn.com
 0.0.0.0 gccode.gongchang.com
 :: gccode.gongchang.com
 0.0.0.0 gcdn.2mdn.net
@@ -29058,8 +29050,6 @@ ff02::3 ip6-allhosts
 :: guid.tpns.tencent.com
 0.0.0.0 guidance.godaddy.com
 :: guidance.godaddy.com
-0.0.0.0 guide.allblet.net
-:: guide.allblet.net
 0.0.0.0 guineapig.recap.io
 :: guineapig.recap.io
 0.0.0.0 gulf.moneroocean.stream
@@ -33282,8 +33272,6 @@ ff02::3 ip6-allhosts
 :: j.wit.qq.com
 0.0.0.0 j.xingshangnet.com
 :: j.xingshangnet.com
-0.0.0.0 j.zhdap.com
-:: j.zhdap.com
 0.0.0.0 j1.ax.xrea.com
 :: j1.ax.xrea.com
 0.0.0.0 j1.piaobing.com
@@ -34828,8 +34816,6 @@ ff02::3 ip6-allhosts
 :: leopard.understandit.se
 0.0.0.0 lepodownload.mediatek.com
 :: lepodownload.mediatek.com
-0.0.0.0 leslieyu.com.cn
-:: leslieyu.com.cn
 0.0.0.0 let1.devialet.com
 :: let1.devialet.com
 0.0.0.0 lets.go.xpo.com
@@ -36352,8 +36338,6 @@ ff02::3 ip6-allhosts
 :: lycos-eu.imrworldwide.com
 0.0.0.0 lyfrir.purehockey.com
 :: lyfrir.purehockey.com
-0.0.0.0 lygrydwz.com.cn
-:: lygrydwz.com.cn
 0.0.0.0 lylog.1391.com
 :: lylog.1391.com
 0.0.0.0 lylxuot.pltqbcgsq.biz
@@ -37100,6 +37084,8 @@ ff02::3 ip6-allhosts
 :: mail01.virginpulse.com
 0.0.0.0 mail02.rciadventure.com
 :: mail02.rciadventure.com
+0.0.0.0 mail1.371.net
+:: mail1.371.net
 0.0.0.0 mail10.ingenious.cloud
 :: mail10.ingenious.cloud
 0.0.0.0 mail12.rciadventure.com
@@ -37192,8 +37178,6 @@ ff02::3 ip6-allhosts
 :: manila-1.xmrpool.net
 0.0.0.0 manuel.theonion.com
 :: manuel.theonion.com
-0.0.0.0 mao1.jsnovel.com
-:: mao1.jsnovel.com
 0.0.0.0 map.dxpmedia.com
 :: map.dxpmedia.com
 0.0.0.0 map.liferay.com
@@ -46260,8 +46244,6 @@ ff02::3 ip6-allhosts
 :: play.gramombird.com
 0.0.0.0 play.heavymetalmachines.com
 :: play.heavymetalmachines.com
-0.0.0.0 play.istlandoll.com
-:: play.istlandoll.com
 0.0.0.0 play.mine.gay-hotvideo.net
 :: play.mine.gay-hotvideo.net
 0.0.0.0 play.mix.kinostuff.com
@@ -46580,8 +46562,6 @@ ff02::3 ip6-allhosts
 :: poweradvertising.co.uk
 0.0.0.0 powercount.jswelt.de
 :: powercount.jswelt.de
-0.0.0.0 poweredby.jads.co
-:: poweredby.jads.co
 0.0.0.0 pp.awmplus.com
 :: pp.awmplus.com
 0.0.0.0 pp.free.fr
@@ -47160,10 +47140,6 @@ ff02::3 ip6-allhosts
 :: ptracker.nurturehq.com
 0.0.0.0 ptrads.mp3.com
 :: ptrads.mp3.com
-0.0.0.0 ptreklam.com.tr
-:: ptreklam.com.tr
-0.0.0.0 ptreklamssp.com.tr
-:: ptreklamssp.com.tr
 0.0.0.0 ptrenx.vidaxl.com.au
 :: ptrenx.vidaxl.com.au
 0.0.0.0 ptsc.shoplocal.com
@@ -48502,8 +48478,6 @@ ff02::3 ip6-allhosts
 :: res1.applovin.com
 0.0.0.0 res3.feedsportal.com
 :: res3.feedsportal.com
-0.0.0.0 resad.mediaid.click
-:: resad.mediaid.click
 0.0.0.0 rescardadvisor.carte-gr.total.fr
 :: rescardadvisor.carte-gr.total.fr
 0.0.0.0 rescn.u3.ucweb.com
@@ -59912,6 +59886,8 @@ ff02::3 ip6-allhosts
 :: tahr.componentsui.com
 0.0.0.0 tahr.rasen.dev
 :: tahr.rasen.dev
+0.0.0.0 taidi.net.cn
+:: taidi.net.cn
 0.0.0.0 taiji.sina.cn
 :: taiji.sina.cn
 0.0.0.0 taj1.ebis.ne.jp
@@ -61880,8 +61856,6 @@ ff02::3 ip6-allhosts
 :: track.msadcenter.nyfg.com
 0.0.0.0 track.msadcenter.oah.com
 :: track.msadcenter.oah.com
-0.0.0.0 track.msadcenter.pcp.com
-:: track.msadcenter.pcp.com
 0.0.0.0 track.msadcenter.pszn.com
 :: track.msadcenter.pszn.com
 0.0.0.0 track.msadcenter.qsvv.com
@@ -62384,6 +62358,8 @@ ff02::3 ip6-allhosts
 :: tracking.adweb.co.kr
 0.0.0.0 tracking.aegpresents.com
 :: tracking.aegpresents.com
+0.0.0.0 tracking.affiliateclub.cz
+:: tracking.affiliateclub.cz
 0.0.0.0 tracking.aita.gov.vn
 :: tracking.aita.gov.vn
 0.0.0.0 tracking.alarabiya.net
@@ -63562,8 +63538,6 @@ ff02::3 ip6-allhosts
 :: tusawd.orto.su
 0.0.0.0 tut.prosmotrov.net
 :: tut.prosmotrov.net
-0.0.0.0 tutese.com.cn
-:: tutese.com.cn
 0.0.0.0 tuxi.com.cn
 :: tuxi.com.cn
 0.0.0.0 tv.code.jjyx.com
@@ -66098,6 +66072,8 @@ ff02::3 ip6-allhosts
 :: widgets.tree.com
 0.0.0.0 widgets.trustedshops.com
 :: widgets.trustedshops.com
+0.0.0.0 widjet.analnoe.tv
+:: widjet.analnoe.tv
 0.0.0.0 wifi.ggsafe.com
 :: wifi.ggsafe.com
 0.0.0.0 wifiapi02.51y5.net
