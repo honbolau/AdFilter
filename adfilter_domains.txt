@@ -1,11 +1,11 @@
-# Checksum: MTYzMDExMjEwNgo=
+# Checksum: MTYzMDE5ODg0Ngo=
 # Title: Zhijie's Ad Filter for Pi-hole (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210828-0
-# TimeUpdated: 2021-08-28T00:55:06+00:00
+# Version: 1.1.8-20210829-0
+# TimeUpdated: 2021-08-29T01:00:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34406
+# Total: 34399
 0.nextyourcontent.com
 0.r.msn.com
 0.up.qingdaonews.com
@@ -86,6 +86,7 @@
 1.up.qingdaonews.com
 1.v-x.com.cn
 1.vsimg.com
+1.weiheshidai.com
 1.wenzhangba.cn
 1.win7sky.com
 1.xilu.com
@@ -1622,7 +1623,6 @@ ad.duga.jp
 ad.duomi.com
 ad.dzwindows.com
 ad.dzwww.com
-ad.e-sport.com
 ad.e-words.jp
 ad.edugram.com
 ad.eglenced.com
@@ -2496,6 +2496,7 @@ ads.ami-admin.com
 ads.amigos.com
 ads.annabac.com
 ads.aol.co.uk
+ads.aol.com
 ads.apartmenttherapy.com
 ads.api.vungle.com
 ads.aplus.pptv.com
@@ -2889,7 +2890,6 @@ ads.online.ie
 ads.open.pl
 ads.opensubtitles.org
 ads.optusnet.com.au
-ads.osdn.com
 ads.outpersonals.com
 ads.oxyshop.cz
 ads.paper.li
@@ -3213,7 +3213,6 @@ ads2.msads.net
 ads2.msn.com
 ads2.net-communities.co.uk
 ads2.oneplace.com
-ads2.osdn.com
 ads2.pbxware.ru
 ads2.pittsburghlive.com
 ads2.realcities.com
@@ -5801,6 +5800,7 @@ bd.watu.cn
 bd01.daqiso.com
 bd1-china.6789.com
 bd1-china.xsfaya.com
+bd1-ys.km.com
 bd1.365qilu.com
 bd1.52che.com
 bd1.99danji.com
@@ -5879,7 +5879,6 @@ bdsearch.2345.com
 bdstatic.eastmoney.com
 bdt.123rf.com
 bdu.focus.cn
-bdu1.coozhi.cn
 bdunion1.suxiazai.com
 bduserlog.eastmoney.com
 bdv.bidvertiser.com
@@ -6525,7 +6524,6 @@ c.f1zd.com
 c.fi.msn.com
 c.fr.msn.com
 c.freeride.com.cn
-c.future888.net
 c.gazetevatan.com
 c.gdt.qq.com
 c.gr.msn.com
@@ -6554,6 +6552,7 @@ c.l.qq.com
 c.l570mb.cn
 c.latam.msn.com
 c.lattebank.com
+c.leslieyu.com.cn
 c.lianwangtech.com
 c.lxanimation.cn
 c.lxtvb.cn
@@ -6613,6 +6612,7 @@ c.panruo.net.cn
 c.pc.qq.com
 c.pengmingx.cn
 c.ph.msn.com
+c.piecoupon.cn
 c.piliangzhuce.cn
 c.prodigy.msn.com
 c.pt.msn.com
@@ -6784,6 +6784,7 @@ campaigns.panasonic.eu
 campaigns.primaverabss.com
 campaigns.ssi-schaefer.com
 cams.enjoy.be
+cams.imgtaxi.com
 cams.spacash.com
 can-bhs-c1-p1.inf.nimiq.network
 can-bhs-c1-s1.inf.nimiq.network
@@ -8386,7 +8387,6 @@ cookies.teraz.sk
 cookies.unidadeditorial.es
 cookietracking.eatonpowersource.com
 cookiex.ngd.yahoo.com
-cooleefbaldw.uk.to
 coolnovelties.co.uk
 coop.pop.baofeng.com
 cooperation.html5.qq.com
@@ -8909,7 +8909,6 @@ cukierniatylczynscy.lh.pl
 culliganwaterco.actonservice.com
 cunda.prudsys-rde.de
 curated.fieldtest.cc
-cursosobej.sslblindado.com
 cust01-cucm-sub-01-cl9.int.net.daraz.com
 cust01-cucm-sub-07-cl9.int.net.daraz.com
 custom.crypto-webminer.com
@@ -10392,6 +10391,7 @@ dmpcdn.el-mundo.net
 dmpclick.deliver.ifeng.com
 dmqykw.thirtymall.com
 dmrzwh2nnpd64.cloudfront.net
+dms.vancss.com
 dms63.he3kz8.com
 dmsz.win7sky.com
 dmt.qcrx.cn
@@ -10835,7 +10835,6 @@ e.nbkbgd.cn
 e.net.daraz.com
 e.nexac.com
 e.oaktreemobility.co.uk
-e.oq7d6b.cn
 e.passfolio.us
 e.picbr.com
 e.poonscn.com
@@ -12147,7 +12146,6 @@ flznib.weblio.jp
 fm.ipinyou.com
 fm.p0y.cn
 fm.qzone.qq.com
-fmads.osdn.com
 fmbankva.actonservice.com
 fmg.aty.sohu.com
 fmkgvu.nestpick.com
@@ -12442,7 +12440,6 @@ g.wan.2345.com
 g.wan.douyu.com
 g.x.cn.xtgreat.com
 g.xywy.com
-g.yccdn.com
 g.youyou234.com
 g1.08160.cn
 g1.163.com
@@ -12643,7 +12640,6 @@ geo.q5media.net
 geo.vortex.data.microsoft.com.akadns.net
 geo.xcel.io
 geo.yahoo.com
-geoads.osdn.com
 geoapi123.appspot.com
 geobanner.adultfriendfinder.com
 geobanner.alt.com
@@ -14556,7 +14552,6 @@ gxjekl.hdsupplysolutions.com
 gxjnyy.contorion.fr
 gyatml.piatraonline.ro
 gybles.shopee.ph
-gyca9f.dahuangcheng.cn
 gycyms.backmarket.de
 gyqbrs.qvc.it
 gyvcwd.cdiscount.com
@@ -15217,6 +15212,7 @@ id.promo.skf.com
 id.sputniknews.com
 ida.cnool.net
 idbkfy.kango-roo.com
+ideas-telcel.com.mx
 ideas.360factors.com
 ideletedtweets.blogspot.co.uk
 idg1.idgarages.com
@@ -16413,6 +16409,7 @@ install.365-stream.com
 install.sidesearch.lycos.com
 install.yzapi.top
 installtracker.unityads.unity3d.com
+instangram.com.mx
 insurance.caainsurancecompany.com
 insurance.thehullgroup.com
 int-patner.net.daraz.com
@@ -17035,7 +17032,6 @@ k1.mobileadsserver.com
 k1.net.daraz.com
 k3vzn.flx10.com
 k4fu.verif.com
-k5ads.osdn.com
 k8s-dev.nfreya.net.daraz.com
 k8s-dev.summer.net.daraz.com
 k8s-mock-server-2.hb-api.omtrdc.net
@@ -17721,7 +17717,6 @@ lmnqof.littletoncoin.com
 lmvc1.vivatechnology.com
 lmwap.awtks.com
 ln.ameba.jp
-lnads.osdn.com
 lndnserror6.wo.com.cn
 lndnserror7.wo.com.cn
 lnews.riafan.ru
@@ -17780,7 +17775,6 @@ log.avlyun.sec.intl.miui.com
 log.baodatviet.vn
 log.baodauthau.vn
 log.baomoi.com
-log.baonghean.vn
 log.baophapluat.vn
 log.batdongsan.com.vn
 log.beecost.com
@@ -18037,7 +18031,6 @@ look.ichlnk.com
 look.kfiopkln.com
 look.opskln.com
 look.udncoeln.com
-look.ufinkln.com
 look.utndln.com
 loon.hardin.io
 loopa.net.au
@@ -18210,7 +18203,6 @@ m.ads.sohu.com
 m.adtiming.com
 m.aduiz.com
 m.adxpop.com
-m.ailix.cn
 m.amazonappservices.com
 m.analytics.126.net
 m.anmeilai.net
@@ -18540,7 +18532,6 @@ mail.webmine.cz
 mail.yokogawa.com
 mail01.virginpulse.com
 mail02.rciadventure.com
-mail1.371.net
 mail10.ingenious.cloud
 mail12.rciadventure.com
 mail4.ingenious.cloud
@@ -24205,7 +24196,6 @@ reporting.cdndex.io
 reporting.handll.net
 reporting.nld.com.vn
 reporting.singlefeed.com
-reporting.vneconomy.vn
 reportlog.dftoutiao.com
 reports-api.sqreen.io
 reports.pagesuite-professional.co.uk
@@ -24243,7 +24233,6 @@ research.de.com
 research.gartner.com
 researchnow.co.uk
 reset.net.daraz.com
-resource.ws.kukuplay.com
 resources.aldec.com
 resources.att.com
 resources.davey.com
@@ -27838,7 +27827,6 @@ sourcepoint-mms.mylifetime.com
 sourcepoint.mgr.consensu.org
 sourcepoint.theguardian.com
 sourcepoint.vice.com
-sourcepointcmp.bloomberg.com
 sourcess.carte-gr.total.fr
 sourceszomation.carte-gr.total.fr
 sp-consent.stuttgarter-zeitung.de
@@ -28883,7 +28871,6 @@ stats.discotel.de
 stats.dmp.ghac.cn
 stats.dnaindia.com
 stats.docu.info
-stats.dokidokibangkok.com
 stats.dongphim.net
 stats.doors.live
 stats.dreamsub.cc
@@ -29475,6 +29462,8 @@ sv-api-lottery.headlines.pw
 sv-static-lottery.headlines.pw
 sv-static1-lottery.headlines.pw
 sv.map.baidu.com
+sv.wytsoft.xyz
+sv.yyzz.shop
 svarcom.actonservice.com
 svmarketing.destinationtoronto.com
 svmarketing.torcvb.com
@@ -31939,6 +31928,7 @@ ultimatecoppack.dlcodes.com
 ultracet.1.p2l.info
 ultram.1.p2l.info
 ultranote.crypto-webminer.com
+ulyse.hotscopes.to
 um-public-panel-prod.s3.amazonaws.com
 um.hd.sohu.com
 um.simpli.fi
@@ -32192,6 +32182,7 @@ v.jsbgh.cn
 v.jumorecn.com.cn
 v.jzdianlan.cn
 v.l570mb.cn
+v.leslieyu.com.cn
 v.lovame.com.cn
 v.luxfp.space
 v.lxanimation.cn
@@ -32209,6 +32200,7 @@ v.oumaite168.com.cn
 v.panruo.net.cn
 v.pdfmxsh.cn
 v.pengmingx.cn
+v.piecoupon.cn
 v.qhruisen.cn
 v.rmbn.net
 v.saastt.com
@@ -34245,6 +34237,7 @@ z.tudouxy01.com
 z.xc0429.com
 z1.chezhuzhinan.com
 z1.cnywst.com
+z1.cwbaike.com
 z1.cyla.cn
 z1.o8h7d.cn
 z1.partner.net.daraz.com
