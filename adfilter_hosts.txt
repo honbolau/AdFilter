@@ -1,11 +1,11 @@
-# Checksum: MTYzMDE5ODg0Ngo=
+# Checksum: MTYzMDI4NTA1NQo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210829-0
-# TimeUpdated: 2021-08-29T01:00:46+00:00
+# Version: 1.1.8-20210830-0
+# TimeUpdated: 2021-08-30T00:57:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34399
+# Total: 34384
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -6188,6 +6188,8 @@ ff02::3 ip6-allhosts
 :: ads.uxs.at
 0.0.0.0 ads.v-lazer.com
 :: ads.v-lazer.com
+0.0.0.0 ads.v3.com
+:: ads.v3.com
 0.0.0.0 ads.v3exchange.com
 :: ads.v3exchange.com
 0.0.0.0 ads.vaildaily.com
@@ -13218,8 +13220,6 @@ ff02::3 ip6-allhosts
 :: c.ns.v-emailvision.net.daraz.com
 0.0.0.0 c.ns8d.com
 :: c.ns8d.com
-0.0.0.0 c.oumaite168.com.cn
-:: c.oumaite168.com.cn
 0.0.0.0 c.panruo.net.cn
 :: c.panruo.net.cn
 0.0.0.0 c.pc.qq.com
@@ -13894,6 +13894,8 @@ ff02::3 ip6-allhosts
 :: ccexperimentsstatic.oracleoutsourcing.com
 0.0.0.0 ccgenerator.net.daraz.com
 :: ccgenerator.net.daraz.com
+0.0.0.0 ccm19.vucx.de
+:: ccm19.vucx.de
 0.0.0.0 ccma.hb.omtrdc.net
 :: ccma.hb.omtrdc.net
 0.0.0.0 ccmd.coveredca.com
@@ -14806,8 +14808,6 @@ ff02::3 ip6-allhosts
 :: cjgffo.thesportsedit.com
 0.0.0.0 cjhd.mediav.com
 :: cjhd.mediav.com
-0.0.0.0 cjiv.chengjie168.com.cn
-:: cjiv.chengjie168.com.cn
 0.0.0.0 cjroq.bealge.sogou.com
 :: cjroq.bealge.sogou.com
 0.0.0.0 ck.connatix.com
@@ -15394,6 +15394,8 @@ ff02::3 ip6-allhosts
 :: cloud.jumpcloud.com
 0.0.0.0 cloud.roistat.com
 :: cloud.roistat.com
+0.0.0.0 cloud.setupad.com
+:: cloud.setupad.com
 0.0.0.0 cloud.www.net.daraz.com
 :: cloud.www.net.daraz.com
 0.0.0.0 cloud.xdrig.com
@@ -15916,8 +15918,6 @@ ff02::3 ip6-allhosts
 :: col.pagechoice.net
 0.0.0.0 coletor.terra.com
 :: coletor.terra.com
-0.0.0.0 coll.v00yvd.xyz
-:: coll.v00yvd.xyz
 0.0.0.0 collect-test.arabam.com
 :: collect-test.arabam.com
 0.0.0.0 collect.alipay.com
@@ -16924,12 +16924,8 @@ ff02::3 ip6-allhosts
 :: count15.51yes.com
 0.0.0.0 count17.51yes.com
 :: count17.51yes.com
-0.0.0.0 count19.51yes.com
-:: count19.51yes.com
 0.0.0.0 count20.51yes.com
 :: count20.51yes.com
-0.0.0.0 count21.51yes.com
-:: count21.51yes.com
 0.0.0.0 count22.51yes.com
 :: count22.51yes.com
 0.0.0.0 count23.51yes.com
@@ -17438,6 +17434,8 @@ ff02::3 ip6-allhosts
 :: cqubdd.metro.co.uk
 0.0.0.0 cqubdd.thisismoney.co.uk
 :: cqubdd.thisismoney.co.uk
+0.0.0.0 cqxykj.com.cn
+:: cqxykj.com.cn
 0.0.0.0 cr-p16.ladsp.com
 :: cr-p16.ladsp.com
 0.0.0.0 cr.izumigo.co.jp
@@ -21570,8 +21568,6 @@ ff02::3 ip6-allhosts
 :: e.958so.cn
 0.0.0.0 e.ad.xiaomi.com
 :: e.ad.xiaomi.com
-0.0.0.0 e.aduiz.com
-:: e.aduiz.com
 0.0.0.0 e.ailix.cn
 :: e.ailix.cn
 0.0.0.0 e.apsalar.com
@@ -23204,8 +23200,6 @@ ff02::3 ip6-allhosts
 :: et.w.inmobi.com
 0.0.0.0 etarget.mgr.consensu.org
 :: etarget.mgr.consensu.org
-0.0.0.0 etc.jiguangzhuisu.com
-:: etc.jiguangzhuisu.com
 0.0.0.0 etc.lghausysusa.com
 :: etc.lghausysusa.com
 0.0.0.0 etcwmg.instant-gaming.com
@@ -25490,8 +25484,6 @@ ff02::3 ip6-allhosts
 :: gg.0598yu.com
 0.0.0.0 gg.51cto.com
 :: gg.51cto.com
-0.0.0.0 gg.amblrgg.live
-:: gg.amblrgg.live
 0.0.0.0 gg.blueidea.com
 :: gg.blueidea.com
 0.0.0.0 gg.btnk024.com
@@ -30346,6 +30338,8 @@ ff02::3 ip6-allhosts
 :: iadmusicmatvideo.music.126.net
 0.0.0.0 iads.iltrovatore.it
 :: iads.iltrovatore.it
+0.0.0.0 iagc.com.cn
+:: iagc.com.cn
 0.0.0.0 iam-agof-app.irquest.com
 :: iam-agof-app.irquest.com
 0.0.0.0 iam.datasavannah.com
@@ -32822,8 +32816,6 @@ ff02::3 ip6-allhosts
 :: install.yzapi.top
 0.0.0.0 installtracker.unityads.unity3d.com
 :: installtracker.unityads.unity3d.com
-0.0.0.0 instangram.com.mx
-:: instangram.com.mx
 0.0.0.0 insurance.caainsurancecompany.com
 :: insurance.caainsurancecompany.com
 0.0.0.0 insurance.thehullgroup.com
@@ -33232,8 +33224,6 @@ ff02::3 ip6-allhosts
 :: j.baminw.cn
 0.0.0.0 j.bg.adresult-sp.jp
 :: j.bg.adresult-sp.jp
-0.0.0.0 j.biquge520.cc
-:: j.biquge520.cc
 0.0.0.0 j.credit.wwz114.cn
 :: j.credit.wwz114.cn
 0.0.0.0 j.diangon.com
@@ -33822,8 +33812,6 @@ ff02::3 ip6-allhosts
 :: js4.eastmoney.com
 0.0.0.0 js4163.yongkang6.com
 :: js4163.yongkang6.com
-0.0.0.0 js4476.hongtaidichan.net
-:: js4476.hongtaidichan.net
 0.0.0.0 js5162.yongkang6.com
 :: js5162.yongkang6.com
 0.0.0.0 js6882.jianbangjiaoyu.com
@@ -34576,8 +34564,6 @@ ff02::3 ip6-allhosts
 :: landing.meendo.com
 0.0.0.0 landing.ni.com
 :: landing.ni.com
-0.0.0.0 landing.photobox.com
-:: landing.photobox.com
 0.0.0.0 landing.wolterskluwer.hu
 :: landing.wolterskluwer.hu
 0.0.0.0 landingairquality.airlite.com
@@ -36640,8 +36626,6 @@ ff02::3 ip6-allhosts
 :: m.nuoqingck.cn
 0.0.0.0 m.obeip.com
 :: m.obeip.com
-0.0.0.0 m.ocenp.com
-:: m.ocenp.com
 0.0.0.0 m.oipeirates.online
 :: m.oipeirates.online
 0.0.0.0 m.openv.tv
@@ -46978,8 +46962,6 @@ ff02::3 ip6-allhosts
 :: protection.napolice.com
 0.0.0.0 protection.ncpolice.com
 :: protection.ncpolice.com
-0.0.0.0 protection.nzpolice.com
-:: protection.nzpolice.com
 0.0.0.0 protection.papolice.com
 :: protection.papolice.com
 0.0.0.0 protection.pgpolice.com
@@ -50928,8 +50910,6 @@ ff02::3 ip6-allhosts
 :: search.buzzdock.com
 0.0.0.0 search.jword.jp
 :: search.jword.jp
-0.0.0.0 search.jzip.com
-:: search.jzip.com
 0.0.0.0 search123.uk.com
 :: search123.uk.com
 0.0.0.0 search4you.50webs.com
@@ -51972,8 +51952,6 @@ ff02::3 ip6-allhosts
 :: sf3-fe-tos.pglstatp-toutiao.com
 0.0.0.0 sf6-be-pack.pglstatp-toutiao.com
 :: sf6-be-pack.pglstatp-toutiao.com
-0.0.0.0 sfads.osdn.com
-:: sfads.osdn.com
 0.0.0.0 sfajfu.boulanger.com
 :: sfajfu.boulanger.com
 0.0.0.0 sfeedback.equabank.cz
@@ -56182,8 +56160,6 @@ ff02::3 ip6-allhosts
 :: ssa.tlc.com
 0.0.0.0 ssac.suning.com
 :: ssac.suning.com
-0.0.0.0 ssads.osdn.com
-:: ssads.osdn.com
 0.0.0.0 ssb.ah499.com
 :: ssb.ah499.com
 0.0.0.0 ssb8.app.link
@@ -57638,8 +57614,6 @@ ff02::3 ip6-allhosts
 :: stats.bungeefit.co.uk
 0.0.0.0 stats.buysellads.com
 :: stats.buysellads.com
-0.0.0.0 stats.bytebase.com
-:: stats.bytebase.com
 0.0.0.0 stats.cafepress.com
 :: stats.cafepress.com
 0.0.0.0 stats.canalblog.com
@@ -60756,8 +60730,6 @@ ff02::3 ip6-allhosts
 :: toad.frontendmentor.io
 0.0.0.0 toad.kubenews.net
 :: toad.kubenews.net
-0.0.0.0 toads.osdn.com
-:: toads.osdn.com
 0.0.0.0 tob-cms.bj.bcebos.com
 :: tob-cms.bj.bcebos.com
 0.0.0.0 tobapplog.ctobsnssdk.com
@@ -67196,8 +67168,6 @@ ff02::3 ip6-allhosts
 :: www2.m247.com
 0.0.0.0 www2.marcloudconsulting.com
 :: www2.marcloudconsulting.com
-0.0.0.0 www2.mastercontrol.com
-:: www2.mastercontrol.com
 0.0.0.0 www2.mediacurrent.com
 :: www2.mediacurrent.com
 0.0.0.0 www2.medius.com

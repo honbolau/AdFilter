@@ -1,12 +1,12 @@
 payload:
-# Checksum: MTYzMDE5ODg0Ngo=
+# Checksum: MTYzMDI4NTA1NQo=
 # Title: Zhijie's Ad Filter for Clash (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210829-0
-# TimeUpdated: 2021-08-29T01:00:46+00:00
+# Version: 1.1.8-20210830-0
+# TimeUpdated: 2021-08-30T00:57:35+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 34399
+# Total: 34384
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
@@ -3093,6 +3093,7 @@ payload:
   - DOMAIN,ads.usatoday.com
   - DOMAIN,ads.uxs.at
   - DOMAIN,ads.v-lazer.com
+  - DOMAIN,ads.v3.com
   - DOMAIN,ads.v3exchange.com
   - DOMAIN,ads.vaildaily.com
   - DOMAIN,ads.vamaker.com
@@ -6608,7 +6609,6 @@ payload:
   - DOMAIN,c.ns.stagingvision.net.daraz.com
   - DOMAIN,c.ns.v-emailvision.net.daraz.com
   - DOMAIN,c.ns8d.com
-  - DOMAIN,c.oumaite168.com.cn
   - DOMAIN,c.panruo.net.cn
   - DOMAIN,c.pc.qq.com
   - DOMAIN,c.pengmingx.cn
@@ -6946,6 +6946,7 @@ payload:
   - DOMAIN,ccczmo.travelmarket.dk
   - DOMAIN,ccexperimentsstatic.oracleoutsourcing.com
   - DOMAIN,ccgenerator.net.daraz.com
+  - DOMAIN,ccm19.vucx.de
   - DOMAIN,ccma.hb.omtrdc.net
   - DOMAIN,ccmd.coveredca.com
   - DOMAIN,ccpa-script.psg.nexstardigital.net
@@ -7402,7 +7403,6 @@ payload:
   - DOMAIN,cjcqls.onbuy.com
   - DOMAIN,cjgffo.thesportsedit.com
   - DOMAIN,cjhd.mediav.com
-  - DOMAIN,cjiv.chengjie168.com.cn
   - DOMAIN,cjroq.bealge.sogou.com
   - DOMAIN,ck.connatix.com
   - DOMAIN,ck.jssdk.top
@@ -7696,6 +7696,7 @@ payload:
   - DOMAIN,cloud.codenow.cn
   - DOMAIN,cloud.jumpcloud.com
   - DOMAIN,cloud.roistat.com
+  - DOMAIN,cloud.setupad.com
   - DOMAIN,cloud.www.net.daraz.com
   - DOMAIN,cloud.xdrig.com
   - DOMAIN,cloud.zyiis.net
@@ -7957,7 +7958,6 @@ payload:
   - DOMAIN,col.idealista.pt
   - DOMAIN,col.pagechoice.net
   - DOMAIN,coletor.terra.com
-  - DOMAIN,coll.v00yvd.xyz
   - DOMAIN,collect-test.arabam.com
   - DOMAIN,collect.alipay.com
   - DOMAIN,collect.allianz.ch
@@ -8461,9 +8461,7 @@ payload:
   - DOMAIN,count10.51yes.com
   - DOMAIN,count15.51yes.com
   - DOMAIN,count17.51yes.com
-  - DOMAIN,count19.51yes.com
   - DOMAIN,count20.51yes.com
-  - DOMAIN,count21.51yes.com
   - DOMAIN,count22.51yes.com
   - DOMAIN,count23.51yes.com
   - DOMAIN,count24.51yes.com
@@ -8718,6 +8716,7 @@ payload:
   - DOMAIN,cqpmvc.voici.fr
   - DOMAIN,cqubdd.metro.co.uk
   - DOMAIN,cqubdd.thisismoney.co.uk
+  - DOMAIN,cqxykj.com.cn
   - DOMAIN,cr-p16.ladsp.com
   - DOMAIN,cr.izumigo.co.jp
   - DOMAIN,cr.m.liebao.cn
@@ -10784,7 +10783,6 @@ payload:
   - DOMAIN,e.91.com
   - DOMAIN,e.958so.cn
   - DOMAIN,e.ad.xiaomi.com
-  - DOMAIN,e.aduiz.com
   - DOMAIN,e.ailix.cn
   - DOMAIN,e.apsalar.com
   - DOMAIN,e.apxyz.com
@@ -11601,7 +11599,6 @@ payload:
   - DOMAIN,et.w.inmobi.cn
   - DOMAIN,et.w.inmobi.com
   - DOMAIN,etarget.mgr.consensu.org
-  - DOMAIN,etc.jiguangzhuisu.com
   - DOMAIN,etc.lghausysusa.com
   - DOMAIN,etcwmg.instant-gaming.com
   - DOMAIN,eth.kissr.com
@@ -12744,7 +12741,6 @@ payload:
   - DOMAIN,gfyoyo.adpolestar.net
   - DOMAIN,gg.0598yu.com
   - DOMAIN,gg.51cto.com
-  - DOMAIN,gg.amblrgg.live
   - DOMAIN,gg.blueidea.com
   - DOMAIN,gg.btnk024.com
   - DOMAIN,gg.caixin.com
@@ -15172,6 +15168,7 @@ payload:
   - DOMAIN,iadmusicmat.music.126.net
   - DOMAIN,iadmusicmatvideo.music.126.net
   - DOMAIN,iads.iltrovatore.it
+  - DOMAIN,iagc.com.cn
   - DOMAIN,iam-agof-app.irquest.com
   - DOMAIN,iam.datasavannah.com
   - DOMAIN,iam.investecassetmanagement.com
@@ -16410,7 +16407,6 @@ payload:
   - DOMAIN,install.sidesearch.lycos.com
   - DOMAIN,install.yzapi.top
   - DOMAIN,installtracker.unityads.unity3d.com
-  - DOMAIN,instangram.com.mx
   - DOMAIN,insurance.caainsurancecompany.com
   - DOMAIN,insurance.thehullgroup.com
   - DOMAIN,int-patner.net.daraz.com
@@ -16615,7 +16611,6 @@ payload:
   - DOMAIN,j.appjiagu.com
   - DOMAIN,j.baminw.cn
   - DOMAIN,j.bg.adresult-sp.jp
-  - DOMAIN,j.biquge520.cc
   - DOMAIN,j.credit.wwz114.cn
   - DOMAIN,j.diangon.com
   - DOMAIN,j.faacliltate.com
@@ -16910,7 +16905,6 @@ payload:
   - DOMAIN,js3810.yongkang6.com
   - DOMAIN,js4.eastmoney.com
   - DOMAIN,js4163.yongkang6.com
-  - DOMAIN,js4476.hongtaidichan.net
   - DOMAIN,js5162.yongkang6.com
   - DOMAIN,js6882.jianbangjiaoyu.com
   - DOMAIN,js84.enyayinxiang.com
@@ -17287,7 +17281,6 @@ payload:
   - DOMAIN,landing.computershare.com
   - DOMAIN,landing.meendo.com
   - DOMAIN,landing.ni.com
-  - DOMAIN,landing.photobox.com
   - DOMAIN,landing.wolterskluwer.hu
   - DOMAIN,landingairquality.airlite.com
   - DOMAIN,landsnail.bindle.io
@@ -18319,7 +18312,6 @@ payload:
   - DOMAIN,m.nq37f.cn
   - DOMAIN,m.nuoqingck.cn
   - DOMAIN,m.obeip.com
-  - DOMAIN,m.ocenp.com
   - DOMAIN,m.oipeirates.online
   - DOMAIN,m.openv.tv
   - DOMAIN,m.phonthing.com
@@ -23488,7 +23480,6 @@ payload:
   - DOMAIN,protection.mnpolice.com
   - DOMAIN,protection.napolice.com
   - DOMAIN,protection.ncpolice.com
-  - DOMAIN,protection.nzpolice.com
   - DOMAIN,protection.papolice.com
   - DOMAIN,protection.pgpolice.com
   - DOMAIN,protection.sbpolice.com
@@ -25463,7 +25454,6 @@ payload:
   - DOMAIN,search.adcaffe.com
   - DOMAIN,search.buzzdock.com
   - DOMAIN,search.jword.jp
-  - DOMAIN,search.jzip.com
   - DOMAIN,search123.uk.com
   - DOMAIN,search4you.50webs.com
   - DOMAIN,searchads.apple.com
@@ -25985,7 +25975,6 @@ payload:
   - DOMAIN,sf3-be-pack.pglstatp-toutiao.com
   - DOMAIN,sf3-fe-tos.pglstatp-toutiao.com
   - DOMAIN,sf6-be-pack.pglstatp-toutiao.com
-  - DOMAIN,sfads.osdn.com
   - DOMAIN,sfajfu.boulanger.com
   - DOMAIN,sfeedback.equabank.cz
   - DOMAIN,sffyrc.ruparupa.com
@@ -28090,7 +28079,6 @@ payload:
   - DOMAIN,ssa.stepstone.com
   - DOMAIN,ssa.tlc.com
   - DOMAIN,ssac.suning.com
-  - DOMAIN,ssads.osdn.com
   - DOMAIN,ssb.ah499.com
   - DOMAIN,ssb8.app.link
   - DOMAIN,ssc.api.bbc.com
@@ -28818,7 +28806,6 @@ payload:
   - DOMAIN,stats.buildingtheelite.com
   - DOMAIN,stats.bungeefit.co.uk
   - DOMAIN,stats.buysellads.com
-  - DOMAIN,stats.bytebase.com
   - DOMAIN,stats.cafepress.com
   - DOMAIN,stats.canalblog.com
   - DOMAIN,stats.cardschat.com
@@ -30377,7 +30364,6 @@ payload:
   - DOMAIN,to.getnitropack.com
   - DOMAIN,toad.frontendmentor.io
   - DOMAIN,toad.kubenews.net
-  - DOMAIN,toads.osdn.com
   - DOMAIN,tob-cms.bj.bcebos.com
   - DOMAIN,tobapplog.ctobsnssdk.com
   - DOMAIN,toblog.ctobsnssdk.com
@@ -33597,7 +33583,6 @@ payload:
   - DOMAIN,www2.lseg.com
   - DOMAIN,www2.m247.com
   - DOMAIN,www2.marcloudconsulting.com
-  - DOMAIN,www2.mastercontrol.com
   - DOMAIN,www2.mediacurrent.com
   - DOMAIN,www2.medius.com
   - DOMAIN,www2.mega.com
