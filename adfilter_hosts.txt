@@ -1,11 +1,11 @@
-# Checksum: MTYzMDQ1ODIzOQo=
+# Checksum: MTYzMDU0NDM3Mwo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210901-0
-# TimeUpdated: 2021-09-01T01:03:59+00:00
+# Version: 1.1.8-20210902-0
+# TimeUpdated: 2021-09-02T00:59:33+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33792
+# Total: 33738
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -810,10 +810,6 @@ ff02::3 ip6-allhosts
 :: a.artamkari.com
 0.0.0.0 a.artistasdigitais.net
 :: a.artistasdigitais.net
-0.0.0.0 a.as-eu.falkag.net
-:: a.as-eu.falkag.net
-0.0.0.0 a.as-us.falkag.net
-:: a.as-us.falkag.net
 0.0.0.0 a.assets-ns.emailvision.net.daraz.com
 :: a.assets-ns.emailvision.net.daraz.com
 0.0.0.0 a.ava.com.ua
@@ -1206,8 +1202,6 @@ ff02::3 ip6-allhosts
 :: a1.goo.ne.jp
 0.0.0.0 a1.img.static.youmi.net
 :: a1.img.static.youmi.net
-0.0.0.0 a1.interclick.com
-:: a1.interclick.com
 0.0.0.0 a1.itc.cn
 :: a1.itc.cn
 0.0.0.0 a1.liuxue86.com
@@ -2996,8 +2990,6 @@ ff02::3 ip6-allhosts
 :: ad-beta.flipboard.com
 0.0.0.0 ad-bg.adwo.com
 :: ad-bg.adwo.com
-0.0.0.0 ad-catgeo.paginegialle.it
-:: ad-catgeo.paginegialle.it
 0.0.0.0 ad-catgeo.virgilio.it
 :: ad-catgeo.virgilio.it
 0.0.0.0 ad-cdn.qingting.fm
@@ -3108,8 +3100,6 @@ ff02::3 ip6-allhosts
 :: ad.adorika.com
 0.0.0.0 ad.adriver.ru
 :: ad.adriver.ru
-0.0.0.0 ad.adserverplus.com
-:: ad.adserverplus.com
 0.0.0.0 ad.adtegrity.net
 :: ad.adtegrity.net
 0.0.0.0 ad.advertstream.com
@@ -3350,10 +3340,6 @@ ff02::3 ip6-allhosts
 :: ad.gazeta.pl
 0.0.0.0 ad.globalinteractive.com
 :: ad.globalinteractive.com
-0.0.0.0 ad.globaltakeoff.net
-:: ad.globaltakeoff.net
-0.0.0.0 ad.globe7.com
-:: ad.globe7.com
 0.0.0.0 ad.gmw.cn
 :: ad.gmw.cn
 0.0.0.0 ad.go.com
@@ -3374,6 +3360,8 @@ ff02::3 ip6-allhosts
 :: ad.groupon.de
 0.0.0.0 ad.groupon.fr
 :: ad.groupon.fr
+0.0.0.0 ad.groupon.net
+:: ad.groupon.net
 0.0.0.0 ad.groupon.nl
 :: ad.groupon.nl
 0.0.0.0 ad.groupon.pl
@@ -3442,8 +3430,6 @@ ff02::3 ip6-allhosts
 :: ad.ipolska.pl
 0.0.0.0 ad.ir.ru
 :: ad.ir.ru
-0.0.0.0 ad.islaweb.com
-:: ad.islaweb.com
 0.0.0.0 ad.itweb.co.za
 :: ad.itweb.co.za
 0.0.0.0 ad.jacotei.com.br
@@ -3766,8 +3752,6 @@ ff02::3 ip6-allhosts
 :: ad.spreamedia.it
 0.0.0.0 ad.starlightmedia.ua
 :: ad.starlightmedia.ua
-0.0.0.0 ad.strict.tbn.ru
-:: ad.strict.tbn.ru
 0.0.0.0 ad.sunflower.vn
 :: ad.sunflower.vn
 0.0.0.0 ad.sweb.ru
@@ -3798,14 +3782,10 @@ ff02::3 ip6-allhosts
 :: ad.thisav.com
 0.0.0.0 ad.thsi.cn
 :: ad.thsi.cn
-0.0.0.0 ad.tlvmedia.com
-:: ad.tlvmedia.com
 0.0.0.0 ad.touchwise.co.kr
 :: ad.touchwise.co.kr
 0.0.0.0 ad.toutiao.com
 :: ad.toutiao.com
-0.0.0.0 ad.trafficmp.com
-:: ad.trafficmp.com
 0.0.0.0 ad.turn.com
 :: ad.turn.com
 0.0.0.0 ad.tv2.no
@@ -3888,8 +3868,6 @@ ff02::3 ip6-allhosts
 :: ad.xn--3bs795g.link
 0.0.0.0 ad.xrea.com
 :: ad.xrea.com
-0.0.0.0 ad.xtendmedia.com
-:: ad.xtendmedia.com
 0.0.0.0 ad.xzshare.com
 :: ad.xzshare.com
 0.0.0.0 ad.yadro.ru
@@ -3898,8 +3876,6 @@ ff02::3 ip6-allhosts
 :: ad.yemeksepeti.com
 0.0.0.0 ad.yeshitv.com
 :: ad.yeshitv.com
-0.0.0.0 ad.yieldads.com
-:: ad.yieldads.com
 0.0.0.0 ad.yieldlab.net
 :: ad.yieldlab.net
 0.0.0.0 ad.yieldmanager.com
@@ -3908,8 +3884,6 @@ ff02::3 ip6-allhosts
 :: ad.yieldpartners.com
 0.0.0.0 ad.yixin.im
 :: ad.yixin.im
-0.0.0.0 ad.youporn.videobox.com
-:: ad.youporn.videobox.com
 0.0.0.0 ad.z5x.net
 :: ad.z5x.net
 0.0.0.0 ad.zanox.com
@@ -3956,8 +3930,6 @@ ff02::3 ip6-allhosts
 :: ad09.focalink.com
 0.0.0.0 ad1.bigmir.net
 :: ad1.bigmir.net
-0.0.0.0 ad1.clickhype.com
-:: ad1.clickhype.com
 0.0.0.0 ad1.emule-project.org
 :: ad1.emule-project.org
 0.0.0.0 ad1.eventmanager.co.kr
@@ -4002,8 +3974,6 @@ ff02::3 ip6-allhosts
 :: ad2.bannerbank.ru
 0.0.0.0 ad2.bannerhost.ru
 :: ad2.bannerhost.ru
-0.0.0.0 ad2.billboard.cz
-:: ad2.billboard.cz
 0.0.0.0 ad2.bloggerads.net
 :: ad2.bloggerads.net
 0.0.0.0 ad2.cooks.com
@@ -4574,8 +4544,6 @@ ff02::3 ip6-allhosts
 :: admanager.carsoup.com
 0.0.0.0 admanager.collegepublisher.com
 :: admanager.collegepublisher.com
-0.0.0.0 admanager.trackset.com
-:: admanager.trackset.com
 0.0.0.0 admarket.21cn.com
 :: admarket.21cn.com
 0.0.0.0 admarketing.yahoo.net
@@ -4858,10 +4826,6 @@ ff02::3 ip6-allhosts
 :: adobetps.chegg.com
 0.0.0.0 adopt-sdk.xg.tagtic.cn
 :: adopt-sdk.xg.tagtic.cn
-0.0.0.0 adopt.euroclick.com
-:: adopt.euroclick.com
-0.0.0.0 adopt.hbmediapro.com
-:: adopt.hbmediapro.com
 0.0.0.0 adopt.precisead.com
 :: adopt.precisead.com
 0.0.0.0 adopt.specificclick.net
@@ -5134,8 +5098,6 @@ ff02::3 ip6-allhosts
 :: ads.araba.com
 0.0.0.0 ads.aranesh.ir
 :: ads.aranesh.ir
-0.0.0.0 ads.arcuspubblicita.it
-:: ads.arcuspubblicita.it
 0.0.0.0 ads.aroundtherings.com
 :: ads.aroundtherings.com
 0.0.0.0 ads.arto.dk
@@ -5202,8 +5164,6 @@ ff02::3 ip6-allhosts
 :: ads.biggerboat.com
 0.0.0.0 ads.bing.com
 :: ads.bing.com
-0.0.0.0 ads.bitage.it
-:: ads.bitage.it
 0.0.0.0 ads.bittorrent.com
 :: ads.bittorrent.com
 0.0.0.0 ads.bizhut.com
@@ -5244,8 +5204,6 @@ ff02::3 ip6-allhosts
 :: ads.camrecord.com
 0.0.0.0 ads.canalblog.com
 :: ads.canalblog.com
-0.0.0.0 ads.capitan-trash.com
-:: ads.capitan-trash.com
 0.0.0.0 ads.cardea.se
 :: ads.cardea.se
 0.0.0.0 ads.careerbuilder.vn
@@ -5858,8 +5816,6 @@ ff02::3 ip6-allhosts
 :: ads.nghenhinvietnam.vn
 0.0.0.0 ads.nhadatmoi.net
 :: ads.nhadatmoi.net
-0.0.0.0 ads.niceadv.com
-:: ads.niceadv.com
 0.0.0.0 ads.ninemsn.com.au
 :: ads.ninemsn.com.au
 0.0.0.0 ads.nordichardware.com
@@ -6246,8 +6202,6 @@ ff02::3 ip6-allhosts
 :: ads.tracfonewireless.com
 0.0.0.0 ads.track.net
 :: ads.track.net
-0.0.0.0 ads.trackset.com
-:: ads.trackset.com
 0.0.0.0 ads.tradeads.eu
 :: ads.tradeads.eu
 0.0.0.0 ads.traderonline.com
@@ -6318,8 +6272,6 @@ ff02::3 ip6-allhosts
 :: ads.uxs.at
 0.0.0.0 ads.v-lazer.com
 :: ads.v-lazer.com
-0.0.0.0 ads.v3.com
-:: ads.v3.com
 0.0.0.0 ads.v3exchange.com
 :: ads.v3exchange.com
 0.0.0.0 ads.vaildaily.com
@@ -6772,8 +6724,6 @@ ff02::3 ip6-allhosts
 :: adserver-us.adtech.advertising.com
 0.0.0.0 adserver.100free.com
 :: adserver.100free.com
-0.0.0.0 adserver.20below.eu
-:: adserver.20below.eu
 0.0.0.0 adserver.71i.de
 :: adserver.71i.de
 0.0.0.0 adserver.a24.com.tr
@@ -6806,16 +6756,12 @@ ff02::3 ip6-allhosts
 :: adserver.airmiles.ca
 0.0.0.0 adserver.anawe.cz
 :: adserver.anawe.cz
-0.0.0.0 adserver.andreafiore.com
-:: adserver.andreafiore.com
 0.0.0.0 adserver.aol.fr
 :: adserver.aol.fr
 0.0.0.0 adserver.archant.co.uk
 :: adserver.archant.co.uk
 0.0.0.0 adserver.ariase.org
 :: adserver.ariase.org
-0.0.0.0 adserver.backbeatmedia.com
-:: adserver.backbeatmedia.com
 0.0.0.0 adserver.bdoce.cl
 :: adserver.bdoce.cl
 0.0.0.0 adserver.betandwin.de
@@ -6874,16 +6820,10 @@ ff02::3 ip6-allhosts
 :: adserver.ekokatu.com
 0.0.0.0 adserver.emulation64.com
 :: adserver.emulation64.com
-0.0.0.0 adserver.envient.com
-:: adserver.envient.com
 0.0.0.0 adserver.fbg.dk
 :: adserver.fbg.dk
 0.0.0.0 adserver.filefront.com
 :: adserver.filefront.com
-0.0.0.0 adserver.finditquick.com
-:: adserver.finditquick.com
-0.0.0.0 adserver.freenet.deads
-:: adserver.freenet.deads
 0.0.0.0 adserver.friendfinder.com
 :: adserver.friendfinder.com
 0.0.0.0 adserver.gameparty.net
@@ -6904,12 +6844,8 @@ ff02::3 ip6-allhosts
 :: adserver.hg-computer.de
 0.0.0.0 adserver.hi-m.de
 :: adserver.hi-m.de
-0.0.0.0 adserver.hipertextual.com
-:: adserver.hipertextual.com
 0.0.0.0 adserver.home.pl
 :: adserver.home.pl
-0.0.0.0 adserver.hostingtalk.it
-:: adserver.hostingtalk.it
 0.0.0.0 adserver.hostinteractive.com
 :: adserver.hostinteractive.com
 0.0.0.0 adserver.html.it
@@ -6918,8 +6854,6 @@ ff02::3 ip6-allhosts
 :: adserver.hwupgrade.it
 0.0.0.0 adserver.icmedienhaus.de
 :: adserver.icmedienhaus.de
-0.0.0.0 adserver.ikiweb.it
-:: adserver.ikiweb.it
 0.0.0.0 adserver.ilango.de
 :: adserver.ilango.de
 0.0.0.0 adserver.ilmessaggero.it
@@ -7020,8 +6954,6 @@ ff02::3 ip6-allhosts
 :: adserver.pressboard.ca
 0.0.0.0 adserver.proteinos.com
 :: adserver.proteinos.com
-0.0.0.0 adserver.pubblicitaonline.itadimage.php
-:: adserver.pubblicitaonline.itadimage.php
 0.0.0.0 adserver.radio-canada.ca
 :: adserver.radio-canada.ca
 0.0.0.0 adserver.rhombusads.com
@@ -7052,8 +6984,6 @@ ff02::3 ip6-allhosts
 :: adserver.sudo.vn
 0.0.0.0 adserver.swiatobrazu.pl
 :: adserver.swiatobrazu.pl
-0.0.0.0 adserver.t21.eu
-:: adserver.t21.eu
 0.0.0.0 adserver.te.pt
 :: adserver.te.pt
 0.0.0.0 adserver.terra.com.br
@@ -7160,16 +7090,8 @@ ff02::3 ip6-allhosts
 :: adservice.tohsoft.com
 0.0.0.0 adserviceretry.kugou.com
 :: adserviceretry.kugou.com
-0.0.0.0 adservices.picadmedia.com
-:: adservices.picadmedia.com
-0.0.0.0 adserving.budsinc.com
-:: adserving.budsinc.com
 0.0.0.0 adserving.cpxadroit.com
 :: adserving.cpxadroit.com
-0.0.0.0 adserving.cpxinteractive.com
-:: adserving.cpxinteractive.com
-0.0.0.0 adserving.performgroup.com
-:: adserving.performgroup.com
 0.0.0.0 adserving.unibet.com
 :: adserving.unibet.com
 0.0.0.0 adserwer.xwords.pl
@@ -7180,8 +7102,6 @@ ff02::3 ip6-allhosts
 :: adsfile.bssdlbig.kugou.com
 0.0.0.0 adsfile.qq.com
 :: adsfile.qq.com
-0.0.0.0 adsformula.sitescout.com
-:: adsformula.sitescout.com
 0.0.0.0 adsfs-sdkconfig.heytapimage.com
 :: adsfs-sdkconfig.heytapimage.com
 0.0.0.0 adsfs.oppomobile.com
@@ -7244,8 +7164,6 @@ ff02::3 ip6-allhosts
 :: adsp.ciner.com.tr
 0.0.0.0 adsp.haberturk.com
 :: adsp.haberturk.com
-0.0.0.0 adspace.img.4tube.com
-:: adspace.img.4tube.com
 0.0.0.0 adspace.zaman.com.tr
 :: adspace.zaman.com.tr
 0.0.0.0 adspaces.ero-advertising.com
@@ -7296,8 +7214,6 @@ ff02::3 ip6-allhosts
 :: adstracking.apps.zing.vn
 0.0.0.0 adstream.cardboardfish.com
 :: adstream.cardboardfish.com
-0.0.0.0 adsv.blogo.it
-:: adsv.blogo.it
 0.0.0.0 adsv2.autodaily.vn
 :: adsv2.autodaily.vn
 0.0.0.0 adsvr.deviantart.com
@@ -7336,8 +7252,6 @@ ff02::3 ip6-allhosts
 :: adtd.douglas.de
 0.0.0.0 adtd.douglas.pl
 :: adtd.douglas.pl
-0.0.0.0 adtech.m7z.net
-:: adtech.m7z.net
 0.0.0.0 adtest.adwo.com
 :: adtest.adwo.com
 0.0.0.0 adtest.theonion.com
@@ -10440,8 +10354,6 @@ ff02::3 ip6-allhosts
 :: as.welt.de
 0.0.0.0 as.yomonda.de
 :: as.yomonda.de
-0.0.0.0 as1.falkag.de
-:: as1.falkag.de
 0.0.0.0 as1.inoventiv.com
 :: as1.inoventiv.com
 0.0.0.0 as1.m.hao123.com
@@ -11216,8 +11128,6 @@ ff02::3 ip6-allhosts
 :: b92.yahoo.co.jp
 0.0.0.0 b97.yahoo.co.jp
 :: b97.yahoo.co.jp
-0.0.0.0 b9g4.nxwfhjvi.cn
-:: b9g4.nxwfhjvi.cn
 0.0.0.0 ba.ccm2.net
 :: ba.ccm2.net
 0.0.0.0 ba.commentcamarche.net
@@ -11372,8 +11282,6 @@ ff02::3 ip6-allhosts
 :: banner.alimama.com
 0.0.0.0 banner.ambercoastcasino.com
 :: banner.ambercoastcasino.com
-0.0.0.0 banner.b2b24.it
-:: banner.b2b24.it
 0.0.0.0 banner.boostbox.com.br
 :: banner.boostbox.com.br
 0.0.0.0 banner.buempliz-online.ch
@@ -11414,8 +11322,6 @@ ff02::3 ip6-allhosts
 :: banner.immowelt.de
 0.0.0.0 banner.inyourpocket.com
 :: banner.inyourpocket.com
-0.0.0.0 banner.ipmart.com
-:: banner.ipmart.com
 0.0.0.0 banner.itweb.co.za
 :: banner.itweb.co.za
 0.0.0.0 banner.kanald.com.tr
@@ -11460,8 +11366,6 @@ ff02::3 ip6-allhosts
 :: banner.reinstil.de
 0.0.0.0 banner.relcom.ru
 :: banner.relcom.ru
-0.0.0.0 banner.schoolbank.nl
-:: banner.schoolbank.nl
 0.0.0.0 banner.sextorrent.to
 :: banner.sextorrent.to
 0.0.0.0 banner.tanto.de
@@ -11496,8 +11400,6 @@ ff02::3 ip6-allhosts
 :: banner.webmersion.com
 0.0.0.0 banner.webtar.hu
 :: banner.webtar.hu
-0.0.0.0 banner.ziobudda.net
-:: banner.ziobudda.net
 0.0.0.0 banner.zol.ru
 :: banner.zol.ru
 0.0.0.0 banner1.pornhost.com
@@ -11594,8 +11496,6 @@ ff02::3 ip6-allhosts
 :: banners.itweb.co.za
 0.0.0.0 banners.ksl.com
 :: banners.ksl.com
-0.0.0.0 banners.leadingedgecash.com
-:: banners.leadingedgecash.com
 0.0.0.0 banners.linkbuddies.com
 :: banners.linkbuddies.com
 0.0.0.0 banners.mellowads.com
@@ -11624,18 +11524,10 @@ ff02::3 ip6-allhosts
 :: banners.pik.bg
 0.0.0.0 banners.prikol.ru
 :: banners.prikol.ru
-0.0.0.0 banners.publipagos.com
-:: banners.publipagos.com
 0.0.0.0 banners.resultonline.com
 :: banners.resultonline.com
 0.0.0.0 banners.smarttweak.com
 :: banners.smarttweak.com
-0.0.0.0 banners.snapshot.toolbar.conduit-services.com
-:: banners.snapshot.toolbar.conduit-services.com
-0.0.0.0 banners.sponsoradulto.com
-:: banners.sponsoradulto.com
-0.0.0.0 banners.sugeridos.com
-:: banners.sugeridos.com
 0.0.0.0 banners.sys-con.com
 :: banners.sys-con.com
 0.0.0.0 banners.tempobet.com
@@ -14588,8 +14480,6 @@ ff02::3 ip6-allhosts
 :: cdncache1-a.akamaihd.net
 0.0.0.0 cdncmp.richaudience.com
 :: cdncmp.richaudience.com
-0.0.0.0 cdnflvtrailers.spacash.com
-:: cdnflvtrailers.spacash.com
 0.0.0.0 cdnimg.liehu.ijinshan.com
 :: cdnimg.liehu.ijinshan.com
 0.0.0.0 cdnis.hyperpromote.com
@@ -15392,6 +15282,8 @@ ff02::3 ip6-allhosts
 :: clicks.equinoxplus.com
 0.0.0.0 clicks.food.mercato.com
 :: clicks.food.mercato.com
+0.0.0.0 clicks.h.hepsiburada.com
+:: clicks.h.hepsiburada.com
 0.0.0.0 clicks.hurriyet.com.tr
 :: clicks.hurriyet.com.tr
 0.0.0.0 clicks.info.theiconic.com.au
@@ -15718,8 +15610,6 @@ ff02::3 ip6-allhosts
 :: cm.he2d.com
 0.0.0.0 cm.ipinyou.com
 :: cm.ipinyou.com
-0.0.0.0 cm.it.overture.com
-:: cm.it.overture.com
 0.0.0.0 cm.jd.com
 :: cm.jd.com
 0.0.0.0 cm.l.qq.com
@@ -15764,10 +15654,6 @@ ff02::3 ip6-allhosts
 :: cmcdl.cmcm.com
 0.0.0.0 cmcyne.xoticpc.com
 :: cmcyne.xoticpc.com
-0.0.0.0 cmhtml.it.overture.com
-:: cmhtml.it.overture.com
-0.0.0.0 cmhtml.overture.com
-:: cmhtml.overture.com
 0.0.0.0 cmm.xmfish.com
 :: cmm.xmfish.com
 0.0.0.0 cmme.actonservice.com
@@ -16004,10 +15890,18 @@ ff02::3 ip6-allhosts
 :: cnzz.mmstat.com
 0.0.0.0 co.5.p2l.info
 :: co.5.p2l.info
+0.0.0.0 co.akisinn.info
+:: co.akisinn.info
+0.0.0.0 co.dewrain.life
+:: co.dewrain.life
 0.0.0.0 co.dtech.baofeng.com
 :: co.dtech.baofeng.com
 0.0.0.0 co.promo.skf.com
 :: co.promo.skf.com
+0.0.0.0 co.vaicore.site
+:: co.vaicore.site
+0.0.0.0 co.vaicore.xyz
+:: co.vaicore.xyz
 0.0.0.0 coachingminceur.go2cloud.org
 :: coachingminceur.go2cloud.org
 0.0.0.0 coads.akipress.org
@@ -16688,8 +16582,6 @@ ff02::3 ip6-allhosts
 :: content.ad20.net
 0.0.0.0 content.adriver.ru
 :: content.adriver.ru
-0.0.0.0 content.adserverplus.com
-:: content.adserverplus.com
 0.0.0.0 content.adunity.com
 :: content.adunity.com
 0.0.0.0 content.awaze.com
@@ -17104,8 +16996,6 @@ ff02::3 ip6-allhosts
 :: count35.51yes.com
 0.0.0.0 count36.51yes.com
 :: count36.51yes.com
-0.0.0.0 count37.51yes.com
-:: count37.51yes.com
 0.0.0.0 count39.51yes.com
 :: count39.51yes.com
 0.0.0.0 count4.51yes.com
@@ -20196,8 +20086,6 @@ ff02::3 ip6-allhosts
 :: dev1partner.net.daraz.com
 0.0.0.0 devaje.pourfemme.it
 :: devaje.pourfemme.it
-0.0.0.0 devart.adbureau.net
-:: devart.adbureau.net
 0.0.0.0 devcar10.net.daraz.com
 :: devcar10.net.daraz.com
 0.0.0.0 develop-lib-ht-1.net.daraz.com
@@ -20336,6 +20224,8 @@ ff02::3 ip6-allhosts
 :: diagnose.igstatic.com
 0.0.0.0 diagnosis.ad.xiaomi.com
 :: diagnosis.ad.xiaomi.com
+0.0.0.0 dial.rencontres-celibataires.info
+:: dial.rencontres-celibataires.info
 0.0.0.0 dialer.cdn.cootekservice.com
 :: dialer.cdn.cootekservice.com
 0.0.0.0 dialog.anderson-negele.com
@@ -28058,8 +27948,6 @@ ff02::3 ip6-allhosts
 :: guestworld.tripod.lycos.com
 0.0.0.0 gugzuc.veryvoga.pl
 :: gugzuc.veryvoga.pl
-0.0.0.0 gui.muc.domeus.com
-:: gui.muc.domeus.com
 0.0.0.0 guid.tpns.tencent.com
 :: guid.tpns.tencent.com
 0.0.0.0 guidance.godaddy.com
@@ -29230,8 +29118,6 @@ ff02::3 ip6-allhosts
 :: i.w55c.net
 0.0.0.0 i.wuhaolin.cn
 :: i.wuhaolin.cn
-0.0.0.0 i.xx.openx.com
-:: i.xx.openx.com
 0.0.0.0 i.zhuoyaju.com
 :: i.zhuoyaju.com
 0.0.0.0 i.zt-dq.com
@@ -29590,8 +29476,6 @@ ff02::3 ip6-allhosts
 :: image66.top2099.com
 0.0.0.0 imagecache.g.pptv.com
 :: imagecache.g.pptv.com
-0.0.0.0 imagecash.servepics.com
-:: imagecash.servepics.com
 0.0.0.0 imagelx.yidianzixun.com
 :: imagelx.yidianzixun.com
 0.0.0.0 images-aud.freshmeat.net
@@ -29766,8 +29650,6 @@ ff02::3 ip6-allhosts
 :: img.prohardver.hu
 0.0.0.0 img.promoddl.com
 :: img.promoddl.com
-0.0.0.0 img.recadosinsanos.com.br
-:: img.recadosinsanos.com.br
 0.0.0.0 img.revcontent.com
 :: img.revcontent.com
 0.0.0.0 img.s8bbs.com
@@ -31390,10 +31272,32 @@ ff02::3 ip6-allhosts
 :: insurance.thehullgroup.com
 0.0.0.0 int.actonservice.com
 :: int.actonservice.com
+0.0.0.0 int.akisinn.info
+:: int.akisinn.info
+0.0.0.0 int.akisinn.me
+:: int.akisinn.me
+0.0.0.0 int.akisinn.site
+:: int.akisinn.site
 0.0.0.0 int.deltafaucet.com
 :: int.deltafaucet.com
+0.0.0.0 int.dewrain.life
+:: int.dewrain.life
+0.0.0.0 int.dewrain.site
+:: int.dewrain.site
+0.0.0.0 int.dewrain.world
+:: int.dewrain.world
 0.0.0.0 int.dpool.sina.com.cn
 :: int.dpool.sina.com.cn
+0.0.0.0 int.vaicore.site
+:: int.vaicore.site
+0.0.0.0 int.vaicore.store
+:: int.vaicore.store
+0.0.0.0 int.vaicore.xyz
+:: int.vaicore.xyz
+0.0.0.0 int.vlancaa.fun
+:: int.vlancaa.fun
+0.0.0.0 int.vlancaa.site
+:: int.vlancaa.site
 0.0.0.0 intake-analytics.wikimedia.org
 :: intake-analytics.wikimedia.org
 0.0.0.0 intake-logging.wikimedia.org
@@ -31626,8 +31530,6 @@ ff02::3 ip6-allhosts
 :: isjoui.cainz.com
 0.0.0.0 isocket-creatives.s3.amazonaws.com
 :: isocket-creatives.s3.amazonaws.com
-0.0.0.0 isohunt.adonspot.com
-:: isohunt.adonspot.com
 0.0.0.0 isub.snssdk.com
 :: isub.snssdk.com
 0.0.0.0 it.cookiescript.info
@@ -32164,6 +32066,8 @@ ff02::3 ip6-allhosts
 :: js.bulkhentai.com
 0.0.0.0 js.ccmeng.com
 :: js.ccmeng.com
+0.0.0.0 js.chetan.com
+:: js.chetan.com
 0.0.0.0 js.chin-adnetwork.com
 :: js.chin-adnetwork.com
 0.0.0.0 js.cnmo.com
@@ -32444,8 +32348,6 @@ ff02::3 ip6-allhosts
 :: juniper.starleaf.com
 0.0.0.0 jurassicpark.newzgames.com
 :: jurassicpark.newzgames.com
-0.0.0.0 just.advit.it
-:: just.advit.it
 0.0.0.0 juxiao.adsmogo.net
 :: juxiao.adsmogo.net
 0.0.0.0 juxiao.mediav.com
@@ -33080,6 +32982,8 @@ ff02::3 ip6-allhosts
 :: landing-legisway.wolterskluwer.com
 0.0.0.0 landing-smartdocument.wolterskluwer.com
 :: landing-smartdocument.wolterskluwer.com
+0.0.0.0 landing.aaroninjections.com
+:: landing.aaroninjections.com
 0.0.0.0 landing.computershare.com
 :: landing.computershare.com
 0.0.0.0 landing.meendo.com
@@ -34262,6 +34166,8 @@ ff02::3 ip6-allhosts
 :: log.star.ele.me
 0.0.0.0 log.stat.kugou.com
 :: log.stat.kugou.com
+0.0.0.0 log.strm.yandex.ru
+:: log.strm.yandex.ru
 0.0.0.0 log.superweb.ws
 :: log.superweb.ws
 0.0.0.0 log.suumo.jp
@@ -37702,8 +37608,6 @@ ff02::3 ip6-allhosts
 :: media.alphaload.com
 0.0.0.0 media.aso.altapress.ru
 :: media.aso.altapress.ru
-0.0.0.0 media.baventures.com
-:: media.baventures.com
 0.0.0.0 media.bonnint.net
 :: media.bonnint.net
 0.0.0.0 media.cheshi-img.com
@@ -37724,8 +37628,6 @@ ff02::3 ip6-allhosts
 :: media.funpic.de
 0.0.0.0 media.globalsign.com
 :: media.globalsign.com
-0.0.0.0 media.intelia.it
-:: media.intelia.it
 0.0.0.0 media.jointreport-switch.com
 :: media.jointreport-switch.com
 0.0.0.0 media.kahoxa.ru
@@ -40530,8 +40432,6 @@ ff02::3 ip6-allhosts
 :: movieads.imgs.sapo.pt
 0.0.0.0 moviepies.co.uk
 :: moviepies.co.uk
-0.0.0.0 movies.701pages.com
-:: movies.701pages.com
 0.0.0.0 movies123.altervista.org
 :: movies123.altervista.org
 0.0.0.0 moz.execulink.net
@@ -40914,8 +40814,6 @@ ff02::3 ip6-allhosts
 :: mymangaonline.net.daraz.com
 0.0.0.0 mymm.zichenit.com
 :: mymm.zichenit.com
-0.0.0.0 mymyad.co.kr
-:: mymyad.co.kr
 0.0.0.0 mypension.efscle.com
 :: mypension.efscle.com
 0.0.0.0 myprofile.panasonic.eu
@@ -41190,8 +41088,6 @@ ff02::3 ip6-allhosts
 :: networksdk.ssacdn.com
 0.0.0.0 new-collect.albacross.com
 :: new-collect.albacross.com
-0.0.0.0 new-rutor.com.pl
-:: new-rutor.com.pl
 0.0.0.0 new-rutor.eu.org
 :: new-rutor.eu.org
 0.0.0.0 new-vid-zone-1.blogspot.com.au
@@ -42686,8 +42582,6 @@ ff02::3 ip6-allhosts
 :: openads.dimcab.com
 0.0.0.0 openads.friendfinder.com
 :: openads.friendfinder.com
-0.0.0.0 openads.mynight.pl
-:: openads.mynight.pl
 0.0.0.0 openads.smithmag.net
 :: openads.smithmag.net
 0.0.0.0 openapi-news.meizu.com
@@ -43500,6 +43394,8 @@ ff02::3 ip6-allhosts
 :: partner-ts.groupon.de
 0.0.0.0 partner-ts.groupon.fr
 :: partner-ts.groupon.fr
+0.0.0.0 partner-ts.groupon.net
+:: partner-ts.groupon.net
 0.0.0.0 partner-ts.groupon.nl
 :: partner-ts.groupon.nl
 0.0.0.0 partner-ts.groupon.pl
@@ -46716,8 +46612,6 @@ ff02::3 ip6-allhosts
 :: recv-vd.gridsumdissector.com
 0.0.0.0 recv-wd.gridsumdissector.com
 :: recv-wd.gridsumdissector.com
-0.0.0.0 red.as1.falkag.de
-:: red.as1.falkag.de
 0.0.0.0 red.hatena.ne.jp
 :: red.hatena.ne.jp
 0.0.0.0 red.st-hatena.com
@@ -49542,8 +49436,6 @@ ff02::3 ip6-allhosts
 :: secpay.wostore.cn
 0.0.0.0 secretmedia.s3.amazonaws.com
 :: secretmedia.s3.amazonaws.com
-0.0.0.0 secserv.adtech.de
-:: secserv.adtech.de
 0.0.0.0 secserv.adtech.fr
 :: secserv.adtech.fr
 0.0.0.0 secserv.adtech.us
@@ -54808,8 +54700,6 @@ ff02::3 ip6-allhosts
 :: srv.dc-1.net
 0.0.0.0 srv.dynamicyield.com
 :: srv.dynamicyield.com
-0.0.0.0 srv.etology.com
-:: srv.etology.com
 0.0.0.0 srv.ingenious.cloud
 :: srv.ingenious.cloud
 0.0.0.0 srv.mzcdn.com
@@ -59610,6 +59500,8 @@ ff02::3 ip6-allhosts
 :: tohvww.mathon.fr
 0.0.0.0 tojrhz.silvergoldbull.com
 :: tojrhz.silvergoldbull.com
+0.0.0.0 tok.vaicore.xyz
+:: tok.vaicore.xyz
 0.0.0.0 tokei.upstract.com
 :: tokei.upstract.com
 0.0.0.0 token.rubiconproject.com
