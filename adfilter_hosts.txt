@@ -1,8 +1,8 @@
-# Checksum: MTYzMDU0NDM3Mwo=
+# Checksum: MTYzMDYzMDcwMAo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210902-0
-# TimeUpdated: 2021-09-02T00:59:33+00:00
+# Version: 1.1.8-20210903-0
+# TimeUpdated: 2021-09-03T00:58:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 33738
@@ -4414,6 +4414,8 @@ ff02::3 ip6-allhosts
 :: adimg.deviantart.net
 0.0.0.0 adimg.mobile.sina.cn
 :: adimg.mobile.sina.cn
+0.0.0.0 adimg.nate.com
+:: adimg.nate.com
 0.0.0.0 adimg.uimserv.net
 :: adimg.uimserv.net
 0.0.0.0 adimg.uve.weibo.com
@@ -5500,8 +5502,6 @@ ff02::3 ip6-allhosts
 :: ads.gionee.com
 0.0.0.0 ads.gld.dk
 :: ads.gld.dk
-0.0.0.0 ads.glispa.com
-:: ads.glispa.com
 0.0.0.0 ads.globo.com
 :: ads.globo.com
 0.0.0.0 ads.gmodules.com
@@ -7454,6 +7454,8 @@ ff02::3 ip6-allhosts
 :: advertisement.glb.qnniu.com
 0.0.0.0 advertisement.tianya.cn
 :: advertisement.tianya.cn
+0.0.0.0 advertising-cdn.dpgmedia.cloud
+:: advertising-cdn.dpgmedia.cloud
 0.0.0.0 advertising.aol.com
 :: advertising.aol.com
 0.0.0.0 advertising.bbcworldwide.com
@@ -9456,8 +9458,6 @@ ff02::3 ip6-allhosts
 :: api.ads.watchabc.go.com
 0.0.0.0 api.adtimaserver.vn
 :: api.adtimaserver.vn
-0.0.0.0 api.adv.ott.cibntv.net
-:: api.adv.ott.cibntv.net
 0.0.0.0 api.adxpand.com
 :: api.adxpand.com
 0.0.0.0 api.afdback.ppsimg.com
@@ -9720,8 +9720,6 @@ ff02::3 ip6-allhosts
 :: api.stack-sonar.com
 0.0.0.0 api.starsmp.com
 :: api.starsmp.com
-0.0.0.0 api.stats.promoapka.pl
-:: api.stats.promoapka.pl
 0.0.0.0 api.systempartnerski.pl
 :: api.systempartnerski.pl
 0.0.0.0 api.taplytics.com
@@ -10920,8 +10918,6 @@ ff02::3 ip6-allhosts
 :: b.mirrorns.emailvision.net.daraz.com
 0.0.0.0 b.myspace.com
 :: b.myspace.com
-0.0.0.0 b.ndtzx.com
-:: b.ndtzx.com
 0.0.0.0 b.netall.ru
 :: b.netall.ru
 0.0.0.0 b.ns.accounting-emailvision.net.daraz.com
@@ -16978,8 +16974,6 @@ ff02::3 ip6-allhosts
 :: count15.51yes.com
 0.0.0.0 count17.51yes.com
 :: count17.51yes.com
-0.0.0.0 count20.51yes.com
-:: count20.51yes.com
 0.0.0.0 count23.51yes.com
 :: count23.51yes.com
 0.0.0.0 count24.51yes.com
@@ -16996,8 +16990,6 @@ ff02::3 ip6-allhosts
 :: count35.51yes.com
 0.0.0.0 count36.51yes.com
 :: count36.51yes.com
-0.0.0.0 count39.51yes.com
-:: count39.51yes.com
 0.0.0.0 count4.51yes.com
 :: count4.51yes.com
 0.0.0.0 count41.51yes.com
@@ -18792,6 +18784,8 @@ ff02::3 ip6-allhosts
 :: d2t67iukq9ieyq.cloudfront.net
 0.0.0.0 d2t77mnxyo7adj.cloudfront.net
 :: d2t77mnxyo7adj.cloudfront.net
+0.0.0.0 d2t7a3zbo166a9.cloudfront.net
+:: d2t7a3zbo166a9.cloudfront.net
 0.0.0.0 d2taktuuo4oqx.cloudfront.net
 :: d2taktuuo4oqx.cloudfront.net
 0.0.0.0 d2tcg4i9q4js4a.cloudfront.net
@@ -18802,6 +18796,8 @@ ff02::3 ip6-allhosts
 :: d2tkdzior84vck.cloudfront.net
 0.0.0.0 d2u1npnnqecmpq.cloudfront.net
 :: d2u1npnnqecmpq.cloudfront.net
+0.0.0.0 d2u6dc21frjf6h.cloudfront.net
+:: d2u6dc21frjf6h.cloudfront.net
 0.0.0.0 d2uap9jskdzp2.cloudfront.net
 :: d2uap9jskdzp2.cloudfront.net
 0.0.0.0 d2uepos3ef6db0.cloudfront.net
@@ -28306,6 +28302,8 @@ ff02::3 ip6-allhosts
 :: healthy.spartanburgregional.com
 0.0.0.0 hearob.klix.ba
 :: hearob.klix.ba
+0.0.0.0 heartbeats.prd.data.s.joyn.de
+:: heartbeats.prd.data.s.joyn.de
 0.0.0.0 heartland.hrm.healthgrades.com
 :: heartland.hrm.healthgrades.com
 0.0.0.0 hedgehog.fightforthefuture.org
@@ -29846,8 +29844,6 @@ ff02::3 ip6-allhosts
 :: imprhkmp.taboola.com
 0.0.0.0 impservice-test.dictapp.youdao.com
 :: impservice-test.dictapp.youdao.com
-0.0.0.0 impservice.chnl.youdao.com
-:: impservice.chnl.youdao.com
 0.0.0.0 impservice.dict.youdao.com
 :: impservice.dict.youdao.com
 0.0.0.0 impservice.dictapp.youdao.com
@@ -34122,8 +34118,6 @@ ff02::3 ip6-allhosts
 :: log.perfecttitspics.com
 0.0.0.0 log.pinterest.com
 :: log.pinterest.com
-0.0.0.0 log.plo.vn
-:: log.plo.vn
 0.0.0.0 log.popin.cc
 :: log.popin.cc
 0.0.0.0 log.prezi.com
@@ -34814,8 +34808,6 @@ ff02::3 ip6-allhosts
 :: m.ads.sohu.com
 0.0.0.0 m.adtiming.com
 :: m.adtiming.com
-0.0.0.0 m.aduiz.com
-:: m.aduiz.com
 0.0.0.0 m.adxpop.com
 :: m.adxpop.com
 0.0.0.0 m.amazonappservices.com
@@ -41794,8 +41786,6 @@ ff02::3 ip6-allhosts
 :: o.minisplat.cn
 0.0.0.0 o.mylifetime.com
 :: o.mylifetime.com
-0.0.0.0 o.nkwwpw.com
-:: o.nkwwpw.com
 0.0.0.0 o.opentable.co.uk
 :: o.opentable.co.uk
 0.0.0.0 o.opentable.com
@@ -44074,8 +44064,6 @@ ff02::3 ip6-allhosts
 :: pic.dotmore.com.tw
 0.0.0.0 pic.ea3w.com
 :: pic.ea3w.com
-0.0.0.0 pic.eduancm.com
-:: pic.eduancm.com
 0.0.0.0 pic.fastapi.net
 :: pic.fastapi.net
 0.0.0.0 pic.iask.cn
@@ -44600,8 +44588,6 @@ ff02::3 ip6-allhosts
 :: plausible.play.date
 0.0.0.0 plausible.prod.sketch.com
 :: plausible.prod.sketch.com
-0.0.0.0 plausible.promlabs.com
-:: plausible.promlabs.com
 0.0.0.0 plausible.rachel.systems
 :: plausible.rachel.systems
 0.0.0.0 plausible.reactpreview.com
@@ -45984,6 +45970,8 @@ ff02::3 ip6-allhosts
 :: qc.designervn.net
 0.0.0.0 qc.japo.vn
 :: qc.japo.vn
+0.0.0.0 qc.kqbd88.com
+:: qc.kqbd88.com
 0.0.0.0 qc.violet.vn
 :: qc.violet.vn
 0.0.0.0 qctt24h.24h.com.vn
@@ -47360,8 +47348,6 @@ ff02::3 ip6-allhosts
 :: rtb.mts.ru
 0.0.0.0 rtb.pclick.yahoo.com
 :: rtb.pclick.yahoo.com
-0.0.0.0 rtb.platform.glispa.com
-:: rtb.platform.glispa.com
 0.0.0.0 rtb.softcube.com
 :: rtb.softcube.com
 0.0.0.0 rtbapi.douyucdn.cn
@@ -47932,8 +47918,6 @@ ff02::3 ip6-allhosts
 :: s2.huoying666.com
 0.0.0.0 s2.kuaibaopay.com
 :: s2.kuaibaopay.com
-0.0.0.0 s2.leshi123.cc
-:: s2.leshi123.cc
 0.0.0.0 s2.play.estream.to
 :: s2.play.estream.to
 0.0.0.0 s2.play.estream.xyz
@@ -50440,6 +50424,8 @@ ff02::3 ip6-allhosts
 :: sf3-fe-tos.pglstatp-toutiao.com
 0.0.0.0 sf6-be-pack.pglstatp-toutiao.com
 :: sf6-be-pack.pglstatp-toutiao.com
+0.0.0.0 sfads.osdn.com
+:: sfads.osdn.com
 0.0.0.0 sfajfu.boulanger.com
 :: sfajfu.boulanger.com
 0.0.0.0 sfeedback.equabank.cz
@@ -54790,6 +54776,8 @@ ff02::3 ip6-allhosts
 :: ssa.tlc.com
 0.0.0.0 ssac.suning.com
 :: ssac.suning.com
+0.0.0.0 ssads.osdn.com
+:: ssads.osdn.com
 0.0.0.0 ssb.ah499.com
 :: ssb.ah499.com
 0.0.0.0 ssb8.app.link
@@ -56424,8 +56412,6 @@ ff02::3 ip6-allhosts
 :: stats.englishadam.com
 0.0.0.0 stats.epicurious.com
 :: stats.epicurious.com
-0.0.0.0 stats.ericgregorich.com
-:: stats.ericgregorich.com
 0.0.0.0 stats.examiner.com
 :: stats.examiner.com
 0.0.0.0 stats.executebig.org
@@ -59484,6 +59470,8 @@ ff02::3 ip6-allhosts
 :: toad.frontendmentor.io
 0.0.0.0 toad.kubenews.net
 :: toad.kubenews.net
+0.0.0.0 toads.osdn.com
+:: toads.osdn.com
 0.0.0.0 tob-cms.bj.bcebos.com
 :: tob-cms.bj.bcebos.com
 0.0.0.0 tobapplog.ctobsnssdk.com
@@ -60470,6 +60458,8 @@ ff02::3 ip6-allhosts
 :: track.engagesciences.com
 0.0.0.0 track.es.sitebro.net
 :: track.es.sitebro.net
+0.0.0.0 track.exclusivecpa.com
+:: track.exclusivecpa.com
 0.0.0.0 track.flexlinks.com
 :: track.flexlinks.com
 0.0.0.0 track.flexlinkspro.com
@@ -60864,6 +60854,8 @@ ff02::3 ip6-allhosts
 :: tracker.bestshopping.com
 0.0.0.0 tracker.blutv.com
 :: tracker.blutv.com
+0.0.0.0 tracker.bongngo.bar
+:: tracker.bongngo.bar
 0.0.0.0 tracker.bonnint.net
 :: tracker.bonnint.net
 0.0.0.0 tracker.brainsins.com
@@ -60906,6 +60898,8 @@ ff02::3 ip6-allhosts
 :: tracker.fado.vn
 0.0.0.0 tracker.giftd.ru
 :: tracker.giftd.ru
+0.0.0.0 tracker.gigaphim.com
+:: tracker.gigaphim.com
 0.0.0.0 tracker.gold.org
 :: tracker.gold.org
 0.0.0.0 tracker.icerocket.com
@@ -60980,6 +60974,8 @@ ff02::3 ip6-allhosts
 :: tracker.swedish.org
 0.0.0.0 tracker.tgbus.com
 :: tracker.tgbus.com
+0.0.0.0 tracker.thichxemphim.net
+:: tracker.thichxemphim.net
 0.0.0.0 tracker.thinkermail.com
 :: tracker.thinkermail.com
 0.0.0.0 tracker.thinkindot.com
@@ -64878,6 +64874,8 @@ ff02::3 ip6-allhosts
 :: wm.szdushi.com.cn
 0.0.0.0 wm.xunlaile.com
 :: wm.xunlaile.com
+0.0.0.0 wmbd.gamersky.com
+:: wmbd.gamersky.com
 0.0.0.0 wmedia-track.uc.cn
 :: wmedia-track.uc.cn
 0.0.0.0 wmeng.feihuadns.com
@@ -66322,6 +66320,8 @@ ff02::3 ip6-allhosts
 :: www91.intel.pl
 0.0.0.0 www91.intel.ru
 :: www91.intel.ru
+0.0.0.0 www99.bounceme.net
+:: www99.bounceme.net
 0.0.0.0 wwwf15.mitsubishielectric.co.jp
 :: wwwf15.mitsubishielectric.co.jp
 0.0.0.0 wwwimg.86sjx.com

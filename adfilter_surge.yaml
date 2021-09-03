@@ -1,8 +1,8 @@
-# Checksum: MTYzMDU0NDM3Mwo=
+# Checksum: MTYzMDYzMDcwMAo=
 # Title: Zhijie's Ad Filter for Surge (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210902-0
-# TimeUpdated: 2021-09-02T00:59:33+00:00
+# Version: 1.1.8-20210903-0
+# TimeUpdated: 2021-09-03T00:58:20+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
 # Total: 33738
@@ -2205,6 +2205,7 @@ DOMAIN,adimg.com.com
 DOMAIN,adimg.cqnews.net
 DOMAIN,adimg.deviantart.net
 DOMAIN,adimg.mobile.sina.cn
+DOMAIN,adimg.nate.com
 DOMAIN,adimg.uimserv.net
 DOMAIN,adimg.uve.weibo.com
 DOMAIN,adimg.virgilio.it
@@ -2748,7 +2749,6 @@ DOMAIN,ads.geeks.hu
 DOMAIN,ads.geekswithblogs.net
 DOMAIN,ads.gionee.com
 DOMAIN,ads.gld.dk
-DOMAIN,ads.glispa.com
 DOMAIN,ads.globo.com
 DOMAIN,ads.gmodules.com
 DOMAIN,ads.golfweek.com
@@ -3725,6 +3725,7 @@ DOMAIN,advertise.baicizhan.org
 DOMAIN,advertisement.avosapps.us
 DOMAIN,advertisement.glb.qnniu.com
 DOMAIN,advertisement.tianya.cn
+DOMAIN,advertising-cdn.dpgmedia.cloud
 DOMAIN,advertising.aol.com
 DOMAIN,advertising.bbcworldwide.com
 DOMAIN,advertising.dushu.io
@@ -4726,7 +4727,6 @@ DOMAIN,api.adnet.mob.com
 DOMAIN,api.adnsafe.org
 DOMAIN,api.ads.watchabc.go.com
 DOMAIN,api.adtimaserver.vn
-DOMAIN,api.adv.ott.cibntv.net
 DOMAIN,api.adxpand.com
 DOMAIN,api.afdback.ppsimg.com
 DOMAIN,api.aiclk.com
@@ -4858,7 +4858,6 @@ DOMAIN,api.splkmobile.com
 DOMAIN,api.ssp.zxrtb.com
 DOMAIN,api.stack-sonar.com
 DOMAIN,api.starsmp.com
-DOMAIN,api.stats.promoapka.pl
 DOMAIN,api.systempartnerski.pl
 DOMAIN,api.taplytics.com
 DOMAIN,api.tatagou.com.cn
@@ -5458,7 +5457,6 @@ DOMAIN,b.lyst.com
 DOMAIN,b.medtronic.com
 DOMAIN,b.mirrorns.emailvision.net.daraz.com
 DOMAIN,b.myspace.com
-DOMAIN,b.ndtzx.com
 DOMAIN,b.netall.ru
 DOMAIN,b.ns.accounting-emailvision.net.daraz.com
 DOMAIN,b.ns.apacheemailvision.net.daraz.com
@@ -8487,7 +8485,6 @@ DOMAIN,count.yandeg.ru
 DOMAIN,count10.51yes.com
 DOMAIN,count15.51yes.com
 DOMAIN,count17.51yes.com
-DOMAIN,count20.51yes.com
 DOMAIN,count23.51yes.com
 DOMAIN,count24.51yes.com
 DOMAIN,count25.51yes.com
@@ -8496,7 +8493,6 @@ DOMAIN,count29.51yes.com
 DOMAIN,count34.51yes.com
 DOMAIN,count35.51yes.com
 DOMAIN,count36.51yes.com
-DOMAIN,count39.51yes.com
 DOMAIN,count4.51yes.com
 DOMAIN,count41.51yes.com
 DOMAIN,count43.51yes.com
@@ -9394,11 +9390,13 @@ DOMAIN,d2sucq8qh4zqzj.cloudfront.net
 DOMAIN,d2t15uaqqm1mjb.cloudfront.net
 DOMAIN,d2t67iukq9ieyq.cloudfront.net
 DOMAIN,d2t77mnxyo7adj.cloudfront.net
+DOMAIN,d2t7a3zbo166a9.cloudfront.net
 DOMAIN,d2taktuuo4oqx.cloudfront.net
 DOMAIN,d2tcg4i9q4js4a.cloudfront.net
 DOMAIN,d2tgfbvjf3q6hn.cloudfront.net
 DOMAIN,d2tkdzior84vck.cloudfront.net
 DOMAIN,d2u1npnnqecmpq.cloudfront.net
+DOMAIN,d2u6dc21frjf6h.cloudfront.net
 DOMAIN,d2uap9jskdzp2.cloudfront.net
 DOMAIN,d2uepos3ef6db0.cloudfront.net
 DOMAIN,d2uhnetoehh304.cloudfront.net
@@ -14151,6 +14149,7 @@ DOMAIN,healthonecares.hrm.healthgrades.com
 DOMAIN,healthquest.hrm.healthgrades.com
 DOMAIN,healthy.spartanburgregional.com
 DOMAIN,hearob.klix.ba
+DOMAIN,heartbeats.prd.data.s.joyn.de
 DOMAIN,heartland.hrm.healthgrades.com
 DOMAIN,hedgehog.fightforthefuture.org
 DOMAIN,hedgehog.impira.com
@@ -14921,7 +14920,6 @@ DOMAIN,impression.appsflyer.com
 DOMAIN,impression.gridsumdissector.com
 DOMAIN,imprhkmp.taboola.com
 DOMAIN,impservice-test.dictapp.youdao.com
-DOMAIN,impservice.chnl.youdao.com
 DOMAIN,impservice.dict.youdao.com
 DOMAIN,impservice.dictapp.youdao.com
 DOMAIN,impservice.dictvista.youdao.com
@@ -17059,7 +17057,6 @@ DOMAIN,log.p2p.hunantv.com
 DOMAIN,log.particlenews.com
 DOMAIN,log.perfecttitspics.com
 DOMAIN,log.pinterest.com
-DOMAIN,log.plo.vn
 DOMAIN,log.popin.cc
 DOMAIN,log.prezi.com
 DOMAIN,log.propermessage.io
@@ -17405,7 +17402,6 @@ DOMAIN,m.admedia.com
 DOMAIN,m.adnxs.com
 DOMAIN,m.ads.sohu.com
 DOMAIN,m.adtiming.com
-DOMAIN,m.aduiz.com
 DOMAIN,m.adxpop.com
 DOMAIN,m.amazonappservices.com
 DOMAIN,m.analytics.126.net
@@ -20895,7 +20891,6 @@ DOMAIN,o.lenovo.com
 DOMAIN,o.medallia.com
 DOMAIN,o.minisplat.cn
 DOMAIN,o.mylifetime.com
-DOMAIN,o.nkwwpw.com
 DOMAIN,o.opentable.co.uk
 DOMAIN,o.opentable.com
 DOMAIN,o.phb123.com
@@ -22035,7 +22030,6 @@ DOMAIN,pic.bloggerads.net
 DOMAIN,pic.cnmo-img.com.cn
 DOMAIN,pic.dotmore.com.tw
 DOMAIN,pic.ea3w.com
-DOMAIN,pic.eduancm.com
 DOMAIN,pic.fastapi.net
 DOMAIN,pic.iask.cn
 DOMAIN,pic.jd-bbs.com
@@ -22298,7 +22292,6 @@ DOMAIN,plausible.pgmustard.com
 DOMAIN,plausible.phuctm97.com
 DOMAIN,plausible.play.date
 DOMAIN,plausible.prod.sketch.com
-DOMAIN,plausible.promlabs.com
 DOMAIN,plausible.rachel.systems
 DOMAIN,plausible.reactpreview.com
 DOMAIN,plausible.regex.help
@@ -22990,6 +22983,7 @@ DOMAIN,qc.coccoc.com
 DOMAIN,qc.coccoc.vn
 DOMAIN,qc.designervn.net
 DOMAIN,qc.japo.vn
+DOMAIN,qc.kqbd88.com
 DOMAIN,qc.violet.vn
 DOMAIN,qctt24h.24h.com.vn
 DOMAIN,qcv5.blogtruyen.vn
@@ -23678,7 +23672,6 @@ DOMAIN,rtb.com.ru
 DOMAIN,rtb.gumgum.com
 DOMAIN,rtb.mts.ru
 DOMAIN,rtb.pclick.yahoo.com
-DOMAIN,rtb.platform.glispa.com
 DOMAIN,rtb.softcube.com
 DOMAIN,rtbapi.douyucdn.cn
 DOMAIN,rtd.tubemogul.com
@@ -23964,7 +23957,6 @@ DOMAIN,s2.everydaygayporn.com
 DOMAIN,s2.hiapk.com
 DOMAIN,s2.huoying666.com
 DOMAIN,s2.kuaibaopay.com
-DOMAIN,s2.leshi123.cc
 DOMAIN,s2.play.estream.to
 DOMAIN,s2.play.estream.xyz
 DOMAIN,s2.play.vidzi.tv
@@ -25218,6 +25210,7 @@ DOMAIN,sf1-be-pack.pglstatp-toutiao.com
 DOMAIN,sf3-be-pack.pglstatp-toutiao.com
 DOMAIN,sf3-fe-tos.pglstatp-toutiao.com
 DOMAIN,sf6-be-pack.pglstatp-toutiao.com
+DOMAIN,sfads.osdn.com
 DOMAIN,sfajfu.boulanger.com
 DOMAIN,sfeedback.equabank.cz
 DOMAIN,sffyrc.ruparupa.com
@@ -27393,6 +27386,7 @@ DOMAIN,ssa.hgtv.com
 DOMAIN,ssa.stepstone.com
 DOMAIN,ssa.tlc.com
 DOMAIN,ssac.suning.com
+DOMAIN,ssads.osdn.com
 DOMAIN,ssb.ah499.com
 DOMAIN,ssb8.app.link
 DOMAIN,ssc.api.bbc.com
@@ -28210,7 +28204,6 @@ DOMAIN,stats.emmas.site
 DOMAIN,stats.engineering.freeagent.com
 DOMAIN,stats.englishadam.com
 DOMAIN,stats.epicurious.com
-DOMAIN,stats.ericgregorich.com
 DOMAIN,stats.examiner.com
 DOMAIN,stats.executebig.org
 DOMAIN,stats.fabiofranchino.com
@@ -29740,6 +29733,7 @@ DOMAIN,to.getnitropack.com
 DOMAIN,to.onlinelearningconsortium.org
 DOMAIN,toad.frontendmentor.io
 DOMAIN,toad.kubenews.net
+DOMAIN,toads.osdn.com
 DOMAIN,tob-cms.bj.bcebos.com
 DOMAIN,tobapplog.ctobsnssdk.com
 DOMAIN,toblog.ctobsnssdk.com
@@ -30233,6 +30227,7 @@ DOMAIN,track.elpais.com.uy
 DOMAIN,track.emeza.com
 DOMAIN,track.engagesciences.com
 DOMAIN,track.es.sitebro.net
+DOMAIN,track.exclusivecpa.com
 DOMAIN,track.flexlinks.com
 DOMAIN,track.flexlinkspro.com
 DOMAIN,track.hatena.ne.jp
@@ -30430,6 +30425,7 @@ DOMAIN,tracker.bannerflow.com
 DOMAIN,tracker.beezup.com
 DOMAIN,tracker.bestshopping.com
 DOMAIN,tracker.blutv.com
+DOMAIN,tracker.bongngo.bar
 DOMAIN,tracker.bonnint.net
 DOMAIN,tracker.brainsins.com
 DOMAIN,tracker.bt.uol.com.br
@@ -30451,6 +30447,7 @@ DOMAIN,tracker.euroweb.net
 DOMAIN,tracker.facey.com
 DOMAIN,tracker.fado.vn
 DOMAIN,tracker.giftd.ru
+DOMAIN,tracker.gigaphim.com
 DOMAIN,tracker.gold.org
 DOMAIN,tracker.icerocket.com
 DOMAIN,tracker.idocdn.com
@@ -30488,6 +30485,7 @@ DOMAIN,tracker.stats.in.th
 DOMAIN,tracker.stileo.it
 DOMAIN,tracker.swedish.org
 DOMAIN,tracker.tgbus.com
+DOMAIN,tracker.thichxemphim.net
 DOMAIN,tracker.thinkermail.com
 DOMAIN,tracker.thinkindot.com
 DOMAIN,tracker.timesgroup.com
@@ -32437,6 +32435,7 @@ DOMAIN,wm.makeding.com
 DOMAIN,wm.mipcdn.com
 DOMAIN,wm.szdushi.com.cn
 DOMAIN,wm.xunlaile.com
+DOMAIN,wmbd.gamersky.com
 DOMAIN,wmedia-track.uc.cn
 DOMAIN,wmeng.feihuadns.com
 DOMAIN,wmpmvk.whiskeyriff.com
@@ -33159,6 +33158,7 @@ DOMAIN,www91.intel.it
 DOMAIN,www91.intel.la
 DOMAIN,www91.intel.pl
 DOMAIN,www91.intel.ru
+DOMAIN,www99.bounceme.net
 DOMAIN,wwwf15.mitsubishielectric.co.jp
 DOMAIN,wwwimg.86sjx.com
 DOMAIN,wwwimg.baijiacn.com
