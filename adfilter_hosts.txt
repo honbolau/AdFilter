@@ -1,11 +1,11 @@
-# Checksum: MTYzMDYzMDcwMAo=
+# Checksum: MTYzMDcxNzE0Mgo=
 # Title: Zhijie's Ad Filter for AdAway (DNS-level)
 # Description: Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~
-# Version: 1.1.8-20210903-0
-# TimeUpdated: 2021-09-03T00:58:20+00:00
+# Version: 1.1.8-20210904-0
+# TimeUpdated: 2021-09-04T00:59:02+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/AdFilter
-# Total: 33738
+# Total: 33731
 # (DO NOT REMOVE)
 127.0.0.1 localhost
 255.255.255.255 broadcasthost
@@ -106,8 +106,6 @@ ff02::3 ip6-allhosts
 :: 1.feihua.com
 0.0.0.0 1.guyaheng.com
 :: 1.guyaheng.com
-0.0.0.0 1.hao123.com
-:: 1.hao123.com
 0.0.0.0 1.huilv.cc
 :: 1.huilv.cc
 0.0.0.0 1.huobiwang.cc
@@ -752,6 +750,8 @@ ff02::3 ip6-allhosts
 :: a.5ykj.com
 0.0.0.0 a.76674bdad304297eda3d325f449f6f49.com
 :: a.76674bdad304297eda3d325f449f6f49.com
+0.0.0.0 a.777n.com
+:: a.777n.com
 0.0.0.0 a.77shw.com
 :: a.77shw.com
 0.0.0.0 a.78yx.net
@@ -3714,8 +3714,6 @@ ff02::3 ip6-allhosts
 :: ad.reklamstore.com
 0.0.0.0 ad.repubblica.it
 :: ad.repubblica.it
-0.0.0.0 ad.reunion.com
-:: ad.reunion.com
 0.0.0.0 ad.reyazilim.com
 :: ad.reyazilim.com
 0.0.0.0 ad.scadnet.com
@@ -5864,6 +5862,8 @@ ff02::3 ip6-allhosts
 :: ads.opensubtitles.org
 0.0.0.0 ads.optusnet.com.au
 :: ads.optusnet.com.au
+0.0.0.0 ads.osdn.com
+:: ads.osdn.com
 0.0.0.0 ads.outpersonals.com
 :: ads.outpersonals.com
 0.0.0.0 ads.oxyshop.cz
@@ -6514,6 +6514,8 @@ ff02::3 ip6-allhosts
 :: ads2.net-communities.co.uk
 0.0.0.0 ads2.oneplace.com
 :: ads2.oneplace.com
+0.0.0.0 ads2.osdn.com
+:: ads2.osdn.com
 0.0.0.0 ads2.pbxware.ru
 :: ads2.pbxware.ru
 0.0.0.0 ads2.pittsburghlive.com
@@ -7014,6 +7016,8 @@ ff02::3 ip6-allhosts
 :: adserver.twitpic.com
 0.0.0.0 adserver.ubiyoo.com
 :: adserver.ubiyoo.com
+0.0.0.0 adserver.ugo.nl
+:: adserver.ugo.nl
 0.0.0.0 adserver.unityads.unity3d.com
 :: adserver.unityads.unity3d.com
 0.0.0.0 adserver.van.net
@@ -7818,8 +7822,6 @@ ff02::3 ip6-allhosts
 :: afp.zol-img.com.cn
 0.0.0.0 afpeng.alimama.com
 :: afpeng.alimama.com
-0.0.0.0 afpimages.eastday.com
-:: afpimages.eastday.com
 0.0.0.0 afpmm.alicdn.com
 :: afpmm.alicdn.com
 0.0.0.0 afpssp.alimama.com
@@ -11716,8 +11718,6 @@ ff02::3 ip6-allhosts
 :: bd1-china.6789.com
 0.0.0.0 bd1-china.xsfaya.com
 :: bd1-china.xsfaya.com
-0.0.0.0 bd1-ys.km.com
-:: bd1-ys.km.com
 0.0.0.0 bd1.365qilu.com
 :: bd1.365qilu.com
 0.0.0.0 bd1.52che.com
@@ -13486,8 +13486,6 @@ ff02::3 ip6-allhosts
 :: c2.zedo.com
 0.0.0.0 c2s.startappnetwork.com
 :: c2s.startappnetwork.com
-0.0.0.0 c2sw.wbmvohkn.cn
-:: c2sw.wbmvohkn.cn
 0.0.0.0 c3.gostats.cn
 :: c3.gostats.cn
 0.0.0.0 c3.moogos.com
@@ -14716,8 +14714,6 @@ ff02::3 ip6-allhosts
 :: ch0p.darty.com
 0.0.0.0 ch1-cor001.api.p001.1drv.com
 :: ch1-cor001.api.p001.1drv.com
-0.0.0.0 ch1-cor002.api.p001.1drv.com
-:: ch1-cor002.api.p001.1drv.com
 0.0.0.0 challengeh.carte-gr.total.fr
 :: challengeh.carte-gr.total.fr
 0.0.0.0 chanalytics.merchantadvantage.com
@@ -16970,8 +16966,6 @@ ff02::3 ip6-allhosts
 :: count.yandeg.ru
 0.0.0.0 count10.51yes.com
 :: count10.51yes.com
-0.0.0.0 count15.51yes.com
-:: count15.51yes.com
 0.0.0.0 count17.51yes.com
 :: count17.51yes.com
 0.0.0.0 count23.51yes.com
@@ -17000,8 +16994,6 @@ ff02::3 ip6-allhosts
 :: count45.51yes.com
 0.0.0.0 count48.51yes.com
 :: count48.51yes.com
-0.0.0.0 count5.51yes.com
-:: count5.51yes.com
 0.0.0.0 count5.pconline.com.cn
 :: count5.pconline.com.cn
 0.0.0.0 count50.51yes.com
@@ -17838,6 +17830,8 @@ ff02::3 ip6-allhosts
 :: cunda.prudsys-rde.de
 0.0.0.0 curated.fieldtest.cc
 :: curated.fieldtest.cc
+0.0.0.0 cursosobej.sslblindado.com
+:: cursosobej.sslblindado.com
 0.0.0.0 cust01-cucm-sub-01-cl9.int.net.daraz.com
 :: cust01-cucm-sub-01-cl9.int.net.daraz.com
 0.0.0.0 cust01-cucm-sub-07-cl9.int.net.daraz.com
@@ -21914,8 +21908,6 @@ ff02::3 ip6-allhosts
 :: ec2-34-202-192-87.compute-1.amazonaws.com
 0.0.0.0 ec2-44-233-143-239.us-west-2.compute.amazonaws.com
 :: ec2-44-233-143-239.us-west-2.compute.amazonaws.com
-0.0.0.0 ecard.shenzhentong.com
-:: ecard.shenzhentong.com
 0.0.0.0 ecctjf.leroymerlin.com.br
 :: ecctjf.leroymerlin.com.br
 0.0.0.0 ecestats.theglobeandmail.com
@@ -24082,6 +24074,8 @@ ff02::3 ip6-allhosts
 :: fm.p0y.cn
 0.0.0.0 fm.qzone.qq.com
 :: fm.qzone.qq.com
+0.0.0.0 fmads.osdn.com
+:: fmads.osdn.com
 0.0.0.0 fmbankva.actonservice.com
 :: fmbankva.actonservice.com
 0.0.0.0 fmg.aty.sohu.com
@@ -24386,8 +24380,6 @@ ff02::3 ip6-allhosts
 :: freenetflix.dlcodes.com
 0.0.0.0 freepsncodes.deephack.com
 :: freepsncodes.deephack.com
-0.0.0.0 freesteamcodes.gripbuilds.com
-:: freesteamcodes.gripbuilds.com
 0.0.0.0 freexxxvideoclip.aebn.net
 :: freexxxvideoclip.aebn.net
 0.0.0.0 frenchgerleman.actonservice.com
@@ -25062,6 +25054,8 @@ ff02::3 ip6-allhosts
 :: geo.xcel.io
 0.0.0.0 geo.yahoo.com
 :: geo.yahoo.com
+0.0.0.0 geoads.osdn.com
+:: geoads.osdn.com
 0.0.0.0 geoapi123.appspot.com
 :: geoapi123.appspot.com
 0.0.0.0 geobanner.adultfriendfinder.com
@@ -28266,8 +28260,6 @@ ff02::3 ip6-allhosts
 :: hcqyek.miuz.ru
 0.0.0.0 hd.browser.miui.com
 :: hd.browser.miui.com
-0.0.0.0 hd.hupu.com
-:: hd.hupu.com
 0.0.0.0 hd.pe.fr
 :: hd.pe.fr
 0.0.0.0 hd2.3g.qq.com
@@ -31744,8 +31736,6 @@ ff02::3 ip6-allhosts
 :: jb.asqql.com
 0.0.0.0 jb.ecar168.cn
 :: jb.ecar168.cn
-0.0.0.0 jb.mbaidu.top
-:: jb.mbaidu.top
 0.0.0.0 jbbljg.autoscout24.bg
 :: jbbljg.autoscout24.bg
 0.0.0.0 jbeet.cjt1.net
@@ -32012,8 +32002,6 @@ ff02::3 ip6-allhosts
 :: jrlt.beacon.qq.com
 0.0.0.0 jropij.minelli.fr
 :: jropij.minelli.fr
-0.0.0.0 jrpt.jrptweb.org
-:: jrpt.jrptweb.org
 0.0.0.0 js-1.pchome.net
 :: js-1.pchome.net
 0.0.0.0 js-apac-ss.ysm.yahoo.com
@@ -32474,6 +32462,8 @@ ff02::3 ip6-allhosts
 :: k3vzn.flx10.com
 0.0.0.0 k4fu.verif.com
 :: k4fu.verif.com
+0.0.0.0 k5ads.osdn.com
+:: k5ads.osdn.com
 0.0.0.0 k8s-dev.nfreya.net.daraz.com
 :: k8s-dev.nfreya.net.daraz.com
 0.0.0.0 k8s-dev.summer.net.daraz.com
@@ -33844,6 +33834,8 @@ ff02::3 ip6-allhosts
 :: lmwap.awtks.com
 0.0.0.0 ln.ameba.jp
 :: ln.ameba.jp
+0.0.0.0 lnads.osdn.com
+:: lnads.osdn.com
 0.0.0.0 lndnserror6.wo.com.cn
 :: lndnserror6.wo.com.cn
 0.0.0.0 lndnserror7.wo.com.cn
@@ -35168,8 +35160,6 @@ ff02::3 ip6-allhosts
 :: m.xsjjjc.cn
 0.0.0.0 m.xt2d.cn
 :: m.xt2d.cn
-0.0.0.0 m.y195j.cn
-:: m.y195j.cn
 0.0.0.0 m.yalayi.com
 :: m.yalayi.com
 0.0.0.0 m.yanjunbo.com
@@ -42982,8 +42972,6 @@ ff02::3 ip6-allhosts
 :: p.profistats.net
 0.0.0.0 p.qfmzys.com
 :: p.qfmzys.com
-0.0.0.0 p.qlogo.cn
-:: p.qlogo.cn
 0.0.0.0 p.raasnet.com
 :: p.raasnet.com
 0.0.0.0 p.raidmedia.com.cn
@@ -62270,8 +62258,6 @@ ff02::3 ip6-allhosts
 :: turtlemobile.com.tw
 0.0.0.0 tusawd.orto.su
 :: tusawd.orto.su
-0.0.0.0 tut.prosmotrov.net
-:: tut.prosmotrov.net
 0.0.0.0 tuxi.com.cn
 :: tuxi.com.cn
 0.0.0.0 tv.code.jjyx.com
@@ -63116,8 +63102,6 @@ ff02::3 ip6-allhosts
 :: v.gdt.qq.com
 0.0.0.0 v.heygugu.com
 :: v.heygugu.com
-0.0.0.0 v.jinliaoyang.com
-:: v.jinliaoyang.com
 0.0.0.0 v.jsbgh.cn
 :: v.jsbgh.cn
 0.0.0.0 v.jumorecn.com.cn
@@ -64558,6 +64542,8 @@ ff02::3 ip6-allhosts
 :: webwise.bt.com
 0.0.0.0 weby.aaas.org
 :: weby.aaas.org
+0.0.0.0 weebvivian72.uk.to
+:: weebvivian72.uk.to
 0.0.0.0 weidenhammer.actonservice.com
 :: weidenhammer.actonservice.com
 0.0.0.0 weight-loss.1.p2l.info
