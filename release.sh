@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current Version: 1.1.9
+# Current Version: 1.2.0
 
 ## How to get and use?
 # git clone "https://github.com/hezhijie0327/AdFilter.git" && bash ./AdFilter/release.sh
@@ -184,7 +184,7 @@ function GenerateInformation() {
     adfilter_homepage="https://github.com/hezhijie0327/AdFilter"
     adfilter_timeupdated=$(date -d @$(echo "${adfilter_checksum}" | base64 -d) "+%Y-%m-%dT%H:%M:%S%:z")
     adfilter_title="Zhijie's Ad Filter"
-    adfilter_total=$(sed -n '$=' ./checklist.tmp)
+    adfilter_total=$(sed -n '$=' ./filter_data.tmp)
     adfilter_version=$(curl -s --connect-timeout 15 "https://raw.githubusercontent.com/hezhijie0327/AdFilter/source/release.sh" | grep "Current\ Version" | sed "s/\#\ Current\ Version\:\ //g")-$(date -d @$(echo "${adfilter_checksum}" | base64 -d) "+%Y%m%d")-$((10#$(date -d @$(echo "${adfilter_checksum}" | base64 -d) "+%H") / 3))
     function adfilter_adblock() {
         echo "! Checksum: ${adfilter_checksum}" > ../adfilter_adblock.txt
@@ -330,8 +330,8 @@ function OutputData() {
         cd .. && rm -rf ./Temp
         exit 0
     else
-        cat ../adfilter_domains.txt | head -n $(sed -n '$=' ../adfilter_domains.txt) | tail -n +9 > ./checklist.old
-        if [ "$(diff ./checklist.tmp ./checklist.old)" == "" ]; then
+        cat ../adfilter_domains.txt | head -n $(sed -n '$=' ../adfilter_domains.txt) | tail -n +9 > ./filter_data.old
+        if [ "$(diff ./filter_data.tmp ./filter_data.old)" == "" ]; then
             cd .. && rm -rf ./Temp
             exit 0
         else
