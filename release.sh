@@ -179,13 +179,13 @@ function AnalyseData() {
 # Generate Information
 function GenerateInformation() {
     adfilter_checksum=$(date "+%s" | base64)
-    adfilter_description="Filter composed of several other filters can block ads from websites (especially Chinese websites); it can also improve privacy and security. Hey buddy, enjoy your fantastic web surfing experience~"
-    adfilter_expires="3 hours (update frequency)"
-    adfilter_homepage="https://github.com/hezhijie0327/AdFilter"
+    adfilter_description="由其他几个过滤器组成的过滤器可以拦截来自网站的广告"
+    adfilter_expires="3小时(更新频率)"
+    adfilter_homepage="https://github.com/honbolau/AdFilter"
     adfilter_timeupdated=$(date -d @$(echo "${adfilter_checksum}" | base64 -d) "+%Y-%m-%dT%H:%M:%S%:z")
-    adfilter_title="Zhijie's Ad Filter"
+    adfilter_title="Ad Filter"
     adfilter_total=$(sed -n '$=' ./filter_data.tmp)
-    adfilter_version=$(curl -s --connect-timeout 15 "https://raw.githubusercontent.com/hezhijie0327/AdFilter/source/release.sh" | grep "Current\ Version" | sed "s/\#\ Current\ Version\:\ //g")-$(date -d @$(echo "${adfilter_checksum}" | base64 -d) "+%Y%m%d")-$((10#$(date -d @$(echo "${adfilter_checksum}" | base64 -d) "+%H") / 3))
+    adfilter_version=$(curl -s --connect-timeout 15 "https://raw.githubusercontent.com/honbolau/AdFilter/source/release.sh" | grep "Current\ Version" | sed "s/\#\ Current\ Version\:\ //g")-$(date -d @$(echo "${adfilter_checksum}" | base64 -d) "+%Y%m%d")-$((10#$(date -d @$(echo "${adfilter_checksum}" | base64 -d) "+%H") / 3))
     function adfilter_adblock() {
         echo "! Checksum: ${adfilter_checksum}" > ../adfilter_adblock.txt
         echo "! Title: ${adfilter_title} for Adblock (WEB-level)" >> ../adfilter_adblock.txt
