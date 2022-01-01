@@ -1,17 +1,18 @@
-# Checksum: MTY0MDkyOTYwOAo=
+# Checksum: MTY0MDk5ODI3OAo=
 # Title: Ad Filter for Quantumult (DNS-level)
 # Description: 由其他几个过滤器组成的过滤器可以拦截来自网站的广告
-# Version: 1.2.1-20211231-1
-# TimeUpdated: 2021-12-31T05:46:48+00:00
+# Version: 1.2.1-20220101-0
+# TimeUpdated: 2022-01-01T00:51:18+00:00
 # Expires: 3小时(更新频率)
 # Homepage: https://github.com/honbolau/AdFilter
-# Total: 113313
+# Total: 113321
 DOMAIN,0-132.net.daraz.com,REJECT
 DOMAIN,0.nextyourcontent.com,REJECT
 DOMAIN,0.oldgyhogola.com,REJECT
 DOMAIN,0.r.msn.com,REJECT
 DOMAIN,0.up.qingdaonews.com,REJECT
 DOMAIN,00-gov.cn,REJECT
+DOMAIN,000.0x1f4b0.com,REJECT
 DOMAIN,0001.best,REJECT
 DOMAIN,000123456789.online,REJECT
 DOMAIN,000123456789.site,REJECT
@@ -276,7 +277,6 @@ DOMAIN,0x1f4b0.com,REJECT
 DOMAIN,0x5.me,REJECT
 DOMAIN,0xiaoshuo.com,REJECT
 DOMAIN,0xxd.com,REJECT
-DOMAIN,1-1ads.com,REJECT
 DOMAIN,1-242.net.daraz.com,REJECT
 DOMAIN,1-aadministratortrologie.net.daraz.com,REJECT
 DOMAIN,1-asauthorizationologie.net.daraz.com,REJECT
@@ -20895,6 +20895,7 @@ DOMAIN,c.qhruisen.cn,REJECT
 DOMAIN,c.qhruixin.cn,REJECT
 DOMAIN,c.qiyou.com,REJECT
 DOMAIN,c.queene.cn,REJECT
+DOMAIN,c.qv566.cn,REJECT
 DOMAIN,c.r9uqp.cn,REJECT
 DOMAIN,c.rexuebi.com,REJECT
 DOMAIN,c.rhapsody.com,REJECT
@@ -23241,6 +23242,7 @@ DOMAIN,checkboxcart.com,REJECT
 DOMAIN,checkboxfee.com,REJECT
 DOMAIN,checkchick4u.org,REJECT
 DOMAIN,checkcsgo.com,REJECT
+DOMAIN,checke.biz,REJECT
 DOMAIN,checkeffect.at,REJECT
 DOMAIN,checkerskins.com,REJECT
 DOMAIN,checkfreevideos.net,REJECT
@@ -29355,7 +29357,6 @@ DOMAIN,d28a863f16.a6dbb52634.com,REJECT
 DOMAIN,d28g1fhp6rn9w3.cloudfront.net,REJECT
 DOMAIN,d28g9g3vb08y70.cloudfront.net,REJECT
 DOMAIN,d28k9nkt2spnp.cloudfront.net,REJECT
-DOMAIN,d28n7yywqog3r7.cloudfront.net,REJECT
 DOMAIN,d28s7kbgrs6h2f.cloudfront.net,REJECT
 DOMAIN,d28wlxclbkz49x.cloudfront.net,REJECT
 DOMAIN,d29dbajta0the9.cloudfront.net,REJECT
@@ -30962,7 +30963,6 @@ DOMAIN,delivery.vtc.vn,REJECT
 DOMAIN,delivery.vtcnew.com.vn,REJECT
 DOMAIN,delivery.w00tads.com,REJECT
 DOMAIN,delivery.wasu.cn,REJECT
-DOMAIN,delivery.yeah1media.vn,REJECT
 DOMAIN,delivery.yomedia.vn,REJECT
 DOMAIN,delivery03.ad4game.com,REJECT
 DOMAIN,delivery04.ad4game.com,REJECT
@@ -41682,6 +41682,7 @@ DOMAIN,ga.kvideo.io,REJECT
 DOMAIN,ga.nsimg.net,REJECT
 DOMAIN,ga.webdigi.co.uk,REJECT
 DOMAIN,ga1.3dmgame.com,REJECT
+DOMAIN,ga2.3dmgame.com,REJECT
 DOMAIN,ga87z2o.com,REJECT
 DOMAIN,gaandroid.talkingdata.net,REJECT
 DOMAIN,gabbleplacidcelery.com,REJECT
@@ -46339,6 +46340,7 @@ DOMAIN,gygdmy.com,REJECT
 DOMAIN,gyh1lh20owj.ru,REJECT
 DOMAIN,gyluheshy.com,REJECT
 DOMAIN,gynax.com,REJECT
+DOMAIN,gypsiedjilt.com,REJECT
 DOMAIN,gyrivehmic.com,REJECT
 DOMAIN,gyro-n.com,REJECT
 DOMAIN,gyros.es,REJECT
@@ -53741,6 +53743,7 @@ DOMAIN,jlhygy.com,REJECT
 DOMAIN,jlijten.nl,REJECT
 DOMAIN,jljnh.top,REJECT
 DOMAIN,jljspx.com,REJECT
+DOMAIN,jljxwlkjw.com,REJECT
 DOMAIN,jlklnwmj.com,REJECT
 DOMAIN,jln3.clstudios.com,REJECT
 DOMAIN,jlpbyt.com,REJECT
@@ -67108,6 +67111,7 @@ DOMAIN,mykinotochka.ru,REJECT
 DOMAIN,mylifeblog24.ru,REJECT
 DOMAIN,mylike.co.uk,REJECT
 DOMAIN,mylikechat.com,REJECT
+DOMAIN,myline1.club,REJECT
 DOMAIN,mylink-today.com,REJECT
 DOMAIN,mylinkbox.com,REJECT
 DOMAIN,mylitebro.com,REJECT
@@ -73772,7 +73776,6 @@ DOMAIN,photo.ofsja.cn,REJECT
 DOMAIN,photo.qianerbai.cn,REJECT
 DOMAIN,photo.rdguj.cn,REJECT
 DOMAIN,photo.shyexiang.cn,REJECT
-DOMAIN,photo.tmrmixer.cn,REJECT
 DOMAIN,photo.tycwpx.cn,REJECT
 DOMAIN,photo.welldex.cn,REJECT
 DOMAIN,photo.whwestern.cn,REJECT
@@ -78351,6 +78354,7 @@ DOMAIN,quxiandu.com,REJECT
 DOMAIN,quxiangkeji.cn,REJECT
 DOMAIN,quyaoya.com,REJECT
 DOMAIN,quzhizhongye.top,REJECT
+DOMAIN,qv566.cn,REJECT
 DOMAIN,qvcwklhelpk.xyz,REJECT
 DOMAIN,qveyyi.clarivate.com,REJECT
 DOMAIN,qvi0.ru,REJECT
@@ -78999,7 +79003,6 @@ DOMAIN,rdwdwmli.xyz,REJECT
 DOMAIN,rdwued.g-star.com,REJECT
 DOMAIN,rdx.autohome.com.cn,REJECT
 DOMAIN,re-cherche.com,REJECT
-DOMAIN,re-directme.com,REJECT
 DOMAIN,re.ghc-j.com,REJECT
 DOMAIN,re.m.taobao.com,REJECT
 DOMAIN,re.rutan.org,REJECT
@@ -94508,6 +94511,7 @@ DOMAIN,tgtag.io,REJECT
 DOMAIN,tgtgzo.otelz.com,REJECT
 DOMAIN,tgtmedia.com,REJECT
 DOMAIN,tgtvbngp.ru,REJECT
+DOMAIN,tguomcq.cn,REJECT
 DOMAIN,tguxiijalpaoggr.xyz,REJECT
 DOMAIN,tgvbwjbnxz.com,REJECT
 DOMAIN,tgvrfc4.com,REJECT
@@ -98257,7 +98261,6 @@ DOMAIN,trk.e.underarmour.com,REJECT
 DOMAIN,trk.en.business.westernunion.at,REJECT
 DOMAIN,trk.en.business.westernunion.ch,REJECT
 DOMAIN,trk.en.business.westernunion.fr,REJECT
-DOMAIN,trk.enemy-adult-scared-there.xyz,REJECT
 DOMAIN,trk.fensi.plus,REJECT
 DOMAIN,trk.fintechfutures.com,REJECT
 DOMAIN,trk.freepik.com,REJECT
@@ -99038,6 +99041,7 @@ DOMAIN,tykor.net,REJECT
 DOMAIN,tylertonedwardsport.com,REJECT
 DOMAIN,tylistedpro.xyz,REJECT
 DOMAIN,tylll.com,REJECT
+DOMAIN,tylosischewer.com,REJECT
 DOMAIN,tynezozi.com,REJECT
 DOMAIN,tynt.com,REJECT
 DOMAIN,tynyh.com,REJECT
@@ -100808,6 +100812,7 @@ DOMAIN,v.pwfhjjh.cn,REJECT
 DOMAIN,v.qhruisen.cn,REJECT
 DOMAIN,v.qhruixin.cn,REJECT
 DOMAIN,v.qudwrj.cn,REJECT
+DOMAIN,v.qv566.cn,REJECT
 DOMAIN,v.rmbn.net,REJECT
 DOMAIN,v.rssnzw.cn,REJECT
 DOMAIN,v.rxconkz.cn,REJECT
@@ -105907,6 +105912,7 @@ DOMAIN,www.0551zgz.com,REJECT
 DOMAIN,www.0757kd.cn,REJECT
 DOMAIN,www.07634.com,REJECT
 DOMAIN,www.0pengl.com,REJECT
+DOMAIN,www.1-1ads.com,REJECT
 DOMAIN,www.1-cl0ud.com,REJECT
 DOMAIN,www.1.cpanel.net,REJECT
 DOMAIN,www.100-flannelman.com,REJECT
@@ -106049,6 +106055,7 @@ DOMAIN,www.849558.com,REJECT
 DOMAIN,www.86kx.com,REJECT
 DOMAIN,www.878090.com,REJECT
 DOMAIN,www.888.com,REJECT
+DOMAIN,www.88888888888888886666666666666.com,REJECT
 DOMAIN,www.888zr022.com,REJECT
 DOMAIN,www.88cncc.com,REJECT
 DOMAIN,www.88infra-strat.com,REJECT
@@ -107772,7 +107779,6 @@ DOMAIN,www.peterfishwick.free-online.co.uk,REJECT
 DOMAIN,www.pfhsystem.com,REJECT
 DOMAIN,www.pflexads.com,REJECT
 DOMAIN,www.photo-ads.co.uk,REJECT
-DOMAIN,www.pi920.com,REJECT
 DOMAIN,www.pigvideo.cn,REJECT
 DOMAIN,www.pigvideo.com.cn,REJECT
 DOMAIN,www.pikacn.com,REJECT
@@ -109565,6 +109571,7 @@ DOMAIN,xavua.com,REJECT
 DOMAIN,xawab.com,REJECT
 DOMAIN,xawsnngjljanxof.su,REJECT
 DOMAIN,xaxaxa.ovh,REJECT
+DOMAIN,xaxdwz.xyz,REJECT
 DOMAIN,xaxis.com,REJECT
 DOMAIN,xaxivaho.com,REJECT
 DOMAIN,xaxo.xyz,REJECT
@@ -109742,6 +109749,7 @@ DOMAIN,xebadu.com,REJECT
 DOMAIN,xecbvdgmwsh.com,REJECT
 DOMAIN,xeclick.com,REJECT
 DOMAIN,xecode.host,REJECT
+DOMAIN,xedo.me,REJECT
 DOMAIN,xeemcol.com,REJECT
 DOMAIN,xegroxenu.com,REJECT
 DOMAIN,xehcnpvqdicvx.com,REJECT
@@ -111930,7 +111938,6 @@ DOMAIN,yunl1.com,REJECT
 DOMAIN,yunluge.com,REJECT
 DOMAIN,yunmowu.com,REJECT
 DOMAIN,yunnanpulasi.com,REJECT
-DOMAIN,yunos.com,REJECT
 DOMAIN,yunpifu.cn,REJECT
 DOMAIN,yunrong360.com,REJECT
 DOMAIN,yunsennet.com,REJECT
@@ -112494,6 +112501,7 @@ DOMAIN,zgxieshou.com,REJECT
 DOMAIN,zgxrht.com,REJECT
 DOMAIN,zgyemy.com,REJECT
 DOMAIN,zgyiyi.com,REJECT
+DOMAIN,zgyso.cn,REJECT
 DOMAIN,zgystsd.com,REJECT
 DOMAIN,zgzxs.weathercn.com,REJECT
 DOMAIN,zh.jktopia.com,REJECT

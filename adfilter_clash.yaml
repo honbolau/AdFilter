@@ -1,18 +1,19 @@
 payload:
-# Checksum: MTY0MDkyOTYwOAo=
+# Checksum: MTY0MDk5ODI3OAo=
 # Title: Ad Filter for Clash (DNS-level)
 # Description: 由其他几个过滤器组成的过滤器可以拦截来自网站的广告
-# Version: 1.2.1-20211231-1
-# TimeUpdated: 2021-12-31T05:46:48+00:00
+# Version: 1.2.1-20220101-0
+# TimeUpdated: 2022-01-01T00:51:18+00:00
 # Expires: 3小时(更新频率)
 # Homepage: https://github.com/honbolau/AdFilter
-# Total: 113313
+# Total: 113321
   - DOMAIN,0-132.net.daraz.com
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.oldgyhogola.com
   - DOMAIN,0.r.msn.com
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,00-gov.cn
+  - DOMAIN,000.0x1f4b0.com
   - DOMAIN,0001.best
   - DOMAIN,000123456789.online
   - DOMAIN,000123456789.site
@@ -277,7 +278,6 @@ payload:
   - DOMAIN,0x5.me
   - DOMAIN,0xiaoshuo.com
   - DOMAIN,0xxd.com
-  - DOMAIN,1-1ads.com
   - DOMAIN,1-242.net.daraz.com
   - DOMAIN,1-aadministratortrologie.net.daraz.com
   - DOMAIN,1-asauthorizationologie.net.daraz.com
@@ -20896,6 +20896,7 @@ payload:
   - DOMAIN,c.qhruixin.cn
   - DOMAIN,c.qiyou.com
   - DOMAIN,c.queene.cn
+  - DOMAIN,c.qv566.cn
   - DOMAIN,c.r9uqp.cn
   - DOMAIN,c.rexuebi.com
   - DOMAIN,c.rhapsody.com
@@ -23242,6 +23243,7 @@ payload:
   - DOMAIN,checkboxfee.com
   - DOMAIN,checkchick4u.org
   - DOMAIN,checkcsgo.com
+  - DOMAIN,checke.biz
   - DOMAIN,checkeffect.at
   - DOMAIN,checkerskins.com
   - DOMAIN,checkfreevideos.net
@@ -29356,7 +29358,6 @@ payload:
   - DOMAIN,d28g1fhp6rn9w3.cloudfront.net
   - DOMAIN,d28g9g3vb08y70.cloudfront.net
   - DOMAIN,d28k9nkt2spnp.cloudfront.net
-  - DOMAIN,d28n7yywqog3r7.cloudfront.net
   - DOMAIN,d28s7kbgrs6h2f.cloudfront.net
   - DOMAIN,d28wlxclbkz49x.cloudfront.net
   - DOMAIN,d29dbajta0the9.cloudfront.net
@@ -30963,7 +30964,6 @@ payload:
   - DOMAIN,delivery.vtcnew.com.vn
   - DOMAIN,delivery.w00tads.com
   - DOMAIN,delivery.wasu.cn
-  - DOMAIN,delivery.yeah1media.vn
   - DOMAIN,delivery.yomedia.vn
   - DOMAIN,delivery03.ad4game.com
   - DOMAIN,delivery04.ad4game.com
@@ -41683,6 +41683,7 @@ payload:
   - DOMAIN,ga.nsimg.net
   - DOMAIN,ga.webdigi.co.uk
   - DOMAIN,ga1.3dmgame.com
+  - DOMAIN,ga2.3dmgame.com
   - DOMAIN,ga87z2o.com
   - DOMAIN,gaandroid.talkingdata.net
   - DOMAIN,gabbleplacidcelery.com
@@ -46340,6 +46341,7 @@ payload:
   - DOMAIN,gyh1lh20owj.ru
   - DOMAIN,gyluheshy.com
   - DOMAIN,gynax.com
+  - DOMAIN,gypsiedjilt.com
   - DOMAIN,gyrivehmic.com
   - DOMAIN,gyro-n.com
   - DOMAIN,gyros.es
@@ -53742,6 +53744,7 @@ payload:
   - DOMAIN,jlijten.nl
   - DOMAIN,jljnh.top
   - DOMAIN,jljspx.com
+  - DOMAIN,jljxwlkjw.com
   - DOMAIN,jlklnwmj.com
   - DOMAIN,jln3.clstudios.com
   - DOMAIN,jlpbyt.com
@@ -67109,6 +67112,7 @@ payload:
   - DOMAIN,mylifeblog24.ru
   - DOMAIN,mylike.co.uk
   - DOMAIN,mylikechat.com
+  - DOMAIN,myline1.club
   - DOMAIN,mylink-today.com
   - DOMAIN,mylinkbox.com
   - DOMAIN,mylitebro.com
@@ -73773,7 +73777,6 @@ payload:
   - DOMAIN,photo.qianerbai.cn
   - DOMAIN,photo.rdguj.cn
   - DOMAIN,photo.shyexiang.cn
-  - DOMAIN,photo.tmrmixer.cn
   - DOMAIN,photo.tycwpx.cn
   - DOMAIN,photo.welldex.cn
   - DOMAIN,photo.whwestern.cn
@@ -78352,6 +78355,7 @@ payload:
   - DOMAIN,quxiangkeji.cn
   - DOMAIN,quyaoya.com
   - DOMAIN,quzhizhongye.top
+  - DOMAIN,qv566.cn
   - DOMAIN,qvcwklhelpk.xyz
   - DOMAIN,qveyyi.clarivate.com
   - DOMAIN,qvi0.ru
@@ -79000,7 +79004,6 @@ payload:
   - DOMAIN,rdwued.g-star.com
   - DOMAIN,rdx.autohome.com.cn
   - DOMAIN,re-cherche.com
-  - DOMAIN,re-directme.com
   - DOMAIN,re.ghc-j.com
   - DOMAIN,re.m.taobao.com
   - DOMAIN,re.rutan.org
@@ -94509,6 +94512,7 @@ payload:
   - DOMAIN,tgtgzo.otelz.com
   - DOMAIN,tgtmedia.com
   - DOMAIN,tgtvbngp.ru
+  - DOMAIN,tguomcq.cn
   - DOMAIN,tguxiijalpaoggr.xyz
   - DOMAIN,tgvbwjbnxz.com
   - DOMAIN,tgvrfc4.com
@@ -98258,7 +98262,6 @@ payload:
   - DOMAIN,trk.en.business.westernunion.at
   - DOMAIN,trk.en.business.westernunion.ch
   - DOMAIN,trk.en.business.westernunion.fr
-  - DOMAIN,trk.enemy-adult-scared-there.xyz
   - DOMAIN,trk.fensi.plus
   - DOMAIN,trk.fintechfutures.com
   - DOMAIN,trk.freepik.com
@@ -99039,6 +99042,7 @@ payload:
   - DOMAIN,tylertonedwardsport.com
   - DOMAIN,tylistedpro.xyz
   - DOMAIN,tylll.com
+  - DOMAIN,tylosischewer.com
   - DOMAIN,tynezozi.com
   - DOMAIN,tynt.com
   - DOMAIN,tynyh.com
@@ -100809,6 +100813,7 @@ payload:
   - DOMAIN,v.qhruisen.cn
   - DOMAIN,v.qhruixin.cn
   - DOMAIN,v.qudwrj.cn
+  - DOMAIN,v.qv566.cn
   - DOMAIN,v.rmbn.net
   - DOMAIN,v.rssnzw.cn
   - DOMAIN,v.rxconkz.cn
@@ -105908,6 +105913,7 @@ payload:
   - DOMAIN,www.0757kd.cn
   - DOMAIN,www.07634.com
   - DOMAIN,www.0pengl.com
+  - DOMAIN,www.1-1ads.com
   - DOMAIN,www.1-cl0ud.com
   - DOMAIN,www.1.cpanel.net
   - DOMAIN,www.100-flannelman.com
@@ -106050,6 +106056,7 @@ payload:
   - DOMAIN,www.86kx.com
   - DOMAIN,www.878090.com
   - DOMAIN,www.888.com
+  - DOMAIN,www.88888888888888886666666666666.com
   - DOMAIN,www.888zr022.com
   - DOMAIN,www.88cncc.com
   - DOMAIN,www.88infra-strat.com
@@ -107773,7 +107780,6 @@ payload:
   - DOMAIN,www.pfhsystem.com
   - DOMAIN,www.pflexads.com
   - DOMAIN,www.photo-ads.co.uk
-  - DOMAIN,www.pi920.com
   - DOMAIN,www.pigvideo.cn
   - DOMAIN,www.pigvideo.com.cn
   - DOMAIN,www.pikacn.com
@@ -109566,6 +109572,7 @@ payload:
   - DOMAIN,xawab.com
   - DOMAIN,xawsnngjljanxof.su
   - DOMAIN,xaxaxa.ovh
+  - DOMAIN,xaxdwz.xyz
   - DOMAIN,xaxis.com
   - DOMAIN,xaxivaho.com
   - DOMAIN,xaxo.xyz
@@ -109743,6 +109750,7 @@ payload:
   - DOMAIN,xecbvdgmwsh.com
   - DOMAIN,xeclick.com
   - DOMAIN,xecode.host
+  - DOMAIN,xedo.me
   - DOMAIN,xeemcol.com
   - DOMAIN,xegroxenu.com
   - DOMAIN,xehcnpvqdicvx.com
@@ -111931,7 +111939,6 @@ payload:
   - DOMAIN,yunluge.com
   - DOMAIN,yunmowu.com
   - DOMAIN,yunnanpulasi.com
-  - DOMAIN,yunos.com
   - DOMAIN,yunpifu.cn
   - DOMAIN,yunrong360.com
   - DOMAIN,yunsennet.com
@@ -112495,6 +112502,7 @@ payload:
   - DOMAIN,zgxrht.com
   - DOMAIN,zgyemy.com
   - DOMAIN,zgyiyi.com
+  - DOMAIN,zgyso.cn
   - DOMAIN,zgystsd.com
   - DOMAIN,zgzxs.weathercn.com
   - DOMAIN,zh.jktopia.com
